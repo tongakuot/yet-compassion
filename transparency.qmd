@@ -1,0 +1,170 @@
+---
+title: "Financial Transparency"
+description: "Y.E.T. Compassion is committed to financial transparency and accountability in stewarding every donation."
+toc: false
+page-layout: custom
+---
+
+```{=html}
+<!-- ═══════════════════════════════════════════════ -->
+<!-- HERO SECTION                                    -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 50%, #2B2B2B 100%); padding: 3.5rem 1.5rem; position: relative; overflow: hidden;">
+  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23C9A227%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
+
+  <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: left;">
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #C9A227; margin-bottom: 1rem;">Accountability</p>
+
+    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.25rem;">
+      Financial <span style="color: #C9A227;">Transparency</span>
+    </h1>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 620px;">
+      Every dollar entrusted to us is a sacred responsibility. We are committed to full financial transparency with our donors, partners, and community.
+    </p>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- HOW DONATIONS ARE USED                          -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 900px; margin: 0 auto;">
+    <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+      <div style="width: 4px; height: 28px; background: #1F5E3B; border-radius: 2px;"></div>
+      <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #2B2B2B; margin: 0;">How Your Donations Are Used</h2>
+    </div>
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.7; margin-bottom: 2rem;">
+      We strive to ensure that the maximum possible portion of every donation goes directly to our programs and the communities we serve.
+    </p>
+
+    <!-- Three Category Cards -->
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;">
+      <div style="background: #F7F6F2; border-radius: 12px; padding: 2rem 1.5rem; text-align: center; border-top: 4px solid #1F5E3B;">
+        <div style="width: 52px; height: 52px; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); border-radius: 12px; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.25rem;">
+          <svg width="24" height="24" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        </div>
+        <h3 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.2rem; font-weight: 700; color: #1F5E3B; margin-bottom: 0.75rem;">Program Services</h3>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #5A5955; line-height: 1.6; margin: 0;">
+          Direct funding for youth evangelism, leadership development, family empowerment, community building, and homeland engagement.
+        </p>
+      </div>
+
+      <div style="background: #F7F6F2; border-radius: 12px; padding: 2rem 1.5rem; text-align: center; border-top: 4px solid #3A7CA5;">
+        <div style="width: 52px; height: 52px; background: linear-gradient(135deg, #3A7CA5, #4A92BF); border-radius: 12px; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.25rem;">
+          <svg width="24" height="24" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg>
+        </div>
+        <h3 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.2rem; font-weight: 700; color: #3A7CA5; margin-bottom: 0.75rem;">Administration</h3>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #5A5955; line-height: 1.6; margin: 0;">
+          Organizational operations, governance, compliance, and financial management.
+        </p>
+      </div>
+
+      <div style="background: #F7F6F2; border-radius: 12px; padding: 2rem 1.5rem; text-align: center; border-top: 4px solid #C9A227;">
+        <div style="width: 52px; height: 52px; background: linear-gradient(135deg, #C9A227, #D4B44A); border-radius: 12px; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.25rem;">
+          <svg width="24" height="24" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+        </div>
+        <h3 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.2rem; font-weight: 700; color: #C9A227; margin-bottom: 0.75rem;">Fundraising</h3>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #5A5955; line-height: 1.6; margin: 0;">
+          Donor communication, outreach, and partnership development.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- SCRIPTURE DIVIDER                               -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #1F5E3B; padding: 2.5rem 1.5rem;">
+  <div style="max-width: 700px; margin: 0 auto; text-align: center;">
+    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: clamp(1.15rem, 2.5vw, 1.4rem); font-style: italic; color: rgba(255,255,255,0.92); line-height: 1.7; margin-bottom: 0.75rem;">
+      "Moreover, it is required of stewards that they be found faithful."
+    </p>
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #C9A227; margin: 0;">— 1 Corinthians 4:2 (ESV)</p>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- GOVERNANCE & TAX STATUS                         -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #F7F6F2; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 900px; margin: 0 auto;">
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem;">
+      <!-- Governance -->
+      <div style="background: #FFFFFF; border-radius: 12px; padding: 2rem; border-left: 4px solid #1F5E3B;">
+        <h3 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.25rem; font-weight: 700; color: #2B2B2B; margin-top: 0; margin-bottom: 1rem;">Governance</h3>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.7; margin: 0;">
+          Y.E.T. Compassion is governed by a Board of Directors that provides oversight and strategic guidance. Our board meets regularly to review financial reports, program outcomes, and organizational strategy.
+        </p>
+        <a href="about/board.html" style="display: inline-block; margin-top: 1rem; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #1F5E3B; text-decoration: none;">Meet Our Board →</a>
+      </div>
+
+      <!-- Tax-Exempt Status -->
+      <div style="background: #FFFFFF; border-radius: 12px; padding: 2rem; border-left: 4px solid #C9A227;">
+        <h3 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.25rem; font-weight: 700; color: #2B2B2B; margin-top: 0; margin-bottom: 1rem;">Tax-Exempt Status</h3>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.7; margin: 0;">
+          Y.E.T. Compassion is pursuing 501(c)(3) tax-exempt status. Donations may be tax-deductible to the extent permitted by law. Please consult your tax advisor.
+        </p>
+        <a href="donate.html" style="display: inline-block; margin-top: 1rem; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #C9A227; text-decoration: none;">Make a Gift →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- ANNUAL REPORTS                                  -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 900px; margin: 0 auto;">
+    <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.75rem;">
+      <div style="width: 4px; height: 28px; background: #3A7CA5; border-radius: 2px;"></div>
+      <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #2B2B2B; margin: 0;">Annual Reports</h2>
+    </div>
+
+    <div style="background: #F7F6F2; border-radius: 12px; padding: 2rem; border: 1px solid #D9D8D4; margin-top: 1.5rem;">
+      <div style="display: flex; align-items: flex-start; gap: 1rem;">
+        <div style="width: 44px; height: 44px; background: linear-gradient(135deg, #3A7CA5, #4A92BF); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
+          <svg width="20" height="20" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+        </div>
+        <div>
+          <h3 style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #2B2B2B; margin: 0 0 0.5rem 0;">Coming Soon</h3>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.7; margin: 0;">
+            As Y.E.T. Compassion launches and begins operations, annual reports will be published on this page. Each report will include financial statements, program impact data, and a message from our founder.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- CTA SECTION                                     -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 700px; margin: 0 auto; text-align: center;">
+    <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(1.5rem, 3.5vw, 2rem); font-weight: 700; color: #FFFFFF; margin-bottom: 1rem;">
+      Questions About Our Finances?
+    </h2>
+    <p style="font-family: 'Inter', sans-serif; font-size: 1rem; color: rgba(255,255,255,0.75); line-height: 1.7; margin-bottom: 2rem;">
+      We're happy to answer any questions about how we steward your generous gifts.
+    </p>
+    <div style="display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap;">
+      <a href="contact.html" style="display: inline-block; padding: 0.85rem 2.25rem; background: #C9A227; color: #FFFFFF; font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 600; text-decoration: none; border-radius: 6px; letter-spacing: 0.02em; transition: background 200ms ease;">Contact Us</a>
+      <a href="mailto:info@yetcompassion.org" style="display: inline-block; padding: 0.85rem 2.25rem; background: transparent; color: #C9A227; font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 600; text-decoration: none; border-radius: 6px; border: 1px solid rgba(201,162,39,0.5); letter-spacing: 0.02em; transition: all 200ms ease;">Email Us</a>
+    </div>
+  </div>
+</section>
+
+<style>
+  @media (max-width: 768px) {
+    section div[style*="grid-template-columns: repeat(3"] { grid-template-columns: 1fr !important; }
+    section div[style*="grid-template-columns: 1fr 1fr"] { grid-template-columns: 1fr !important; }
+  }
+</style>
+```

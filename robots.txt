@@ -1,0 +1,9 @@
+# Y.E.T. Compassion — robots.txt
+User-agent: *
+Allow: /
+Disallow: /_site/
+Disallow: /styles/
+Disallow: /js/
+Disallow: /_includes/
+
+Sitemap: https://www.yetcompassion.org/sitemap.xml

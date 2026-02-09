@@ -1,0 +1,201 @@
+---
+title: "Board of Directors"
+description: "Meet the Board of Directors of Y.E.T. Compassion. Learn about the leaders guiding our nonprofit ministry with integrity, accountability, and vision."
+page-layout: custom
+toc: false
+---
+
+```{=html}
+<!-- ═══════════════════════════════════════════════ -->
+<!-- HERO SECTION                                    -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 50%, #2B2B2B 100%); padding: 4rem 1.5rem; position: relative; overflow: hidden;">
+  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23C9A227%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
+
+  <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: left;">
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #C9A227; margin-bottom: 1rem;">Governance &amp; Accountability</p>
+
+    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.5rem;">
+      Board of <span style="color: #C9A227;">Directors</span>
+    </h1>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 600px; margin: 0;">
+      Dedicated leaders guiding Y.E.T. Compassion with diverse expertise, lived experience, and a shared commitment to serving the South Sudanese diaspora.
+    </p>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- GOVERNANCE INTRO                                -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 780px; margin: 0 auto; text-align: left;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
+      Strong Governance, Faithful Stewardship
+    </h2>
+    <div style="width: 60px; height: 3px; background-color: #C9A227; margin-bottom: 1.5rem;"></div>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
+      Y.E.T. Compassion operates under the guidance and accountability of a dedicated Board of Directors. Our board is responsible for strategic oversight, financial stewardship, and ensuring that Y.E.T. Compassion remains true to our mission and values.
+    </p>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955;">
+      We believe that strong governance is essential to the health of our organization and our service to the communities we serve. Board members bring diverse expertise, lived experience, and a shared commitment to empowering South Sudanese diaspora communities.
+    </p>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- BOARD MEMBER 1 — FOUNDER                        -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 780px; margin: 0 auto;">
+    <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
+      <!-- Avatar -->
+      <div style="flex-shrink: 0;">
+        <div style="width: 100px; height: 100px; border-radius: 50%; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">G</div>
+      </div>
+      <!-- Details -->
+      <div style="flex: 1; min-width: 280px;">
+        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Gai Bol Luom</h3>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #C9A227; font-weight: 600; margin-bottom: 1rem;">Founder &amp; Executive Director</p>
+
+        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
+          Gai is the visionary founder of Y.E.T. Compassion and serves as Executive Director. With deep roots in the South Sudanese community and a life shaped by displacement, faith, and resilience, Gai provides spiritual and strategic leadership for the organization's mission and programs.
+        </p>
+
+        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
+          His experience bridging diaspora communities with faith-centered empowerment programs gives Y.E.T. Compassion its distinctive voice and purpose. Gai leads with conviction that every young person carries God-given potential that, when properly cultivated, transforms families and communities.
+        </p>
+
+        <a href="/about/founder.html" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #1F5E3B; font-weight: 600; text-decoration: none;">Read Full Profile →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- BOARD MEMBER 2 — BOARD CHAIR                    -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 780px; margin: 0 auto;">
+    <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
+      <!-- Avatar -->
+      <div style="flex-shrink: 0;">
+        <div style="width: 100px; height: 100px; border-radius: 50%; background: linear-gradient(135deg, #3A7CA5, #4A92BF); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">A</div>
+      </div>
+      <!-- Details -->
+      <div style="flex: 1; min-width: 280px;">
+        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Dr. Amara Deng</h3>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #3A7CA5; font-weight: 600; margin-bottom: 1rem;">Board Chair</p>
+
+        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
+          Dr. Deng is an educator and community advocate with extensive experience in curriculum development and youth empowerment. She brings strategic vision and ensures Y.E.T. Compassion maintains the highest standards of governance and program excellence.
+        </p>
+
+        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955;">
+          As Board Chair, she provides oversight of organizational direction, facilitates board deliberations, and works closely with the Executive Director to align operations with the ministry's mission and values.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- BOARD MEMBER 3 — SPIRITUAL ADVISOR              -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 780px; margin: 0 auto;">
+    <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
+      <!-- Avatar -->
+      <div style="flex-shrink: 0;">
+        <div style="width: 100px; height: 100px; border-radius: 50%; background: linear-gradient(135deg, #C9A227, #D4B44A); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">M</div>
+      </div>
+      <!-- Details -->
+      <div style="flex: 1; min-width: 280px;">
+        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Rev. Dr. Moses Akil</h3>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #C9A227; font-weight: 600; margin-bottom: 1rem;">Board Member &amp; Spiritual Advisor</p>
+
+        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
+          Rev. Akil is a pastor and spiritual leader within the South Sudanese community. He brings pastoral wisdom, spiritual oversight, and deep cultural understanding to board discussions and organizational direction.
+        </p>
+
+        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955;">
+          His role as Spiritual Advisor ensures that every program, partnership, and decision remains grounded in biblical principles and theological integrity — the foundational values upon which Y.E.T. Compassion was built.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- SCRIPTURE BANNER                                -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #2B2B2B; padding: 3rem 1.5rem; text-align: center;">
+  <div style="max-width: 700px; margin: 0 auto;">
+    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.1rem, 2.5vw, 1.4rem); color: #C9A227; line-height: 1.7; margin: 0 0 0.75rem;">
+      "Where there is no guidance, a people falls, but in an abundance of counselors there is safety."
+    </p>
+    <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; display: block;">
+      — Proverbs 11:14 (ESV)
+    </span>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- OUR COMMITMENT TO TRANSPARENCY                  -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 780px; margin: 0 auto; text-align: left;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
+      Our Commitment to Transparency
+    </h2>
+    <div style="width: 60px; height: 3px; background-color: #1F5E3B; margin-bottom: 1.5rem;"></div>
+
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
+      <div style="padding: 1.25rem; border: 1px solid #D9D8D4; border-radius: 8px;">
+        <div style="font-size: 1.25rem; color: #1F5E3B; margin-bottom: 0.5rem;">✓</div>
+        <strong style="display: block; font-size: 0.95rem; color: #2B2B2B; margin-bottom: 0.35rem;">Financial Transparency</strong>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Quarterly financial review and adherence to nonprofit accounting standards.</span>
+      </div>
+      <div style="padding: 1.25rem; border: 1px solid #D9D8D4; border-radius: 8px;">
+        <div style="font-size: 1.25rem; color: #1F5E3B; margin-bottom: 0.5rem;">✓</div>
+        <strong style="display: block; font-size: 0.95rem; color: #2B2B2B; margin-bottom: 0.35rem;">Program Accountability</strong>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Evidence-based reporting on outcomes with regular community feedback.</span>
+      </div>
+      <div style="padding: 1.25rem; border: 1px solid #D9D8D4; border-radius: 8px;">
+        <div style="font-size: 1.25rem; color: #1F5E3B; margin-bottom: 0.5rem;">✓</div>
+        <strong style="display: block; font-size: 0.95rem; color: #2B2B2B; margin-bottom: 0.35rem;">Community Voice</strong>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Listening sessions, surveys, and consultations shape our strategic direction.</span>
+      </div>
+      <div style="padding: 1.25rem; border: 1px solid #D9D8D4; border-radius: 8px;">
+        <div style="font-size: 1.25rem; color: #1F5E3B; margin-bottom: 0.5rem;">✓</div>
+        <strong style="display: block; font-size: 0.95rem; color: #2B2B2B; margin-bottom: 0.35rem;">Governance Standards</strong>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Best practices in nonprofit governance, conflict-of-interest policies, and annual reviews.</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- CTA                                             -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; text-align: center;">
+  <div style="max-width: 700px; margin: 0 auto;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.5rem, 3vw, 2rem); color: #FFFFFF; margin-bottom: 1rem;">
+      Questions About Our Leadership?
+    </h2>
+    <p style="font-family: 'Inter', sans-serif; font-size: 1rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2rem;">
+      We'd love to hear from you. Reach out with questions about our governance, programs, or partnerships.
+    </p>
+    <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+      <a href="/contact.html" style="display: inline-block; background-color: #C9A227; color: #2B2B2B; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 0.95rem; padding: 0.75rem 1.75rem; border-radius: 8px; text-decoration: none; box-shadow: 0 2px 8px rgba(201,162,39,0.3); transition: all 200ms ease;">
+        Contact Us
+      </a>
+      <a href="/about/index.html" style="display: inline-block; background: transparent; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.95rem; padding: 0.75rem 1.75rem; border-radius: 8px; border: 2px solid rgba(255,255,255,0.5); text-decoration: none; transition: all 200ms ease;">
+        ← Back to About
+      </a>
+    </div>
+  </div>
+</section>
+```

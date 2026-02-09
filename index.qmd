@@ -1,0 +1,369 @@
+---
+title: "Y.E.T. Compassion — Building the Next Generation"
+description: "Y.E.T. Compassion equips South Sudanese diaspora youth with the Gospel of Christ and practical skills to lead with integrity, build stable families, and transform their communities."
+page-layout: custom
+toc: false
+---
+
+```{=html}
+<!-- JSON-LD Organization Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NGO",
+  "name": "Youth Evangelism Training (Y.E.T.) Compassion",
+  "alternateName": "Y.E.T. Compassion",
+  "url": "https://www.yetcompassion.org",
+  "logo": "https://www.yetcompassion.org/images/logo.png",
+  "description": "Y.E.T. Compassion equips South Sudanese diaspora youth with the Gospel of Christ and practical skills to lead with integrity, build stable families, and transform their communities.",
+  "founder": {
+    "@type": "Person",
+    "name": "Gai Bol Luom"
+  },
+  "foundingDate": "2024",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Nashville",
+    "addressRegion": "TN",
+    "addressCountry": "US"
+  },
+  "sameAs": [
+    "https://www.facebook.com/YetCompassion",
+    "https://www.linkedin.com/company/yetcompassion"
+  ]
+}
+</script>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- HERO SECTION                                    -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="hero-section" style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 50%, #2B2B2B 100%); min-height: 60vh; display: flex; align-items: center; justify-content: center; padding: 4rem 1.5rem; position: relative; overflow: hidden;">
+  <!-- Subtle geometric pattern overlay -->
+  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23C9A227%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
+
+  <div class="hero-content" style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: center;">
+
+    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2.25rem, 5vw, 3.5rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.5rem;">
+      Excellence is not what we aspire to — <span style="color: #C9A227;">it's what we deliver.</span>
+    </h1>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: clamp(1.05rem, 2vw, 1.25rem); color: rgba(255,255,255,0.85); line-height: 1.7; max-width: 640px; margin: 0 auto 2.5rem;">
+      Equipping South Sudanese diaspora youth with the Gospel of Christ and practical skills to lead with integrity, build stable families, and transform their communities.
+    </p>
+
+    <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+      <a href="about/index.html" class="btn-gold" style="display: inline-block; background-color: #C9A227; color: #2B2B2B; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; text-decoration: none; box-shadow: 0 2px 8px rgba(201,162,39,0.3); transition: all 200ms ease;">
+        Learn More
+      </a>
+      <a href="donate.html" class="btn-ghost" style="display: inline-block; background: transparent; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; border: 2px solid rgba(255,255,255,0.6); text-decoration: none; transition: all 200ms ease;">
+        Donate Now
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- OUR FOCUS — Honest pillars, no inflated stats  -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #1F5E3B; padding: 2.25rem 1.5rem;">
+  <div class="pillars-strip">
+    <div class="pillar-item">
+      <span class="pillar-icon">✝</span>
+      <span class="pillar-label">Faith &amp; Discipleship</span>
+    </div>
+    <div class="pillar-divider"></div>
+    <div class="pillar-item">
+      <span class="pillar-icon">🎓</span>
+      <span class="pillar-label">Leadership &amp; Mentorship</span>
+    </div>
+    <div class="pillar-divider"></div>
+    <div class="pillar-item">
+      <span class="pillar-icon">🏠</span>
+      <span class="pillar-label">Family &amp; Empowerment</span>
+    </div>
+    <div class="pillar-divider"></div>
+    <div class="pillar-item">
+      <span class="pillar-icon">🤝</span>
+      <span class="pillar-label">Community &amp; Diaspora</span>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- MISSION STATEMENT                               -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 780px; margin: 0 auto; text-align: left;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.5rem); color: #2B2B2B; margin-bottom: 1.25rem; font-weight: 600;">
+      Our Mission
+    </h2>
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
+      Y.E.T. Compassion equips South Sudanese diaspora youth with the Gospel of Christ and the practical skills to lead with integrity, build stable families, and transform their communities. We believe that every young person has inherent worth and unlimited potential when grounded in faith and equipped with knowledge.
+    </p>
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.1rem; line-height: 1.8; color: #5A5955; margin-bottom: 2rem;">
+      Founded by <strong>Gai Bol Luom</strong> in Nashville, Tennessee, our nonprofit ministry serves as a bridge between faith, education, and community empowerment for the South Sudanese diaspora.
+    </p>
+    <a href="about/index.html" style="display: inline-block; background-color: #1F5E3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.75rem 1.75rem; border-radius: 8px; text-decoration: none; transition: all 200ms ease;">
+      Learn More About Our Work
+    </a>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- PROGRAMS OVERVIEW                               -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 1200px; margin: 0 auto;">
+
+    <div style="text-align: center; margin-bottom: 3rem;">
+      <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.5rem); color: #2B2B2B; margin-bottom: 0.75rem;">Our Programs</h2>
+      <p style="font-family: 'Inter', sans-serif; font-size: 1.1rem; color: #5A5955; max-width: 600px; margin: 0 auto;">Five strategic focus areas designed to build faith, leadership, and community resilience.</p>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 1fr; gap: 1.5rem;">
+
+      <!-- Youth Evangelism -->
+      <div class="program-card" style="background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-top: 4px solid #1F5E3B; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
+        <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">✝️</div>
+        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.15rem; color: #2B2B2B; margin-bottom: 0.75rem;">Youth Evangelism & Discipleship</h4>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Grounding young people in biblical truth through contextual teaching, Bible studies, and one-on-one discipleship.</p>
+        <a href="programs/index.html#evangelism" style="color: #1F5E3B; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Learn More →</a>
+      </div>
+
+      <!-- Leadership Development -->
+      <div class="program-card" style="background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-top: 4px solid #C9A227; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
+        <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">🎓</div>
+        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.15rem; color: #2B2B2B; margin-bottom: 0.75rem;">Leadership Development & Mentorship</h4>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Cultivating servant leaders through structured mentorship, professional training, and public speaking workshops.</p>
+        <a href="programs/index.html#leadership" style="color: #1F5E3B; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Learn More →</a>
+      </div>
+
+      <!-- Family Empowerment -->
+      <div class="program-card" style="background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-top: 4px solid #3A7CA5; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
+        <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">🏠</div>
+        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.15rem; color: #2B2B2B; margin-bottom: 0.75rem;">Family Stability & Economic Empowerment</h4>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Strengthening families through counseling, financial literacy, job readiness, and community retreats.</p>
+        <a href="programs/index.html#family" style="color: #1F5E3B; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Learn More →</a>
+      </div>
+
+      <!-- Community Building -->
+      <div class="program-card" style="background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-top: 4px solid #1F5E3B; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
+        <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">🤝</div>
+        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.15rem; color: #2B2B2B; margin-bottom: 0.75rem;">Community Building & Diaspora Advocacy</h4>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Creating networks of support, preserving cultural heritage, and advocating for diaspora communities.</p>
+        <a href="programs/index.html#community" style="color: #1F5E3B; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Learn More →</a>
+      </div>
+
+      <!-- Homeland Engagement -->
+      <div class="program-card" style="background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-top: 4px solid #C9A227; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
+        <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">🌍</div>
+        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.15rem; color: #2B2B2B; margin-bottom: 0.75rem;">Service & Mission in South Sudan</h4>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Connecting diaspora to homeland through mission trips, educational sponsorships, and community partnerships.</p>
+        <a href="programs/index.html#homeland" style="color: #1F5E3B; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Learn More →</a>
+      </div>
+
+    </div>
+  </div>
+
+  <style>
+    .program-card:hover {
+      box-shadow: 0 4px 16px rgba(0,0,0,0.12) !important;
+      transform: translateY(-2px);
+    }
+    @media (min-width: 640px) {
+      div[style*="grid-template-columns: 1fr;"][style*="gap: 1.5rem"] {
+        grid-template-columns: repeat(2, 1fr) !important;
+      }
+    }
+    @media (min-width: 1024px) {
+      div[style*="grid-template-columns: 1fr;"][style*="gap: 1.5rem"] {
+        grid-template-columns: repeat(3, 1fr) !important;
+      }
+    }
+  </style>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- SCRIPTURE BANNER                                -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #2B2B2B; padding: 4rem 1.5rem; text-align: center;">
+  <div style="max-width: 800px; margin: 0 auto;">
+    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.6rem); color: #C9A227; line-height: 1.7; margin: 0;">
+      "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future."
+    </p>
+    <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
+      — Jeremiah 29:11
+    </span>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- CORE VALUES                                     -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 900px; margin: 0 auto;">
+
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.5rem); color: #2B2B2B; text-align: center; margin-bottom: 3rem;">Our Core Values</h2>
+
+    <ul style="list-style: none; padding: 0; margin: 0;">
+
+      <li style="padding: 1.25rem 0; border-bottom: 1px solid #D9D8D4; display: flex; gap: 1rem; align-items: flex-start;">
+        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #1F5E3B; min-width: 2rem; line-height: 1.3;">1</span>
+        <div>
+          <strong style="color: #2B2B2B; font-size: 1.05rem;">Scriptural Foundation</strong>
+          <span style="color: #5A5955;"> — Truth begins with the Word. All our work is grounded in biblical principles and the transformative power of the Gospel.</span>
+        </div>
+      </li>
+
+      <li style="padding: 1.25rem 0; border-bottom: 1px solid #D9D8D4; display: flex; gap: 1rem; align-items: flex-start;">
+        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #1F5E3B; min-width: 2rem; line-height: 1.3;">2</span>
+        <div>
+          <strong style="color: #2B2B2B; font-size: 1.05rem;">Empowerment Through Preparation</strong>
+          <span style="color: #5A5955;"> — Skills precede impact. We equip youth with practical knowledge and mentorship before sending them into the field.</span>
+        </div>
+      </li>
+
+      <li style="padding: 1.25rem 0; border-bottom: 1px solid #D9D8D4; display: flex; gap: 1rem; align-items: flex-start;">
+        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #1F5E3B; min-width: 2rem; line-height: 1.3;">3</span>
+        <div>
+          <strong style="color: #2B2B2B; font-size: 1.05rem;">Community Accountability</strong>
+          <span style="color: #5A5955;"> — No one advances alone. We operate with transparency and remain accountable to the communities we serve.</span>
+        </div>
+      </li>
+
+      <li style="padding: 1.25rem 0; border-bottom: 1px solid #D9D8D4; display: flex; gap: 1rem; align-items: flex-start;">
+        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #1F5E3B; min-width: 2rem; line-height: 1.3;">4</span>
+        <div>
+          <strong style="color: #2B2B2B; font-size: 1.05rem;">Operational Excellence</strong>
+          <span style="color: #5A5955;"> — Competence honors calling. Excellence is not what we aspire to — it's what we deliver in every program and initiative.</span>
+        </div>
+      </li>
+
+      <li style="padding: 1.25rem 0; display: flex; gap: 1rem; align-items: flex-start;">
+        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #1F5E3B; min-width: 2rem; line-height: 1.3;">5</span>
+        <div>
+          <strong style="color: #2B2B2B; font-size: 1.05rem;">Intergenerational Responsibility</strong>
+          <span style="color: #5A5955;"> — Today's work builds tomorrow's leaders. We honor our heritage while building a transformative legacy for future generations.</span>
+        </div>
+      </li>
+
+    </ul>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- IMPACT ON THE GROUND                            -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; position: relative; overflow: hidden;">
+  <div style="position: absolute; inset: 0; opacity: 0.03; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23C9A227%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
+  <div style="position: relative; z-index: 2; max-width: 1000px; margin: 0 auto;">
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #C9A227; margin-bottom: 0.75rem;">Impact on the Ground</p>
+    <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(1.75rem, 3.5vw, 2.25rem); font-weight: 700; color: #FFFFFF; margin-bottom: 0.75rem;">
+      From Nashville to <span style="color: #C9A227;">South Sudan</span>
+    </h2>
+    <p style="font-family: 'Inter', sans-serif; font-size: 1rem; color: rgba(255,255,255,0.7); line-height: 1.7; max-width: 600px; margin-bottom: 2.5rem;">
+      Through homeland engagement missions, Y.E.T. Compassion has built schools, drilled water wells, and distributed food to vulnerable communities in Biong and surrounding regions.
+    </p>
+
+    <!-- Photo Grid: 2-column featured layout -->
+    <div id="impact-grid" style="display: grid; grid-template-columns: 3fr 2fr; gap: 0.75rem;">
+      <!-- Large featured image -->
+      <div style="position: relative; overflow: hidden; border-radius: 10px; grid-row: 1 / 3;">
+        <img loading="lazy" src="images/project-images/biong-mission-gathering-bw.jpg" alt="Hundreds of children gathered at Biong mission" style="width: 100%; height: 100%; object-fit: cover; min-height: 360px;">
+        <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 1.25rem; padding-top: 3rem;">
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; color: #FFFFFF; display: block; margin-bottom: 0.25rem;">Community Gathering — Biong Mission</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; color: rgba(255,255,255,0.7);">Hundreds of children and families gathered for ministry and aid</span>
+        </div>
+      </div>
+      <!-- Top right -->
+      <div style="position: relative; overflow: hidden; border-radius: 10px;">
+        <img loading="lazy" src="images/project-images/biong-students-with-textbooks.jpg" alt="Students holding new textbooks" style="width: 100%; height: 100%; object-fit: cover; min-height: 170px;">
+        <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.75rem; padding-top: 1.5rem;">
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Education — Textbooks for Biong School</span>
+        </div>
+      </div>
+      <!-- Bottom right -->
+      <div style="position: relative; overflow: hidden; border-radius: 10px;">
+        <img loading="lazy" src="images/project-images/biong-well-drilling-operator.jpg" alt="Water well drilling in Biong" style="width: 100%; height: 100%; object-fit: cover; min-height: 170px;">
+        <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.75rem; padding-top: 1.5rem;">
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Clean Water — Well Drilling, Jan 2009</span>
+        </div>
+      </div>
+    </div>
+
+    <div style="text-align: center; margin-top: 2rem;">
+      <a href="programs/index.html#homeland" style="display: inline-block; padding: 0.75rem 2rem; background: transparent; color: #C9A227; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; text-decoration: none; border: 1px solid rgba(201,162,39,0.4); border-radius: 8px; transition: all 200ms ease;">See Our Homeland Projects →</a>
+    </div>
+  </div>
+
+  <style>
+    @media (max-width: 768px) {
+      #impact-grid {
+        grid-template-columns: 1fr !important;
+      }
+      #impact-grid > div:first-child {
+        grid-row: auto !important;
+      }
+    }
+  </style>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- NEWSLETTER SIGNUP                               -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #F0EFEB; padding: 4rem 1.5rem; text-align: center;">
+  <div style="max-width: 500px; margin: 0 auto;">
+    <h3 style="font-family: 'Playfair Display', serif; font-size: 1.75rem; color: #2B2B2B; margin-bottom: 0.75rem;">Stay Connected</h3>
+    <p style="font-family: 'Inter', sans-serif; color: #5A5955; margin-bottom: 1.5rem;">Subscribe for updates on programs, events, and ways to serve.</p>
+
+    <!-- Replace action URL with your Mailchimp endpoint -->
+    <form action="#" method="post" style="display: flex; flex-direction: column; gap: 0.75rem;">
+      <input type="email" name="EMAIL" placeholder="Your email address" required
+        style="flex: 1; padding: 0.75rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-size: 1rem; min-height: 48px; font-family: 'Inter', sans-serif; background: #FFFFFF;">
+      <button type="submit"
+        style="background-color: #1F5E3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.75rem 1.5rem; border-radius: 8px; border: none; cursor: pointer; min-height: 48px; transition: background-color 200ms ease;">
+        Subscribe
+      </button>
+    </form>
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #8A8985; margin-top: 1rem;">We respect your privacy. Unsubscribe at any time.</p>
+  </div>
+
+  <style>
+    @media (min-width: 640px) {
+      form[style*="flex-direction: column"] {
+        flex-direction: row !important;
+      }
+      form[style*="flex-direction: column"] input {
+        border-radius: 8px 0 0 8px !important;
+      }
+      form[style*="flex-direction: column"] button {
+        border-radius: 0 8px 8px 0 !important;
+        white-space: nowrap;
+      }
+    }
+  </style>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- FINAL CTA                                       -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; text-align: center;">
+  <div style="max-width: 700px; margin: 0 auto;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.5rem); color: #FFFFFF; margin-bottom: 1.25rem;">
+      Join Us in Building the Next Generation
+    </h2>
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.1rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2.5rem;">
+      Whether through partnership, volunteering, or financial support — together we can transform lives and communities across the diaspora and in South Sudan.
+    </p>
+    <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+      <a href="donate.html" style="display: inline-block; background-color: #C9A227; color: #2B2B2B; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; text-decoration: none; box-shadow: 0 2px 8px rgba(201,162,39,0.3); transition: all 200ms ease;">
+        Donate Today
+      </a>
+      <a href="get-involved.html" style="display: inline-block; background: transparent; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; border: 2px solid rgba(255,255,255,0.6); text-decoration: none; transition: all 200ms ease;">
+        Get Involved
+      </a>
+    </div>
+  </div>
+</section>
+```

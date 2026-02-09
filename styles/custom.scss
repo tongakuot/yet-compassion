@@ -1,0 +1,1184 @@
+/*-- scss:defaults --*/
+
+// ═══════════════════════════════════════════════════════════
+// Y.E.T. COMPASSION — BRAND DESIGN SYSTEM (SCSS)
+// Sacred Minimalism: Dignified, warm, structured, faith-grounded
+// ═══════════════════════════════════════════════════════════
+
+// ── Brand Colors ──
+$primary:       #1F5E3B;  // Deep Forest Green
+$primary-light: #2A7A4E;
+$primary-dark:  #164A2E;
+
+$secondary:       #C9A227;  // Warm Gold
+$secondary-light: #D4B44A;
+$secondary-dark:  #A8871F;
+
+$accent:       #3A7CA5;  // Sky Blue
+$accent-light: #4A92BF;
+$accent-dark:  #2E6488;
+
+$charcoal: #2B2B2B;
+$ivory:    #F7F6F2;
+$gray-100: #F0EFEB;
+$gray-200: #D9D8D4;
+$gray-400: #8A8985;
+$gray-600: #5A5955;
+
+// ── Bootstrap/Quarto Theme Overrides ──
+$body-bg: $ivory;
+$body-color: $charcoal;
+$link-color: $primary;
+$link-hover-color: $primary-light;
+$font-size-base: 1.125rem;  // 18px
+$line-height-base: 1.6;
+
+// ── Font Families ──
+$font-family-sans-serif: 'Inter', 'Source Sans 3', -apple-system, BlinkMacSystemFont, sans-serif;
+$headings-font-family: 'Playfair Display', Georgia, 'Times New Roman', serif;
+
+$headings-font-weight: 700;
+$headings-color: $charcoal;
+
+// ── Navbar ──
+$navbar-bg: $charcoal;
+$navbar-fg: $ivory;
+
+/*-- scss:rules --*/
+
+// ═══════════════════════════════════════════════════════════
+// CSS CUSTOM PROPERTIES
+// ═══════════════════════════════════════════════════════════
+
+:root {
+  --color-primary: #{$primary};
+  --color-primary-light: #{$primary-light};
+  --color-primary-dark: #{$primary-dark};
+  --color-secondary: #{$secondary};
+  --color-secondary-light: #{$secondary-light};
+  --color-secondary-dark: #{$secondary-dark};
+  --color-accent: #{$accent};
+  --color-accent-light: #{$accent-light};
+  --color-accent-dark: #{$accent-dark};
+  --color-charcoal: #{$charcoal};
+  --color-ivory: #{$ivory};
+  --color-gray-100: #{$gray-100};
+  --color-gray-200: #{$gray-200};
+  --color-gray-400: #{$gray-400};
+  --color-gray-600: #{$gray-600};
+  --font-heading: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-body: 'Inter', 'Source Sans 3', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-scripture: 'Cormorant Garamond', Georgia, serif;
+}
+
+// ═══════════════════════════════════════════════════════════
+// GLOBAL STYLES
+// ═══════════════════════════════════════════════════════════
+
+body {
+  font-family: var(--font-body);
+  color: $charcoal;
+  background-color: $ivory;
+  overflow-x: hidden;
+}
+
+h1, h2, h3 {
+  font-family: var(--font-heading);
+  letter-spacing: -0.01em;
+}
+
+h1 {
+  font-size: clamp(1.75rem, 4vw, 3rem);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  font-size: clamp(1.5rem, 3vw, 2.25rem);
+  font-weight: 600;
+}
+
+h3 {
+  font-size: clamp(1.25rem, 2.5vw, 1.75rem);
+  font-weight: 600;
+}
+
+h4 {
+  font-size: clamp(1.125rem, 2vw, 1.375rem);
+  font-weight: 600;
+  font-family: var(--font-body);
+}
+
+p {
+  max-width: 75ch;
+  line-height: 1.7;
+}
+
+// ═══════════════════════════════════════════════════════════
+// QUARTO TITLE BLOCK — HIDE ON CUSTOM-LAYOUT PAGES
+// ═══════════════════════════════════════════════════════════
+
+// Hide the auto-generated title banner on the homepage
+// and any page using page-layout: custom
+.quarto-title-block {
+  display: none !important;
+}
+
+#title-block-header {
+  display: none !important;
+}
+
+// ═══════════════════════════════════════════════════════════
+// NAVBAR — PyStatR+ LAYOUT
+// Logo left → [spacer] → Links right → Search pill far-right
+// Matches pystatrplus.org: justify-content: space-between,
+// all links in ms-auto group, generous padding/spacing.
+// ═══════════════════════════════════════════════════════════
+
+.navbar {
+  padding: 0;
+  min-height: auto;
+  box-shadow: none;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+
+  // ── Main Container ──
+  .navbar-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0.65rem 2rem !important;
+    justify-content: space-between !important;
+    align-items: center;
+  }
+
+  // ── Logo ──
+  .navbar-brand {
+    margin-right: 2rem;
+    padding: 0.5rem 0;
+
+    img {
+      height: 36px;
+      width: auto;
+      object-fit: contain;
+    }
+  }
+
+  // Hide Quarto-generated brand text (site title)
+  .navbar-title {
+    display: none !important;
+  }
+
+  // ── Nav Links — right-aligned group ──
+  .navbar-nav .nav-item {
+    .nav-link {
+      font-family: var(--font-body);
+      font-weight: 500;
+      font-size: 0.95rem;
+      letter-spacing: 0.025em;
+      padding: 0.5rem 1rem !important;
+      color: rgba(229, 231, 235, 0.85) !important;
+      transition: color 200ms ease;
+      border: none !important;
+      outline: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      white-space: nowrap;
+
+      &:hover,
+      &:focus {
+        color: $secondary !important;
+        background: transparent !important;
+        box-shadow: none !important;
+      }
+
+      &.active,
+      &[aria-current="page"] {
+        color: $ivory !important;
+      }
+    }
+
+    // Dropdown caret
+    .dropdown-toggle::after {
+      margin-left: 0.3rem;
+      vertical-align: 0.15em;
+      opacity: 0.5;
+      border-top-width: 0.25em;
+      border-right-width: 0.25em;
+      border-left-width: 0.25em;
+    }
+  }
+
+  // ── Dropdown Menus ──
+  .dropdown-menu {
+    background: $charcoal;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    border-radius: 8px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+    padding: 0.5rem 0;
+    margin-top: 0.35rem;
+
+    .dropdown-item {
+      color: rgba(229, 231, 235, 0.8);
+      font-size: 0.9rem;
+      padding: 0.55rem 1.25rem;
+      transition: all 150ms ease;
+
+      &:hover, &:focus {
+        color: $secondary;
+        background: rgba(255, 255, 255, 0.05);
+      }
+    }
+
+    .dropdown-divider {
+      border-color: rgba(255, 255, 255, 0.08);
+    }
+  }
+
+  // ── Search (pill button, far-right) ──
+  #quarto-search {
+    order: 25;
+    margin-left: 0.75rem;
+
+    .aa-DetachedSearchButton {
+      background: rgba(255, 255, 255, 0.06) !important;
+      border: 1px solid rgba(255, 255, 255, 0.1) !important;
+      border-radius: 20px !important;
+      padding: 0.4rem 0.85rem !important;
+      color: rgba(229, 231, 235, 0.4) !important;
+      transition: all 200ms ease !important;
+      height: 34px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+
+      &:hover {
+        background: rgba(255, 255, 255, 0.1) !important;
+        border-color: rgba(201, 162, 39, 0.25) !important;
+        color: rgba(229, 231, 235, 0.6) !important;
+      }
+
+      .aa-DetachedSearchButtonIcon svg {
+        width: 15px;
+        height: 15px;
+      }
+
+      .aa-DetachedSearchButtonPlaceholder {
+        font-size: 0.8rem;
+        font-family: var(--font-body);
+      }
+    }
+  }
+}
+
+// ── Donate Button in Navbar ──
+// Targets the last nav-item (Donate) in the right nav group
+.navbar .navbar-nav .nav-item:last-child > .nav-link[href*="donate"],
+.navbar .navbar-nav .nav-item:last-child > a[href*="donate"] {
+  background-color: $secondary !important;
+  color: $charcoal !important;
+  font-weight: 700 !important;
+  font-size: 0.85rem !important;
+  padding: 0.4rem 1.3rem !important;
+  border-radius: 20px !important;
+  box-shadow: 0 2px 8px rgba(201, 162, 39, 0.2);
+  transition: all 200ms ease !important;
+  text-decoration: none !important;
+  margin-left: 0.5rem;
+  letter-spacing: 0.02em;
+
+  &:hover {
+    background-color: $secondary-light !important;
+    color: $charcoal !important;
+    box-shadow: 0 4px 12px rgba(201, 162, 39, 0.35) !important;
+    transform: translateY(-1px);
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// HERO SECTION
+// ═══════════════════════════════════════════════════════════
+
+.hero-section {
+  background-color: $charcoal;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: center;
+  padding: 5rem 1.5rem;
+  position: relative;
+
+  @media (min-width: 768px) {
+    padding: 7rem 2rem;
+  }
+
+  @media (min-width: 1024px) {
+    padding: 8rem 3rem;
+  }
+
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(
+      180deg,
+      rgba(43, 43, 43, 0.7) 0%,
+      rgba(43, 43, 43, 0.85) 100%
+    );
+    z-index: 0;
+  }
+
+  .hero-content {
+    position: relative;
+    z-index: 1;
+    max-width: 720px;
+    margin: 0 auto;
+  }
+
+  .hero-title {
+    font-family: var(--font-heading);
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1.15;
+    margin-bottom: 1.25rem;
+    color: white;
+  }
+
+  .hero-subtitle {
+    font-family: var(--font-body);
+    font-size: clamp(1rem, 2vw, 1.25rem);
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.85);
+    line-height: 1.6;
+    margin-bottom: 2rem;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .hero-cta {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// BUTTONS
+// ═══════════════════════════════════════════════════════════
+
+.btn-primary-custom {
+  display: inline-block;
+  background-color: $primary;
+  color: white;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 0.75rem 1.75rem;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 200ms ease;
+  min-height: 44px;
+
+  &:hover {
+    background-color: $primary-light;
+    color: white;
+    text-decoration: none;
+  }
+
+  &:active {
+    background-color: $primary-dark;
+  }
+}
+
+.btn-gold {
+  display: inline-block;
+  background-color: $secondary;
+  color: $charcoal;
+  font-family: var(--font-body);
+  font-weight: 700;
+  font-size: 1rem;
+  padding: 0.85rem 2rem;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(201, 162, 39, 0.3);
+  transition: all 200ms ease;
+  min-height: 44px;
+
+  &:hover {
+    background-color: $secondary-light;
+    color: $charcoal;
+    text-decoration: none;
+    box-shadow: 0 4px 16px rgba(201, 162, 39, 0.4);
+    transform: translateY(-1px);
+  }
+}
+
+.btn-ghost {
+  display: inline-block;
+  background: transparent;
+  color: white;
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 0.75rem 1.75rem;
+  border-radius: 8px;
+  border: 2px solid white;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 200ms ease;
+  min-height: 44px;
+
+  &:hover {
+    background-color: white;
+    color: $charcoal;
+    text-decoration: none;
+  }
+}
+
+.btn-ghost-green {
+  @extend .btn-ghost;
+  color: $primary;
+  border-color: $primary;
+
+  &:hover {
+    background-color: $primary;
+    color: white;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// SECTION LAYOUTS
+// ═══════════════════════════════════════════════════════════
+
+.section-full {
+  padding: 3rem 1rem;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+
+  @media (min-width: 768px) {
+    padding: 4rem 2rem;
+  }
+
+  @media (min-width: 1024px) {
+    padding: 5rem 3rem;
+  }
+}
+
+.section-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.section-ivory {
+  background-color: $ivory;
+}
+
+.section-white {
+  background-color: white;
+}
+
+.section-charcoal {
+  background-color: $charcoal;
+  color: $ivory;
+
+  h1, h2, h3, h4 {
+    color: white;
+  }
+
+  p {
+    color: rgba(255, 255, 255, 0.85);
+  }
+}
+
+.section-green {
+  background-color: $primary;
+  color: white;
+
+  h1, h2, h3, h4 {
+    color: white;
+  }
+
+  p {
+    color: rgba(255, 255, 255, 0.85);
+  }
+}
+
+.section-header {
+  text-align: center;
+  margin-bottom: 3rem;
+
+  h2 {
+    margin-bottom: 0.75rem;
+  }
+
+  p {
+    color: $gray-600;
+    font-size: 1.1rem;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// IMPACT COUNTER
+// ═══════════════════════════════════════════════════════════
+
+// ── Pillars Strip (replaces impact counter) ──
+
+.pillars-strip {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem 0;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.pillar-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.25rem 1rem;
+
+  .pillar-icon {
+    font-size: 1.1rem;
+    line-height: 1;
+  }
+
+  .pillar-label {
+    font-family: var(--font-body);
+    font-size: 0.78rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.85);
+    white-space: nowrap;
+  }
+}
+
+.pillar-divider {
+  width: 1px;
+  height: 20px;
+  background: rgba(255, 255, 255, 0.2);
+
+  @media (max-width: 639px) {
+    display: none;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// CARDS
+// ═══════════════════════════════════════════════════════════
+
+.card-custom {
+  background: white;
+  border-radius: 12px;
+  padding: 1.75rem;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  transition: box-shadow 200ms ease, transform 200ms ease;
+  border: none;
+
+  &:hover {
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+    transform: translateY(-2px);
+  }
+}
+
+.program-card {
+  @extend .card-custom;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background-color: $primary;
+  }
+
+  &.accent-gold::before { background-color: $secondary; }
+  &.accent-blue::before { background-color: $accent; }
+
+  .program-icon {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+    display: block;
+  }
+
+  h3, h4 {
+    font-size: 1.2rem;
+    margin-bottom: 0.75rem;
+  }
+
+  p {
+    font-size: 0.95rem;
+    color: $gray-600;
+    margin: 0 auto 1rem;
+  }
+
+  .program-link {
+    color: $primary;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 0.95rem;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+
+  @media (min-width: 640px) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @media (min-width: 1024px) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// SCRIPTURE BANNER
+// ═══════════════════════════════════════════════════════════
+
+.scripture-banner {
+  background-color: $charcoal;
+  padding: 3rem 1.5rem;
+  text-align: center;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+
+  @media (min-width: 768px) {
+    padding: 5rem 3rem;
+  }
+
+  .scripture-text {
+    font-family: var(--font-scripture);
+    font-style: italic;
+    font-size: clamp(1.15rem, 2.5vw, 1.6rem);
+    color: $secondary;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.7;
+  }
+
+  .scripture-ref {
+    font-family: var(--font-body);
+    font-size: 0.875rem;
+    color: $gray-400;
+    margin-top: 1rem;
+    display: block;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// TESTIMONIALS
+// ═══════════════════════════════════════════════════════════
+
+.testimonial-card {
+  @extend .card-custom;
+  padding: 2rem;
+  text-align: center;
+
+  .testimonial-text {
+    font-family: var(--font-scripture);
+    font-style: italic;
+    font-size: 1.1rem;
+    color: $gray-600;
+    line-height: 1.7;
+    margin-bottom: 1.5rem;
+  }
+
+  .testimonial-author {
+    font-weight: 600;
+    color: $charcoal;
+  }
+
+  .testimonial-role {
+    font-size: 0.875rem;
+    color: $gray-400;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// FORMS
+// ═══════════════════════════════════════════════════════════
+
+.form-custom {
+  max-width: 600px;
+
+  input, textarea, select {
+    font-family: var(--font-body);
+    font-size: 1rem;
+    padding: 0.75rem 1rem;
+    border: 1px solid $gray-200;
+    border-radius: 8px;
+    width: 100%;
+    min-height: 48px;
+    transition: border-color 200ms ease;
+    background: white;
+
+    &:focus {
+      outline: none;
+      border-color: $primary;
+      box-shadow: 0 0 0 3px rgba(31, 94, 59, 0.15);
+    }
+
+    &::placeholder {
+      color: $gray-400;
+    }
+  }
+
+  textarea {
+    min-height: 150px;
+    resize: vertical;
+  }
+
+  label {
+    font-weight: 500;
+    margin-bottom: 0.35rem;
+    display: block;
+    font-size: 0.95rem;
+  }
+
+  .form-group {
+    margin-bottom: 1.25rem;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// NEWSLETTER SIGNUP
+// ═══════════════════════════════════════════════════════════
+
+.newsletter-section {
+  background-color: $gray-100;
+  padding: 3rem 1.5rem;
+  text-align: center;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+
+  @media (min-width: 768px) {
+    padding: 4rem 2rem;
+  }
+
+  h3 {
+    margin-bottom: 0.5rem;
+  }
+
+  p {
+    max-width: 500px;
+    margin: 0 auto 1.5rem;
+    color: $gray-600;
+  }
+}
+
+.newsletter-form {
+  display: flex;
+  gap: 0;
+  max-width: 480px;
+  margin: 0 auto;
+  flex-direction: column;
+
+  @media (min-width: 640px) {
+    flex-direction: row;
+  }
+
+  input[type="email"] {
+    flex: 1;
+    padding: 0.75rem 1rem;
+    border: 1px solid $gray-200;
+    border-radius: 8px;
+    font-size: 1rem;
+    min-height: 48px;
+    margin-bottom: 0.75rem;
+
+    @media (min-width: 640px) {
+      border-radius: 8px 0 0 8px;
+      margin-bottom: 0;
+    }
+
+    &:focus {
+      outline: none;
+      border-color: $primary;
+    }
+  }
+
+  button {
+    @extend .btn-primary-custom;
+    border-radius: 8px;
+    white-space: nowrap;
+
+    @media (min-width: 640px) {
+      border-radius: 0 8px 8px 0;
+    }
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// DONATE PAGE
+// ═══════════════════════════════════════════════════════════
+
+.donate-amount-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+
+  @media (min-width: 640px) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.amount-btn {
+  padding: 1rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  font-family: var(--font-body);
+  border: 2px solid $gray-200;
+  border-radius: 8px;
+  background: white;
+  color: $charcoal;
+  cursor: pointer;
+  min-height: 56px;
+  transition: all 200ms ease;
+
+  &:hover, &.active {
+    border-color: $primary;
+    background-color: $primary;
+    color: white;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// SCROLL REVEAL ANIMATION
+// Visible by default — animated only after JS confirms ready
+// ═══════════════════════════════════════════════════════════
+
+.reveal-on-scroll {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+// Only apply hidden state when JS has set the data-reveal-ready flag
+[data-reveal-ready] .reveal-on-scroll {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 600ms ease-out, transform 600ms ease-out;
+}
+
+[data-reveal-ready] .reveal-on-scroll.revealed {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal-on-scroll,
+  [data-reveal-ready] .reveal-on-scroll,
+  [data-reveal-ready] .reveal-on-scroll.revealed {
+    opacity: 1 !important;
+    transform: none !important;
+    transition: none !important;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// TWO-COLUMN LAYOUT
+// ═══════════════════════════════════════════════════════════
+
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2rem;
+  align-items: center;
+
+  @media (min-width: 768px) {
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+  }
+}
+
+.two-col-text {
+  h2 {
+    margin-bottom: 1rem;
+  }
+
+  p {
+    margin-bottom: 1.25rem;
+  }
+}
+
+.two-col-image {
+  img {
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// CORE VALUES LIST
+// ═══════════════════════════════════════════════════════════
+
+.values-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    padding: 1rem 0;
+    border-bottom: 1px solid $gray-200;
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    .value-number {
+      font-family: var(--font-heading);
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: $primary;
+      min-width: 2rem;
+      line-height: 1.3;
+    }
+
+    strong {
+      color: $charcoal;
+    }
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// FAQ ACCORDION
+// ═══════════════════════════════════════════════════════════
+
+.faq-item {
+  border-bottom: 1px solid $gray-200;
+  padding: 1.25rem 0;
+
+  summary {
+    font-weight: 600;
+    font-size: 1.05rem;
+    cursor: pointer;
+    padding: 0.5rem 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 44px;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::after {
+      content: '+';
+      font-size: 1.5rem;
+      color: $primary;
+      transition: transform 200ms ease;
+    }
+  }
+
+  &[open] summary::after {
+    content: '−';
+  }
+
+  .faq-answer {
+    padding: 0.75rem 0 0.5rem;
+    color: $gray-600;
+    line-height: 1.7;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// BLOG LISTING — Close gap between hero section and cards
+// ═══════════════════════════════════════════════════════════
+
+// Force the hero <section> inside main.content to have zero bottom margin
+// (defends against any Bootstrap/Quarto default on <section> elements)
+main.content > section {
+  margin-bottom: 0 !important;
+}
+
+.quarto-listing-container-grid {
+  // Nuclear reset — zero ALL structural spacing above the grid
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  border-top: none !important;
+  background-color: #FFFFFF;
+
+  // No ::before — gold accent moved to hero section's bottom border
+
+  .list.grid {
+    padding-top: 0.5rem; // 8px breathing room — the ONLY gap between hero and card
+    margin-top: 0;
+  }
+
+  // Fix Quarto's inline link wrapper — creates phantom vertical spacing
+  .quarto-grid-link {
+    display: block;
+  }
+
+  .quarto-grid-item {
+    margin-top: 1rem;
+    padding-top: 0.75rem;
+    border: 1px solid $gray-200;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: box-shadow 200ms ease, transform 200ms ease;
+
+    &:hover {
+      box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+      transform: translateY(-2px);
+    }
+
+    // Fix the <p> tag Quarto wraps around the image:
+    // Bootstrap sets p { max-width: 75ch } which caps image width
+    p.card-img-top {
+      margin: 0;
+      padding: -0.5rem 0 0 0; // Small top padding above image
+      line-height: 0;
+      max-width: none !important; // Override Bootstrap's p { max-width: 75ch }
+      width: 100%;
+    }
+
+    // Must use `img` element selector to beat Quarto's default:
+    // .quarto-listing-container-grid .quarto-grid-item img.thumbnail-image.card-img { width:65%; height:120px }
+    img.thumbnail-image.card-img {
+      width: 100% !important;
+      height: auto !important; // Override Quarto's inline style="height:150px"
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+      display: block;
+      border-radius: 0; // Top corners handled by parent overflow:hidden
+    }
+
+    .card-body {
+      padding: 1.25rem;
+    }
+
+    .card-title {
+      font-family: var(--font-heading);
+      font-weight: 600;
+      color: $charcoal;
+      margin-bottom: 0.5rem;
+    }
+
+    .listing-categories {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+      margin-bottom: 0.75rem;
+    }
+
+    .listing-category {
+      font-size: 0.7rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      padding: 0.2rem 0.6rem;
+      border-radius: 4px;
+      background: rgba(31, 94, 59, 0.08);
+      color: $primary;
+    }
+
+    .listing-description {
+      font-size: 0.9rem;
+      color: $gray-600;
+      line-height: 1.6;
+    }
+
+    .card-attribution {
+      font-size: 0.8rem;
+      color: $gray-400;
+      padding-top: 0.75rem;
+      border-top: 1px solid $gray-200;
+      margin-top: 0.75rem;
+    }
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// FOOTER CUSTOMIZATION
+// ═══════════════════════════════════════════════════════════
+
+.nav-footer {
+  padding: 2.5rem 1rem 1.5rem !important;
+  font-size: 0.9rem;
+
+  a {
+    color: rgba(247, 246, 242, 0.75) !important;
+    text-decoration: none;
+
+    &:hover {
+      color: $secondary !important;
+    }
+  }
+
+  strong {
+    color: $ivory;
+  }
+
+  small {
+    color: $gray-400;
+  }
+}
+
+// ═══════════════════════════════════════════════════════════
+// UTILITY CLASSES
+// ═══════════════════════════════════════════════════════════
+
+.text-gold { color: $secondary; }
+.text-green { color: $primary; }
+.text-blue { color: $accent; }
+.text-muted { color: $gray-600; }
+.text-center { text-align: center; }
+
+.bg-ivory { background-color: $ivory; }
+.bg-white { background-color: white; }
+.bg-charcoal { background-color: $charcoal; }
+.bg-green { background-color: $primary; }
+
+.mt-0 { margin-top: 0; }
+.mt-1 { margin-top: 0.5rem; }
+.mt-2 { margin-top: 1rem; }
+.mt-3 { margin-top: 1.5rem; }
+.mt-4 { margin-top: 2rem; }
+.mb-0 { margin-bottom: 0; }
+.mb-1 { margin-bottom: 0.5rem; }
+.mb-2 { margin-bottom: 1rem; }
+.mb-3 { margin-bottom: 1.5rem; }
+.mb-4 { margin-bottom: 2rem; }
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}

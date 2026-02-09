@@ -1,0 +1,283 @@
+---
+title: "Support Our Mission"
+description: "Make a tax-deductible donation to Y.E.T. Compassion. Your gift directly supports South Sudanese diaspora youth and families in Nashville."
+page-layout: custom
+toc: false
+---
+
+```{=html}
+<!-- ═══════════════════════════════════════════════ -->
+<!-- HERO SECTION                                    -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 50%, #2B2B2B 100%); min-height: 45vh; display: flex; align-items: center; justify-content: center; padding: 4rem 1.5rem; position: relative; overflow: hidden;">
+  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23C9A227%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
+
+  <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: center;">
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #C9A227; margin-bottom: 1rem;">Donate</p>
+
+    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.25rem;">
+      Invest in the <span style="color: #C9A227;">Next Generation</span>
+    </h1>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 580px; margin: 0 auto;">
+      Every gift makes an immediate impact. Your donation directly funds programs that transform lives in our South Sudanese community.
+    </p>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- CHOOSE YOUR IMPACT                              -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 800px; margin: 0 auto;">
+
+    <div style="text-align: center; margin-bottom: 2.5rem;">
+      <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">Choose Your Impact</h2>
+      <div style="width: 60px; height: 3px; background-color: #C9A227; margin: 0 auto 1rem;"></div>
+      <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: #5A5955;">Select a giving level or enter a custom amount.</p>
+    </div>
+
+    <!-- Amount Grid -->
+    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 1rem; margin-bottom: 2rem;" id="donation-grid">
+
+      <button class="donate-btn" data-amount="25" onclick="selectAmount(this, 25)" style="background: #FFFFFF; border: 2px solid #D9D8D4; border-radius: 12px; padding: 1.5rem 1rem; text-align: center; cursor: pointer; transition: all 200ms ease; font-family: 'Inter', sans-serif;">
+        <div style="font-size: 1.5rem; font-weight: 700; color: #1F5E3B; margin-bottom: 0.25rem;">$25</div>
+        <div style="font-size: 0.8rem; color: #5A5955;">Bible Study Kit</div>
+      </button>
+
+      <button class="donate-btn" data-amount="50" onclick="selectAmount(this, 50)" style="background: #FFFFFF; border: 2px solid #D9D8D4; border-radius: 12px; padding: 1.5rem 1rem; text-align: center; cursor: pointer; transition: all 200ms ease; font-family: 'Inter', sans-serif;">
+        <div style="font-size: 1.5rem; font-weight: 700; color: #1F5E3B; margin-bottom: 0.25rem;">$50</div>
+        <div style="font-size: 0.8rem; color: #5A5955;">Monthly Mentorship</div>
+      </button>
+
+      <button class="donate-btn" data-amount="100" onclick="selectAmount(this, 100)" style="background: #FFFFFF; border: 2px solid #D9D8D4; border-radius: 12px; padding: 1.5rem 1rem; text-align: center; cursor: pointer; transition: all 200ms ease; font-family: 'Inter', sans-serif;">
+        <div style="font-size: 1.5rem; font-weight: 700; color: #1F5E3B; margin-bottom: 0.25rem;">$100</div>
+        <div style="font-size: 0.8rem; color: #5A5955;">Family Workshop</div>
+      </button>
+
+      <button class="donate-btn" data-amount="250" onclick="selectAmount(this, 250)" style="background: #FFFFFF; border: 2px solid #D9D8D4; border-radius: 12px; padding: 1.5rem 1rem; text-align: center; cursor: pointer; transition: all 200ms ease; font-family: 'Inter', sans-serif;">
+        <div style="font-size: 1.5rem; font-weight: 700; color: #1F5E3B; margin-bottom: 0.25rem;">$250</div>
+        <div style="font-size: 0.8rem; color: #5A5955;">Community Event</div>
+      </button>
+
+    </div>
+
+    <!-- Custom Amount + Recurring -->
+    <div style="background: #F7F6F2; border-radius: 12px; padding: 1.5rem; margin-bottom: 2rem;">
+      <div style="display: flex; gap: 1rem; align-items: center; flex-wrap: wrap;">
+        <div style="flex: 1; min-width: 200px;">
+          <label style="display: block; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Custom Amount</label>
+          <div style="display: flex; align-items: center;">
+            <span style="font-family: 'Inter', sans-serif; font-size: 1.1rem; font-weight: 600; color: #5A5955; padding: 0.7rem 0.75rem; background: #FFFFFF; border: 1px solid #D9D8D4; border-right: none; border-radius: 8px 0 0 8px;">$</span>
+            <input type="number" id="custom-amount" placeholder="Enter amount" min="1" style="flex: 1; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 0 8px 8px 0; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF;">
+          </div>
+        </div>
+        <label style="display: flex; align-items: center; gap: 0.5rem; cursor: pointer; font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #2B2B2B; padding-top: 1.25rem;">
+          <input type="checkbox" id="recurring-donation" style="width: 18px; height: 18px; accent-color: #1F5E3B;">
+          <span>Make this a <strong>monthly</strong> gift</span>
+        </label>
+      </div>
+    </div>
+
+    <!-- Donate Button -->
+    <div style="text-align: center; margin-bottom: 1.5rem;">
+      <button id="donate-submit" style="background-color: #C9A227; color: #2B2B2B; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 1.1rem; padding: 1rem 3rem; border-radius: 8px; border: none; cursor: pointer; box-shadow: 0 2px 12px rgba(201,162,39,0.3); transition: all 200ms ease; min-height: 52px;">
+        Donate Now
+      </button>
+      <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #8A8985; margin-top: 0.75rem;">Secure payment processing powered by Stripe</p>
+    </div>
+
+  </div>
+
+  <style>
+    .donate-btn:hover, .donate-btn.active {
+      border-color: #1F5E3B !important;
+      background: rgba(31,94,59,0.05) !important;
+    }
+    .donate-btn.active {
+      border-width: 2px !important;
+      box-shadow: 0 0 0 2px rgba(31,94,59,0.15);
+    }
+    #donate-submit:hover {
+      background-color: #D4B44A !important;
+      transform: translateY(-1px);
+    }
+    @media (max-width: 600px) {
+      #donation-grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+      }
+    }
+    @media (max-width: 480px) {
+      #donation-grid {
+        grid-template-columns: 1fr !important;
+        gap: 0.75rem !important;
+      }
+    }
+  </style>
+
+  <script>
+    function selectAmount(btn, amount) {
+      document.querySelectorAll('.donate-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      document.getElementById('custom-amount').value = amount;
+    }
+  </script>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- SCRIPTURE BANNER                                -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; text-align: center;">
+  <div style="max-width: 700px; margin: 0 auto;">
+    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #C9A227; line-height: 1.7; margin: 0;">
+      "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver."
+    </p>
+    <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
+      — 2 Corinthians 9:7
+    </span>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- YOUR IMPACT — WHAT YOUR GIFT FUNDS              -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 900px; margin: 0 auto;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
+      Where Your Gift Goes
+    </h2>
+    <div style="width: 60px; height: 3px; background-color: #1F5E3B; margin-bottom: 2rem;"></div>
+
+    <!-- Impact Photo Strip -->
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem; margin-bottom: 2rem; border-radius: 12px; overflow: hidden;">
+      <div style="position: relative; overflow: hidden; border-radius: 8px; aspect-ratio: 4/3;">
+        <img loading="lazy" src="/images/project-images/biong-school-building.jpg" alt="Biong School built through donations" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.5rem 0.75rem; padding-top: 1.25rem;">
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; color: #FFFFFF;">School Construction</span>
+        </div>
+      </div>
+      <div style="position: relative; overflow: hidden; border-radius: 8px; aspect-ratio: 4/3;">
+        <img loading="lazy" src="/images/project-images/biong-children-with-food-aid.jpg" alt="Children receiving food donations" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.5rem 0.75rem; padding-top: 1.25rem;">
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; color: #FFFFFF;">Food Distribution</span>
+        </div>
+      </div>
+      <div style="position: relative; overflow: hidden; border-radius: 8px; aspect-ratio: 4/3;">
+        <img loading="lazy" src="/images/project-images/biong-well-pipe-installation.jpg" alt="Workers installing water well pipes" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.5rem 0.75rem; padding-top: 1.25rem;">
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; color: #FFFFFF;">Water Well Drilling</span>
+        </div>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.25rem;">
+
+      <div style="background: #FFFFFF; border-radius: 12px; padding: 1.5rem; display: flex; gap: 1rem; align-items: flex-start;">
+        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">✝</div>
+        <div>
+          <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$25 — Bible Study Kit</strong>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Supplies for weekly spiritual formation programs including study guides and devotionals.</p>
+        </div>
+      </div>
+
+      <div style="background: #FFFFFF; border-radius: 12px; padding: 1.5rem; display: flex; gap: 1rem; align-items: flex-start;">
+        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #C9A227, #D4B44A); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">🎓</div>
+        <div>
+          <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$50 — One Month Mentorship</strong>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Curriculum and materials for one-on-one mentoring relationships with our youth.</p>
+        </div>
+      </div>
+
+      <div style="background: #FFFFFF; border-radius: 12px; padding: 1.5rem; display: flex; gap: 1rem; align-items: flex-start;">
+        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #3A7CA5, #4A92BF); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">🏠</div>
+        <div>
+          <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$100 — Family Workshop</strong>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Host a workshop on parenting, education, or financial literacy for diaspora families.</p>
+        </div>
+      </div>
+
+      <div style="background: #FFFFFF; border-radius: 12px; padding: 1.5rem; display: flex; gap: 1rem; align-items: flex-start;">
+        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">🤝</div>
+        <div>
+          <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$250 — Community Event</strong>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Underwrite a major gathering that builds connection, belonging, and cultural celebration.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <style>
+    @media (max-width: 640px) {
+      div[style*="grid-template-columns: repeat(2, 1fr)"][style*="gap: 1.25rem"] {
+        grid-template-columns: 1fr !important;
+      }
+    }
+  </style>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- WHY YOUR GIFT MATTERS                           -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 780px; margin: 0 auto;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
+      Why Your Gift Matters
+    </h2>
+    <div style="width: 60px; height: 3px; background-color: #C9A227; margin-bottom: 2rem;"></div>
+
+    <div style="display: flex; flex-direction: column; gap: 1.25rem;">
+
+      <div style="display: flex; gap: 1rem; align-items: flex-start;">
+        <div style="width: 8px; height: 8px; background-color: #1F5E3B; border-radius: 50%; flex-shrink: 0; margin-top: 0.6rem;"></div>
+        <div>
+          <strong style="font-family: 'Inter', sans-serif; color: #2B2B2B;">Transparent Stewardship.</strong>
+          <span style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #5A5955; line-height: 1.7;"> Y.E.T. Compassion operates with transparency and accountability. Every dollar is stewarded responsibly to serve our mission.</span>
+        </div>
+      </div>
+
+      <div style="display: flex; gap: 1rem; align-items: flex-start;">
+        <div style="width: 8px; height: 8px; background-color: #C9A227; border-radius: 50%; flex-shrink: 0; margin-top: 0.6rem;"></div>
+        <div>
+          <strong style="font-family: 'Inter', sans-serif; color: #2B2B2B;">Tax-Deductible.</strong>
+          <span style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #5A5955; line-height: 1.7;"> Y.E.T. Compassion is a 501(c)(3) nonprofit organization. Your contribution is fully tax-deductible to the extent allowed by law.</span>
+        </div>
+      </div>
+
+      <div style="display: flex; gap: 1rem; align-items: flex-start;">
+        <div style="width: 8px; height: 8px; background-color: #3A7CA5; border-radius: 50%; flex-shrink: 0; margin-top: 0.6rem;"></div>
+        <div>
+          <strong style="font-family: 'Inter', sans-serif; color: #2B2B2B;">Direct Community Impact.</strong>
+          <span style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #5A5955; line-height: 1.7;"> Your gift directly supports South Sudanese diaspora youth and families through mentorship, spiritual formation, education support, and community connection.</span>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- FINAL CTA                                       -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 60%, #2B2B2B 100%); padding: 3.5rem 1.5rem; text-align: center;">
+  <div style="max-width: 700px; margin: 0 auto;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #FFFFFF; margin-bottom: 1rem; font-weight: 600;">
+      Questions About Your Gift?
+    </h2>
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2rem;">
+      Contact us at <a href="mailto:info@yetcompassion.org" style="color: #C9A227; text-decoration: none; font-weight: 600;">info@yetcompassion.org</a> to discuss how your donation makes the most impact.
+    </p>
+    <a href="/contact.html" style="display: inline-block; background-color: #C9A227; color: #2B2B2B; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; text-decoration: none; box-shadow: 0 2px 8px rgba(201,162,39,0.3); transition: all 200ms ease;">
+      Get in Touch
+    </a>
+  </div>
+</section>
+
+<script src="https://js.stripe.com/v3/"></script>
+<script>
+  // Stripe integration will be configured here
+  // Initialize Stripe with your publishable key
+  // Handle payment processing and recurring donations
+  // Connect to your backend endpoint for payment intent creation
+</script>
+```

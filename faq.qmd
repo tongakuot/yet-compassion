@@ -1,0 +1,291 @@
+---
+title: "Frequently Asked Questions"
+description: "Answers to common questions about Y.E.T. Compassion, our mission, programs, and how to get involved."
+toc: false
+page-layout: custom
+---
+
+```{=html}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Y.E.T. Compassion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Y.E.T. Compassion is a nonprofit ministry based in Nashville, Tennessee, dedicated to serving South Sudanese diaspora communities. We provide youth mentorship, spiritual formation, education support, family workshops, and community building programs to help young people and families thrive."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who founded Y.E.T. Compassion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Y.E.T. Compassion was founded by Gai Bol Luom, who has deep roots in the South Sudanese community and a passion for empowering the next generation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where is Y.E.T. Compassion based?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Y.E.T. Compassion is based in Nashville, Tennessee, where we serve our South Sudanese diaspora community."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What programs does Y.E.T. Compassion offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Y.E.T. Compassion offers a range of programs including youth Bible studies, one-on-one mentorship, education support and tutoring, family workshops on parenting and financial literacy, community events, and spiritual formation programming."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I donate?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can make a tax-deductible donation through our website using our secure Stripe payment processor. Visit our Donate page to choose a one-time or recurring gift."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is my donation tax-deductible?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Y.E.T. Compassion is a registered 501(c)(3) nonprofit organization, so all donations are fully tax-deductible to the extent allowed by law. We'll provide documentation for your records."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can I volunteer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We welcome volunteers in many capacities: youth mentoring, teaching, event coordination, administration, professional skills training, and spiritual formation leadership. Visit our Get Involved page to fill out a volunteer interest form."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Who does Y.E.T. Compassion serve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Y.E.T. Compassion primarily serves South Sudanese diaspora youth and families in Nashville, Tennessee. We focus on empowering young people ages 13-25 and their families with mentorship, education, spiritual growth, and community connection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Y.E.T. Compassion work in South Sudan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Currently, Y.E.T. Compassion's programs are based in Nashville, Tennessee, where we serve the local South Sudanese diaspora community. We may explore international partnerships in the future."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can my church partner with Y.E.T. Compassion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Churches can partner with Y.E.T. Compassion in several ways: co-hosting events, sponsoring programs, providing volunteer leadership, incorporating our updates into missions work, or offering space for gatherings. Contact us at info@yetcompassion.org to discuss partnership opportunities."
+      }
+    }
+  ]
+}
+</script>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- HERO SECTION                                    -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 50%, #2B2B2B 100%); padding: 3.5rem 1.5rem; position: relative; overflow: hidden;">
+  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23C9A227%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
+
+  <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: left;">
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #C9A227; margin-bottom: 1rem;">FAQ</p>
+
+    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.25rem;">
+      Frequently Asked <span style="color: #C9A227;">Questions</span>
+    </h1>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 620px;">
+      Find answers to common questions about Y.E.T. Compassion, our mission, programs, and how you can be part of the work God is doing.
+    </p>
+
+    <!-- Quick-nav pills -->
+    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.5rem;">
+      <a href="#about-us" class="faq-pill" style="display: inline-block; padding: 0.4rem 1rem; border: 1px solid rgba(201,162,39,0.4); border-radius: 20px; color: #C9A227; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; text-decoration: none; transition: all 200ms ease;">About Us</a>
+      <a href="#programs-giving" class="faq-pill" style="display: inline-block; padding: 0.4rem 1rem; border: 1px solid rgba(201,162,39,0.4); border-radius: 20px; color: #C9A227; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; text-decoration: none; transition: all 200ms ease;">Programs & Giving</a>
+      <a href="#get-involved" class="faq-pill" style="display: inline-block; padding: 0.4rem 1rem; border: 1px solid rgba(201,162,39,0.4); border-radius: 20px; color: #C9A227; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; text-decoration: none; transition: all 200ms ease;">Get Involved</a>
+    </div>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- ABOUT US SECTION                                -->
+<!-- ═══════════════════════════════════════════════ -->
+<section id="about-us" style="background-color: #F7F6F2; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 800px; margin: 0 auto;">
+    <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 2rem;">
+      <div style="width: 4px; height: 28px; background: #1F5E3B; border-radius: 2px;"></div>
+      <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #2B2B2B; margin: 0;">About Us</h2>
+    </div>
+
+    <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">What is Y.E.T. Compassion?</summary>
+      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+        Y.E.T. Compassion is a nonprofit ministry based in Nashville, Tennessee, dedicated to serving South Sudanese diaspora communities. We provide youth mentorship, spiritual formation, education support, family workshops, and community building programs to help young people and families thrive.
+      </p>
+    </details>
+
+    <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">Who founded Y.E.T. Compassion?</summary>
+      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+        Y.E.T. Compassion was founded by Gai Bol Luom, who has deep roots in the South Sudanese community and a passion for empowering the next generation.
+      </p>
+    </details>
+
+    <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">Where is Y.E.T. Compassion based?</summary>
+      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+        Y.E.T. Compassion is based in Nashville, Tennessee, where we serve our South Sudanese diaspora community.
+      </p>
+    </details>
+
+    <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">Who does Y.E.T. Compassion serve?</summary>
+      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+        Y.E.T. Compassion primarily serves South Sudanese diaspora youth and families in Nashville, Tennessee. We focus on empowering young people ages 13–25 and their families with mentorship, education, spiritual growth, and community connection.
+      </p>
+    </details>
+
+    <details style="margin-bottom: 0; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">Does Y.E.T. Compassion work in South Sudan?</summary>
+      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+        Currently, Y.E.T. Compassion's programs are based in Nashville, Tennessee, where we serve the local South Sudanese diaspora community. We may explore international partnerships in the future.
+      </p>
+    </details>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- PROGRAMS & GIVING SECTION                       -->
+<!-- ═══════════════════════════════════════════════ -->
+<section id="programs-giving" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 800px; margin: 0 auto;">
+    <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 2rem;">
+      <div style="width: 4px; height: 28px; background: #C9A227; border-radius: 2px;"></div>
+      <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #2B2B2B; margin: 0;">Programs & Giving</h2>
+    </div>
+
+    <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #F7F6F2; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">What programs does Y.E.T. Compassion offer?</summary>
+      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+        Y.E.T. Compassion offers a range of programs including youth Bible studies, one-on-one mentorship, education support and tutoring, family workshops on parenting and financial literacy, community events, and spiritual formation programming. Visit our <a href="programs/index.html" style="color: #1F5E3B; font-weight: 500;">Programs page</a> to learn more.
+      </p>
+    </details>
+
+    <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #F7F6F2; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">How can I donate?</summary>
+      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+        You can make a tax-deductible donation through our website using our secure Stripe payment processor. Visit our <a href="donate.html" style="color: #1F5E3B; font-weight: 500;">Donate page</a> to choose a one-time or recurring gift.
+      </p>
+    </details>
+
+    <details style="margin-bottom: 0; padding: 1.25rem 1.5rem; background-color: #F7F6F2; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">Is my donation tax-deductible?</summary>
+      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+        Yes. Y.E.T. Compassion is a registered 501(c)(3) nonprofit organization, so all donations are fully tax-deductible to the extent allowed by law. We'll provide documentation for your records.
+      </p>
+    </details>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- SCRIPTURE DIVIDER                               -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #1F5E3B; padding: 2.5rem 1.5rem;">
+  <div style="max-width: 700px; margin: 0 auto; text-align: center;">
+    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: clamp(1.15rem, 2.5vw, 1.4rem); font-style: italic; color: rgba(255,255,255,0.92); line-height: 1.7; margin-bottom: 0.75rem;">
+      "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you."
+    </p>
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #C9A227; margin: 0;">— James 1:5 (NIV)</p>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- GET INVOLVED SECTION                            -->
+<!-- ═══════════════════════════════════════════════ -->
+<section id="get-involved" style="background-color: #F7F6F2; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 800px; margin: 0 auto;">
+    <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 2rem;">
+      <div style="width: 4px; height: 28px; background: #3A7CA5; border-radius: 2px;"></div>
+      <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #2B2B2B; margin: 0;">Getting Involved</h2>
+    </div>
+
+    <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">How can I volunteer?</summary>
+      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+        We welcome volunteers in many capacities: youth mentoring, teaching, event coordination, administration, professional skills training, and spiritual formation leadership. Visit our <a href="get-involved.html" style="color: #1F5E3B; font-weight: 500;">Get Involved page</a> to fill out a volunteer interest form.
+      </p>
+    </details>
+
+    <details style="margin-bottom: 0; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">How can my church partner with Y.E.T. Compassion?</summary>
+      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+        Churches can partner with Y.E.T. Compassion in several ways: co-hosting events, sponsoring programs, providing volunteer leadership, incorporating our updates into missions work, or offering space for gatherings. Contact us at <a href="mailto:info@yetcompassion.org" style="color: #1F5E3B; font-weight: 500;">info@yetcompassion.org</a> to discuss partnership opportunities.
+      </p>
+    </details>
+  </div>
+</section>
+
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- CTA SECTION                                     -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 700px; margin: 0 auto; text-align: center;">
+    <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(1.5rem, 3.5vw, 2rem); font-weight: 700; color: #FFFFFF; margin-bottom: 1rem;">
+      Didn't Find Your Answer?
+    </h2>
+    <p style="font-family: 'Inter', sans-serif; font-size: 1rem; color: rgba(255,255,255,0.75); line-height: 1.7; margin-bottom: 2rem;">
+      Reach out to us directly — we'd love to hear from you.
+    </p>
+    <a href="contact.html" style="display: inline-block; padding: 0.85rem 2.25rem; background: #C9A227; color: #FFFFFF; font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 600; text-decoration: none; border-radius: 6px; letter-spacing: 0.02em; transition: background 200ms ease;">Contact Us</a>
+  </div>
+</section>
+
+<style>
+  .faq-pill:hover { background: rgba(201,162,39,0.15); }
+  details[open] { border-color: #1F5E3B !important; }
+  details summary { list-style: none; }
+  details summary::-webkit-details-marker { display: none; }
+  details summary::before {
+    content: "+";
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    margin-right: 0.75rem;
+    background: #F0EFEB;
+    border-radius: 50%;
+    font-weight: 600;
+    font-size: 1rem;
+    color: #1F5E3B;
+    flex-shrink: 0;
+    transition: all 200ms ease;
+    float: left;
+    margin-top: 0;
+  }
+  details[open] summary::before {
+    content: "−";
+    background: #1F5E3B;
+    color: #FFFFFF;
+  }
+</style>
+```

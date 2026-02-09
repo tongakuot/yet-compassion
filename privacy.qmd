@@ -1,0 +1,39 @@
+---
+title: "Privacy Policy"
+description: "Y.E.T. Compassion privacy policy — how we collect, use, and protect your personal information."
+toc: false
+---
+
+## Privacy Policy
+
+**Effective Date:** January 1, 2025
+
+Youth Evangelism Training (Y.E.T.) Compassion ("we," "our," or "us") respects your privacy and is committed to protecting the personal information you share with us.
+
+## Information We Collect
+
+We may collect the following types of information:
+
+**Information you provide directly:** name, email address, phone number, mailing address, and donation information when you contact us, volunteer, donate, or subscribe to our newsletter.
+
+**Automatically collected information:** basic analytics data such as pages visited, time on site, and referring URLs through Google Analytics 4.
+
+## How We Use Your Information
+
+We use your information to process donations and send tax receipts, communicate about our programs, events, and impact, respond to your inquiries, improve our website and services, and comply with legal obligations.
+
+## Donation Processing
+
+All financial transactions are processed securely through Stripe, a PCI-compliant payment processor. We do not store your credit card information on our servers.
+
+## Information Sharing
+
+We do not sell, trade, or rent your personal information to third parties. We may share information with trusted service providers (Stripe, Mailchimp, Google Analytics) who assist us in operating our website, provided they agree to keep your information confidential.
+
+## Your Rights
+
+You may request access to, correction of, or deletion of your personal information at any time by contacting us at [info@yetcompassion.org](mailto:info@yetcompassion.org).
+
+## Contact
+
+For privacy-related questions, contact us at [info@yetcompassion.org](mailto:info@yetcompassion.org) or write to: Y.E.T. Compassion, Nashville, TN.

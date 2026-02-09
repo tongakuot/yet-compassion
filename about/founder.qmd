@@ -1,0 +1,202 @@
+---
+title: "Our Founder — Gai Bol Luom"
+description: "Meet Gai Bol Luom, founder of Y.E.T. Compassion. Learn about his journey from South Sudan, his faith story, and his vision for serving diaspora youth in Nashville."
+page-layout: custom
+toc: false
+---
+
+```{=html}
+<!-- ═══════════════════════════════════════════════ -->
+<!-- HERO SECTION                                    -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 50%, #2B2B2B 100%); padding: 4rem 1.5rem; position: relative; overflow: hidden;">
+  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23C9A227%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
+
+  <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: center;">
+    <!-- Avatar placeholder -->
+    <div style="width: 120px; height: 120px; border-radius: 50%; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem; font-size: 3rem; color: white; box-shadow: 0 4px 20px rgba(0,0,0,0.3); border: 3px solid rgba(201,162,39,0.3);">G</div>
+
+    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 0.5rem;">
+      Gai Bol Luom
+    </h1>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 500; color: #C9A227; margin-bottom: 0.5rem;">
+      Founder &amp; Executive Director
+    </p>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.6); margin-bottom: 0;">
+      Nashville, TN
+    </p>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- FROM DISPLACEMENT TO PURPOSE                    -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 780px; margin: 0 auto; text-align: left;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
+      From Displacement to Purpose
+    </h2>
+    <div style="width: 60px; height: 3px; background-color: #C9A227; margin-bottom: 1.5rem;"></div>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
+      Gai Bol Luom's story is one of resilience, faith, and divine calling. Born and raised in South Sudan, Gai's early life was marked by the profound challenges facing his nation — conflict, displacement, and the struggle for stability that continues to shape the lives of millions across the diaspora.
+    </p>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
+      Like many South Sudanese families, Gai and his loved ones experienced the upheaval of displacement. This journey — marked by uncertainty, loss, and the search for safety and opportunity — became the crucible in which his faith deepened and his calling crystallized. Through it all, Gai clung to Scripture and community, discovering that faith is not a luxury in times of plenty, but a lifeline in seasons of trial.
+    </p>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 0;">
+      Gai pursued education with determination, recognizing it as both a personal pathway and a tool for serving others. His academic journey reinforced what he had learned through lived experience: that preparation and education unlock potential, and that young people — especially those carrying the weight of displacement and cultural transition — need intentional investment to thrive.
+    </p>
+
+    <!-- Photo: Gai on the ground in South Sudan -->
+    <div style="margin-top: 2.5rem; border-radius: 12px; overflow: hidden; position: relative;">
+      <img loading="lazy" src="/images/project-images/biong-food-distribution-leader.jpg" alt="Leading food distribution efforts in Biong, South Sudan" style="width: 100%; height: auto; display: block;">
+      <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.75)); padding: 1.25rem; padding-top: 2.5rem;">
+        <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; display: block;">Food Distribution — Biong, South Sudan</span>
+        <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; color: rgba(255,255,255,0.7);">Leading community aid efforts on the ground</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- FAITH AS FOUNDATION                             -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 780px; margin: 0 auto; text-align: left;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
+      Faith as Foundation
+    </h2>
+    <div style="width: 60px; height: 3px; background-color: #1F5E3B; margin-bottom: 1.5rem;"></div>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
+      Throughout his journey, Gai's deepening relationship with Christ became central to his identity and purpose. He came to understand that faith was not separate from his cultural identity or his responsibility to his community — rather, it was the lens through which he could see both with clarity and love.
+    </p>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
+      Gai's faith journey taught him that God sees the marginalized, honors the displaced, and raises up leaders from unexpected places. He witnessed firsthand how Scripture speaks powerfully to those facing adversity, and how a faith community rooted in God's Word becomes a place of healing, hope, and transformation.
+    </p>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 0;">
+      This spiritual foundation became the bedrock upon which Y.E.T. Compassion was built. Gai understood that serving South Sudanese youth without addressing the spiritual dimension of their journey would be incomplete. Young people need not just education and skills — they need to know they are seen, valued, and called by God to something greater than their circumstances.
+    </p>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- PERSONAL CONVICTION — SCRIPTURE BANNER          -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; text-align: center;">
+  <div style="max-width: 700px; margin: 0 auto;">
+    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #C9A227; line-height: 1.7; margin: 0 0 0.75rem;">
+      "I have no greater joy than to hear that my children are walking in the truth."
+    </p>
+    <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; display: block; margin-bottom: 1.25rem;">
+      — 3 John 1:4 (ESV)
+    </span>
+    <p style="font-family: 'Inter', sans-serif; font-style: italic; font-size: 0.95rem; color: rgba(255,255,255,0.65); line-height: 1.6; max-width: 550px; margin: 0 auto;">
+      "This Scripture guides my work every day. When our young people walk in truth — understanding their identity in Christ, their potential, their calling — everything changes."
+    </p>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- VISION FOR Y.E.T. COMPASSION                    -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 780px; margin: 0 auto; text-align: left;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
+      The Vision for Y.E.T. Compassion
+    </h2>
+    <div style="width: 60px; height: 3px; background-color: #C9A227; margin-bottom: 1.5rem;"></div>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 2rem;">
+      Gai founded Y.E.T. Compassion with a specific calling: to serve South Sudanese diaspora youth and families in Nashville and beyond. He chose Nashville intentionally — recognizing it as a growing hub for South Sudanese communities while also a city with deep spiritual roots and resources that could support transformative work.
+    </p>
+
+    <div style="display: grid; grid-template-columns: 1fr; gap: 1.5rem;">
+      <div style="padding: 1.5rem; background: #F7F6F2; border-radius: 8px; border-left: 4px solid #1F5E3B;">
+        <strong style="display: block; font-size: 1rem; color: #2B2B2B; margin-bottom: 0.5rem;">Youth as Leaders</strong>
+        <span style="font-size: 0.95rem; color: #5A5955; line-height: 1.7;">Young people are not problems to be managed, but leaders to be developed. They carry unique gifts, resilience, and perspectives that the broader church and society need.</span>
+      </div>
+      <div style="padding: 1.5rem; background: #F7F6F2; border-radius: 8px; border-left: 4px solid #C9A227;">
+        <strong style="display: block; font-size: 1rem; color: #2B2B2B; margin-bottom: 0.5rem;">Education and Faith Inseparable</strong>
+        <span style="font-size: 0.95rem; color: #5A5955; line-height: 1.7;">True empowerment comes when young people are equipped intellectually and spiritually — when they understand both how to succeed and why their faith must anchor that success.</span>
+      </div>
+      <div style="padding: 1.5rem; background: #F7F6F2; border-radius: 8px; border-left: 4px solid #3A7CA5;">
+        <strong style="display: block; font-size: 1rem; color: #2B2B2B; margin-bottom: 0.5rem;">Community and Accountability</strong>
+        <span style="font-size: 0.95rem; color: #5A5955; line-height: 1.7;">Individuals thrive within healthy communities. Y.E.T. Compassion intentionally builds spaces where youth, families, mentors, and faith leaders are accountable to one another.</span>
+      </div>
+      <div style="padding: 1.5rem; background: #F7F6F2; border-radius: 8px; border-left: 4px solid #1F5E3B;">
+        <strong style="display: block; font-size: 1rem; color: #2B2B2B; margin-bottom: 0.5rem;">Culture as Strength</strong>
+        <span style="font-size: 0.95rem; color: #5A5955; line-height: 1.7;">The South Sudanese experience — with all its pain and beauty — is not something to escape. It is part of young people's identity and a source of strength when properly honored.</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- LEADERSHIP PHILOSOPHY                           -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 780px; margin: 0 auto; text-align: left;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
+      Leadership Philosophy
+    </h2>
+    <div style="width: 60px; height: 3px; background-color: #1F5E3B; margin-bottom: 1.5rem;"></div>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 2rem;">
+      Gai leads with humility, conviction, and deep love for the communities he serves.
+    </p>
+
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
+      <div style="text-align: center; padding: 1.5rem;">
+        <div style="font-size: 1.5rem; margin-bottom: 0.75rem; color: #1F5E3B;">✦</div>
+        <strong style="display: block; font-size: 0.95rem; color: #2B2B2B; margin-bottom: 0.35rem;">Servant Leadership</strong>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Leaders exist to serve, not to be served. Actively involved in the lives of those Y.E.T. serves.</span>
+      </div>
+      <div style="text-align: center; padding: 1.5rem;">
+        <div style="font-size: 1.5rem; margin-bottom: 0.75rem; color: #C9A227;">✦</div>
+        <strong style="display: block; font-size: 0.95rem; color: #2B2B2B; margin-bottom: 0.35rem;">Collaborative Vision</strong>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Developing other leaders, shared decision-making, and space for community voices.</span>
+      </div>
+      <div style="text-align: center; padding: 1.5rem;">
+        <div style="font-size: 1.5rem; margin-bottom: 0.75rem; color: #3A7CA5;">✦</div>
+        <strong style="display: block; font-size: 0.95rem; color: #2B2B2B; margin-bottom: 0.35rem;">Integrity &amp; Accountability</strong>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Complete transparency and financial integrity. Every resource honors donors and youth alike.</span>
+      </div>
+      <div style="text-align: center; padding: 1.5rem;">
+        <div style="font-size: 1.5rem; margin-bottom: 0.75rem; color: #1F5E3B;">✦</div>
+        <strong style="display: block; font-size: 0.95rem; color: #2B2B2B; margin-bottom: 0.35rem;">Long-Term Thinking</strong>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Generational investment over quick wins. Trusting that faithfulness bears lasting fruit.</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- CTA — BACK NAVIGATION                           -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; text-align: center;">
+  <div style="max-width: 700px; margin: 0 auto;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.5rem, 3vw, 2rem); color: #FFFFFF; margin-bottom: 1rem;">
+      Discover Our Programs
+    </h2>
+    <p style="font-family: 'Inter', sans-serif; font-size: 1rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2rem;">
+      See how Gai's vision comes to life through Y.E.T. Compassion's programs and partnerships.
+    </p>
+    <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+      <a href="/programs/index.html" style="display: inline-block; background-color: #C9A227; color: #2B2B2B; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 0.95rem; padding: 0.75rem 1.75rem; border-radius: 8px; text-decoration: none; box-shadow: 0 2px 8px rgba(201,162,39,0.3); transition: all 200ms ease;">
+        Explore Programs
+      </a>
+      <a href="/about/index.html" style="display: inline-block; background: transparent; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.95rem; padding: 0.75rem 1.75rem; border-radius: 8px; border: 2px solid rgba(255,255,255,0.5); text-decoration: none; transition: all 200ms ease;">
+        ← Back to About
+      </a>
+    </div>
+  </div>
+</section>
+```

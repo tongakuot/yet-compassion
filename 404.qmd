@@ -1,0 +1,55 @@
+---
+title: "Page Not Found"
+description: "The page you're looking for doesn't exist. Return to the Y.E.T. Compassion homepage."
+toc: false
+page-layout: custom
+robots: "noindex, follow"
+---
+
+```{=html}
+<!-- ═══════════════════════════════════════════════ -->
+<!-- 404 PAGE                                        -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 50%, #2B2B2B 100%); min-height: 100vh; display: flex; align-items: center; justify-content: center; padding: 3rem 1.5rem; position: relative; overflow: hidden;">
+  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23C9A227%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
+
+  <div style="position: relative; z-index: 2; max-width: 620px; text-align: center;">
+    <!-- 404 Number -->
+    <p style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(4.5rem, 12vw, 7rem); font-weight: 700; color: #C9A227; line-height: 1; margin-bottom: 0.5rem; opacity: 0.85;">404</p>
+
+    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(1.5rem, 4vw, 2.25rem); font-weight: 700; color: #FFFFFF; margin-bottom: 1rem;">
+      Page Not Found
+    </h1>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: clamp(0.95rem, 2vw, 1.05rem); color: rgba(255,255,255,0.7); line-height: 1.7; margin-bottom: 2.5rem;">
+      We couldn't find the page you're looking for. It may have been moved, renamed, or doesn't exist yet. Let's get you back on track.
+    </p>
+
+    <!-- Action Buttons -->
+    <div style="display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap; margin-bottom: 3rem;">
+      <a href="/index.html" style="display: inline-block; padding: 0.8rem 2rem; background: #1F5E3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; text-decoration: none; border-radius: 6px; transition: background 200ms ease;">Back to Home</a>
+      <a href="/get-involved.html" style="display: inline-block; padding: 0.8rem 2rem; background: transparent; color: #C9A227; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; text-decoration: none; border-radius: 6px; border: 1px solid rgba(201,162,39,0.5); transition: all 200ms ease;">Get Involved</a>
+      <a href="/contact.html" style="display: inline-block; padding: 0.8rem 2rem; background: transparent; color: #C9A227; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; text-decoration: none; border-radius: 6px; border: 1px solid rgba(201,162,39,0.5); transition: all 200ms ease;">Contact Us</a>
+    </div>
+
+    <!-- Helpful Links Card -->
+    <div style="background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; padding: 2rem; text-align: left; backdrop-filter: blur(8px);">
+      <h3 style="font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #C9A227; margin-top: 0; margin-bottom: 1.25rem;">Helpful Links</h3>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem;">
+        <a href="/about/index.html" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">About Us</a>
+        <a href="/programs/index.html" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">Programs</a>
+        <a href="/donate.html" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">Support Our Mission</a>
+        <a href="/events/index.html" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">Upcoming Events</a>
+        <a href="/blog/index.html" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">Stories & Updates</a>
+        <a href="/faq.html" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">FAQ</a>
+      </div>
+    </div>
+
+    <!-- Scripture -->
+    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.05rem; font-style: italic; color: rgba(255,255,255,0.5); margin-top: 2.5rem; line-height: 1.6;">
+      "For I know the plans I have for you," declares the Lord.
+    </p>
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: rgba(201,162,39,0.5); margin-top: 0.25rem;">— Jeremiah 29:11</p>
+  </div>
+</section>
+```

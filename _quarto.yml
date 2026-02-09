@@ -1,0 +1,101 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "**/*.qmd"
+    - "!IMAGE-AUDIT-REPORT.md"
+    - "!QUICK-IMAGE-REFERENCE.md"
+    - "!YET-COMPASSION-DESIGN-SYSTEM.md"
+
+website:
+  title: "Y.E.T. Compassion"
+  description: "Y.E.T. Compassion equips South Sudanese diaspora youth with the Gospel of Christ and the practical skills to lead with integrity, build stable families, and transform their communities."
+  favicon: images/logo.png
+  site-url: https://www.yetcompassion.org
+  repo-url: https://github.com/yetcompassion/website
+
+  open-graph:
+    locale: en_US
+    site-name: "Y.E.T. Compassion"
+    image: /images/logo.png
+    description: "Equipping South Sudanese diaspora youth with faith, leadership, and practical skills."
+
+  twitter-card:
+    card-style: summary_large_image
+    site: "@yetcompassion"
+
+  navbar:
+    background: "#2B2B2B"
+    foreground: "#F7F6F2"
+    logo: images/logo.png
+    logo-alt: "Y.E.T. Compassion"
+    pinned: true
+    title: false
+    collapse-below: md
+    right:
+      - text: "About"
+        menu:
+          - text: "Mission & Vision"
+            href: about/index.qmd
+          - text: "Our Founder"
+            href: about/founder.qmd
+          - text: "Board of Directors"
+            href: about/board.qmd
+      - text: "Programs"
+        href: programs/index.qmd
+      - text: "Events"
+        href: events/index.qmd
+      - text: "Get Involved"
+        href: get-involved.qmd
+      - text: "Blog"
+        href: blog/index.qmd
+      - text: "Contact"
+        href: contact.qmd
+      - text: "Donate"
+        href: donate.qmd
+    search: true
+
+  page-footer:
+    background: "#2B2B2B"
+    foreground: "#F7F6F2"
+    left: |
+      **Y.E.T. Compassion**<br>
+      Nashville, Tennessee<br>
+      <small>© 2024–2026 Youth Evangelism Training (Y.E.T.) Compassion. All rights reserved.</small>
+    center: |
+      [Mission & Vision](/about/index.qmd) | [Programs](/programs/index.qmd) | [FAQ](/faq.qmd)<br>
+      <small>*"Excellence is not what we aspire to — it's what we deliver."*</small>
+    right: |
+      [Contact Us](/contact.qmd)<br>
+      [Facebook](https://www.facebook.com/YetCompassion) | [LinkedIn](https://www.linkedin.com/company/yetcompassion)<br>
+      <small>[Privacy Policy](/privacy.qmd) | [Financial Transparency](/transparency.qmd)</small>
+
+  page-navigation: true
+  bread-crumbs: true
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles/custom.scss]
+    css: styles/custom.css
+    fontsize: 18px
+    linestretch: 1.6
+    mainfont: "'Inter', 'Source Sans 3', -apple-system, BlinkMacSystemFont, sans-serif"
+    monofont: "'JetBrains Mono', 'Fira Code', monospace"
+    include-in-header:
+      - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,500&display=swap" rel="stylesheet">
+          <meta name="robots" content="index, follow">
+          <meta name="author" content="Y.E.T. Compassion">
+          <meta name="geo.region" content="US-TN">
+          <meta name="geo.placename" content="Nashville">
+    include-after-body:
+      - file: _includes/footer-scripts.html
+    smooth-scroll: true
+    anchor-sections: true
+    code-copy: true
+    toc: false

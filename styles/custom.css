@@ -1,0 +1,21 @@
+/* Y.E.T. Compassion — Additional CSS (non-SCSS fallback) */
+/* This file handles styles that don't require SCSS compilation */
+
+/* Quarto-specific overrides for full-width sections */
+.quarto-container {
+  overflow-x: hidden;
+}
+
+#quarto-content > * {
+  overflow-x: hidden;
+}
+
+/* Ensure full-bleed sections work within Quarto's content container */
+.column-page,
+.column-screen {
+  max-width: 100vw;
+}
+
+
+
+

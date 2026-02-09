@@ -1,0 +1,323 @@
+---
+title: "Events & Gatherings"
+description: "Discover upcoming events, past highlights, and community gatherings hosted by Y.E.T. Compassion in Nashville — from fundraisers and public speaking to annual celebrations."
+page-layout: custom
+toc: false
+---
+
+```{=html}
+<!-- ═══════════════════════════════════════════════ -->
+<!-- HERO SECTION                                    -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 50%, #2B2B2B 100%); min-height: 50vh; display: flex; align-items: center; justify-content: center; padding: 4rem 1.5rem; position: relative; overflow: hidden;">
+  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23C9A227%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
+
+  <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: left;">
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #C9A227; margin-bottom: 1rem;">Events & Gatherings</p>
+
+    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.5rem;">
+      Where Community <span style="color: #C9A227;">Comes Together</span>
+    </h1>
+
+    <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 620px; margin: 0 0 2rem;">
+      From fundraising galas and public speaking engagements to annual celebrations and youth retreats — every Y.E.T. Compassion gathering is an opportunity to build connection, grow together, and strengthen our mission.
+    </p>
+
+    <!-- Quick-nav anchors -->
+    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+      <a href="#upcoming" class="ev-pill" style="display: inline-block; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; color: rgba(255,255,255,0.7); padding: 0.4rem 1rem; border: 1px solid rgba(255,255,255,0.2); border-radius: 20px; text-decoration: none; transition: all 200ms ease;">📅 Upcoming</a>
+      <a href="#highlights" class="ev-pill" style="display: inline-block; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; color: rgba(255,255,255,0.7); padding: 0.4rem 1rem; border: 1px solid rgba(255,255,255,0.2); border-radius: 20px; text-decoration: none; transition: all 200ms ease;">🌟 Highlights</a>
+      <a href="#recurring" class="ev-pill" style="display: inline-block; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; color: rgba(255,255,255,0.7); padding: 0.4rem 1rem; border: 1px solid rgba(255,255,255,0.2); border-radius: 20px; text-decoration: none; transition: all 200ms ease;">🔄 Regular Programs</a>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- UPCOMING EVENTS                                 -->
+<!-- ═══════════════════════════════════════════════ -->
+<section id="upcoming" class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 900px; margin: 0 auto;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
+      Upcoming Events
+    </h2>
+    <div style="width: 60px; height: 3px; background-color: #C9A227; margin-bottom: 2rem;"></div>
+
+    <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+
+      <!-- Event 1: Annual Fundraiser Gala -->
+      <div style="background: #F7F6F2; border-radius: 12px; overflow: hidden; display: grid; grid-template-columns: 100px 1fr; border-left: 4px solid #C9A227;">
+        <div style="background: #2B2B2B; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 1rem 0.5rem;">
+          <span style="font-family: 'Playfair Display', serif; font-size: 1.75rem; font-weight: 700; color: #C9A227; line-height: 1;">15</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(255,255,255,0.7);">MAR</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; color: rgba(255,255,255,0.5);">2026</span>
+        </div>
+        <div style="padding: 1.5rem;">
+          <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
+            <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #C9A227; background: rgba(201,162,39,0.1); padding: 0.2rem 0.5rem; border-radius: 4px;">Fundraiser</span>
+          </div>
+          <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.5rem;">Annual Hope Gala & Fundraiser</h3>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 0.75rem;">An evening of inspiration, cultural celebration, and generosity. Join community leaders, supporters, and friends for dinner, live music, and stories of transformation.</p>
+          <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #8A8985;">
+            <span>📍 Nashville Convention Center</span>
+            <span>🕐 6:00 PM – 9:30 PM CST</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Event 2: Public Speaking Series -->
+      <div style="background: #F7F6F2; border-radius: 12px; overflow: hidden; display: grid; grid-template-columns: 100px 1fr; border-left: 4px solid #1F5E3B;">
+        <div style="background: #2B2B2B; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 1rem 0.5rem;">
+          <span style="font-family: 'Playfair Display', serif; font-size: 1.75rem; font-weight: 700; color: #C9A227; line-height: 1;">05</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(255,255,255,0.7);">APR</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; color: rgba(255,255,255,0.5);">2026</span>
+        </div>
+        <div style="padding: 1.5rem;">
+          <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
+            <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #1F5E3B; background: rgba(31,94,59,0.1); padding: 0.2rem 0.5rem; border-radius: 4px;">Public Speaking</span>
+          </div>
+          <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.5rem;">Voices of the Diaspora — Leadership Forum</h3>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 0.75rem;">A public speaking series featuring diaspora leaders sharing stories of resilience, faith, and community building. Open to the public.</p>
+          <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #8A8985;">
+            <span>📍 Nashville Public Library — Main Branch</span>
+            <span>🕐 2:00 PM – 5:00 PM CST</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Event 3: Youth Retreat -->
+      <div style="background: #F7F6F2; border-radius: 12px; overflow: hidden; display: grid; grid-template-columns: 100px 1fr; border-left: 4px solid #3A7CA5;">
+        <div style="background: #2B2B2B; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 1rem 0.5rem;">
+          <span style="font-family: 'Playfair Display', serif; font-size: 1.75rem; font-weight: 700; color: #C9A227; line-height: 1;">19</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(255,255,255,0.7);">APR</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; color: rgba(255,255,255,0.5);">2026</span>
+        </div>
+        <div style="padding: 1.5rem;">
+          <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
+            <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #3A7CA5; background: rgba(58,124,165,0.1); padding: 0.2rem 0.5rem; border-radius: 4px;">Youth Retreat</span>
+          </div>
+          <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.5rem;">Spring Youth Discipleship Retreat</h3>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 0.75rem;">A weekend of worship, Bible study, team building, and outdoor activities for youth ages 13–25. Includes meals and transportation.</p>
+          <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #8A8985;">
+            <span>📍 Camp Cumberland, TN</span>
+            <span>🕐 Fri 5 PM – Sun 2 PM</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Event 4: Community Cookout -->
+      <div style="background: #F7F6F2; border-radius: 12px; overflow: hidden; display: grid; grid-template-columns: 100px 1fr; border-left: 4px solid #C9A227;">
+        <div style="background: #2B2B2B; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 1rem 0.5rem;">
+          <span style="font-family: 'Playfair Display', serif; font-size: 1.75rem; font-weight: 700; color: #C9A227; line-height: 1;">24</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(255,255,255,0.7);">MAY</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; color: rgba(255,255,255,0.5);">2026</span>
+        </div>
+        <div style="padding: 1.5rem;">
+          <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
+            <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #C9A227; background: rgba(201,162,39,0.1); padding: 0.2rem 0.5rem; border-radius: 4px;">Annual Gathering</span>
+          </div>
+          <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.5rem;">South Sudanese Heritage Celebration & Cookout</h3>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 0.75rem;">Our annual community celebration bringing families together with traditional food, music, dancing, and storytelling. Bring a dish to share and invite a neighbor.</p>
+          <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #8A8985;">
+            <span>📍 Shelby Park Pavilion, Nashville</span>
+            <span>🕐 12:00 PM – 6:00 PM CST</span>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <style>
+    .ev-pill:hover {
+      background: rgba(255,255,255,0.1) !important;
+      color: #FFFFFF !important;
+      border-color: rgba(255,255,255,0.4) !important;
+    }
+    @media (max-width: 600px) {
+      div[style*="grid-template-columns: 100px 1fr"] {
+        grid-template-columns: 1fr !important;
+      }
+      div[style*="grid-template-columns: 100px 1fr"] > div:first-child {
+        flex-direction: row !important;
+        padding: 0.75rem 1rem !important;
+        gap: 0.5rem;
+      }
+    }
+  </style>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- SCRIPTURE BANNER                                -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; text-align: center;">
+  <div style="max-width: 700px; margin: 0 auto;">
+    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #C9A227; line-height: 1.7; margin: 0;">
+      "And let us consider how we may spur one another on toward love and good deeds, not giving up meeting together."
+    </p>
+    <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
+      — Hebrews 10:24–25
+    </span>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- PAST EVENT HIGHLIGHTS                           -->
+<!-- ═══════════════════════════════════════════════ -->
+<section id="highlights" class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 900px; margin: 0 auto;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
+      Event Highlights
+    </h2>
+    <div style="width: 60px; height: 3px; background-color: #1F5E3B; margin-bottom: 1rem;"></div>
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: #5A5955; line-height: 1.7; margin-bottom: 2rem;">
+      A look back at gatherings that brought our community together and advanced our mission.
+    </p>
+
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;">
+
+      <!-- Highlight 1 -->
+      <div style="background: #FFFFFF; border-radius: 12px; overflow: hidden; border-top: 4px solid #C9A227;">
+        <div style="background: linear-gradient(135deg, rgba(201,162,39,0.08), rgba(31,94,59,0.04)); padding: 2rem 1.5rem; text-align: center;">
+          <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">🎤</div>
+          <h3 style="font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.5rem;">2025 Hope Gala</h3>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #8A8985; margin-bottom: 0.75rem;">Nashville, TN — October 2025</p>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6;">Our inaugural fundraising gala brought together community leaders, supporters, and families for an evening of inspiration and generosity.</p>
+        </div>
+      </div>
+
+      <!-- Highlight 2 -->
+      <div style="background: #FFFFFF; border-radius: 12px; overflow: hidden; border-top: 4px solid #1F5E3B;">
+        <div style="background: linear-gradient(135deg, rgba(31,94,59,0.08), rgba(58,124,165,0.04)); padding: 2rem 1.5rem; text-align: center;">
+          <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">🏕</div>
+          <h3 style="font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.5rem;">Youth Summer Retreat</h3>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #8A8985; margin-bottom: 0.75rem;">Cumberland, TN — July 2025</p>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6;">A weekend of spiritual formation, team building, and outdoor adventure for our youth, deepening their faith and friendships.</p>
+        </div>
+      </div>
+
+      <!-- Highlight 3 -->
+      <div style="background: #FFFFFF; border-radius: 12px; overflow: hidden; border-top: 4px solid #3A7CA5;">
+        <div style="background: linear-gradient(135deg, rgba(58,124,165,0.08), rgba(201,162,39,0.04)); padding: 2rem 1.5rem; text-align: center;">
+          <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">🌍</div>
+          <h3 style="font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.5rem;">Heritage Celebration</h3>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #8A8985; margin-bottom: 0.75rem;">Nashville, TN — December 2025</p>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6;">Families gathered for traditional food, music, storytelling, and cultural celebration — honoring South Sudanese heritage and unity.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <style>
+    @media (max-width: 768px) {
+      #highlights div[style*="grid-template-columns: repeat(3, 1fr)"] {
+        grid-template-columns: 1fr !important;
+      }
+    }
+  </style>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- RECURRING PROGRAMS                              -->
+<!-- ═══════════════════════════════════════════════ -->
+<section id="recurring" class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 780px; margin: 0 auto;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
+      Regular Programs
+    </h2>
+    <div style="width: 60px; height: 3px; background-color: #C9A227; margin-bottom: 1rem;"></div>
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: #5A5955; line-height: 1.7; margin-bottom: 2rem;">
+      Beyond special events, we gather regularly throughout the year. All are welcome.
+    </p>
+
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+
+      <div style="background: #F7F6F2; border-radius: 10px; padding: 1.25rem 1.5rem; border-left: 4px solid #1F5E3B;">
+        <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #1F5E3B;">Weekly Youth Bible Study</strong>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0.5rem 0 0;">Fridays, 6:00 PM – 8:00 PM</p>
+      </div>
+
+      <div style="background: #F7F6F2; border-radius: 10px; padding: 1.25rem 1.5rem; border-left: 4px solid #C9A227;">
+        <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #C9A227;">Monthly Family Workshops</strong>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0.5rem 0 0;">Third Thursday, 2:00 PM – 4:00 PM</p>
+      </div>
+
+      <div style="background: #F7F6F2; border-radius: 10px; padding: 1.25rem 1.5rem; border-left: 4px solid #3A7CA5;">
+        <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #3A7CA5;">Mentorship Sessions</strong>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0.5rem 0 0;">By appointment — ongoing throughout the year</p>
+      </div>
+
+      <div style="background: #F7F6F2; border-radius: 10px; padding: 1.25rem 1.5rem; border-left: 4px solid #1F5E3B;">
+        <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #1F5E3B;">Community Celebrations</strong>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0.5rem 0 0;">Quarterly gatherings celebrating heritage and belonging</p>
+      </div>
+
+    </div>
+  </div>
+
+  <style>
+    @media (max-width: 640px) {
+      #recurring div[style*="grid-template-columns: repeat(2, 1fr)"] {
+        grid-template-columns: 1fr !important;
+      }
+    }
+  </style>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- NEWSLETTER SIGNUP                               -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background-color: #F0EFEB; padding: 3.5rem 1.5rem; text-align: center;">
+  <div style="max-width: 500px; margin: 0 auto;">
+    <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.5rem;">Stay Updated on Events</h3>
+    <p style="font-family: 'Inter', sans-serif; color: #5A5955; margin-bottom: 1.25rem; font-size: 0.95rem;">Subscribe to receive event announcements, updates, and prayer requests.</p>
+
+    <form name="event-newsletter" method="POST" data-netlify="true" style="display: flex; gap: 0.5rem;">
+      <input type="hidden" name="form-name" value="event-newsletter" />
+      <input type="email" name="email" placeholder="Your email address" required
+        style="flex: 1; padding: 0.75rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px 0 0 8px; font-size: 0.95rem; font-family: 'Inter', sans-serif; background: #FFFFFF; min-height: 48px;">
+      <button type="submit"
+        style="background-color: #1F5E3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.95rem; padding: 0.75rem 1.5rem; border-radius: 0 8px 8px 0; border: none; cursor: pointer; min-height: 48px; transition: background-color 200ms ease; white-space: nowrap;">
+        Subscribe
+      </button>
+    </form>
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #8A8985; margin-top: 0.75rem;">We respect your privacy. Unsubscribe at any time.</p>
+  </div>
+
+  <style>
+    @media (max-width: 480px) {
+      form[style*="display: flex"][style*="gap: 0.5rem"] {
+        flex-direction: column !important;
+      }
+      form[style*="display: flex"][style*="gap: 0.5rem"] input {
+        border-radius: 8px !important;
+      }
+      form[style*="display: flex"][style*="gap: 0.5rem"] button {
+        border-radius: 8px !important;
+      }
+    }
+  </style>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- FINAL CTA                                       -->
+<!-- ═══════════════════════════════════════════════ -->
+<section style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 60%, #2B2B2B 100%); padding: 3.5rem 1.5rem; text-align: center;">
+  <div style="max-width: 700px; margin: 0 auto;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #FFFFFF; margin-bottom: 1rem; font-weight: 600;">
+      Ready to Get Involved?
+    </h2>
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2rem;">
+      Can't attend an event right now? There are many other ways to support Y.E.T. Compassion and our community.
+    </p>
+    <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+      <a href="/get-involved.html" style="display: inline-block; background-color: #C9A227; color: #2B2B2B; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; text-decoration: none; box-shadow: 0 2px 8px rgba(201,162,39,0.3); transition: all 200ms ease;">
+        Get Involved
+      </a>
+      <a href="/donate.html" style="display: inline-block; background: transparent; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; border: 2px solid rgba(255,255,255,0.5); text-decoration: none; transition: all 200ms ease;">
+        Donate
+      </a>
+    </div>
+  </div>
+</section>
+```
