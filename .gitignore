@@ -1,6 +1,6 @@
 # Quarto output
-_site/
-.quarto/
+/.quarto/
+/_site/
 
 # Dependencies
 node_modules/
