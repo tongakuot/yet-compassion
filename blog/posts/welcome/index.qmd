@@ -4,7 +4,7 @@ description: "Introducing Youth Evangelism Training (Y.E.T.) Compassion — our 
 author: "Gai Bol Luom"
 date: "2024-12-01"
 categories: [Announcements, Mission]
-image: "../../../images/logo.png"
+image: "../../../images/project-images/biong-mission-gathering-bw.jpg"
 ---
 
 ## A New Chapter Begins
