@@ -1,6 +1,6 @@
 ---
-title: "Our Founder — Gai Bol Luom"
-description: "Meet Gai Bol Luom, founder of Y.E.T. Compassion. Learn about his journey from South Sudan, his faith story, and his vision for serving diaspora youth in Nashville."
+title: "Our Founder — Evangelist Gai Bol Luom"
+description: "Meet Evangelist Gai Bol Luom, founder of Y.E.T. Compassion. Learn about his journey from South Sudan, his faith story, and his vision for serving diaspora youth in Nashville."
 page-layout: custom
 toc: false
 ---
@@ -17,7 +17,7 @@ toc: false
     <div style="width: 120px; height: 120px; border-radius: 50%; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem; font-size: 3rem; color: white; box-shadow: 0 4px 20px rgba(0,0,0,0.3); border: 3px solid rgba(201,162,39,0.3);">G</div>
 
     <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 0.5rem;">
-      Gai Bol Luom
+      Evangelist Gai Bol Luom
     </h1>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 500; color: #C9A227; margin-bottom: 0.5rem;">
@@ -41,7 +41,7 @@ toc: false
     <div style="width: 60px; height: 3px; background-color: #C9A227; margin-bottom: 1.5rem;"></div>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
-      Gai Bol Luom's story is one of resilience, faith, and divine calling. Born and raised in South Sudan, Gai's early life was marked by the profound challenges facing his nation — conflict, displacement, and the struggle for stability that continues to shape the lives of millions across the diaspora.
+      Evangelist Gai Bol Luom's story is one of resilience, faith, and divine calling. Born and raised in South Sudan, Gai's early life was marked by the profound challenges facing his nation — conflict, displacement, and the struggle for stability that continues to shape the lives of millions across the diaspora.
     </p>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
@@ -115,7 +115,7 @@ toc: false
     <div style="width: 60px; height: 3px; background-color: #C9A227; margin-bottom: 1.5rem;"></div>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 2rem;">
-      Gai founded Y.E.T. Compassion with a specific calling: to serve South Sudanese diaspora youth and families in Nashville and beyond. He chose Nashville intentionally — recognizing it as a growing hub for South Sudanese communities while also a city with deep spiritual roots and resources that could support transformative work.
+      Gai founded Y.E.T. Compassion with a specific calling: to serve South Sudanese youth and families in the U.S.A., South Sudan, and beyond. Headquartered in Nashville, Tennessee — a growing hub for South Sudanese communities with deep spiritual roots — the ministry is built to reach wherever the need exists.
     </p>
 
     <div style="display: grid; grid-template-columns: 1fr; gap: 1.5rem;">

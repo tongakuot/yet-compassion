@@ -24,7 +24,7 @@ page-layout: custom
       "name": "Who founded Y.E.T. Compassion?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Y.E.T. Compassion was founded by Gai Bol Luom, who has deep roots in the South Sudanese community and a passion for empowering the next generation."
+        "text": "Y.E.T. Compassion was founded by Evangelist Gai Bol Luom, who has deep roots in the South Sudanese community and a passion for empowering the next generation."
       }
     },
     {
@@ -142,7 +142,7 @@ page-layout: custom
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
       <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">Who founded Y.E.T. Compassion?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Y.E.T. Compassion was founded by Gai Bol Luom, who has deep roots in the South Sudanese community and a passion for empowering the next generation.
+        Y.E.T. Compassion was founded by Evangelist Gai Bol Luom, who has deep roots in the South Sudanese community and a passion for empowering the next generation.
       </p>
     </details>
 

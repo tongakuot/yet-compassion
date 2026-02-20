@@ -18,7 +18,7 @@ toc: false
   "description": "Y.E.T. Compassion equips South Sudanese diaspora youth with the Gospel of Christ and practical skills to lead with integrity, build stable families, and transform their communities.",
   "founder": {
     "@type": "Person",
-    "name": "Gai Bol Luom"
+    "name": "Evangelist Gai Bol Luom"
   },
   "foundingDate": "2024",
   "address": {
@@ -48,7 +48,7 @@ toc: false
     </h1>
 
     <p style="font-family: 'Inter', sans-serif; font-size: clamp(1.05rem, 2vw, 1.25rem); color: rgba(255,255,255,0.85); line-height: 1.7; max-width: 640px; margin: 0 auto 2.5rem;">
-      Equipping South Sudanese diaspora youth with the Gospel of Christ and practical skills to lead with integrity, build stable families, and transform their communities.
+      Equipping South Sudanese youth with the Gospel of Christ and practical skills to lead with integrity, build stable families, and transform their communities.
     </p>
 
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
@@ -98,10 +98,10 @@ toc: false
       Our Mission
     </h2>
     <p style="font-family: 'Inter', sans-serif; font-size: 1.1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
-      Y.E.T. Compassion equips South Sudanese diaspora youth with the Gospel of Christ and the practical skills to lead with integrity, build stable families, and transform their communities. We believe that every young person has inherent worth and unlimited potential when grounded in faith and equipped with knowledge.
+      We walk alongside young people through discipleship, mentorship, and hands-on training — preparing them not just to survive, but to lead. Every program we build is grounded in Scripture and designed for lasting impact.
     </p>
     <p style="font-family: 'Inter', sans-serif; font-size: 1.1rem; line-height: 1.8; color: #5A5955; margin-bottom: 2rem;">
-      Founded by <strong>Gai Bol Luom</strong> in Nashville, Tennessee, our nonprofit ministry serves as a bridge between faith, education, and community empowerment for the South Sudanese diaspora.
+      Founded by <strong>Evangelist Gai Bol Luom</strong> in Nashville, Tennessee, our nonprofit ministry serves as a bridge between faith, education, and community empowerment for South Sudanese communities in the U.S.A., South Sudan, and beyond.
     </p>
     <a href="about/index.html" style="display: inline-block; background-color: #1F5E3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.75rem 1.75rem; border-radius: 8px; text-decoration: none; transition: all 200ms ease;">
       Learn More About Our Work
@@ -141,8 +141,8 @@ toc: false
       <!-- Family Empowerment -->
       <div class="program-card" style="background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-top: 4px solid #3A7CA5; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
         <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">🏠</div>
-        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.15rem; color: #2B2B2B; margin-bottom: 0.75rem;">Family Stability & Economic Empowerment</h4>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Strengthening families through counseling, financial literacy, job readiness, and community retreats.</p>
+        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.15rem; color: #2B2B2B; margin-bottom: 0.75rem;">Family Stability & Counseling</h4>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Strengthening families through counseling, financial literacy, and community retreats.</p>
         <a href="programs/index.html#family" style="color: #1F5E3B; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Learn More →</a>
       </div>
 
@@ -354,7 +354,7 @@ toc: false
       Join Us in Building the Next Generation
     </h2>
     <p style="font-family: 'Inter', sans-serif; font-size: 1.1rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2.5rem;">
-      Whether through partnership, volunteering, or financial support — together we can transform lives and communities across the diaspora and in South Sudan.
+      Whether through partnership, volunteering, or financial support — together we can transform lives and communities in the U.S.A., South Sudan, and beyond.
     </p>
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
       <a href="donate.html" style="display: inline-block; background-color: #C9A227; color: #2B2B2B; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; text-decoration: none; box-shadow: 0 2px 8px rgba(201,162,39,0.3); transition: all 200ms ease;">

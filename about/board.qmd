@@ -40,7 +40,7 @@ toc: false
     </p>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955;">
-      We believe that strong governance is essential to the health of our organization and our service to the communities we serve. Board members bring diverse expertise, lived experience, and a shared commitment to empowering South Sudanese diaspora communities.
+      We believe that strong governance is essential to the health of our organization and the integrity of our service. Board members bring diverse expertise, lived experience, and a shared commitment to empowering South Sudanese communities in the U.S.A., South Sudan, and beyond.
     </p>
   </div>
 </section>
@@ -57,7 +57,7 @@ toc: false
       </div>
       <!-- Details -->
       <div style="flex: 1; min-width: 280px;">
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Gai Bol Luom</h3>
+        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Evangelist Gai Bol Luom</h3>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #C9A227; font-weight: 600; margin-bottom: 1rem;">Founder &amp; Executive Director</p>
 
         <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
@@ -65,7 +65,7 @@ toc: false
         </p>
 
         <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
-          His experience bridging diaspora communities with faith-centered empowerment programs gives Y.E.T. Compassion its distinctive voice and purpose. Gai leads with conviction that every young person carries God-given potential that, when properly cultivated, transforms families and communities.
+          His experience connecting South Sudanese communities with faith-centered empowerment gives Y.E.T. Compassion its distinctive voice and purpose. Gai leads with conviction that every young person carries God-given potential that, when properly cultivated, transforms families and communities.
         </p>
 
         <a href="/about/founder.html" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #1F5E3B; font-weight: 600; text-decoration: none;">Read Full Profile →</a>
@@ -82,19 +82,15 @@ toc: false
     <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
       <!-- Avatar -->
       <div style="flex-shrink: 0;">
-        <div style="width: 100px; height: 100px; border-radius: 50%; background: linear-gradient(135deg, #3A7CA5, #4A92BF); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">A</div>
+        <div style="width: 100px; height: 100px; border-radius: 50%; background: linear-gradient(135deg, #3A7CA5, #4A92BF); display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: white; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">—</div>
       </div>
       <!-- Details -->
       <div style="flex: 1; min-width: 280px;">
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Dr. Amara Deng</h3>
+        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Vacant</h3>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #3A7CA5; font-weight: 600; margin-bottom: 1rem;">Board Chair</p>
 
-        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
-          Dr. Deng is an educator and community advocate with extensive experience in curriculum development and youth empowerment. She brings strategic vision and ensures Y.E.T. Compassion maintains the highest standards of governance and program excellence.
-        </p>
-
         <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955;">
-          As Board Chair, she provides oversight of organizational direction, facilitates board deliberations, and works closely with the Executive Director to align operations with the ministry's mission and values.
+          Y.E.T. Compassion is actively seeking a Board Chair who shares our commitment to faith-centered leadership, community empowerment, and organizational excellence. The Board Chair provides oversight of organizational direction, facilitates board deliberations, and works closely with the Executive Director to align operations with the ministry's mission and values.
         </p>
       </div>
     </div>
@@ -109,19 +105,19 @@ toc: false
     <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
       <!-- Avatar -->
       <div style="flex-shrink: 0;">
-        <div style="width: 100px; height: 100px; border-radius: 50%; background: linear-gradient(135deg, #C9A227, #D4B44A); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">M</div>
+        <div style="width: 100px; height: 100px; border-radius: 50%; background: linear-gradient(135deg, #C9A227, #D4B44A); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">A</div>
       </div>
       <!-- Details -->
       <div style="flex: 1; min-width: 280px;">
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Rev. Dr. Moses Akil</h3>
+        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Ayen Wei Akech</h3>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #C9A227; font-weight: 600; margin-bottom: 1rem;">Board Member &amp; Spiritual Advisor</p>
 
         <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
-          Rev. Akil is a pastor and spiritual leader within the South Sudanese community. He brings pastoral wisdom, spiritual oversight, and deep cultural understanding to board discussions and organizational direction.
+          Ayen Wei Akech serves as Spiritual Advisor to Y.E.T. Compassion, bringing pastoral wisdom, spiritual oversight, and deep cultural understanding to board discussions and organizational direction.
         </p>
 
         <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955;">
-          His role as Spiritual Advisor ensures that every program, partnership, and decision remains grounded in biblical principles and theological integrity — the foundational values upon which Y.E.T. Compassion was built.
+          Her role as Spiritual Advisor ensures that every program, partnership, and decision remains grounded in biblical principles and theological integrity — the foundational values upon which Y.E.T. Compassion was built.
         </p>
       </div>
     </div>
@@ -166,7 +162,7 @@ toc: false
       <div style="padding: 1.25rem; border: 1px solid #D9D8D4; border-radius: 8px;">
         <div style="font-size: 1.25rem; color: #1F5E3B; margin-bottom: 0.5rem;">✓</div>
         <strong style="display: block; font-size: 0.95rem; color: #2B2B2B; margin-bottom: 0.35rem;">Community Voice</strong>
-        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Listening sessions, surveys, and consultations shape our strategic direction.</span>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Ongoing dialogue with the communities we serve shapes our strategic direction.</span>
       </div>
       <div style="padding: 1.25rem; border: 1px solid #D9D8D4; border-radius: 8px;">
         <div style="font-size: 1.25rem; color: #1F5E3B; margin-bottom: 0.5rem;">✓</div>

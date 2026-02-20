@@ -382,18 +382,51 @@ p {
   border-radius: 8px;
   border: none;
   cursor: pointer;
-  text-decoration: none;
+  text-decoration: none !important;
   transition: all 200ms ease;
   min-height: 44px;
 
   &:hover {
     background-color: $primary-light;
     color: white;
-    text-decoration: none;
+    text-decoration: none !important;
+  }
+
+  &:focus {
+    outline: 2px solid $primary;
+    outline-offset: 2px;
+    text-decoration: none !important;
   }
 
   &:active {
     background-color: $primary-dark;
+  }
+}
+
+// ── Global CTA reset — kills Quarto/Bootstrap underline on all button-styled links ──
+a.btn-gold,
+a.btn-ghost,
+a.btn-ghost-green,
+a.btn-primary-custom,
+a[class*="btn-"] {
+  text-decoration: none !important;
+
+  &:hover,
+  &:focus,
+  &:active,
+  &:visited {
+    text-decoration: none !important;
+  }
+}
+
+// Also neutralize inline-styled CTA links (no class, but styled as buttons)
+section a[style*="border-radius"][style*="padding"] {
+  text-decoration: none !important;
+
+  &:hover,
+  &:focus,
+  &:active {
+    text-decoration: none !important;
   }
 }
 
@@ -408,7 +441,7 @@ p {
   border-radius: 8px;
   border: none;
   cursor: pointer;
-  text-decoration: none;
+  text-decoration: none !important;
   box-shadow: 0 2px 8px rgba(201, 162, 39, 0.3);
   transition: all 200ms ease;
   min-height: 44px;
@@ -416,9 +449,15 @@ p {
   &:hover {
     background-color: $secondary-light;
     color: $charcoal;
-    text-decoration: none;
+    text-decoration: none !important;
     box-shadow: 0 4px 16px rgba(201, 162, 39, 0.4);
     transform: translateY(-1px);
+  }
+
+  &:focus {
+    outline: 2px solid $secondary;
+    outline-offset: 2px;
+    text-decoration: none !important;
   }
 }
 
@@ -431,16 +470,23 @@ p {
   font-size: 1rem;
   padding: 0.75rem 1.75rem;
   border-radius: 8px;
-  border: 2px solid white;
+  border: 2px solid rgba(255, 255, 255, 0.6);
   cursor: pointer;
-  text-decoration: none;
+  text-decoration: none !important;
   transition: all 200ms ease;
   min-height: 44px;
 
   &:hover {
-    background-color: white;
-    color: $charcoal;
-    text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.12);
+    color: white;
+    border-color: rgba(255, 255, 255, 0.9);
+    text-decoration: none !important;
+  }
+
+  &:focus {
+    outline: 2px solid rgba(255, 255, 255, 0.5);
+    outline-offset: 2px;
+    text-decoration: none !important;
   }
 }
 
@@ -452,6 +498,12 @@ p {
   &:hover {
     background-color: $primary;
     color: white;
+    text-decoration: none !important;
+  }
+
+  &:focus {
+    outline: 2px solid $primary;
+    outline-offset: 2px;
   }
 }
 
@@ -633,11 +685,22 @@ p {
   .program-link {
     color: $primary;
     font-weight: 600;
-    text-decoration: none;
+    text-decoration: none !important;
     font-size: 0.95rem;
 
     &:hover {
-      text-decoration: underline;
+      color: $primary-light;
+      text-decoration: none !important;
+    }
+  }
+
+  // Inline-styled "Learn More →" links inside program cards
+  a[style*="color: #1F5E3B"][style*="font-weight: 600"] {
+    text-decoration: none !important;
+
+    &:hover {
+      opacity: 0.8;
+      text-decoration: none !important;
     }
   }
 }

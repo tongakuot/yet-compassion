@@ -1,7 +1,7 @@
 ---
 title: "Welcome to Y.E.T. Compassion"
 description: "Introducing Youth Evangelism Training (Y.E.T.) Compassion — our mission, our vision, and our call to serve South Sudanese diaspora youth."
-author: "Gai Bol Luom"
+author: "Evangelist Gai Bol Luom"
 date: "2024-12-01"
 categories: [Announcements, Mission]
 image: "../../../images/project-images/biong-mission-gathering-bw.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "About Y.E.T. Compassion"
-description: "Learn about Y.E.T. Compassion's mission, vision, and core values. A nonprofit ministry serving South Sudanese diaspora communities in Nashville, TN."
+description: "Learn about Y.E.T. Compassion's mission, vision, and core values. A nonprofit ministry serving South Sudanese communities in the U.S.A., South Sudan, and beyond."
 page-layout: custom
 toc: false
 ---
@@ -20,7 +20,7 @@ toc: false
     </h1>
 
     <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 600px; margin: 0 0 2rem;">
-      A nonprofit ministry empowering South Sudanese diaspora youth and families in Nashville, Tennessee through the Gospel, education, and intentional community.
+      A nonprofit ministry empowering South Sudanese youth and families through the Gospel, education, and purposeful community building — in the U.S.A., South Sudan, and beyond.
     </p>
 
     <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
@@ -45,11 +45,11 @@ toc: false
     <div style="width: 60px; height: 3px; background-color: #C9A227; margin-bottom: 1.5rem;"></div>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
-      Y.E.T. Compassion is a nonprofit ministry founded by <strong style="color: #2B2B2B;">Gai Bol Luom</strong>, dedicated to serving South Sudanese diaspora communities in Nashville, Tennessee and beyond. Our name — <strong style="color: #2B2B2B;">Y.E.T.</strong> — stands for <strong style="color: #1F5E3B;">Youth, Education, and Training</strong>, reflecting our core commitment to empowering the next generation through intentional preparation and scriptural foundation.
+      Y.E.T. Compassion is a nonprofit ministry founded by <strong style="color: #2B2B2B;">Evangelist Gai Bol Luom</strong>, dedicated to serving South Sudanese communities in the U.S.A., South Sudan, and beyond. Our name — <strong style="color: #2B2B2B;">Y.E.T.</strong> — stands for <strong style="color: #1F5E3B;">Youth Evangelism Training</strong>, reflecting our core commitment to empowering the next generation through preparation grounded in Scripture.
     </p>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
-      We exist at the intersection of faith, community, and transformation. We recognize that our young people carry unique stories of resilience, displacement, and hope. By equipping them with education, skills, and spiritual grounding, we unlock their potential to become leaders who honor God and serve their communities.
+      We stand at the intersection of faith, community, and transformation. Our young people carry stories shaped by resilience, displacement, and hope. By equipping them with education, practical skills, and spiritual grounding, we prepare them to lead with integrity and serve their communities — wherever they are.
     </p>
   </div>
 </section>
@@ -100,7 +100,7 @@ toc: false
     <div style="width: 60px; height: 3px; background-color: #C9A227; margin-bottom: 1.5rem;"></div>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.5rem;">
-      A future where <strong style="color: #2B2B2B;">every young person from the South Sudanese diaspora is equipped, empowered, and positioned to become a leader of excellence, compassion, and faith</strong> — individuals who transform their families, churches, and communities with wisdom, integrity, and purpose.
+      A generation of South Sudanese youth <strong style="color: #2B2B2B;">anchored in faith, empowered by knowledge, and committed to transforming their communities</strong> — in the U.S.A., South Sudan, and wherever they are called to serve — through servant leadership, ethical action, and intergenerational investment.
     </p>
 
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 2rem;">
@@ -208,21 +208,21 @@ toc: false
 
       <a href="/about/founder.html" style="text-decoration: none; background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); text-align: center; transition: box-shadow 200ms ease, transform 200ms ease; display: block;">
         <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; font-size: 2rem; color: white;">G</div>
-        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.05rem; color: #2B2B2B; margin-bottom: 0.25rem;">Gai Bol Luom</h4>
+        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.05rem; color: #2B2B2B; margin-bottom: 0.25rem;">Evangelist Gai Bol Luom</h4>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #C9A227; margin-bottom: 0.5rem;">Founder &amp; Executive Director</p>
         <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #1F5E3B; font-weight: 600;">View Profile →</span>
       </a>
 
       <a href="/about/board.html" style="text-decoration: none; background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); text-align: center; transition: box-shadow 200ms ease, transform 200ms ease; display: block;">
-        <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #3A7CA5, #4A92BF); display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; font-size: 2rem; color: white;">A</div>
-        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.05rem; color: #2B2B2B; margin-bottom: 0.25rem;">Dr. Amara Deng</h4>
+        <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #3A7CA5, #4A92BF); display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; font-size: 1.25rem; color: white;">—</div>
+        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.05rem; color: #2B2B2B; margin-bottom: 0.25rem;">Vacant</h4>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #3A7CA5; margin-bottom: 0.5rem;">Board Chair</p>
         <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #1F5E3B; font-weight: 600;">Meet the Board →</span>
       </a>
 
       <a href="/about/board.html" style="text-decoration: none; background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); text-align: center; transition: box-shadow 200ms ease, transform 200ms ease; display: block;">
-        <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #C9A227, #D4B44A); display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; font-size: 2rem; color: white;">M</div>
-        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.05rem; color: #2B2B2B; margin-bottom: 0.25rem;">Rev. Dr. Moses Akil</h4>
+        <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #C9A227, #D4B44A); display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; font-size: 2rem; color: white;">A</div>
+        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.05rem; color: #2B2B2B; margin-bottom: 0.25rem;">Ayen Wei Akech</h4>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #C9A227; margin-bottom: 0.5rem;">Spiritual Advisor</p>
         <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #1F5E3B; font-weight: 600;">Meet the Board →</span>
       </a>
