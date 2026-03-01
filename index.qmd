@@ -52,12 +52,8 @@ toc: false
     </p>
 
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-      <a href="about/index.html" class="btn-gold" style="display: inline-block; background-color: #C9A227; color: #2B2B2B; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; text-decoration: none; box-shadow: 0 2px 8px rgba(201,162,39,0.3); transition: all 200ms ease;">
-        Learn More
-      </a>
-      <a href="donate.html" class="btn-ghost" style="display: inline-block; background: transparent; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; border: 2px solid rgba(255,255,255,0.6); text-decoration: none; transition: all 200ms ease;">
-        Donate Now
-      </a>
+      <a href="about/index.html" class="btn-gold">Learn More</a>
+      <a href="donate.html" class="btn-ghost">Donate Now</a>
     </div>
   </div>
 </section>
@@ -103,9 +99,7 @@ toc: false
     <p style="font-family: 'Inter', sans-serif; font-size: 1.1rem; line-height: 1.8; color: #5A5955; margin-bottom: 2rem;">
       Founded by <strong>Evangelist Gai Bol Luom</strong> in Nashville, Tennessee, our nonprofit ministry serves as a bridge between faith, education, and community empowerment for South Sudanese communities in the U.S.A., South Sudan, and beyond.
     </p>
-    <a href="about/index.html" style="display: inline-block; background-color: #1F5E3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; text-decoration: none; transition: all 200ms ease;">
-      Learn More About Our Work
-    </a>
+    <a href="about/index.html" class="btn-green">Learn More About Our Work</a>
   </div>
 </section>
 
@@ -357,12 +351,8 @@ toc: false
       Whether through partnership, volunteering, or financial support — together we can transform lives and communities in the U.S.A., South Sudan, and beyond.
     </p>
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-      <a href="donate.html" style="display: inline-block; background-color: #C9A227; color: #2B2B2B; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; text-decoration: none; box-shadow: 0 2px 8px rgba(201,162,39,0.3); transition: all 200ms ease;">
-        Donate Today
-      </a>
-      <a href="get-involved.html" style="display: inline-block; background: transparent; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; border: 2px solid rgba(255,255,255,0.6); text-decoration: none; transition: all 200ms ease;">
-        Get Involved
-      </a>
+      <a href="donate.html" class="btn-gold">Donate Today</a>
+      <a href="get-involved.html" class="btn-ghost">Get Involved</a>
     </div>
   </div>
 </section>

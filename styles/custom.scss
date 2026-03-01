@@ -512,6 +512,35 @@ body a[style*="border-radius"] {
   }
 }
 
+.btn-green {
+  display: inline-block;
+  background-color: $primary;
+  color: white;
+  font-family: var(--font-body);
+  font-weight: 700;
+  font-size: 1rem;
+  padding: 0.85rem 2rem;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none !important;
+  transition: all 200ms ease;
+  min-height: 44px;
+
+  &:hover {
+    background-color: darken($primary, 8%);
+    color: white;
+    text-decoration: none !important;
+    transform: translateY(-1px);
+  }
+
+  &:focus {
+    outline: 2px solid $primary;
+    outline-offset: 2px;
+    text-decoration: none !important;
+  }
+}
+
 .btn-ghost-green {
   @extend .btn-ghost;
   color: $primary;

@@ -185,12 +185,8 @@ toc: false
       We'd love to hear from you. Reach out with questions about our governance, programs, or partnerships.
     </p>
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-      <a href="/contact.html" style="display: inline-block; background-color: #C9A227; color: #2B2B2B; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; text-decoration: none; box-shadow: 0 2px 8px rgba(201,162,39,0.3); transition: all 200ms ease;">
-        Contact Us
-      </a>
-      <a href="/about/index.html" style="display: inline-block; background: transparent; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; border: 2px solid rgba(255,255,255,0.5); text-decoration: none; transition: all 200ms ease;">
-        ← Back to About
-      </a>
+      <a href="/contact.html" class="btn-gold">Contact Us</a>
+      <a href="/about/index.html" class="btn-ghost">← Back to About</a>
     </div>
   </div>
 </section>

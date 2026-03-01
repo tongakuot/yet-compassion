@@ -24,12 +24,8 @@ toc: false
     </p>
 
     <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-      <a href="#mission" class="btn-gold" style="display: inline-block; background-color: #C9A227; color: #2B2B2B; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; text-decoration: none; box-shadow: 0 2px 8px rgba(201,162,39,0.3); transition: all 200ms ease;">
-        Our Mission
-      </a>
-      <a href="/about/founder.html" class="btn-ghost" style="display: inline-block; background: transparent; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; border: 2px solid rgba(255,255,255,0.5); text-decoration: none; transition: all 200ms ease;">
-        Meet the Founder
-      </a>
+      <a href="#mission" class="btn-gold">Our Mission</a>
+      <a href="/about/founder.html" class="btn-ghost">Meet the Founder</a>
     </div>
   </div>
 </section>
@@ -251,12 +247,8 @@ toc: false
       Whether through partnership, volunteering, or financial support — together we can transform lives and communities.
     </p>
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-      <a href="/get-involved.html" style="display: inline-block; background-color: #C9A227; color: #2B2B2B; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; text-decoration: none; box-shadow: 0 2px 8px rgba(201,162,39,0.3); transition: all 200ms ease;">
-        Get Involved
-      </a>
-      <a href="/donate.html" style="display: inline-block; background: transparent; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; border: 2px solid rgba(255,255,255,0.5); text-decoration: none; transition: all 200ms ease;">
-        Support Our Mission
-      </a>
+      <a href="/get-involved.html" class="btn-gold">Get Involved</a>
+      <a href="/donate.html" class="btn-ghost">Support Our Mission</a>
     </div>
   </div>
 </section>

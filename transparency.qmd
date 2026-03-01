@@ -155,8 +155,8 @@ page-layout: custom
       We're happy to answer any questions about how we steward your generous gifts.
     </p>
     <div style="display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap;">
-      <a href="contact.html" style="display: inline-block; padding: 0.85rem 2.25rem; background: #C9A227; color: #FFFFFF; font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 600; text-decoration: none; border-radius: 6px; letter-spacing: 0.02em; transition: background 200ms ease;">Contact Us</a>
-      <a href="mailto:info@yetcompassion.org" style="display: inline-block; padding: 0.85rem 2.25rem; background: transparent; color: #C9A227; font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 600; text-decoration: none; border-radius: 6px; border: 1px solid rgba(201,162,39,0.5); letter-spacing: 0.02em; transition: all 200ms ease;">Email Us</a>
+      <a href="contact.html" class="btn-gold">Contact Us</a>
+      <a href="mailto:info@yetcompassion.org" class="btn-ghost-green">Email Us</a>
     </div>
   </div>
 </section>

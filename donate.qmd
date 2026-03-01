@@ -267,9 +267,7 @@ toc: false
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2rem;">
       We welcome your questions. Reach out at <a href="mailto:info@yetcompassion.org" style="color: #C9A227; text-decoration: none; font-weight: 600;">info@yetcompassion.org</a> to learn more about how your generosity creates lasting change.
     </p>
-    <a href="/contact.html" style="display: inline-block; background-color: #C9A227; color: #2B2B2B; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; text-decoration: none; box-shadow: 0 2px 8px rgba(201,162,39,0.3); transition: all 200ms ease;">
-      Get in Touch
-    </a>
+    <a href="/contact.html" class="btn-gold">Get in Touch</a>
   </div>
 </section>
 

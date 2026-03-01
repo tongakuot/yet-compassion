@@ -260,9 +260,7 @@ toc: false
     </div>
 
     <div style="text-align: center; margin-top: 2.5rem;">
-      <a href="mailto:info@yetcompassion.org" style="display: inline-block; background-color: #C9A227; color: #2B2B2B; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; text-decoration: none; box-shadow: 0 2px 8px rgba(201,162,39,0.3); transition: all 200ms ease;">
-        Discuss Partnership Opportunities
-      </a>
+      <a href="mailto:info@yetcompassion.org" class="btn-gold">Discuss Partnership Opportunities</a>
     </div>
   </div>
 
@@ -379,12 +377,8 @@ toc: false
       Every act of service — every prayer, every partnership, every dollar — strengthens our community and advances the Kingdom. Your contribution matters.
     </p>
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-      <a href="/donate.html" style="display: inline-block; background-color: #C9A227; color: #2B2B2B; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; text-decoration: none; box-shadow: 0 2px 8px rgba(201,162,39,0.3); transition: all 200ms ease;">
-        Support Our Mission
-      </a>
-      <a href="/contact.html" style="display: inline-block; background: transparent; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; border: 2px solid rgba(255,255,255,0.5); text-decoration: none; transition: all 200ms ease;">
-        Contact Us
-      </a>
+      <a href="/donate.html" class="btn-gold">Support Our Mission</a>
+      <a href="/contact.html" class="btn-ghost">Contact Us</a>
     </div>
   </div>
 </section>

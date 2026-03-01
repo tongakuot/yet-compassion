@@ -255,7 +255,7 @@ page-layout: custom
     <p style="font-family: 'Inter', sans-serif; font-size: 1rem; color: rgba(255,255,255,0.75); line-height: 1.7; margin-bottom: 2rem;">
       Reach out to us directly — we'd love to hear from you.
     </p>
-    <a href="contact.html" style="display: inline-block; padding: 0.85rem 2.25rem; background: #C9A227; color: #FFFFFF; font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 600; text-decoration: none; border-radius: 6px; letter-spacing: 0.02em; transition: background 200ms ease;">Contact Us</a>
+    <a href="contact.html" class="btn-gold">Contact Us</a>
   </div>
 </section>
 
