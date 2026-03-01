@@ -1,6 +1,6 @@
 ---
 title: "Events & Gatherings"
-description: "Discover upcoming events, past highlights, and community gatherings hosted by Y.E.T. Compassion in Nashville — from fundraisers and public speaking to annual celebrations."
+description: "Discover upcoming events, past highlights, and community gatherings hosted by Y.E.T. Compassion — from leadership forums and youth retreats to annual celebrations."
 page-layout: custom
 toc: false
 ---
@@ -20,7 +20,7 @@ toc: false
     </h1>
 
     <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 620px; margin: 0 0 2rem;">
-      From fundraising galas and public speaking engagements to annual celebrations and youth retreats — every Y.E.T. Compassion gathering is an opportunity to build connection, grow together, and strengthen our mission.
+      From leadership forums and youth retreats to annual celebrations and community gatherings — every Y.E.T. Compassion event is an opportunity to build connection, grow together, and strengthen our mission.
     </p>
 
     <!-- Quick-nav anchors -->
@@ -53,10 +53,10 @@ toc: false
         </div>
         <div style="padding: 1.5rem;">
           <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
-            <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #C9A227; background: rgba(201,162,39,0.1); padding: 0.2rem 0.5rem; border-radius: 4px;">Fundraiser</span>
+            <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #C9A227; background: rgba(201,162,39,0.1); padding: 0.2rem 0.5rem; border-radius: 4px;">Gala</span>
           </div>
-          <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.5rem;">Annual Hope Gala & Fundraiser</h3>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 0.75rem;">An evening of inspiration, cultural celebration, and generosity. Join community leaders, supporters, and friends for dinner, live music, and stories of transformation.</p>
+          <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.5rem;">Annual Hope Gala</h3>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 0.75rem;">An evening of inspiration, cultural celebration, and fellowship. Join community leaders, supporters, and friends for dinner, live music, and stories of transformation.</p>
           <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #8A8985;">
             <span>📍 Nashville Convention Center</span>
             <span>🕐 6:00 PM – 9:30 PM CST</span>
@@ -76,7 +76,7 @@ toc: false
             <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #1F5E3B; background: rgba(31,94,59,0.1); padding: 0.2rem 0.5rem; border-radius: 4px;">Public Speaking</span>
           </div>
           <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.5rem;">Voices of the Diaspora — Leadership Forum</h3>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 0.75rem;">A public speaking series featuring diaspora leaders sharing stories of resilience, faith, and community building. Open to the public.</p>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 0.75rem;">A public speaking series featuring community leaders sharing stories of resilience, faith, and community building. Open to the public.</p>
           <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #8A8985;">
             <span>📍 Nashville Public Library — Main Branch</span>
             <span>🕐 2:00 PM – 5:00 PM CST</span>
@@ -115,7 +115,7 @@ toc: false
           <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
             <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #C9A227; background: rgba(201,162,39,0.1); padding: 0.2rem 0.5rem; border-radius: 4px;">Annual Gathering</span>
           </div>
-          <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.5rem;">South Sudanese Heritage Celebration & Cookout</h3>
+          <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.5rem;">Heritage Celebration &amp; Community Cookout</h3>
           <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 0.75rem;">Our annual community celebration bringing families together with traditional food, music, dancing, and storytelling. Bring a dish to share and invite a neighbor.</p>
           <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #8A8985;">
             <span>📍 Shelby Park Pavilion, Nashville</span>
@@ -181,7 +181,7 @@ toc: false
           <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">🎤</div>
           <h3 style="font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.5rem;">2025 Hope Gala</h3>
           <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #8A8985; margin-bottom: 0.75rem;">Nashville, TN — October 2025</p>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6;">Our inaugural fundraising gala brought together community leaders, supporters, and families for an evening of inspiration and generosity.</p>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6;">Our inaugural gala brought together community leaders, supporters, and families for an evening of inspiration and fellowship.</p>
         </div>
       </div>
 
@@ -201,7 +201,7 @@ toc: false
           <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">🌍</div>
           <h3 style="font-family: 'Playfair Display', serif; font-size: 1.1rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.5rem;">Heritage Celebration</h3>
           <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #8A8985; margin-bottom: 0.75rem;">Nashville, TN — December 2025</p>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6;">Families gathered for traditional food, music, storytelling, and cultural celebration — honoring South Sudanese heritage and unity.</p>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6;">Families gathered for traditional food, music, storytelling, and cultural celebration — honoring our heritage and unity.</p>
         </div>
       </div>
 

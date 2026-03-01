@@ -1,19 +1,19 @@
 ---
 title: "Welcome to Y.E.T. Compassion"
-description: "Introducing Youth Evangelism Training (Y.E.T.) Compassion — our mission, our vision, and our call to serve South Sudanese diaspora youth."
+description: "Introducing Youth Evangelism Training (Y.E.T.) Compassion — our mission, our vision, and our call to equip the next generation through faith, leadership, and community."
 author: "Evangelist Gai Bol Luom"
 date: "2024-12-01"
 categories: [Announcements, Mission]
-image: "../../../images/project-images/biong-mission-gathering-bw.jpg"
+image: "../../../images/project-images/biong-missionary-team-photo.png"
 ---
 
 ## A New Chapter Begins
 
-We are excited to announce the official launch of **Youth Evangelism Training (Y.E.T.) Compassion** — a ministry born from a deep conviction that South Sudanese diaspora youth deserve more than survival. They deserve preparation, purpose, and a path forward rooted in faith.
+We are excited to announce the official launch of **Youth Evangelism Training (Y.E.T.) Compassion** — a ministry born from a deep conviction that every young person deserves more than survival. They deserve preparation, purpose, and a path forward rooted in faith.
 
 ## Why Y.E.T. Compassion?
 
-Across the United States, thousands of South Sudanese young people are navigating life between two worlds — the traditions and values of their homeland, and the demands of a new society. Many face identity crises, leadership gaps, and fractured family structures without the support systems they need.
+Across the United States and beyond, young people in diaspora communities are navigating life between two worlds — the traditions and values of their homeland, and the demands of a new society. Many face identity crises, leadership gaps, and fractured family structures without the support systems they need.
 
 Y.E.T. Compassion exists to bridge that gap.
 
@@ -37,4 +37,4 @@ Whether you're a youth looking for mentorship, a family seeking support, a churc
 
 ---
 
-*Y.E.T. Compassion is based in Nashville, Tennessee, and serves South Sudanese diaspora communities across the United States.*
+*Y.E.T. Compassion is based in Nashville, Tennessee, and serves our communities in the United States, South Sudan, and around the globe.*

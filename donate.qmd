@@ -1,6 +1,6 @@
 ---
 title: "Support Our Mission"
-description: "Make a tax-deductible donation to Y.E.T. Compassion. Your gift directly supports South Sudanese diaspora youth and families in Nashville."
+description: "Make a tax-deductible donation to Y.E.T. Compassion. Your gift directly supports youth empowerment, family stability, and community transformation."
 page-layout: custom
 toc: false
 ---
@@ -20,7 +20,7 @@ toc: false
     </h1>
 
     <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 580px; margin: 0 auto;">
-      Every gift makes an immediate impact. Your donation directly funds programs that transform lives in our South Sudanese community.
+      Every gift makes an immediate impact. Your donation directly funds programs that empower youth, strengthen families, and build thriving communities.
     </p>
   </div>
 </section>
@@ -176,7 +176,7 @@ toc: false
         <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">✝</div>
         <div>
           <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$25 — Bible Study Kit</strong>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Supplies for weekly spiritual formation programs including study guides and devotionals.</p>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Provides study guides, devotionals, and materials for weekly spiritual formation programs.</p>
         </div>
       </div>
 
@@ -184,7 +184,7 @@ toc: false
         <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #C9A227, #D4B44A); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">🎓</div>
         <div>
           <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$50 — One Month Mentorship</strong>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Curriculum and materials for one-on-one mentoring relationships with our youth.</p>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Funds curriculum and resources for one-on-one mentoring that develops young leaders.</p>
         </div>
       </div>
 
@@ -192,7 +192,7 @@ toc: false
         <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #3A7CA5, #4A92BF); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">🏠</div>
         <div>
           <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$100 — Family Workshop</strong>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Host a workshop on parenting, education, or financial literacy for diaspora families.</p>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Hosts a workshop on parenting, education, or financial literacy that equips families for stability.</p>
         </div>
       </div>
 
@@ -200,7 +200,7 @@ toc: false
         <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">🤝</div>
         <div>
           <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$250 — Community Event</strong>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Underwrite a major gathering that builds connection, belonging, and cultural celebration.</p>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Underwrites a gathering that strengthens connection, belonging, and shared purpose across the community.</p>
         </div>
       </div>
 
@@ -248,7 +248,7 @@ toc: false
         <div style="width: 8px; height: 8px; background-color: #3A7CA5; border-radius: 50%; flex-shrink: 0; margin-top: 0.6rem;"></div>
         <div>
           <strong style="font-family: 'Inter', sans-serif; color: #2B2B2B;">Direct Community Impact.</strong>
-          <span style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #5A5955; line-height: 1.7;"> Your gift directly supports South Sudanese diaspora youth and families through mentorship, spiritual formation, education support, and community connection.</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #5A5955; line-height: 1.7;"> Your gift directly supports youth and families through mentorship, spiritual formation, education, and community building — both in the diaspora and in South Sudan.</span>
         </div>
       </div>
 
@@ -265,7 +265,7 @@ toc: false
       Questions About Your Gift?
     </h2>
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2rem;">
-      Contact us at <a href="mailto:info@yetcompassion.org" style="color: #C9A227; text-decoration: none; font-weight: 600;">info@yetcompassion.org</a> to discuss how your donation makes the most impact.
+      We welcome your questions. Reach out at <a href="mailto:info@yetcompassion.org" style="color: #C9A227; text-decoration: none; font-weight: 600;">info@yetcompassion.org</a> to learn more about how your generosity creates lasting change.
     </p>
     <a href="/contact.html" style="display: inline-block; background-color: #C9A227; color: #2B2B2B; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; text-decoration: none; box-shadow: 0 2px 8px rgba(201,162,39,0.3); transition: all 200ms ease;">
       Get in Touch

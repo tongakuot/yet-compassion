@@ -1,6 +1,6 @@
 ---
 title: "Our Programs"
-description: "Explore Y.E.T. Compassion's five strategic programs serving South Sudanese diaspora communities through faith-centered education, leadership, family empowerment, community building, and homeland engagement."
+description: "Explore Y.E.T. Compassion's five strategic programs — faith-centered education, leadership development, family wellness, community building, and homeland engagement."
 page-layout: custom
 toc: false
 ---
@@ -20,7 +20,7 @@ toc: false
     </h1>
 
     <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 620px; margin: 0 0 2rem;">
-      Lasting change comes through addressing the spiritual, social, economic, and relational dimensions of life. Our five strategic programs work together to serve South Sudanese diaspora communities in Nashville.
+      Lasting change comes through addressing the spiritual, social, and relational dimensions of life. Our five strategic programs work together to serve our communities in the United States, South Sudan, and around the globe.
     </p>
 
     <!-- Quick-nav anchors -->
@@ -52,14 +52,14 @@ toc: false
 
     <!-- Description -->
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
-      Reaching young people with the transformative power of God's Word, grounded in Scripture and responsive to the unique context of South Sudanese diaspora communities. These young people navigate complex identities — bridging their heritage with life in America, processing trauma, and seeking purpose.
+      Reaching young people with the transformative power of God's Word, grounded in Scripture and responsive to the realities they face. These young people navigate complex identities — bridging their heritage with life in America, processing trauma, and seeking purpose.
     </p>
 
     <!-- Activities grid -->
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 2rem 0;">
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
         <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Bible Studies &amp; Small Groups</strong>
-        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Weekly sessions exploring Scripture in ways that connect to the lived experience of diaspora youth.</span>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Weekly sessions exploring Scripture in ways that connect to the lived experience of young people navigating two cultures.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
         <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Youth Conferences &amp; Events</strong>
@@ -78,7 +78,7 @@ toc: false
     <!-- Vision callout -->
     <div style="padding: 1.5rem; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); border-radius: 8px; color: white;">
       <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: #C9A227; margin-bottom: 0.5rem;">Our Vision</strong>
-      <p style="font-size: 0.95rem; line-height: 1.7; color: rgba(255,255,255,0.9); margin: 0;">A generation of South Sudanese youth deeply rooted in Scripture, secure in their faith, and empowered to be witnesses and leaders in their communities.</p>
+      <p style="font-size: 0.95rem; line-height: 1.7; color: rgba(255,255,255,0.9); margin: 0;">A generation of young people deeply rooted in Scripture, secure in their faith, and empowered to be witnesses and leaders in their communities.</p>
     </div>
   </div>
 </section>
@@ -128,8 +128,8 @@ toc: false
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">One-on-one relationships connecting youth with experienced leaders for guidance and accountability.</span>
       </div>
       <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Professional Development</strong>
-        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Career exploration, resume building, interview prep, and professional networking opportunities.</span>
+        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Character &amp; Ethics Formation</strong>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Biblical ethics, personal integrity, and accountability — shaping leaders who serve with wisdom and honor.</span>
       </div>
       <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
         <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Public Speaking &amp; Communication</strong>
@@ -155,15 +155,15 @@ toc: false
     <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
       <div style="width: 48px; height: 48px; border-radius: 10px; background: #3A7CA5; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; flex-shrink: 0;">🏠</div>
       <div>
-        <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.5rem, 3vw, 2rem); color: #2B2B2B; margin: 0; font-weight: 600;">Family Stability &amp; Economic Empowerment</h2>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #3A7CA5; margin: 0.25rem 0 0; font-weight: 500;">Strengthening Foundations · Building Prosperity</p>
+        <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.5rem, 3vw, 2rem); color: #2B2B2B; margin: 0; font-weight: 600;">Family Stability &amp; Wellness</h2>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #3A7CA5; margin: 0.25rem 0 0; font-weight: 500;">Strengthening Foundations · Nurturing Wholeness</p>
       </div>
     </div>
     <div style="width: 60px; height: 3px; background-color: #3A7CA5; margin-bottom: 1.5rem;"></div>
 
     <!-- Description -->
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
-      The family is the primary unit of society and the church. Strong families create stable communities, raise healthy children, and model Christian values for future generations. This program provides comprehensive support to strengthen families and create pathways to financial security.
+      The family is the primary unit of society and the church. Strong families create stable communities, raise healthy children, and model Christian values for future generations. This program provides comprehensive support to strengthen families through relational health, parenting guidance, and spiritual renewal.
     </p>
 
     <!-- Activities grid -->
@@ -173,12 +173,12 @@ toc: false
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Culturally-sensitive counseling for healthy communication, conflict resolution, and relational healing.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Financial Literacy Training</strong>
-        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Budgeting, saving, credit management, investing, and navigating banking systems.</span>
+        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Parenting &amp; Youth Development</strong>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Practical training for parents navigating cultural transitions, generational gaps, and raising children with purpose.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Job Readiness &amp; Career Support</strong>
-        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Resume writing, interview coaching, skills assessment, and workplace navigation.</span>
+        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Spiritual &amp; Emotional Wellness</strong>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Faith-grounded support for families processing grief, displacement, and the stresses of building a new life.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
         <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Family Retreats</strong>
@@ -189,7 +189,7 @@ toc: false
     <!-- Vision callout -->
     <div style="padding: 1.5rem; background: linear-gradient(135deg, #3A7CA5, #4A92BF); border-radius: 8px; color: white;">
       <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: rgba(255,255,255,0.6); margin-bottom: 0.5rem;">Our Vision</strong>
-      <p style="font-size: 0.95rem; line-height: 1.7; color: rgba(255,255,255,0.9); margin: 0;">Families equipped with the skills, knowledge, and relational health to break cycles of poverty and build lasting financial stability — strengthening the foundation for generations to come.</p>
+      <p style="font-size: 0.95rem; line-height: 1.7; color: rgba(255,255,255,0.9); margin: 0;">Families equipped with the faith, knowledge, and relational health to navigate life's challenges together — strengthening the foundation for generations to come.</p>
     </div>
   </div>
 </section>
@@ -225,7 +225,7 @@ toc: false
 
     <!-- Description -->
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
-      Strengthening the social fabric of South Sudanese diaspora communities, preserving cultural identity, and advocating for the rights, needs, and voices of diaspora families. These communities bring tremendous strength, resilience, wisdom, and spiritual vitality — and deserve recognition, resources, and dignity.
+      Strengthening the social fabric of our communities, preserving cultural identity, and advocating for the rights, needs, and voices of the families we serve. These communities bring tremendous strength, resilience, wisdom, and spiritual vitality — and deserve recognition, resources, and dignity.
     </p>
 
     <!-- Activities grid -->
@@ -236,11 +236,11 @@ toc: false
       </div>
       <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
         <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Cultural Celebrations</strong>
-        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Heritage festivals honoring South Sudanese traditions, language, music, and history across generations.</span>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Heritage festivals honoring our traditions, language, music, and history across generations.</span>
       </div>
       <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
         <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Civic Engagement &amp; Advocacy</strong>
-        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Education on voting rights, civic participation, and policy advocacy on issues affecting diaspora communities.</span>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Education on voting rights, civic participation, and policy advocacy on issues affecting our communities.</span>
       </div>
       <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
         <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Interfaith Dialogue</strong>
@@ -251,7 +251,7 @@ toc: false
     <!-- Vision callout -->
     <div style="padding: 1.5rem; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); border-radius: 8px; color: white;">
       <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: #C9A227; margin-bottom: 0.5rem;">Our Vision</strong>
-      <p style="font-size: 0.95rem; line-height: 1.7; color: rgba(255,255,255,0.9); margin: 0;">A thriving diaspora community where families feel connected, valued, and empowered to preserve their cultural identity while actively participating in Nashville's civic life.</p>
+      <p style="font-size: 0.95rem; line-height: 1.7; color: rgba(255,255,255,0.9); margin: 0;">A thriving community where families feel connected, valued, and empowered to preserve their cultural identity while actively participating in civic life wherever they call home.</p>
     </div>
   </div>
 </section>
@@ -274,7 +274,7 @@ toc: false
 
     <!-- Description -->
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
-      Connecting diaspora families to their homeland, supporting vulnerable communities, and advancing hope, healing, and transformation in South Sudan through direct service and partnership. All work is conducted in partnership with local churches, community leaders, and organizations.
+      Connecting families to their homeland, supporting vulnerable communities, and advancing hope, healing, and transformation in South Sudan through direct service and partnership. All work is conducted in partnership with local churches, community leaders, and organizations.
     </p>
 
     <!-- Project Photo Gallery -->
@@ -303,7 +303,7 @@ toc: false
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 2rem 0;">
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
         <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Mission Trips &amp; Partnerships</strong>
-        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Annual trips connecting diaspora youth and families with homeland communities for service and relationship building.</span>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Annual trips connecting youth and families with homeland communities for service and relationship building.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
         <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Educational Sponsorships</strong>
@@ -322,7 +322,7 @@ toc: false
     <!-- Vision callout -->
     <div style="padding: 1.5rem; background: linear-gradient(135deg, #C9A227, #D4B44A); border-radius: 8px; color: #2B2B2B;">
       <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: rgba(43,43,43,0.6); margin-bottom: 0.5rem;">Our Vision</strong>
-      <p style="font-size: 0.95rem; line-height: 1.7; color: #2B2B2B; margin: 0;">Bridging diaspora and homeland through transformative partnerships — expanding mission trips, growing educational sponsorships, investing in infrastructure, and demonstrating Christ's love through tangible service.</p>
+      <p style="font-size: 0.95rem; line-height: 1.7; color: #2B2B2B; margin: 0;">Bridging our communities and the homeland through transformative partnerships — expanding mission trips, growing educational sponsorships, investing in infrastructure, and demonstrating Christ's love through tangible service.</p>
     </div>
 
     <!-- Extended Photo Gallery -->
@@ -330,10 +330,10 @@ toc: false
       <h3 style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #C9A227; margin-bottom: 1rem;">From the Field</h3>
       <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 0.75rem;">
         <div style="position: relative; overflow: hidden; border-radius: 8px;">
-          <img loading="lazy" src="/images/project-images/biong-mission-gathering-bw.jpg" alt="Hundreds of children gathered at the Biong mission in South Sudan" style="width: 100%; height: 100%; object-fit: cover; min-height: 240px;">
+          <img loading="lazy" src="/images/project-images/biong-school-photo.png" alt="Students and community gathered at Biong School in South Sudan" style="width: 100%; height: 100%; object-fit: cover; min-height: 240px;">
           <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.75)); padding: 1rem; padding-top: 2rem;">
-            <span style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; color: #FFFFFF; display: block;">Community Gathering — Biong Mission</span>
-            <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; color: rgba(255,255,255,0.7);">Hundreds of children and families served</span>
+            <span style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; color: #FFFFFF; display: block;">School Assembly — Biong Mission</span>
+            <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; color: rgba(255,255,255,0.7);">Students and community gathered for learning</span>
           </div>
         </div>
         <div style="display: grid; grid-template-rows: 1fr 1fr; gap: 0.75rem;">
@@ -386,7 +386,7 @@ toc: false
       Partner With Us
     </h2>
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: #5A5955; line-height: 1.7; margin-bottom: 2rem;">
-      Every program thrives because of faithful partners. Whether through volunteering, mentoring, or financial support, your contribution strengthens our community.
+      Every program thrives because of faithful partners. Whether through volunteering, mentoring, prayer, or giving, your contribution strengthens our community.
     </p>
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
       <a href="/get-involved.html" style="display: inline-block; background-color: #1F5E3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 0.95rem; padding: 0.75rem 1.75rem; border-radius: 8px; text-decoration: none; transition: all 200ms ease;">

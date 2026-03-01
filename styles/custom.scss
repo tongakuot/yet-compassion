@@ -30,6 +30,8 @@ $body-bg: $ivory;
 $body-color: $charcoal;
 $link-color: $primary;
 $link-hover-color: $primary-light;
+$link-decoration: none;
+$link-hover-decoration: none;
 $font-size-base: 1.125rem;  // 18px
 $line-height-base: 1.6;
 
@@ -159,8 +161,8 @@ p {
     padding: 0.5rem 0;
 
     img {
-      height: 36px;
-      width: auto;
+      height: 108px;
+      width: 96px;
       object-fit: contain;
     }
   }
@@ -403,29 +405,31 @@ p {
   }
 }
 
-// ── Global CTA reset — kills Quarto/Bootstrap underline on all button-styled links ──
+// ── Global CTA reset — kills Quarto/Bootstrap underline on ALL button-styled links ──
+// Covers: btn-gold, btn-ghost, btn-ghost-green, btn-primary-custom,
+//         ev-pill, gi-pill, faq-pill, gi-card, inline-styled buttons,
+//         program-link, social links, card links, and any future btn- class.
 a.btn-gold,
 a.btn-ghost,
 a.btn-ghost-green,
 a.btn-primary-custom,
-a[class*="btn-"] {
+a[class*="btn-"],
+a[class*="-pill"],
+a[class*="-card"],
+a.program-link,
+section a[style*="border-radius"],
+section a[style*="padding"],
+section a[style*="background-color"],
+section a[style*="background:"],
+.hero-section a,
+.program-card a,
+.nav-footer a {
   text-decoration: none !important;
 
   &:hover,
   &:focus,
   &:active,
   &:visited {
-    text-decoration: none !important;
-  }
-}
-
-// Also neutralize inline-styled CTA links (no class, but styled as buttons)
-section a[style*="border-radius"][style*="padding"] {
-  text-decoration: none !important;
-
-  &:hover,
-  &:focus,
-  &:active {
     text-decoration: none !important;
   }
 }
