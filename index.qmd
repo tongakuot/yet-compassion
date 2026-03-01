@@ -103,7 +103,7 @@ toc: false
     <p style="font-family: 'Inter', sans-serif; font-size: 1.1rem; line-height: 1.8; color: #5A5955; margin-bottom: 2rem;">
       Founded by <strong>Evangelist Gai Bol Luom</strong> in Nashville, Tennessee, our nonprofit ministry serves as a bridge between faith, education, and community empowerment for South Sudanese communities in the U.S.A., South Sudan, and beyond.
     </p>
-    <a href="about/index.html" style="display: inline-block; background-color: #1F5E3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.75rem 1.75rem; border-radius: 8px; text-decoration: none; transition: all 200ms ease;">
+    <a href="about/index.html" style="display: inline-block; background-color: #1F5E3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 1rem; padding: 0.85rem 2rem; border-radius: 8px; text-decoration: none; transition: all 200ms ease;">
       Learn More About Our Work
     </a>
   </div>

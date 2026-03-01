@@ -406,9 +406,8 @@ p {
 }
 
 // ── Global CTA reset — kills Quarto/Bootstrap underline on ALL button-styled links ──
-// Covers: btn-gold, btn-ghost, btn-ghost-green, btn-primary-custom,
-//         ev-pill, gi-pill, faq-pill, gi-card, inline-styled buttons,
-//         program-link, social links, card links, and any future btn- class.
+// Nuclear override: any <a> with inline border-radius is a button, not a text link.
+a[style*="border-radius"],
 a.btn-gold,
 a.btn-ghost,
 a.btn-ghost-green,
@@ -425,12 +424,31 @@ section a[style*="background:"],
 .program-card a,
 .nav-footer a {
   text-decoration: none !important;
+  border-bottom: none !important;
 
   &:hover,
   &:focus,
   &:active,
   &:visited {
     text-decoration: none !important;
+    border-bottom: none !important;
+  }
+}
+
+// Quarto body-level link override for CTA buttons
+#quarto-content a[style*="border-radius"],
+.quarto-section-identifier a[style*="border-radius"],
+main a[style*="border-radius"],
+body a[style*="border-radius"] {
+  text-decoration: none !important;
+  border-bottom: none !important;
+
+  &:hover,
+  &:focus,
+  &:active,
+  &:visited {
+    text-decoration: none !important;
+    border-bottom: none !important;
   }
 }
 
