@@ -43,8 +43,8 @@ $headings-font-weight: 700;
 $headings-color: $charcoal;
 
 // ── Navbar ──
-$navbar-bg: $charcoal;
-$navbar-fg: $ivory;
+$navbar-bg: #FFFFFF;
+$navbar-fg: $charcoal;
 
 /*-- scss:rules --*/
 
@@ -139,9 +139,10 @@ p {
 
 .navbar {
   padding: 0;
-  min-height: auto;
-  box-shadow: none;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  min-height: 120px !important;
+  background-color: #FFFFFF !important;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
   position: sticky;
   top: 0;
   z-index: 1000;
@@ -150,20 +151,24 @@ p {
   .navbar-container {
     max-width: 1400px;
     margin: 0 auto;
-    padding: 0.65rem 2rem !important;
+    min-height: 120px !important;
+    padding: 0.5rem 2rem !important;
     justify-content: space-between !important;
     align-items: center;
+    display: flex !important;
   }
 
-  // ── Logo ──
+  // ── Logo — Large & Prominent (IL Coalition style) ──
   .navbar-brand {
-    margin-right: 2rem;
-    padding: 0.5rem 0;
+    margin-right: 2.5rem;
+    padding: 0.75rem 0;
 
-    img {
-      height: 108px;
-      width: 96px;
-      object-fit: contain;
+    img,
+    .navbar-logo {
+      height: 80px !important;
+      max-height: none !important;
+      width: auto !important;
+      object-fit: contain !important;
     }
   }
 
@@ -172,7 +177,7 @@ p {
     display: none !important;
   }
 
-  // ── Nav Links — right-aligned group ──
+  // ── Nav Links — dark text on light background ──
   .navbar-nav .nav-item {
     .nav-link {
       font-family: var(--font-body);
@@ -180,7 +185,7 @@ p {
       font-size: 0.95rem;
       letter-spacing: 0.025em;
       padding: 0.5rem 1rem !important;
-      color: rgba(229, 231, 235, 0.85) !important;
+      color: $charcoal !important;
       transition: color 200ms ease;
       border: none !important;
       outline: none !important;
@@ -190,14 +195,15 @@ p {
 
       &:hover,
       &:focus {
-        color: $secondary !important;
+        color: $primary !important;
         background: transparent !important;
         box-shadow: none !important;
       }
 
       &.active,
       &[aria-current="page"] {
-        color: $ivory !important;
+        color: $primary !important;
+        font-weight: 600;
       }
     }
 
@@ -212,29 +218,29 @@ p {
     }
   }
 
-  // ── Dropdown Menus ──
+  // ── Dropdown Menus — light style ──
   .dropdown-menu {
-    background: $charcoal;
-    border: 1px solid rgba(255, 255, 255, 0.08);
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.08);
     border-radius: 8px;
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
     padding: 0.5rem 0;
     margin-top: 0.35rem;
 
     .dropdown-item {
-      color: rgba(229, 231, 235, 0.8);
+      color: $charcoal;
       font-size: 0.9rem;
       padding: 0.55rem 1.25rem;
       transition: all 150ms ease;
 
       &:hover, &:focus {
-        color: $secondary;
-        background: rgba(255, 255, 255, 0.05);
+        color: $primary;
+        background: rgba(31, 94, 59, 0.05);
       }
     }
 
     .dropdown-divider {
-      border-color: rgba(255, 255, 255, 0.08);
+      border-color: rgba(0, 0, 0, 0.08);
     }
   }
 
@@ -244,11 +250,11 @@ p {
     margin-left: 0.75rem;
 
     .aa-DetachedSearchButton {
-      background: rgba(255, 255, 255, 0.06) !important;
-      border: 1px solid rgba(255, 255, 255, 0.1) !important;
+      background: rgba(0, 0, 0, 0.04) !important;
+      border: 1px solid rgba(0, 0, 0, 0.1) !important;
       border-radius: 20px !important;
       padding: 0.4rem 0.85rem !important;
-      color: rgba(229, 231, 235, 0.4) !important;
+      color: $gray-400 !important;
       transition: all 200ms ease !important;
       height: 34px;
       cursor: pointer;
@@ -257,9 +263,9 @@ p {
       gap: 0.4rem;
 
       &:hover {
-        background: rgba(255, 255, 255, 0.1) !important;
-        border-color: rgba(201, 162, 39, 0.25) !important;
-        color: rgba(229, 231, 235, 0.6) !important;
+        background: rgba(0, 0, 0, 0.06) !important;
+        border-color: rgba(31, 94, 59, 0.25) !important;
+        color: $charcoal !important;
       }
 
       .aa-DetachedSearchButtonIcon svg {
@@ -276,26 +282,46 @@ p {
 }
 
 // ── Donate Button in Navbar ──
-// Targets the last nav-item (Donate) in the right nav group
+// Outlined pill style on light navbar (IL Coalition inspired)
 .navbar .navbar-nav .nav-item:last-child > .nav-link[href*="donate"],
 .navbar .navbar-nav .nav-item:last-child > a[href*="donate"] {
-  background-color: $secondary !important;
-  color: $charcoal !important;
-  font-weight: 700 !important;
-  font-size: 0.85rem !important;
-  padding: 0.4rem 1.3rem !important;
+  background-color: transparent !important;
+  color: $primary !important;
+  font-weight: 600 !important;
+  font-size: 0.9rem !important;
+  padding: 0.4rem 1.5rem !important;
   border-radius: 20px !important;
-  box-shadow: 0 2px 8px rgba(201, 162, 39, 0.2);
+  border: 2px solid $primary !important;
+  box-shadow: none;
   transition: all 200ms ease !important;
   text-decoration: none !important;
   margin-left: 0.5rem;
   letter-spacing: 0.02em;
 
   &:hover {
-    background-color: $secondary-light !important;
-    color: $charcoal !important;
-    box-shadow: 0 4px 12px rgba(201, 162, 39, 0.35) !important;
+    background-color: $primary !important;
+    color: #FFFFFF !important;
+    box-shadow: 0 4px 12px rgba(31, 94, 59, 0.25) !important;
     transform: translateY(-1px);
+  }
+}
+
+// ── Mobile Navbar Toggler — dark icon on light background ──
+.navbar .navbar-toggler {
+  border: none !important;
+  padding: 0.5rem;
+
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(43,43,43,0.8)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+  }
+}
+
+// ── Mobile collapsed menu — light background ──
+@media (max-width: 767.98px) {
+  .navbar .navbar-collapse {
+    background-color: #FFFFFF;
+    padding: 1rem 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.06);
   }
 }
 
@@ -309,15 +335,15 @@ p {
   background-position: center;
   color: white;
   text-align: center;
-  padding: 5rem 1.5rem;
+  padding: 2.5rem 1.5rem;
   position: relative;
 
   @media (min-width: 768px) {
-    padding: 7rem 2rem;
+    padding: 3rem 2rem;
   }
 
   @media (min-width: 1024px) {
-    padding: 8rem 3rem;
+    padding: 3.5rem 3rem;
   }
 
   &::before {

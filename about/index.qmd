@@ -41,7 +41,7 @@ toc: false
     <div style="width: 60px; height: 3px; background-color: #C9A227; margin-bottom: 1.5rem;"></div>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
-      Y.E.T. Compassion is a nonprofit ministry founded by <strong style="color: #2B2B2B;">Evangelist Gai Bol Luom</strong>, dedicated to serving South Sudanese communities in the U.S.A., South Sudan, and beyond. Our name — <strong style="color: #2B2B2B;">Y.E.T.</strong> — stands for <strong style="color: #1F5E3B;">Youth Evangelism Training</strong>, reflecting our core commitment to empowering the next generation through preparation grounded in Scripture.
+      Y.E.T. Compassion is a nonprofit ministry founded by <strong style="color: #2B2B2B;">Evangelist Gai Bol Luom</strong>, dedicated to serving South Sudanese communities in the U.S.A., South Sudan, and beyond. Our name — <strong style="color: #2B2B2B;">Y.E.T.</strong> — stands for <strong style="color: #1F5E3B;">Youth Evangelism Training</strong>, reflecting our core commitment to empowering the next generation through preparation grounded in Scripture. What began as grassroots mission work in <strong style="color: #2B2B2B;">2006</strong> was formalized in <strong style="color: #2B2B2B;">2025</strong> when Y.E.T. Compassion was registered in Nashville, Tennessee as an IRS-approved <strong style="color: #2B2B2B;">501(c)(3) nonprofit organization</strong> — building on nearly two decades of faithful service.
     </p>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
@@ -209,6 +209,13 @@ toc: false
         <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #1F5E3B; font-weight: 600;">View Profile →</span>
       </a>
 
+      <a href="/about/board.html#operational-director" style="text-decoration: none; background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); text-align: center; transition: box-shadow 200ms ease, transform 200ms ease; display: block;">
+        <img src="/images/project-images/david_gai_pandak.jpg" alt="David Gai Pandak" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; object-position: center top; margin: 0 auto 1rem; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
+        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.05rem; color: #2B2B2B; margin-bottom: 0.25rem;">David Gai Pandak</h4>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #1F5E3B; margin-bottom: 0.5rem;">Director, South Sudan</p>
+        <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #1F5E3B; font-weight: 600;">View Profile →</span>
+      </a>
+
       <a href="/about/board.html" style="text-decoration: none; background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); text-align: center; transition: box-shadow 200ms ease, transform 200ms ease; display: block;">
         <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #3A7CA5, #4A92BF); display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; font-size: 1.25rem; color: white;">—</div>
         <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.05rem; color: #2B2B2B; margin-bottom: 0.25rem;">Vacant</h4>
@@ -217,8 +224,8 @@ toc: false
       </a>
 
       <a href="/about/board.html" style="text-decoration: none; background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); text-align: center; transition: box-shadow 200ms ease, transform 200ms ease; display: block;">
-        <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #C9A227, #D4B44A); display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; font-size: 2rem; color: white;">A</div>
-        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.05rem; color: #2B2B2B; margin-bottom: 0.25rem;">Ayen Wei Akech</h4>
+        <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #C9A227, #D4B44A); display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; font-size: 1.25rem; color: white;">—</div>
+        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.05rem; color: #2B2B2B; margin-bottom: 0.25rem;">Vacant</h4>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #C9A227; margin-bottom: 0.5rem;">Spiritual Advisor</p>
         <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #1F5E3B; font-weight: 600;">Meet the Board →</span>
       </a>
@@ -228,7 +235,8 @@ toc: false
 
   <style>
     section a[href*="founder"]:hover,
-    section a[href*="board"]:hover {
+    section a[href*="board"]:hover,
+    section a[href*="operational-director"]:hover {
       box-shadow: 0 4px 16px rgba(0,0,0,0.12) !important;
       transform: translateY(-2px);
     }

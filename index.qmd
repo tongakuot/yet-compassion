@@ -20,7 +20,7 @@ toc: false
     "@type": "Person",
     "name": "Evangelist Gai Bol Luom"
   },
-  "foundingDate": "2024",
+  "foundingDate": "2006",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Nashville",
@@ -35,28 +35,271 @@ toc: false
 </script>
 
 <!-- ═══════════════════════════════════════════════ -->
-<!-- HERO SECTION                                    -->
+<!-- HERO SLIDER                                     -->
 <!-- ═══════════════════════════════════════════════ -->
-<section class="hero-section" style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 50%, #2B2B2B 100%); min-height: 60vh; display: flex; align-items: center; justify-content: center; padding: 4rem 1.5rem; position: relative; overflow: hidden;">
-  <!-- Subtle geometric pattern overlay -->
-  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23C9A227%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
+<section id="hero-slider" style="position: relative; width: 100%; height: 55vh; min-height: 380px; max-height: 529px; overflow: hidden; background: #0d0d0d;">
 
-  <div class="hero-content" style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: center;">
+  <!-- Background photo (swapped by JS) -->
+  <img id="hero-bg" src="images/project-images/biong-mission-team-2006.jpg" alt="" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center 65%; transition: opacity 1s ease; z-index: 1; transform: scale(1.02); color: transparent;">
 
-    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2.25rem, 5vw, 3.5rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.5rem;">
-      Excellence is not what we aspire to — <span style="color: #C9A227;">it's what we deliver.</span>
+  <!-- Refined overlay: lighter at top for photo visibility, focused center for text -->
+  <div style="position: absolute; inset: 0; background: linear-gradient(to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.4) 40%, rgba(0,0,0,0.5) 70%, rgba(0,0,0,0.65) 100%); z-index: 2;"></div>
+
+  <!-- Milestone card overlay (hidden by default) -->
+  <div id="hero-milestone" style="display: none; position: absolute; inset: 0; background: linear-gradient(135deg, #1F5E3B 0%, #0f3320 100%); z-index: 3; align-items: center; justify-content: center; flex-direction: column; text-align: center; padding: 2rem;">
+    <span style="font-size: 3.5rem; margin-bottom: 0.75rem; color: #C9A227; filter: drop-shadow(0 0 12px rgba(201,162,39,0.3));">✝</span>
+    <span style="font-family: 'Playfair Display', serif; font-size: clamp(1.4rem, 2.5vw, 2rem); font-weight: 600; color: #FFF; line-height: 1.4; letter-spacing: -0.01em;">Y.E.T. Compassion<br>officially registered</span>
+    <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 400; color: rgba(255,255,255,0.55); margin-top: 0.75rem; letter-spacing: 0.05em;">501(c)(3) · Nashville, TN · 2025</span>
+  </div>
+
+  <!-- Hero content overlay -->
+  <div id="hero-content" style="position: absolute; inset: 0; z-index: 4; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1.5rem 1.5rem 3.5rem; text-align: center;">
+
+    <!-- Year badge — compact, refined -->
+    <div style="margin-bottom: 0.6rem;">
+      <span id="hero-year" style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.25rem); font-weight: 700; color: #C9A227; line-height: 1; display: inline-block; letter-spacing: 0.08em; padding: 0.3rem 0.9rem; border: 1px solid rgba(201,162,39,0.35); border-radius: 4px; backdrop-filter: blur(8px); background: rgba(0,0,0,0.25); transition: opacity 300ms ease;">2006</span>
+      <span id="hero-caption" style="font-family: 'Inter', sans-serif; font-size: 0.65rem; font-weight: 500; letter-spacing: 0.15em; text-transform: uppercase; color: rgba(255,255,255,0.5); margin-top: 0.4rem; display: block; transition: opacity 300ms ease;">Mission begins</span>
+    </div>
+
+    <!-- Tagline — upright, authoritative -->
+    <h1 style="font-family: 'Inter', sans-serif; font-style: normal; font-size: clamp(1.4rem, 3.2vw, 2.25rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.25; margin-bottom: 0.5rem; max-width: 680px; text-shadow: 0 1px 8px rgba(0,0,0,0.3);">
+      Excellence is not what we aspire to — <span style="color: #C9A227; font-family: 'Playfair Display', Georgia, serif; font-style: italic;">it's what we deliver.</span>
     </h1>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: clamp(1.05rem, 2vw, 1.25rem); color: rgba(255,255,255,0.85); line-height: 1.7; max-width: 640px; margin: 0 auto 2.5rem;">
-      Equipping South Sudanese youth with the Gospel of Christ and practical skills to lead with integrity, build stable families, and transform their communities.
+    <!-- Photo description — subtle, secondary -->
+    <p id="hero-desc" style="font-family: 'Inter', sans-serif; font-size: clamp(0.8rem, 1.4vw, 0.9rem); color: rgba(255,255,255,0.65); line-height: 1.5; max-width: 500px; margin: 0 auto 1rem; font-weight: 400; letter-spacing: 0.01em;">
+      First mission team reaches Biong, South Sudan
     </p>
 
-    <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-      <a href="about/index.html" class="btn-gold">Learn More</a>
-      <a href="donate.html" class="btn-ghost">Donate Now</a>
+    <!-- CTAs — refined, frosted glass -->
+    <div style="display: flex; gap: 0.6rem; justify-content: center; flex-wrap: wrap;">
+      <a href="about/index.html" class="hero-cta-primary" style="display: inline-flex; align-items: center; padding: 0.45rem 1.4rem; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.03em; color: #2B2B2B; background: #C9A227; border: none; border-radius: 4px; text-decoration: none; transition: all 250ms ease; box-shadow: 0 2px 8px rgba(201,162,39,0.3);">Learn More</a>
+      <a href="donate.html" class="hero-cta-secondary" style="display: inline-flex; align-items: center; padding: 0.45rem 1.4rem; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.03em; color: #FFFFFF; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.25); border-radius: 4px; text-decoration: none; transition: all 250ms ease; backdrop-filter: blur(6px);">Donate Now</a>
     </div>
   </div>
+
+  <!-- Bottom navigation bar — frosted glass strip -->
+  <div id="hero-nav-bar" style="position: absolute; bottom: 0; left: 0; right: 0; z-index: 5; display: flex; align-items: center; justify-content: center; gap: 0.75rem; padding: 0.6rem 1rem; background: rgba(0,0,0,0.45); backdrop-filter: blur(12px); border-top: 1px solid rgba(255,255,255,0.08);">
+    <button id="hero-prev" aria-label="Previous" style="width: 32px; height: 32px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.15); background: transparent; color: #C9A227; font-size: 1rem; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 200ms ease;">‹</button>
+
+    <!-- Year pips -->
+    <div id="hero-pips" style="display: flex; gap: 0.3rem; align-items: center;"></div>
+
+    <!-- Progress dots -->
+    <div style="width: 1px; height: 14px; background: rgba(255,255,255,0.12); margin: 0 0.2rem;"></div>
+    <div id="hero-dots" style="display: flex; gap: 0.25rem; align-items: center;"></div>
+
+    <button id="hero-next" aria-label="Next" style="width: 32px; height: 32px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.15); background: transparent; color: #C9A227; font-size: 1rem; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 200ms ease;">›</button>
+  </div>
 </section>
+
+<script>
+(function() {
+  var data = [
+    { year: '2006', caption: 'Mission begins', photos: [
+      { src: 'images/project-images/biong-mission-team-2006.jpg', desc: 'First mission team reaches Biong, South Sudan', pos: 'center 65%' },
+      { src: 'images/project-images/biong-missionary-team-photo.png', desc: 'Missionary team on the ground in Biong', pos: 'center 40%' }
+    ]},
+    { year: '2007', caption: 'Flood relief', photos: [
+      { src: 'images/project-images/biong-boat-transport-flood-2007.jpg', desc: 'Boat transport to reach flood-affected communities', pos: 'center 50%' },
+      { src: 'images/project-images/biong-women-carrying-water.png', desc: 'Women carrying water during the crisis', pos: 'center 40%' }
+    ]},
+    { year: '2009', caption: 'Clean water', photos: [
+      { src: 'images/project-images/biong-well-drilling-operator.jpg', desc: 'Clean water wells drilled for Biong village', pos: 'center 30%' },
+      { src: 'images/project-images/biong-well-pipe-installation.jpg', desc: 'Well pipe installation underway', pos: 'center 35%' },
+      { src: 'images/project-images/biong-children-at-well-site.jpg', desc: 'Children gather at the new well site', pos: 'center 45%' }
+    ]},
+    { year: '2012', caption: 'Education', photos: [
+      { src: 'images/project-images/biong-school-building.jpg', desc: 'School construction completed in Biong', pos: 'center 50%' },
+      { src: 'images/project-images/biong-school-photo.png', desc: 'Students and community gathered at Biong School', pos: 'center 45%' },
+      { src: 'images/project-images/biong-teacher-with-students.jpg', desc: 'Teacher with students in the classroom', pos: 'center 35%' },
+      { src: 'images/project-images/biong-students-with-textbooks.jpg', desc: 'Students receive new textbooks', pos: 'center 40%' }
+    ]},
+    { year: '2015', caption: 'Faith & worship', photos: [
+      { src: 'images/project-images/biong-church-service-rainy-day.png', desc: 'Faithful worship — church service in rainy season', pos: 'center 45%' }
+    ]},
+    { year: '2018', caption: 'Food relief', photos: [
+      { src: 'images/project-images/biong-food-distribution-leader.jpg', desc: 'Food distribution reaching families in need', pos: 'center 35%' },
+      { src: 'images/project-images/biong-children-with-food-aid.jpg', desc: 'Children receiving food aid', pos: 'center 40%' },
+      { src: 'images/project-images/biong-women-with-food-aid.jpg', desc: 'Women collecting food supplies for their families', pos: 'center 40%' }
+    ]},
+    { year: '2025', caption: '501(c)(3) registered', photos: [
+      { src: '', desc: 'Y.E.T. Compassion officially registered as a 501(c)(3) nonprofit in Nashville, TN', milestone: true }
+    ]}
+  ];
+
+  var yearIdx = 0, photoIdx = 0, timer = null;
+  var bg = document.getElementById('hero-bg');
+  var yearEl = document.getElementById('hero-year');
+  var captionEl = document.getElementById('hero-caption');
+  var descEl = document.getElementById('hero-desc');
+  var dotsEl = document.getElementById('hero-dots');
+  var pipsEl = document.getElementById('hero-pips');
+  var milestoneEl = document.getElementById('hero-milestone');
+  var contentEl = document.getElementById('hero-content');
+
+  // Preload all images so transitions are instant
+  data.forEach(function(g) {
+    g.photos.forEach(function(p) {
+      if (p.src) {
+        var preload = new Image();
+        preload.src = p.src;
+      }
+    });
+  });
+
+  // Build year pips
+  data.forEach(function(g, i) {
+    var pip = document.createElement('button');
+    pip.textContent = g.year;
+    pip.className = 'hero-pip';
+    pip.style.cssText = 'font-family:Inter,sans-serif;font-size:0.6rem;font-weight:600;padding:0.15rem 0.45rem;border-radius:3px;border:1px solid rgba(255,255,255,0.12);background:transparent;color:rgba(255,255,255,0.4);cursor:pointer;transition:all 200ms ease;white-space:nowrap;letter-spacing:0.03em;';
+    pip.addEventListener('click', function() { goToYear(i); });
+    pipsEl.appendChild(pip);
+  });
+
+  function render() {
+    var g = data[yearIdx];
+    var p = g.photos[photoIdx];
+
+    // Year label
+    yearEl.style.opacity = '0';
+    captionEl.style.opacity = '0';
+    setTimeout(function() {
+      yearEl.textContent = g.year;
+      captionEl.textContent = g.caption;
+      yearEl.style.opacity = '1';
+      captionEl.style.opacity = '1';
+    }, 150);
+
+    // Photo or milestone
+    bg.style.transition = 'none';
+    bg.style.opacity = '0';
+    setTimeout(function() {
+      bg.style.transition = 'opacity 0.8s ease';
+      if (p.milestone) {
+        bg.style.display = 'none';
+        contentEl.style.display = 'none';
+        milestoneEl.style.display = 'flex';
+      } else {
+        milestoneEl.style.display = 'none';
+        contentEl.style.display = '';
+        bg.style.display = '';
+        bg.style.objectPosition = p.pos || 'center 45%';
+        bg.src = p.src;
+        bg.alt = p.desc;
+      }
+      descEl.textContent = p.desc;
+      // Use requestAnimationFrame to ensure src is applied before fading in
+      requestAnimationFrame(function() {
+        requestAnimationFrame(function() {
+          bg.style.opacity = '1';
+        });
+      });
+    }, 300);
+
+    // Dots
+    dotsEl.innerHTML = '';
+    if (g.photos.length > 1) {
+      g.photos.forEach(function(_, i) {
+        var dot = document.createElement('span');
+        dot.style.cssText = 'width:6px;height:6px;border-radius:50%;transition:all 200ms ease;cursor:pointer;';
+        dot.style.background = i === photoIdx ? '#C9A227' : 'rgba(255,255,255,0.25)';
+        if (i === photoIdx) dot.style.boxShadow = '0 0 6px rgba(201,162,39,0.4)';
+        dot.addEventListener('click', function() { photoIdx = i; render(); resetTimer(); });
+        dotsEl.appendChild(dot);
+      });
+    }
+
+    // Year pips
+    Array.from(pipsEl.children).forEach(function(pip, i) {
+      if (i === yearIdx) {
+        pip.style.background = '#C9A227';
+        pip.style.color = '#2B2B2B';
+        pip.style.borderColor = '#C9A227';
+        pip.style.boxShadow = '0 0 8px rgba(201,162,39,0.3)';
+      } else {
+        pip.style.background = 'transparent';
+        pip.style.color = 'rgba(255,255,255,0.4)';
+        pip.style.borderColor = 'rgba(255,255,255,0.12)';
+        pip.style.boxShadow = 'none';
+      }
+    });
+  }
+
+  function advance() {
+    var g = data[yearIdx];
+    if (photoIdx < g.photos.length - 1) {
+      photoIdx++;
+    } else if (yearIdx < data.length - 1) {
+      yearIdx++;
+      photoIdx = 0;
+    } else {
+      yearIdx = 0;
+      photoIdx = 0;
+    }
+    render();
+  }
+
+  function goBack() {
+    if (photoIdx > 0) {
+      photoIdx--;
+    } else if (yearIdx > 0) {
+      yearIdx--;
+      photoIdx = data[yearIdx].photos.length - 1;
+    } else {
+      yearIdx = data.length - 1;
+      photoIdx = data[yearIdx].photos.length - 1;
+    }
+    render();
+  }
+
+  function goToYear(i) {
+    yearIdx = i;
+    photoIdx = 0;
+    render();
+    resetTimer();
+  }
+
+  function resetTimer() {
+    clearInterval(timer);
+    timer = setInterval(advance, 5000);
+  }
+
+  document.getElementById('hero-next').addEventListener('click', function() { advance(); resetTimer(); });
+  document.getElementById('hero-prev').addEventListener('click', function() { goBack(); resetTimer(); });
+
+  render();
+  timer = setInterval(advance, 5000);
+})();
+</script>
+
+<style>
+  .hero-cta-primary:hover {
+    background: #d4ad2e !important;
+    box-shadow: 0 4px 16px rgba(201,162,39,0.4) !important;
+    transform: translateY(-1px);
+  }
+  .hero-cta-secondary:hover {
+    background: rgba(255,255,255,0.15) !important;
+    border-color: rgba(255,255,255,0.4) !important;
+    transform: translateY(-1px);
+  }
+  #hero-prev:hover, #hero-next:hover {
+    color: #C9A227 !important;
+    border-color: rgba(201,162,39,0.4) !important;
+    background: rgba(201,162,39,0.1) !important;
+  }
+  .hero-pip:hover {
+    color: rgba(255,255,255,0.7) !important;
+    border-color: rgba(255,255,255,0.3) !important;
+  }
+  @media (max-width: 640px) {
+    #hero-slider { height: 50vh !important; min-height: 340px !important; }
+    #hero-pips button { font-size: 0.5rem !important; padding: 0.12rem 0.3rem !important; }
+    #hero-nav-bar { gap: 0.4rem !important; padding: 0.5rem 0.75rem !important; }
+  }
+</style>
 
 <!-- ═══════════════════════════════════════════════ -->
 <!-- OUR FOCUS — Honest pillars, no inflated stats  -->
@@ -97,7 +340,7 @@ toc: false
       We walk alongside young people through discipleship, mentorship, and hands-on training — preparing them not just to survive, but to lead. Every program we build is grounded in Scripture and designed for lasting impact.
     </p>
     <p style="font-family: 'Inter', sans-serif; font-size: 1.1rem; line-height: 1.8; color: #5A5955; margin-bottom: 2rem;">
-      Founded by <strong>Evangelist Gai Bol Luom</strong> in Nashville, Tennessee, our nonprofit ministry serves as a bridge between faith, education, and community empowerment for South Sudanese communities in the U.S.A., South Sudan, and beyond.
+      What began in 2006 as grassroots mission work in South Sudan was formalized in 2025 when <strong>Evangelist Gai Bol Luom</strong> registered Y.E.T. Compassion as an IRS-approved 501(c)(3) nonprofit in Nashville, Tennessee — building on nearly two decades of faithful service to South Sudanese communities in the U.S.A., South Sudan, and beyond.
     </p>
     <a href="about/index.html" class="btn-green">Learn More About Our Work</a>
   </div>

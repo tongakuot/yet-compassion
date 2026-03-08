@@ -26,8 +26,8 @@ website:
     site: "@yetcompassion"
 
   navbar:
-    background: "#2B2B2B"
-    foreground: "#F7F6F2"
+    background: "#FFFFFF"
+    foreground: "#2B2B2B"
     logo: images/logo.png
     logo-alt: "Y.E.T. Compassion"
     pinned: true
@@ -61,8 +61,8 @@ website:
     foreground: "#F7F6F2"
     left: |
       **Y.E.T. Compassion**<br>
-      Nashville, Tennessee<br>
-      <small>© 2024–2026 Youth Evangelism Training (Y.E.T.) Compassion. All rights reserved.</small>
+      Serving since 2006 · Nashville, TN<br>
+      <small>A 501(c)(3) nonprofit organization · © 2026 Youth Evangelism Training (Y.E.T.) Compassion. All rights reserved.</small>
     center: |
       [Mission & Vision](/about/index.qmd) | [Programs](/programs/index.qmd) | [FAQ](/faq.qmd)<br>
       <small>*"Excellence is not what we aspire to — it's what we deliver."*</small>

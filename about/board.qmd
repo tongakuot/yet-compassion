@@ -75,6 +75,39 @@ toc: false
 </section>
 
 <!-- ═══════════════════════════════════════════════ -->
+<!-- OPERATIONAL DIRECTOR — DAVID GAI PANDAK          -->
+<!-- ═══════════════════════════════════════════════ -->
+<section id="operational-director" class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 780px; margin: 0 auto;">
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #1F5E3B; margin-bottom: 1.5rem;">Leadership</p>
+
+    <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
+      <!-- Avatar -->
+      <div style="flex-shrink: 0;">
+        <img src="/images/project-images/david_gai_pandak.jpg" alt="David Gai Pandak" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; object-position: center top; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+      </div>
+      <!-- Details -->
+      <div style="flex: 1; min-width: 280px;">
+        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">David Gai Pandak</h3>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #1F5E3B; font-weight: 600; margin-bottom: 1rem;">Director, South Sudan</p>
+
+        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
+          David Gai Pandak is a Registered Nurse and organizational strategist with over five years of experience in healthcare systems and executive management. A graduate of Makerere University and Mastercard Foundation Scholars Program alumnus, he brings visionary leadership, operational excellence, and spiritual integrity to Y.E.T. Compassion's work on the ground in South Sudan.
+        </p>
+
+        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
+          David currently serves as Co-founder of Kugama Nursing and Homecare Services and Panmal Foundation, where he provides strategic oversight and drives sustainable community transformation. As a Lifetime Fellow of the Resolution Project, YouLead Fellow, and YALI alumnus, he is passionate about building strong institutions, mentoring emerging leaders, and advancing Christ-centered initiatives rooted in accountability and excellence.
+        </p>
+
+        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955;">
+          David believes that effective leadership is rooted in humility, vision, and unwavering commitment to God's purpose — and he is deeply invested in youth mentorship and the next generation of South Sudanese leaders.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
 <!-- BOARD MEMBER 2 — BOARD CHAIR                    -->
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
@@ -98,26 +131,22 @@ toc: false
 </section>
 
 <!-- ═══════════════════════════════════════════════ -->
-<!-- BOARD MEMBER 3 — SPIRITUAL ADVISOR              -->
+<!-- BOARD MEMBER 3 — SPIRITUAL ADVISOR (VACANT)     -->
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 3.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto;">
     <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
       <!-- Avatar -->
       <div style="flex-shrink: 0;">
-        <div style="width: 100px; height: 100px; border-radius: 50%; background: linear-gradient(135deg, #C9A227, #D4B44A); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: white; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">A</div>
+        <div style="width: 100px; height: 100px; border-radius: 50%; background: linear-gradient(135deg, #C9A227, #D4B44A); display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: white; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">—</div>
       </div>
       <!-- Details -->
       <div style="flex: 1; min-width: 280px;">
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Ayen Wei Akech</h3>
+        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Vacant</h3>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #C9A227; font-weight: 600; margin-bottom: 1rem;">Board Member &amp; Spiritual Advisor</p>
 
-        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
-          Ayen Wei Akech serves as Spiritual Advisor to Y.E.T. Compassion, bringing pastoral wisdom, spiritual oversight, and deep cultural understanding to board discussions and organizational direction.
-        </p>
-
         <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955;">
-          Her role as Spiritual Advisor ensures that every program, partnership, and decision remains grounded in biblical principles and theological integrity — the foundational values upon which Y.E.T. Compassion was built.
+          Y.E.T. Compassion is actively seeking a Spiritual Advisor who brings pastoral wisdom, spiritual oversight, and deep cultural understanding to board discussions and organizational direction. This role ensures that every program, partnership, and decision remains grounded in biblical principles and theological integrity — the foundational values upon which Y.E.T. Compassion was built.
         </p>
       </div>
     </div>

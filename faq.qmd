@@ -16,7 +16,7 @@ page-layout: custom
       "name": "What is Y.E.T. Compassion?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Y.E.T. Compassion is a nonprofit ministry based in Nashville, Tennessee, dedicated to serving South Sudanese diaspora communities. We provide youth mentorship, spiritual formation, education support, family workshops, and community building programs to help young people and families thrive."
+        "text": "Y.E.T. Compassion is a nonprofit ministry rooted in nearly two decades of grassroots mission work that began in South Sudan in 2006. In 2025, the ministry was formally registered as an IRS-approved 501(c)(3) nonprofit organization in Nashville, Tennessee. We serve South Sudanese communities in the U.S.A. and South Sudan through youth mentorship, spiritual formation, education, family empowerment, and community building."
       }
     },
     {
@@ -24,7 +24,7 @@ page-layout: custom
       "name": "Who founded Y.E.T. Compassion?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Y.E.T. Compassion was founded by Evangelist Gai Bol Luom, who has deep roots in the South Sudanese community and a passion for empowering the next generation."
+        "text": "Y.E.T. Compassion was founded by Evangelist Gai Bol Luom. The ministry's work began in 2006 with grassroots missions in South Sudan and was formally established as a 501(c)(3) nonprofit in Nashville, Tennessee in 2025."
       }
     },
     {
@@ -32,7 +32,7 @@ page-layout: custom
       "name": "Where is Y.E.T. Compassion based?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Y.E.T. Compassion is based in Nashville, Tennessee, where we serve our South Sudanese diaspora community."
+        "text": "Y.E.T. Compassion is headquartered in Nashville, Tennessee, where it was registered as a 501(c)(3) nonprofit in 2025. We also have on-the-ground operations in South Sudan, led by Director David Gai Pandak."
       }
     },
     {
@@ -80,7 +80,7 @@ page-layout: custom
       "name": "Does Y.E.T. Compassion work in South Sudan?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Currently, Y.E.T. Compassion's programs are based in Nashville, Tennessee, where we serve the local South Sudanese diaspora community. We may explore international partnerships in the future."
+        "text": "Yes. Y.E.T. Compassion's work began in South Sudan in 2006 with missions in the Biong region — building schools, drilling water wells, distributing food, and leading evangelism outreach. Our South Sudan operations are led by Director David Gai Pandak. We also serve the South Sudanese diaspora community in Nashville, Tennessee."
       }
     },
     {
@@ -135,21 +135,21 @@ page-layout: custom
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
       <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">What is Y.E.T. Compassion?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Y.E.T. Compassion is a nonprofit ministry based in Nashville, Tennessee, dedicated to serving South Sudanese diaspora communities. We provide youth mentorship, spiritual formation, education support, family workshops, and community building programs to help young people and families thrive.
+        Y.E.T. Compassion is a nonprofit ministry rooted in nearly two decades of grassroots mission work that began in South Sudan in 2006. In 2025, the ministry was formally registered as an IRS-approved 501(c)(3) nonprofit organization in Nashville, Tennessee. We serve South Sudanese communities in the U.S.A. and South Sudan through youth mentorship, spiritual formation, education, family empowerment, and community building.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
       <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">Who founded Y.E.T. Compassion?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Y.E.T. Compassion was founded by Evangelist Gai Bol Luom, who has deep roots in the South Sudanese community and a passion for empowering the next generation.
+        Y.E.T. Compassion was founded by Evangelist Gai Bol Luom. The ministry's work began in 2006 with grassroots missions in South Sudan and was formally established as a 501(c)(3) nonprofit in Nashville, Tennessee in 2025.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
       <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">Where is Y.E.T. Compassion based?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Y.E.T. Compassion is based in Nashville, Tennessee, where we serve our South Sudanese diaspora community.
+        Y.E.T. Compassion is headquartered in Nashville, Tennessee, where it was registered as a 501(c)(3) nonprofit in 2025. We also have on-the-ground operations in South Sudan, led by Director David Gai Pandak.
       </p>
     </details>
 
@@ -163,7 +163,7 @@ page-layout: custom
     <details style="margin-bottom: 0; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
       <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">Does Y.E.T. Compassion work in South Sudan?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Currently, Y.E.T. Compassion's programs are based in Nashville, Tennessee, where we serve the local South Sudanese diaspora community. We may explore international partnerships in the future.
+        Yes. Y.E.T. Compassion's work began in South Sudan in 2006 with missions in the Biong region — building schools, drilling water wells, distributing food, and leading evangelism outreach. Our South Sudan operations are led by Director David Gai Pandak. We also serve the South Sudanese diaspora community in Nashville, Tennessee.
       </p>
     </details>
   </div>
