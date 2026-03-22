@@ -83,6 +83,15 @@ toc: false
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 0;">
       This spiritual foundation became the bedrock upon which Y.E.T. Compassion was built. Gai understood that serving South Sudanese youth without addressing the spiritual dimension of their journey would be incomplete. Young people need not just education and skills — they need to know they are seen, valued, and called by God to something greater than their circumstances.
     </p>
+
+    <!-- Photo: Mission team partnership -->
+    <div style="margin-top: 2.5rem; border-radius: 12px; overflow: hidden; position: relative;">
+      <img loading="lazy" src="/images/project-images/mission_trip_photos/biong_mission_trip_photos_01.jpg" alt="Mission team building relationships and partnerships" style="width: 100%; height: auto; display: block;">
+      <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.75)); padding: 1.25rem; padding-top: 2.5rem;">
+        <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; display: block;">Mission Team — Building Partnerships</span>
+        <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; color: rgba(255,255,255,0.7);">Collaborative ministry through cross-cultural service</span>
+      </div>
+    </div>
   </div>
 </section>
 

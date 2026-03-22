@@ -43,14 +43,8 @@ toc: false
   <img id="hero-bg" src="images/project-images/biong-mission-team-2006.jpg" alt="" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center 65%; transition: opacity 1s ease; z-index: 1; transform: scale(1.02); color: transparent;">
 
   <!-- Refined overlay: lighter at top for photo visibility, focused center for text -->
-  <div style="position: absolute; inset: 0; background: linear-gradient(to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.4) 40%, rgba(0,0,0,0.5) 70%, rgba(0,0,0,0.65) 100%); z-index: 2;"></div>
+  <div id="hero-overlay" style="position: absolute; inset: 0; background: linear-gradient(to bottom, rgba(0,0,0,0.15) 0%, rgba(0,0,0,0.4) 40%, rgba(0,0,0,0.5) 70%, rgba(0,0,0,0.65) 100%); z-index: 2;"></div>
 
-  <!-- Milestone card overlay (hidden by default) -->
-  <div id="hero-milestone" style="display: none; position: absolute; inset: 0; background: linear-gradient(135deg, #1F5E3B 0%, #0f3320 100%); z-index: 3; align-items: center; justify-content: center; flex-direction: column; text-align: center; padding: 2rem;">
-    <span style="font-size: 3.5rem; margin-bottom: 0.75rem; color: #C9A227; filter: drop-shadow(0 0 12px rgba(201,162,39,0.3));">✝</span>
-    <span style="font-family: 'Playfair Display', serif; font-size: clamp(1.4rem, 2.5vw, 2rem); font-weight: 600; color: #FFF; line-height: 1.4; letter-spacing: -0.01em;">Y.E.T. Compassion<br>officially registered</span>
-    <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 400; color: rgba(255,255,255,0.55); margin-top: 0.75rem; letter-spacing: 0.05em;">501(c)(3) · Nashville, TN · 2025</span>
-  </div>
 
   <!-- Hero content overlay -->
   <div id="hero-content" style="position: absolute; inset: 0; z-index: 4; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 1.5rem 1.5rem 3.5rem; text-align: center;">
@@ -98,33 +92,41 @@ toc: false
   var data = [
     { year: '2006', caption: 'Mission begins', photos: [
       { src: 'images/project-images/biong-mission-team-2006.jpg', desc: 'First mission team reaches Biong, South Sudan', pos: 'center 65%' },
-      { src: 'images/project-images/biong-missionary-team-photo.png', desc: 'Missionary team on the ground in Biong', pos: 'center 40%' }
+      { src: 'images/project-images/mission_trip_photos/biong_mission_trip_photos_03.jpg', desc: 'Volunteers building relationships with local families', pos: 'center 45%' },
+      { src: 'images/project-images/mission_trip_photos/biong_mission_trip_photos_06.JPG', desc: 'Community gathering during the first mission outreach', pos: 'center 50%' }
     ]},
     { year: '2007', caption: 'Flood relief', photos: [
-      { src: 'images/project-images/biong-boat-transport-flood-2007.jpg', desc: 'Boat transport to reach flood-affected communities', pos: 'center 50%' },
       { src: 'images/project-images/biong-women-carrying-water.png', desc: 'Women carrying water during the crisis', pos: 'center 40%' }
     ]},
+    { year: '2008', caption: 'Education & community', photos: [
+      { src: 'images/project-images/2008_photos/classroom_photos-01.jpg', desc: 'Students engaged in learning under shelter', pos: 'center 45%' },
+      { src: 'images/project-images/2008_photos/classroom_photos-04.jpg', desc: 'Community gathering under a tree for shared learning', pos: 'center 50%' },
+      { src: 'images/project-images/2008_photos/classroom_photos-05.jpg', desc: 'Intergenerational partnership with local community members', pos: 'center 45%' }
+    ]},
     { year: '2009', caption: 'Clean water', photos: [
-      { src: 'images/project-images/biong-well-drilling-operator.jpg', desc: 'Clean water wells drilled for Biong village', pos: 'center 30%' },
-      { src: 'images/project-images/biong-well-pipe-installation.jpg', desc: 'Well pipe installation underway', pos: 'center 35%' },
-      { src: 'images/project-images/biong-children-at-well-site.jpg', desc: 'Children gather at the new well site', pos: 'center 45%' }
+      { src: 'images/project-images/biong-children-at-well-site.jpg', desc: 'Children gather at the new well site', pos: 'center 45%' },
+      { src: 'images/project-images/water_well_photos/water_well_photos_02.JPG', desc: 'Community accessing clean water from the new well', pos: 'center 50%' }
     ]},
     { year: '2012', caption: 'Education', photos: [
       { src: 'images/project-images/biong-school-building.jpg', desc: 'School construction completed in Biong', pos: 'center 50%' },
-      { src: 'images/project-images/biong-school-photo.png', desc: 'Students and community gathered at Biong School', pos: 'center 45%' },
       { src: 'images/project-images/biong-teacher-with-students.jpg', desc: 'Teacher with students in the classroom', pos: 'center 35%' },
       { src: 'images/project-images/biong-students-with-textbooks.jpg', desc: 'Students receive new textbooks', pos: 'center 40%' }
     ]},
     { year: '2015', caption: 'Faith & worship', photos: [
-      { src: 'images/project-images/biong-church-service-rainy-day.png', desc: 'Faithful worship — church service in rainy season', pos: 'center 45%' }
+      { src: 'images/project-images/devotion_photos/maker_manyang_devition_01.JPG', desc: 'Community gathered in prayer and worship', pos: 'center 50%' }
     ]},
-    { year: '2018', caption: 'Food relief', photos: [
+    { year: '2018', caption: 'Healthcare & relief', photos: [
       { src: 'images/project-images/biong-food-distribution-leader.jpg', desc: 'Food distribution reaching families in need', pos: 'center 35%' },
-      { src: 'images/project-images/biong-children-with-food-aid.jpg', desc: 'Children receiving food aid', pos: 'center 40%' },
-      { src: 'images/project-images/biong-women-with-food-aid.jpg', desc: 'Women collecting food supplies for their families', pos: 'center 40%' }
+      { src: 'images/project-images/biong-women-with-food-aid.jpg', desc: 'Women collecting food supplies for their families', pos: 'center 20%' },
+      { src: 'images/project-images/medical_supplies/medical_photos-01.jpg', desc: 'Distributing medicine and medical supplies to families', pos: 'center 40%' }
+    ]},
+    { year: '2020', caption: 'Mentorship & growth', photos: [
+      { src: 'images/project-images/best_photos/best_pictures-03.jpg', desc: 'Youth raised in hope — celebrating community and faith', pos: 'center 45%' },
+      { src: 'images/project-images/best_photos/best_pictures-05.jpg', desc: 'Building genuine connections with young people', pos: 'center 40%' },
+      { src: 'images/project-images/best_photos/best_pictures-07.jpg', desc: 'Intergenerational respect and cultural authenticity', pos: 'center 45%' }
     ]},
     { year: '2025', caption: '501(c)(3) registered', photos: [
-      { src: '', desc: 'Y.E.T. Compassion officially registered as a 501(c)(3) nonprofit in Nashville, TN', milestone: true }
+      { src: 'images/yet_compassion_official_registration.png', desc: 'Y.E.T. Compassion officially registered as a 501(c)(3) nonprofit in Nashville, TN', pos: 'center center' }
     ]}
   ];
 
@@ -135,8 +137,8 @@ toc: false
   var descEl = document.getElementById('hero-desc');
   var dotsEl = document.getElementById('hero-dots');
   var pipsEl = document.getElementById('hero-pips');
-  var milestoneEl = document.getElementById('hero-milestone');
   var contentEl = document.getElementById('hero-content');
+  var overlayEl = document.getElementById('hero-overlay');
 
   // Preload all images so transitions are instant
   data.forEach(function(g) {
@@ -172,23 +174,34 @@ toc: false
       captionEl.style.opacity = '1';
     }, 150);
 
-    // Photo or milestone
+    // Check if this is the full-bleed registration image
+    var isRegistration = p.src.indexOf('yet_compassion_official_registration') !== -1;
+    var heroSection = document.getElementById('hero-slider');
+    if (isRegistration) {
+      contentEl.style.cssText = 'display:none !important';
+      overlayEl.style.display = 'none';
+      bg.style.objectFit = 'contain';
+      bg.style.objectPosition = 'center center';
+      bg.style.transform = 'scale(1)';
+      heroSection.style.background = 'radial-gradient(ellipse at center, #122e1e 0%, #0a1f12 50%, #06140b 100%)';
+    } else {
+      contentEl.style.cssText = '';
+      contentEl.style.display = '';
+      overlayEl.style.display = '';
+      bg.style.objectFit = 'cover';
+      bg.style.objectPosition = p.pos || 'center 45%';
+      bg.style.transform = 'scale(1.02)';
+      heroSection.style.background = '#0d0d0d';
+    }
+
     bg.style.transition = 'none';
     bg.style.opacity = '0';
+    bg.style.display = '';
+    bg.style.objectPosition = p.pos || 'center 45%';
+    bg.src = p.src;
+    bg.alt = p.desc;
     setTimeout(function() {
       bg.style.transition = 'opacity 0.8s ease';
-      if (p.milestone) {
-        bg.style.display = 'none';
-        contentEl.style.display = 'none';
-        milestoneEl.style.display = 'flex';
-      } else {
-        milestoneEl.style.display = 'none';
-        contentEl.style.display = '';
-        bg.style.display = '';
-        bg.style.objectPosition = p.pos || 'center 45%';
-        bg.src = p.src;
-        bg.alt = p.desc;
-      }
       descEl.textContent = p.desc;
       // Use requestAnimationFrame to ensure src is applied before fading in
       requestAnimationFrame(function() {
@@ -505,25 +518,32 @@ toc: false
     <!-- Photo Grid: 2-column featured layout -->
     <div id="impact-grid" style="display: grid; grid-template-columns: 3fr 2fr; gap: 0.75rem;">
       <!-- Large featured image -->
-      <div style="position: relative; overflow: hidden; border-radius: 10px; grid-row: 1 / 3;">
-        <img loading="lazy" src="images/project-images/biong-school-photo.png" alt="Students and community gathered at Biong School" style="width: 100%; height: 100%; object-fit: cover; min-height: 360px;">
+      <div style="position: relative; overflow: hidden; border-radius: 10px; grid-row: 1 / 4;">
+        <img loading="lazy" src="images/project-images/best_photos/best_pictures-03.jpg" alt="Youth raised in hope — celebrating community and faith" style="width: 100%; height: 100%; object-fit: cover; min-height: 480px;">
         <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.8)); padding: 1.25rem; padding-top: 3rem;">
-          <span style="font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; color: #FFFFFF; display: block; margin-bottom: 0.25rem;">School Assembly — Biong Mission</span>
-          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; color: rgba(255,255,255,0.7);">Students and community gathered for learning</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; color: #FFFFFF; display: block; margin-bottom: 0.25rem;">Youth Empowerment — A Generation of Hope</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; color: rgba(255,255,255,0.7);">Building faith, confidence, and community</span>
         </div>
       </div>
       <!-- Top right -->
       <div style="position: relative; overflow: hidden; border-radius: 10px;">
-        <img loading="lazy" src="images/project-images/biong-students-with-textbooks.jpg" alt="Students holding new textbooks" style="width: 100%; height: 100%; object-fit: cover; min-height: 170px;">
+        <img loading="lazy" src="images/project-images/first_aid_photos/first_aid_photos_01.JPG" alt="Healthcare volunteer providing medical care to a child" style="width: 100%; height: 100%; object-fit: cover; min-height: 150px;">
         <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.75rem; padding-top: 1.5rem;">
-          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Education — Textbooks for Biong School</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Healthcare — Medical Outreach</span>
+        </div>
+      </div>
+      <!-- Middle right -->
+      <div style="position: relative; overflow: hidden; border-radius: 10px;">
+        <img loading="lazy" src="images/project-images/water_well_photos/water_well_photos_02.JPG" alt="Community accessing clean water from the well" style="width: 100%; height: 100%; object-fit: cover; min-height: 150px;">
+        <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.75rem; padding-top: 1.5rem;">
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Clean Water — Community Well Access</span>
         </div>
       </div>
       <!-- Bottom right -->
       <div style="position: relative; overflow: hidden; border-radius: 10px;">
-        <img loading="lazy" src="images/project-images/biong-well-drilling-operator.jpg" alt="Water well drilling in Biong" style="width: 100%; height: 100%; object-fit: cover; min-height: 170px;">
+        <img loading="lazy" src="images/project-images/2008_photos/classroom_photos-01.jpg" alt="Students engaged in learning" style="width: 100%; height: 100%; object-fit: cover; min-height: 150px;">
         <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.75rem; padding-top: 1.5rem;">
-          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Clean Water — Well Drilling, Jan 2009</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Education — Classroom Learning</span>
         </div>
       </div>
     </div>

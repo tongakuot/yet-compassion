@@ -75,12 +75,34 @@ toc: false
       </div>
     </div>
 
+    <!-- Photo Gallery -->
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin: 2rem 0; border-radius: 12px; overflow: hidden;">
+      <div style="position: relative; overflow: hidden; border-radius: 8px; aspect-ratio: 4/3;">
+        <img loading="lazy" src="/images/project-images/devotion_photos/maker_manyang_devition_01.JPG" alt="Community gathered for prayer and worship" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.75rem; padding-top: 1.5rem;">
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Community Worship Gathering</span>
+        </div>
+      </div>
+      <div style="position: relative; overflow: hidden; border-radius: 8px; aspect-ratio: 4/3;">
+        <img loading="lazy" src="/images/project-images/best_photos/best_pictures-03.jpg" alt="Youth celebrating community and faith together" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.75rem; padding-top: 1.5rem;">
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Youth Empowerment & Fellowship</span>
+        </div>
+      </div>
+    </div>
+
     <!-- Vision callout -->
     <div style="padding: 1.5rem; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); border-radius: 8px; color: white;">
       <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: #C9A227; margin-bottom: 0.5rem;">Our Vision</strong>
       <p style="font-size: 0.95rem; line-height: 1.7; color: rgba(255,255,255,0.9); margin: 0;">A generation of young people deeply rooted in Scripture, secure in their faith, and empowered to be witnesses and leaders in their communities.</p>
     </div>
   </div>
+
+  <style>
+    @media (max-width: 640px) {
+      #evangelism div[style*="grid-template-columns: 1fr 1fr"][style*="border-radius: 12px"] { grid-template-columns: 1fr !important; }
+    }
+  </style>
 </section>
 
 
@@ -137,12 +159,34 @@ toc: false
       </div>
     </div>
 
+    <!-- Photo Gallery -->
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin: 2rem 0; border-radius: 12px; overflow: hidden;">
+      <div style="position: relative; overflow: hidden; border-radius: 8px; aspect-ratio: 4/3;">
+        <img loading="lazy" src="/images/project-images/best_photos/best_pictures-01.jpg" alt="One-on-one mentorship with a young community member" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.75rem; padding-top: 1.5rem;">
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">One-on-One Mentorship</span>
+        </div>
+      </div>
+      <div style="position: relative; overflow: hidden; border-radius: 8px; aspect-ratio: 4/3;">
+        <img loading="lazy" src="/images/project-images/first_aid_photos/first_aid_photos_013.jpg" alt="Volunteers mentoring and training community members" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.75rem; padding-top: 1.5rem;">
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Leadership Training in Action</span>
+        </div>
+      </div>
+    </div>
+
     <!-- Vision callout -->
     <div style="padding: 1.5rem; background: linear-gradient(135deg, #C9A227, #D4B44A); border-radius: 8px; color: #2B2B2B;">
       <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: rgba(43,43,43,0.6); margin-bottom: 0.5rem;">Our Vision</strong>
       <p style="font-size: 0.95rem; line-height: 1.7; color: #2B2B2B; margin: 0;">A pipeline of servant leaders equipped with skills, confidence, and character to lead in their workplaces, churches, and communities with integrity and purpose.</p>
     </div>
   </div>
+
+  <style>
+    @media (max-width: 640px) {
+      #leadership div[style*="grid-template-columns: 1fr 1fr"][style*="border-radius: 12px"] { grid-template-columns: 1fr !important; }
+    }
+  </style>
 </section>
 
 
@@ -183,6 +227,14 @@ toc: false
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
         <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Family Retreats</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Quarterly gatherings for spiritual renewal, skill-building, celebration, and mutual support.</span>
+      </div>
+    </div>
+
+    <!-- Photo -->
+    <div style="margin: 2rem 0; border-radius: 12px; overflow: hidden; position: relative;">
+      <img loading="lazy" src="/images/project-images/best_photos/best_pictures-05.jpg" alt="Building genuine connections with young community members" style="width: 100%; height: 280px; object-fit: cover; object-position: center 40%;">
+      <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 1rem; padding-top: 2rem;">
+        <span style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; color: #FFFFFF;">Building Trust — The Foundation of Family Support</span>
       </div>
     </div>
 
@@ -248,12 +300,34 @@ toc: false
       </div>
     </div>
 
+    <!-- Photo Gallery -->
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin: 2rem 0; border-radius: 12px; overflow: hidden;">
+      <div style="position: relative; overflow: hidden; border-radius: 8px; aspect-ratio: 4/3;">
+        <img loading="lazy" src="/images/project-images/2008_photos/classroom_photos-04.jpg" alt="Community gathering under a tree for shared learning and fellowship" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.75rem; padding-top: 1.5rem;">
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Community Gathering & Fellowship</span>
+        </div>
+      </div>
+      <div style="position: relative; overflow: hidden; border-radius: 8px; aspect-ratio: 4/3;">
+        <img loading="lazy" src="/images/project-images/best_photos/best_pictures-06.jpg" alt="Participatory community discussion in the village" style="width: 100%; height: 100%; object-fit: cover;">
+        <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.75rem; padding-top: 1.5rem;">
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Community Dialogue & Support</span>
+        </div>
+      </div>
+    </div>
+
     <!-- Vision callout -->
     <div style="padding: 1.5rem; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); border-radius: 8px; color: white;">
       <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: #C9A227; margin-bottom: 0.5rem;">Our Vision</strong>
       <p style="font-size: 0.95rem; line-height: 1.7; color: rgba(255,255,255,0.9); margin: 0;">A thriving community where families feel connected, valued, and empowered to preserve their cultural identity while actively participating in civic life wherever they call home.</p>
     </div>
   </div>
+
+  <style>
+    @media (max-width: 640px) {
+      #community div[style*="grid-template-columns: 1fr 1fr"][style*="border-radius: 12px"] { grid-template-columns: 1fr !important; }
+    }
+  </style>
 </section>
 
 
@@ -286,15 +360,15 @@ toc: false
         </div>
       </div>
       <div style="position: relative; overflow: hidden; border-radius: 8px; aspect-ratio: 4/3;">
-        <img loading="lazy" src="/images/project-images/biong-children-at-well-site.jpg" alt="Children at the Biong water well drilling site" style="width: 100%; height: 100%; object-fit: cover;">
+        <img loading="lazy" src="/images/project-images/water_well_photos/water_well_photos_02.JPG" alt="Community accessing clean water from the well" style="width: 100%; height: 100%; object-fit: cover;">
         <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.75rem; padding-top: 1.5rem;">
-          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Clean Water Project</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Clean Water Access</span>
         </div>
       </div>
       <div style="position: relative; overflow: hidden; border-radius: 8px; aspect-ratio: 4/3;">
-        <img loading="lazy" src="/images/project-images/biong-women-with-food-aid.jpg" alt="Women in Biong receiving food aid through Y.E.T. Compassion" style="width: 100%; height: 100%; object-fit: cover;">
+        <img loading="lazy" src="/images/project-images/medical_supplies/medical_photos-01.jpg" alt="Distributing medicine and medical care to families" style="width: 100%; height: 100%; object-fit: cover;">
         <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.75rem; padding-top: 1.5rem;">
-          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Food Distribution</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Medical Outreach</span>
         </div>
       </div>
     </div>
@@ -330,23 +404,23 @@ toc: false
       <h3 style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #C9A227; margin-bottom: 1rem;">From the Field</h3>
       <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 0.75rem;">
         <div style="position: relative; overflow: hidden; border-radius: 8px;">
-          <img loading="lazy" src="/images/project-images/biong-school-photo.png" alt="Students and community gathered at Biong School in South Sudan" style="width: 100%; height: 100%; object-fit: cover; min-height: 240px;">
+          <img loading="lazy" src="/images/project-images/mission_trip_photos/biong_mission_trip_photos_06.JPG" alt="Large outdoor community gathering during a mission outreach" style="width: 100%; height: 100%; object-fit: cover; min-height: 240px;">
           <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.75)); padding: 1rem; padding-top: 2rem;">
-            <span style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; color: #FFFFFF; display: block;">School Assembly — Biong Mission</span>
-            <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; color: rgba(255,255,255,0.7);">Students and community gathered for learning</span>
+            <span style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; color: #FFFFFF; display: block;">Mission Outreach — Community Gathering</span>
+            <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; color: rgba(255,255,255,0.7);">Bringing hope through service and partnership</span>
           </div>
         </div>
         <div style="display: grid; grid-template-rows: 1fr 1fr; gap: 0.75rem;">
           <div style="position: relative; overflow: hidden; border-radius: 8px;">
-            <img loading="lazy" src="/images/project-images/biong-students-with-textbooks.jpg" alt="Students proudly holding new textbooks at Biong School" style="width: 100%; height: 100%; object-fit: cover;">
+            <img loading="lazy" src="/images/project-images/first_aid_photos/first_aid_photos_01.JPG" alt="Healthcare volunteer providing medical care" style="width: 100%; height: 100%; object-fit: cover;">
             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.5rem 0.75rem; padding-top: 1.25rem;">
-              <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; color: #FFFFFF;">Textbook Distribution</span>
+              <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; color: #FFFFFF;">Healthcare Outreach</span>
             </div>
           </div>
           <div style="position: relative; overflow: hidden; border-radius: 8px;">
-            <img loading="lazy" src="/images/project-images/biong-teacher-with-students.jpg" alt="Teacher with students at Biong School" style="width: 100%; height: 100%; object-fit: cover;">
+            <img loading="lazy" src="/images/project-images/medical_supplies/medical_photos-02.jpg" alt="Medical supply transport — international partnership" style="width: 100%; height: 100%; object-fit: cover;">
             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.5rem 0.75rem; padding-top: 1.25rem;">
-              <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; color: #FFFFFF;">Teaching at Biong School</span>
+              <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; color: #FFFFFF;">Supply Logistics</span>
             </div>
           </div>
         </div>
