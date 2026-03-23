@@ -101,9 +101,16 @@ toc: false
     { year: '2008', caption: 'Education & community', photos: [
       { src: 'images/project-images/2008_photos/classroom_photos-01.jpg', desc: 'Students engaged in learning under shelter', pos: 'center 45%' },
       { src: 'images/project-images/2008_photos/classroom_photos-04.jpg', desc: 'Community gathering under a tree for shared learning', pos: 'center 50%' },
-      { src: 'images/project-images/2008_photos/classroom_photos-05.jpg', desc: 'Intergenerational partnership with local community members', pos: 'center 45%' }
+      { src: 'images/project-images/2008_photos/classroom_photos-05.jpg', desc: 'Intergenerational partnership with local community members', pos: 'center 45%' },
+      { src: 'images/project-images/devotion_photos/maker_manyang_devition_01.JPG', desc: 'Community gathered in prayer and worship', pos: 'center 50%' },
+      { src: 'images/project-images/biong-women-with-food-aid.jpg', desc: 'Women collecting food supplies for their families', pos: 'center 20%' },
+      { src: 'images/project-images/medical_supplies/medical_photos-01.jpg', desc: 'Distributing medicine and medical supplies to families', pos: 'center 40%' },
+      { src: 'images/project-images/best_photos/best_pictures-03.jpg', desc: 'Youth raised in hope — celebrating community and faith', pos: 'center 45%' },
+      { src: 'images/project-images/best_photos/best_pictures-05.jpg', desc: 'Building genuine connections with young people', pos: 'center 40%' },
+      { src: 'images/project-images/best_photos/best_pictures-07.jpg', desc: 'Intergenerational respect and cultural authenticity', pos: 'center 45%' }
     ]},
-    { year: '2009', caption: 'Clean water', photos: [
+    { year: '2009', caption: 'Clean water & relief', photos: [
+      { src: 'images/project-images/biong-food-distribution-leader.jpg', desc: 'Food distribution reaching families in need', pos: 'center 35%' },
       { src: 'images/project-images/biong-children-at-well-site.jpg', desc: 'Children gather at the new well site', pos: 'center 45%' },
       { src: 'images/project-images/water_well_photos/water_well_photos_02.JPG', desc: 'Community accessing clean water from the new well', pos: 'center 50%' }
     ]},
@@ -111,19 +118,6 @@ toc: false
       { src: 'images/project-images/biong-school-building.jpg', desc: 'School construction completed in Biong', pos: 'center 50%' },
       { src: 'images/project-images/biong-teacher-with-students.jpg', desc: 'Teacher with students in the classroom', pos: 'center 35%' },
       { src: 'images/project-images/biong-students-with-textbooks.jpg', desc: 'Students receive new textbooks', pos: 'center 40%' }
-    ]},
-    { year: '2015', caption: 'Faith & worship', photos: [
-      { src: 'images/project-images/devotion_photos/maker_manyang_devition_01.JPG', desc: 'Community gathered in prayer and worship', pos: 'center 50%' }
-    ]},
-    { year: '2018', caption: 'Healthcare & relief', photos: [
-      { src: 'images/project-images/biong-food-distribution-leader.jpg', desc: 'Food distribution reaching families in need', pos: 'center 35%' },
-      { src: 'images/project-images/biong-women-with-food-aid.jpg', desc: 'Women collecting food supplies for their families', pos: 'center 20%' },
-      { src: 'images/project-images/medical_supplies/medical_photos-01.jpg', desc: 'Distributing medicine and medical supplies to families', pos: 'center 40%' }
-    ]},
-    { year: '2020', caption: 'Mentorship & growth', photos: [
-      { src: 'images/project-images/best_photos/best_pictures-03.jpg', desc: 'Youth raised in hope — celebrating community and faith', pos: 'center 45%' },
-      { src: 'images/project-images/best_photos/best_pictures-05.jpg', desc: 'Building genuine connections with young people', pos: 'center 40%' },
-      { src: 'images/project-images/best_photos/best_pictures-07.jpg', desc: 'Intergenerational respect and cultural authenticity', pos: 'center 45%' }
     ]},
     { year: '2025', caption: '501(c)(3) registered', photos: [
       { src: 'images/yet_compassion_official_registration.png', desc: 'Y.E.T. Compassion officially registered as a 501(c)(3) nonprofit in Nashville, TN', pos: 'center center' }
