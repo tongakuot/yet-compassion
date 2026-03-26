@@ -257,6 +257,29 @@ toc: false
 </section>
 
 <!-- ═══════════════════════════════════════════════ -->
+<!-- GIVE BY MAIL                                     -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 700px; margin: 0 auto;">
+    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
+      Give by Mail
+    </h2>
+    <div style="width: 60px; height: 3px; background-color: #1F5E3B; margin-bottom: 2rem;"></div>
+
+    <div style="background: #FFFFFF; border-radius: 12px; padding: 2rem; border-left: 4px solid #1F5E3B;">
+      <p style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #5A5955; line-height: 1.7; margin: 0 0 1.25rem;">
+        Prefer to give by check? Make your check payable to <strong style="color: #2B2B2B;">Y.E.T. Compassion</strong> and mail it to:
+      </p>
+      <address style="font-family: 'Inter', sans-serif; font-size: 1.05rem; font-style: normal; color: #2B2B2B; line-height: 1.8; font-weight: 600; margin: 0; padding-left: 1rem; border-left: 3px solid #C9A227;">
+        Y.E.T. Compassion<br>
+        P.O. Box 680262<br>
+        Franklin, TN 37068-0262
+      </address>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
 <!-- FINAL CTA                                       -->
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 60%, #2B2B2B 100%); padding: 3.5rem 1.5rem; text-align: center;">

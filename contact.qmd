@@ -115,11 +115,11 @@ toc: false
       <!-- Address Card -->
       <div style="background: #F7F6F2; border-radius: 12px; padding: 1.5rem; border-left: 4px solid #1F5E3B;">
         <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.95rem; color: #1F5E3B; margin-bottom: 0.5rem;">Mailing Address</h4>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin: 0;">
+        <address style="font-family: 'Inter', sans-serif; font-size: 0.95rem; font-style: normal; color: #5A5955; line-height: 1.6; margin: 0;">
           Y.E.T. Compassion<br>
-          Nashville, Tennessee<br>
-          United States
-        </p>
+          P.O. Box 680262<br>
+          Franklin, TN 37068-0262
+        </address>
       </div>
 
       <!-- Office Hours Card -->
