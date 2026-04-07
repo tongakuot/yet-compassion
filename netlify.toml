@@ -1,2 +1,55 @@
+# ═══════════════════════════════════════════════════
+# Y.E.T. Compassion — Netlify Configuration
+# ═══════════════════════════════════════════════════
+
+[build]
+  publish = "_site"
+  command = "quarto render"
+
+# ── Quarto Plugin ──────────────────────────────────
 [[plugins]]
-package = "@quarto/netlify-plugin-quarto"
+  package = "@quarto/netlify-plugin-quarto"
+
+# ── Headers ────────────────────────────────────────
+# Security headers for all pages
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "camera=(), microphone=(), geolocation=()"
+
+# Cache static assets aggressively
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# ── Redirects ──────────────────────────────────────
+# Trailing slash normalization
+[[redirects]]
+  from = "/donate"
+  to = "/donate.html"
+  status = 301
+
+[[redirects]]
+  from = "/contact"
+  to = "/contact.html"
+  status = 301
+
+# Custom 404
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404

@@ -91,14 +91,15 @@ toc: false
 (function() {
   var data = [
     { year: '2006', caption: 'Mission begins', photos: [
-      { src: 'images/project-images/biong-mission-team-2006.jpg', desc: 'First mission team reaches Biong, South Sudan', pos: 'center 65%' },
-      { src: 'images/project-images/mission_trip_photos/biong_mission_trip_photos_03.jpg', desc: 'Volunteers building relationships with local families', pos: 'center 45%' },
-      { src: 'images/project-images/mission_trip_photos/biong_mission_trip_photos_06.JPG', desc: 'Community gathering during the first mission outreach', pos: 'center 50%' }
+      { src: 'images/project-images/biong-mission-team-2006.jpg', desc: 'First mission team reaches Biong, South Sudan', pos: 'center 65%' }
     ]},
     { year: '2007', caption: 'Flood relief', photos: [
-      { src: 'images/project-images/biong-women-carrying-water.png', desc: 'Women carrying water during the crisis', pos: 'center 40%' }
+      { src: 'images/project-images/biong-women-carrying-water.png', desc: 'Women carrying water during the crisis', pos: 'center 40%' },
+      { src: 'images/project-images/biong-missionary-team-photo.png', desc: 'Mission team gathers in Biong during flood relief efforts', pos: 'center 35%' }
     ]},
     { year: '2008', caption: 'Education & community', photos: [
+      { src: 'images/project-images/mission_trip_photos/biong_mission_trip_photos_06.JPG', desc: 'Community gathering during mission outreach', pos: 'center 50%' },
+      { src: 'images/project-images/mission_trip_photos/biong_mission_trip_photos_03.jpg', desc: 'Volunteers building relationships with local families', pos: 'center 45%' },
       { src: 'images/project-images/2008_photos/classroom_photos-01.jpg', desc: 'Students engaged in learning under shelter', pos: 'center 45%' },
       { src: 'images/project-images/2008_photos/classroom_photos-04.jpg', desc: 'Community gathering under a tree for shared learning', pos: 'center 50%' },
       { src: 'images/project-images/2008_photos/classroom_photos-05.jpg', desc: 'Intergenerational partnership with local community members', pos: 'center 45%' },
@@ -493,6 +494,77 @@ toc: false
 
     </ul>
   </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════ -->
+<!-- OUR EMBLEM — Brand Identity Summary              -->
+<!-- ═══════════════════════════════════════════════ -->
+<section class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 3.5rem 1.5rem;">
+  <div style="max-width: 960px; margin: 0 auto;">
+
+    <div style="text-align: center; margin-bottom: 2.5rem;">
+      <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #C9A227; margin-bottom: 0.75rem;">Brand Identity</p>
+      <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.5rem); color: #2B2B2B; margin-bottom: 0.5rem; font-weight: 600;">Our Emblem</h2>
+      <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: #5A5955; max-width: 600px; margin: 0 auto; line-height: 1.7;">Every element of our logo carries deliberate meaning — unifying faith, compassion, and institutional strength into a single, purposeful mark.</p>
+    </div>
+
+    <!-- Logo + Symbol Grid -->
+    <div class="emblem-layout" style="display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem; align-items: center;">
+
+      <!-- Logo display -->
+      <div style="text-align: center;">
+        <div style="background: #0B1F3B; border-radius: 16px; padding: 2.5rem 2rem; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 20px rgba(0,0,0,0.12);">
+          <img src="images/logo.png" alt="Y.E.T. Compassion emblem — golden cross within a blue heart on a deep navy circle" style="max-width: 180px; width: 100%; height: auto;">
+        </div>
+        <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 1rem; color: #C9A227; margin-top: 1.25rem; margin-bottom: 0;">Equip Youth. Proclaim Hope.</p>
+      </div>
+
+      <!-- Symbol breakdown -->
+      <div style="display: flex; flex-direction: column; gap: 1.25rem;">
+
+        <div style="display: flex; gap: 1rem; align-items: flex-start;">
+          <div style="width: 44px; height: 44px; background: linear-gradient(135deg, #D4AF37, #C9A227); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
+            <span style="color: #FFFFFF; font-size: 1.2rem; font-weight: 700;">✝</span>
+          </div>
+          <div>
+            <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #2B2B2B; display: block; margin-bottom: 0.15rem;">The Cross</strong>
+            <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Faith, sacrifice, and divine guidance — leadership rooted in spiritual principles. The central anchor of the emblem.</p>
+          </div>
+        </div>
+
+        <div style="display: flex; gap: 1rem; align-items: flex-start;">
+          <div style="width: 44px; height: 44px; background: linear-gradient(135deg, #38BDF8, #3A7CA5); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
+            <span style="color: #FFFFFF; font-size: 1.2rem;">&#x2764;</span>
+          </div>
+          <div>
+            <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #2B2B2B; display: block; margin-bottom: 0.15rem;">The Heart</strong>
+            <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Compassion, care, and outreach — wrapping the cross to symbolize faith integrated with active, embodied love.</p>
+          </div>
+        </div>
+
+        <div style="display: flex; gap: 1rem; align-items: flex-start;">
+          <div style="width: 44px; height: 44px; background: #0B1F3B; border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
+            <span style="color: #FFFFFF; font-size: 1.1rem;">&#x25CB;</span>
+          </div>
+          <div>
+            <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #2B2B2B; display: block; margin-bottom: 0.15rem;">The Circle</strong>
+            <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Stability, trust, and institutional strength — unity and wholeness grounding the identity in credibility.</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+
+  <style>
+    @media (max-width: 768px) {
+      .emblem-layout {
+        grid-template-columns: 1fr !important;
+        gap: 2rem !important;
+      }
+    }
+  </style>
 </section>
 
 <!-- ═══════════════════════════════════════════════ -->

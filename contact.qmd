@@ -70,18 +70,27 @@ toc: false
       <h2 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.5rem; font-weight: 600;">Send a Message</h2>
       <div style="width: 60px; height: 3px; background-color: #1F5E3B; margin-bottom: 1.5rem;"></div>
 
-      <form name="contact" method="POST" data-netlify="true" style="display: flex; flex-direction: column; gap: 1rem;">
+      <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/contact-success.html" id="contact-form" style="display: flex; flex-direction: column; gap: 1rem;">
         <input type="hidden" name="form-name" value="contact" />
+        <!-- Honeypot field — hidden from humans, catches bots -->
+        <p style="display: none;"><label>Don't fill this out: <input name="bot-field" /></label></p>
 
         <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
           <div>
             <label for="contact-name" style="display: block; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Full Name *</label>
-            <input type="text" id="contact-name" name="name" required style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
+            <input type="text" id="contact-name" name="name" required autocomplete="name" minlength="2" style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
+            <span class="field-error" id="name-error" style="display: none; font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #c0392b; margin-top: 0.25rem;">Please enter your name.</span>
           </div>
           <div>
             <label for="contact-email" style="display: block; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Email *</label>
-            <input type="email" id="contact-email" name="email" required style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
+            <input type="email" id="contact-email" name="email" required autocomplete="email" style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
+            <span class="field-error" id="email-error" style="display: none; font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #c0392b; margin-top: 0.25rem;">Please enter a valid email address.</span>
           </div>
+        </div>
+
+        <div>
+          <label for="contact-phone" style="display: block; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Phone <span style="font-weight: 400; color: #8A8985;">(optional)</span></label>
+          <input type="tel" id="contact-phone" name="phone" autocomplete="tel" style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
         </div>
 
         <div>
@@ -96,17 +105,81 @@ toc: false
             <option value="media">Media & Press</option>
             <option value="other">Other</option>
           </select>
+          <span class="field-error" id="subject-error" style="display: none; font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #c0392b; margin-top: 0.25rem;">Please select a subject.</span>
         </div>
 
         <div>
           <label for="contact-message" style="display: block; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Message *</label>
-          <textarea id="contact-message" name="message" rows="5" required placeholder="How can we help?" style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; resize: vertical; transition: border-color 200ms ease;"></textarea>
+          <textarea id="contact-message" name="message" rows="5" required minlength="10" placeholder="How can we help?" style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; resize: vertical; transition: border-color 200ms ease;"></textarea>
+          <span class="field-error" id="message-error" style="display: none; font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #c0392b; margin-top: 0.25rem;">Please enter a message (at least 10 characters).</span>
         </div>
 
-        <button type="submit" style="align-self: flex-start; background-color: #1F5E3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.75rem 2rem; border-radius: 8px; border: none; cursor: pointer; transition: background-color 200ms ease; min-height: 48px;">
-          Send Message
+        <!-- Form status messages -->
+        <div id="form-status" style="display: none; padding: 0.75rem 1rem; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.9rem;"></div>
+
+        <button type="submit" id="contact-submit-btn" style="align-self: flex-start; background-color: #1F5E3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.75rem 2rem; border-radius: 8px; border: none; cursor: pointer; transition: all 200ms ease; min-height: 48px; display: flex; align-items: center; gap: 0.5rem;">
+          <span id="btn-text">Send Message</span>
+          <span id="btn-spinner" style="display: none; width: 18px; height: 18px; border: 2px solid rgba(255,255,255,0.3); border-top-color: #FFFFFF; border-radius: 50%; animation: spin 0.6s linear infinite;"></span>
         </button>
       </form>
+
+      <style>
+        @keyframes spin { to { transform: rotate(360deg); } }
+        .field-error { display: block; }
+        input:invalid:not(:placeholder-shown), textarea:invalid:not(:placeholder-shown), select:invalid {
+          border-color: #c0392b !important;
+        }
+      </style>
+
+      <script>
+      (function() {
+        var form = document.getElementById('contact-form');
+        var submitBtn = document.getElementById('contact-submit-btn');
+        var btnText = document.getElementById('btn-text');
+        var btnSpinner = document.getElementById('btn-spinner');
+        var formStatus = document.getElementById('form-status');
+
+        form.addEventListener('submit', function(e) {
+          // Clear previous errors
+          document.querySelectorAll('.field-error').forEach(function(el) { el.style.display = 'none'; });
+          formStatus.style.display = 'none';
+
+          var valid = true;
+          var name = document.getElementById('contact-name');
+          var email = document.getElementById('contact-email');
+          var subject = document.getElementById('contact-subject');
+          var message = document.getElementById('contact-message');
+
+          if (!name.value.trim() || name.value.trim().length < 2) {
+            document.getElementById('name-error').style.display = 'block';
+            valid = false;
+          }
+          if (!email.value.trim() || !email.validity.valid) {
+            document.getElementById('email-error').style.display = 'block';
+            valid = false;
+          }
+          if (!subject.value) {
+            document.getElementById('subject-error').style.display = 'block';
+            valid = false;
+          }
+          if (!message.value.trim() || message.value.trim().length < 10) {
+            document.getElementById('message-error').style.display = 'block';
+            valid = false;
+          }
+
+          if (!valid) {
+            e.preventDefault();
+            return;
+          }
+
+          // Show loading state
+          btnText.textContent = 'Sending...';
+          btnSpinner.style.display = 'inline-block';
+          submitBtn.disabled = true;
+          submitBtn.style.opacity = '0.7';
+        });
+      })();
+      </script>
     </div>
 
     <!-- Right Column: Info Cards -->
