@@ -133,7 +133,7 @@ toc: false
       </div>
       <div style="background: #F7F6F2; border-radius: 10px; padding: 1.25rem 1.5rem;">
         <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #1F5E3B;">✦ Events & Hospitality</strong>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0.5rem 0 0;">Help plan and host community gatherings, cultural events, and retreats.</p>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0.5rem 0 0;">Help plan and host community gatherings, events, and retreats.</p>
       </div>
       <div style="background: #F7F6F2; border-radius: 10px; padding: 1.25rem 1.5rem;">
         <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #1F5E3B;">✦ Professional Skills</strong>

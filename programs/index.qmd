@@ -45,7 +45,7 @@ toc: false
       <div style="width: 48px; height: 48px; border-radius: 10px; background: #1F5E3B; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; flex-shrink: 0;">✝️</div>
       <div>
         <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.5rem, 3vw, 2rem); color: #2B2B2B; margin: 0; font-weight: 600;">Youth Evangelism &amp; Discipleship</h2>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #C9A227; margin: 0.25rem 0 0; font-weight: 500;">Ages 13–30 · Nashville, TN</p>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #C9A227; margin: 0.25rem 0 0; font-weight: 500;">Nashville, TN</p>
       </div>
     </div>
     <div style="width: 60px; height: 3px; background-color: #1F5E3B; margin-bottom: 1.5rem;"></div>
@@ -281,18 +281,14 @@ toc: false
     </p>
 
     <!-- Activities grid -->
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 2rem 0;">
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin: 2rem 0;">
       <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
         <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Community Gatherings</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Regular events, potlucks, sports activities, and celebrations strengthening bonds and reducing isolation.</span>
       </div>
       <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Cultural Celebrations</strong>
-        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Heritage festivals honoring our traditions, language, music, and history across generations.</span>
-      </div>
-      <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Civic Engagement &amp; Advocacy</strong>
-        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Education on voting rights, civic participation, and policy advocacy on issues affecting our communities.</span>
+        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Resource Navigation &amp; Support</strong>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Connecting families with local services, educational opportunities, and practical resources to thrive in their communities.</span>
       </div>
       <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
         <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Interfaith Dialogue</strong>

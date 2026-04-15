@@ -210,7 +210,7 @@ toc: false
           <a href="https://www.facebook.com/YetCompassion" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.4rem; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 500; color: #2B2B2B; text-decoration: none; padding: 0.4rem 0.75rem; background: #FFFFFF; border-radius: 6px; border: 1px solid #D9D8D4; transition: all 200ms ease;">
             Facebook
           </a>
-          <a href="https://www.linkedin.com/company/yetcompassion" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.4rem; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 500; color: #2B2B2B; text-decoration: none; padding: 0.4rem 0.75rem; background: #FFFFFF; border-radius: 6px; border: 1px solid #D9D8D4; transition: all 200ms ease;">
+          <a href="https://www.linkedin.com/in/gai-luom-155b83b3/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.4rem; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 500; color: #2B2B2B; text-decoration: none; padding: 0.4rem 0.75rem; background: #FFFFFF; border-radius: 6px; border: 1px solid #D9D8D4; transition: all 200ms ease;">
             LinkedIn
           </a>
         </div>

@@ -6,7 +6,7 @@ toc: false
 
 ## Privacy Policy
 
-**Effective Date:** January 1, 2025
+**Effective Date:** April 14, 2026
 
 Youth Evangelism Training (Y.E.T.) Compassion ("we," "our," or "us") respects your privacy and is committed to protecting the personal information you share with us.
 
@@ -29,6 +29,18 @@ All financial transactions are processed securely through Stripe, a PCI-complian
 ## Information Sharing
 
 We do not sell, trade, or rent your personal information to third parties. We may share information with trusted service providers (Stripe, Mailchimp, Google Analytics) who assist us in operating our website, provided they agree to keep your information confidential.
+
+## Cookies
+
+Our website uses cookies — small text files stored on your device — to help us understand how visitors use the site and to improve your experience.
+
+**Analytics cookies:** We use Google Analytics 4, which sets cookies to collect anonymous usage data such as pages visited, session duration, and general location (country/region). No personally identifiable information is collected through these cookies.
+
+**Essential cookies:** Some cookies are necessary for basic site functionality, such as remembering your preferences or processing secure payments through Stripe.
+
+**Third-party cookies:** Our payment processor (Stripe) and email service (Mailchimp) may set their own cookies when you interact with donation forms or newsletter signups. These are governed by their respective privacy policies.
+
+You can control or delete cookies through your browser settings at any time. Disabling cookies may affect certain features of the website. Most browsers allow you to refuse cookies or alert you when cookies are being sent.
 
 ## Your Rights
 

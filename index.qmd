@@ -29,7 +29,7 @@ toc: false
   },
   "sameAs": [
     "https://www.facebook.com/YetCompassion",
-    "https://www.linkedin.com/company/yetcompassion"
+    "https://www.linkedin.com/in/gai-luom-155b83b3/"
   ]
 }
 </script>
@@ -494,42 +494,38 @@ toc: false
 
       <!-- Logo display -->
       <div style="text-align: center;">
-        <div style="background: #0B1F3B; border-radius: 16px; padding: 2.5rem 2rem; display: flex; align-items: center; justify-content: center; box-shadow: 0 4px 20px rgba(0,0,0,0.12);">
-          <img src="images/logo.png" alt="Y.E.T. Compassion emblem — golden cross within a blue heart on a deep navy circle" style="max-width: 180px; width: 100%; height: auto;">
+        <div style="display: flex; align-items: center; justify-content: center;">
+          <img src="images/logo.png" alt="Y.E.T. Compassion emblem — golden cross within a blue heart on a deep navy circle" style="max-width: 200px; width: 100%; height: auto;">
         </div>
         <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 1rem; color: #C9A227; margin-top: 1.25rem; margin-bottom: 0;">Equip Youth. Proclaim Hope.</p>
       </div>
 
-      <!-- Symbol breakdown -->
+      <!-- Logo Colors -->
       <div style="display: flex; flex-direction: column; gap: 1.25rem;">
 
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #8A8985; margin: 0;">Logo Colors</p>
+
         <div style="display: flex; gap: 1rem; align-items: flex-start;">
-          <div style="width: 44px; height: 44px; background: linear-gradient(135deg, #D4AF37, #C9A227); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
-            <span style="color: #FFFFFF; font-size: 1.2rem; font-weight: 700;">✝</span>
-          </div>
+          <div style="width: 44px; height: 44px; background: #C9A227; border-radius: 10px; flex-shrink: 0;"></div>
           <div>
-            <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #2B2B2B; display: block; margin-bottom: 0.15rem;">The Cross</strong>
-            <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Faith, sacrifice, and divine guidance — leadership rooted in spiritual principles. The central anchor of the emblem.</p>
+            <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #2B2B2B; display: block; margin-bottom: 0.15rem;">Gold</strong>
+            <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">The cross — faith, sacrifice, and divine purpose at the center of everything we do.</p>
           </div>
         </div>
 
         <div style="display: flex; gap: 1rem; align-items: flex-start;">
-          <div style="width: 44px; height: 44px; background: linear-gradient(135deg, #38BDF8, #3A7CA5); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
-            <span style="color: #FFFFFF; font-size: 1.2rem;">&#x2764;</span>
-          </div>
+          <div style="width: 44px; height: 44px; background: #3A7CA5; border-radius: 10px; flex-shrink: 0;"></div>
           <div>
-            <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #2B2B2B; display: block; margin-bottom: 0.15rem;">The Heart</strong>
-            <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Compassion, care, and outreach — wrapping the cross to symbolize faith integrated with active, embodied love.</p>
+            <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #2B2B2B; display: block; margin-bottom: 0.15rem;">Blue</strong>
+            <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">The heart — compassion, care, and active love wrapping the cross in service.</p>
           </div>
         </div>
 
         <div style="display: flex; gap: 1rem; align-items: flex-start;">
-          <div style="width: 44px; height: 44px; background: #0B1F3B; border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0;">
-            <span style="color: #FFFFFF; font-size: 1.1rem;">&#x25CB;</span>
-          </div>
+          <div style="width: 44px; height: 44px; background: #0B1F3B; border-radius: 10px; flex-shrink: 0;"></div>
           <div>
-            <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #2B2B2B; display: block; margin-bottom: 0.15rem;">The Circle</strong>
-            <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Stability, trust, and institutional strength — unity and wholeness grounding the identity in credibility.</p>
+            <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #2B2B2B; display: block; margin-bottom: 0.15rem;">Navy</strong>
+            <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">The circle — stability, trust, and institutional strength grounding our identity.</p>
           </div>
         </div>
 
