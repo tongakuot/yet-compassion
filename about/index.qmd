@@ -9,14 +9,14 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <!-- HERO SECTION                                    -->
 <!-- ═══════════════════════════════════════════════ -->
-<section class="hero-section" style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 50%, #2B2B2B 100%); min-height: 50vh; display: flex; align-items: center; justify-content: center; padding: 4rem 1.5rem; position: relative; overflow: hidden;">
-  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23C9A227%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
+<section class="hero-section" style="background: linear-gradient(135deg, #2B2B2B 0%, #0a1525 50%, #2B2B2B 100%); min-height: 50vh; display: flex; align-items: center; justify-content: center; padding: 4rem 1.5rem; position: relative; overflow: hidden;">
+  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23D4A017%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
 
   <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #C9A227; margin-bottom: 1rem;">About Y.E.T. Compassion</p>
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">About Y.E.T. Compassion</p>
 
     <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.5rem;">
-      Faith-Centered. <span style="color: #C9A227;">Community-Driven.</span>
+      Faith-Centered. <span style="color: #D4A017;">Community-Driven.</span>
     </h1>
 
     <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 600px; margin: 0 0 2rem;">
@@ -38,10 +38,10 @@ toc: false
     <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
       Who We Are
     </h2>
-    <div style="width: 60px; height: 3px; background-color: #C9A227; margin-bottom: 1.5rem;"></div>
+    <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.5rem;"></div>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
-      Y.E.T. Compassion is a nonprofit ministry founded by <strong style="color: #2B2B2B;">Evangelist Gai Bol Luom</strong>, dedicated to serving South Sudanese communities in the U.S.A., South Sudan, and beyond. Our name — <strong style="color: #2B2B2B;">Y.E.T.</strong> — stands for <strong style="color: #1F5E3B;">Youth Evangelism Training</strong>, reflecting our core commitment to empowering the next generation through preparation grounded in Scripture. What began as grassroots mission work in <strong style="color: #2B2B2B;">2006</strong> was formalized in <strong style="color: #2B2B2B;">2025</strong> when Y.E.T. Compassion was registered in Nashville, Tennessee as an IRS-approved <strong style="color: #2B2B2B;">501(c)(3) nonprofit organization</strong> — building on nearly two decades of faithful service.
+      Y.E.T. Compassion is a nonprofit ministry founded by <strong style="color: #2B2B2B;">Evangelist Gai Bol Luom</strong>, dedicated to serving South Sudanese communities in the U.S.A., South Sudan, and beyond. Our name — <strong style="color: #2B2B2B;">Y.E.T.</strong> — stands for <strong style="color: #0B1F3B;">Youth Evangelism Training</strong>, reflecting our core commitment to empowering the next generation through preparation grounded in Scripture. What began as grassroots mission work in <strong style="color: #2B2B2B;">2006</strong> was formalized in <strong style="color: #2B2B2B;">2025</strong> when Y.E.T. Compassion was registered in Nashville, Tennessee as an IRS-approved <strong style="color: #2B2B2B;">501(c)(3) nonprofit organization</strong> — building on nearly two decades of faithful service.
     </p>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
@@ -58,28 +58,28 @@ toc: false
     <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
       Our Mission
     </h2>
-    <div style="width: 60px; height: 3px; background-color: #1F5E3B; margin-bottom: 1.5rem;"></div>
+    <div style="width: 60px; height: 3px; background-color: #0B1F3B; margin-bottom: 1.5rem;"></div>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.5rem;">
-      To <strong style="color: #2B2B2B;">empower South Sudanese youth and families through faith-centered education, leadership development, and community support</strong>, equipping them to thrive and lead with integrity in their adopted home while maintaining their cultural identity and spiritual foundation.
+      To <strong style="color: #2B2B2B;">empower South Sudanese youth and families through faith-centered education, leadership development, and community support</strong>, equipping them to thrive and lead with integrity in their adopted home while anchored in their spiritual foundation.
     </p>
 
     <div style="display: grid; grid-template-columns: 1fr; gap: 1rem; margin-top: 2rem;">
       <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
-        <span style="color: #1F5E3B; font-size: 1.25rem; line-height: 1;">✦</span>
+        <span style="color: #0B1F3B; font-size: 1.25rem; line-height: 1;">✦</span>
         <span style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6;">Holistic education and skills training grounded in Scripture</span>
       </div>
       <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
-        <span style="color: #1F5E3B; font-size: 1.25rem; line-height: 1;">✦</span>
+        <span style="color: #0B1F3B; font-size: 1.25rem; line-height: 1;">✦</span>
         <span style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6;">Mentorship and leadership development for the next generation</span>
       </div>
       <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
-        <span style="color: #1F5E3B; font-size: 1.25rem; line-height: 1;">✦</span>
+        <span style="color: #0B1F3B; font-size: 1.25rem; line-height: 1;">✦</span>
         <span style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6;">Family and community support services that strengthen resilience</span>
       </div>
       <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
-        <span style="color: #1F5E3B; font-size: 1.25rem; line-height: 1;">✦</span>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6;">Cultural preservation and celebration across generations</span>
+        <span style="color: #0B1F3B; font-size: 1.25rem; line-height: 1;">✦</span>
+        <span style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6;">Community connection and fellowship across generations</span>
       </div>
     </div>
   </div>
@@ -93,7 +93,7 @@ toc: false
     <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
       Our Vision
     </h2>
-    <div style="width: 60px; height: 3px; background-color: #C9A227; margin-bottom: 1.5rem;"></div>
+    <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.5rem;"></div>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.5rem;">
       A generation of South Sudanese youth <strong style="color: #2B2B2B;">anchored in faith, empowered by knowledge, and committed to transforming their communities</strong> — in the U.S.A., South Sudan, and wherever they are called to serve — through servant leadership, ethical action, and intergenerational investment.
@@ -101,19 +101,19 @@ toc: false
 
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 2rem;">
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.95rem; color: #1F5E3B; margin-bottom: 0.35rem;">Youth Potential</strong>
+        <strong style="display: block; font-size: 0.95rem; color: #0B1F3B; margin-bottom: 0.35rem;">Youth Potential</strong>
         <span style="font-size: 0.9rem; color: #5A5955; line-height: 1.6;">Young people understand their God-given potential and walk in purpose.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.95rem; color: #1F5E3B; margin-bottom: 0.35rem;">Family Healing</strong>
+        <strong style="display: block; font-size: 0.95rem; color: #0B1F3B; margin-bottom: 0.35rem;">Family Healing</strong>
         <span style="font-size: 0.9rem; color: #5A5955; line-height: 1.6;">Families experience healing, restoration, and intergenerational strength.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.95rem; color: #1F5E3B; margin-bottom: 0.35rem;">Faith Foundation</strong>
+        <strong style="display: block; font-size: 0.95rem; color: #0B1F3B; margin-bottom: 0.35rem;">Faith Foundation</strong>
         <span style="font-size: 0.9rem; color: #5A5955; line-height: 1.6;">Faith becomes the anchor for decision-making and daily living.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.95rem; color: #1F5E3B; margin-bottom: 0.35rem;">Servant Leaders</strong>
+        <strong style="display: block; font-size: 0.95rem; color: #0B1F3B; margin-bottom: 0.35rem;">Servant Leaders</strong>
         <span style="font-size: 0.9rem; color: #5A5955; line-height: 1.6;">Leaders emerge who serve their communities with excellence and humility.</span>
       </div>
     </div>
@@ -125,7 +125,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 800px; margin: 0 auto;">
-    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #C9A227; line-height: 1.7; margin: 0;">
+    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0;">
       "Train up a child in the way he should go; even when he is old he will not depart from it."
     </p>
     <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
@@ -147,7 +147,7 @@ toc: false
     <div style="display: grid; grid-template-columns: 1fr; gap: 0;">
 
       <div style="padding: 1.25rem 0; border-bottom: 1px solid #D9D8D4; display: flex; gap: 1rem; align-items: flex-start;">
-        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #1F5E3B; min-width: 2rem; line-height: 1.3;">1</span>
+        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #0B1F3B; min-width: 2rem; line-height: 1.3;">1</span>
         <div>
           <strong style="color: #2B2B2B; font-size: 1.05rem;">Scriptural Foundation</strong>
           <span style="color: #5A5955;"> — Truth begins with the Word. All our work is grounded in biblical principles and the transformative power of the Gospel.</span>
@@ -155,7 +155,7 @@ toc: false
       </div>
 
       <div style="padding: 1.25rem 0; border-bottom: 1px solid #D9D8D4; display: flex; gap: 1rem; align-items: flex-start;">
-        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #1F5E3B; min-width: 2rem; line-height: 1.3;">2</span>
+        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #0B1F3B; min-width: 2rem; line-height: 1.3;">2</span>
         <div>
           <strong style="color: #2B2B2B; font-size: 1.05rem;">Empowerment Through Preparation</strong>
           <span style="color: #5A5955;"> — Skills precede impact. We equip youth with practical knowledge and mentorship before sending them into the field.</span>
@@ -163,7 +163,7 @@ toc: false
       </div>
 
       <div style="padding: 1.25rem 0; border-bottom: 1px solid #D9D8D4; display: flex; gap: 1rem; align-items: flex-start;">
-        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #1F5E3B; min-width: 2rem; line-height: 1.3;">3</span>
+        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #0B1F3B; min-width: 2rem; line-height: 1.3;">3</span>
         <div>
           <strong style="color: #2B2B2B; font-size: 1.05rem;">Community Accountability</strong>
           <span style="color: #5A5955;"> — No one advances alone. We operate with transparency and remain accountable to the communities we serve.</span>
@@ -171,7 +171,7 @@ toc: false
       </div>
 
       <div style="padding: 1.25rem 0; border-bottom: 1px solid #D9D8D4; display: flex; gap: 1rem; align-items: flex-start;">
-        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #1F5E3B; min-width: 2rem; line-height: 1.3;">4</span>
+        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #0B1F3B; min-width: 2rem; line-height: 1.3;">4</span>
         <div>
           <strong style="color: #2B2B2B; font-size: 1.05rem;">Operational Excellence</strong>
           <span style="color: #5A5955;"> — Competence honors calling. Excellence is not what we aspire to — it's what we deliver in every program and initiative.</span>
@@ -179,7 +179,7 @@ toc: false
       </div>
 
       <div style="padding: 1.25rem 0; display: flex; gap: 1rem; align-items: flex-start;">
-        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #1F5E3B; min-width: 2rem; line-height: 1.3;">5</span>
+        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #0B1F3B; min-width: 2rem; line-height: 1.3;">5</span>
         <div>
           <strong style="color: #2B2B2B; font-size: 1.05rem;">Intergenerational Responsibility</strong>
           <span style="color: #5A5955;"> — Today's work builds tomorrow's leaders. We honor our heritage while building a transformative legacy for future generations.</span>
@@ -205,29 +205,29 @@ toc: false
       <a href="/about/founder.html" style="text-decoration: none; background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); text-align: center; transition: box-shadow 200ms ease, transform 200ms ease; display: block;">
         <img src="/images/project-images/gai-bol-luom.jpg" alt="Evangelist Gai Bol Luom" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; object-position: center top; margin: 0 auto 1rem; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
         <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.05rem; color: #2B2B2B; margin-bottom: 0.25rem;">Evangelist Gai Bol Luom</h4>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #C9A227; margin-bottom: 0.5rem;">Founder &amp; Executive Director</p>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #1F5E3B; font-weight: 600;">View Profile →</span>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #D4A017; margin-bottom: 0.5rem;">Founder &amp; Executive Director</p>
+        <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #0B1F3B; font-weight: 600;">View Profile →</span>
       </a>
 
       <a href="/about/board.html#operational-director" style="text-decoration: none; background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); text-align: center; transition: box-shadow 200ms ease, transform 200ms ease; display: block;">
         <img src="/images/project-images/david_gai_pandak.jpg" alt="David Gai Pandak" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; object-position: center top; margin: 0 auto 1rem; display: block; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
         <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.05rem; color: #2B2B2B; margin-bottom: 0.25rem;">David Gai Pandak</h4>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #1F5E3B; margin-bottom: 0.5rem;">Director, South Sudan</p>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #1F5E3B; font-weight: 600;">View Profile →</span>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #0B1F3B; margin-bottom: 0.5rem;">Director, South Sudan</p>
+        <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #0B1F3B; font-weight: 600;">View Profile →</span>
       </a>
 
       <a href="/about/board.html" style="text-decoration: none; background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); text-align: center; transition: box-shadow 200ms ease, transform 200ms ease; display: block;">
-        <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #3A7CA5, #4A92BF); display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; font-size: 1.25rem; color: white;">—</div>
+        <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #38BDF8, #60CBFF); display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; font-size: 1.25rem; color: white;">—</div>
         <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.05rem; color: #2B2B2B; margin-bottom: 0.25rem;">Vacant</h4>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #3A7CA5; margin-bottom: 0.5rem;">Board Chair</p>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #1F5E3B; font-weight: 600;">Meet the Board →</span>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #38BDF8; margin-bottom: 0.5rem;">Board Chair</p>
+        <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #0B1F3B; font-weight: 600;">Meet the Board →</span>
       </a>
 
       <a href="/about/board.html" style="text-decoration: none; background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); text-align: center; transition: box-shadow 200ms ease, transform 200ms ease; display: block;">
-        <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #C9A227, #D4B44A); display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; font-size: 1.25rem; color: white;">—</div>
+        <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, #D4A017, #E0B030); display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; font-size: 1.25rem; color: white;">—</div>
         <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.05rem; color: #2B2B2B; margin-bottom: 0.25rem;">Vacant</h4>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #C9A227; margin-bottom: 0.5rem;">Spiritual Advisor</p>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #1F5E3B; font-weight: 600;">Meet the Board →</span>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #D4A017; margin-bottom: 0.5rem;">Spiritual Advisor</p>
+        <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #0B1F3B; font-weight: 600;">Meet the Board →</span>
       </a>
 
     </div>

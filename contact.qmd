@@ -9,14 +9,14 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <!-- HERO SECTION                                    -->
 <!-- ═══════════════════════════════════════════════ -->
-<section style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 50%, #2B2B2B 100%); min-height: 40vh; display: flex; align-items: center; justify-content: center; padding: 4rem 1.5rem; position: relative; overflow: hidden;">
-  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23C9A227%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
+<section style="background: linear-gradient(135deg, #2B2B2B 0%, #0a1525 50%, #2B2B2B 100%); min-height: 40vh; display: flex; align-items: center; justify-content: center; padding: 4rem 1.5rem; position: relative; overflow: hidden;">
+  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23D4A017%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
 
   <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #C9A227; margin-bottom: 1rem;">Contact</p>
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">Contact</p>
 
     <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.25rem;">
-      Let's <span style="color: #C9A227;">Connect</span>
+      Let's <span style="color: #D4A017;">Connect</span>
     </h1>
 
     <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 580px;">
@@ -28,7 +28,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <!-- CONTACT INFO STRIP                              -->
 <!-- ═══════════════════════════════════════════════ -->
-<section style="background-color: #1F5E3B; padding: 1.75rem 1.5rem;">
+<section style="background-color: #0B1F3B; padding: 1.75rem 1.5rem;">
   <div class="contact-info-strip" style="max-width: 900px; margin: 0 auto; display: flex; justify-content: center; gap: min(3rem, 5vw); flex-wrap: wrap;">
     <div style="display: flex; align-items: center; gap: 0.75rem;">
       <span style="font-size: 1.25rem;">📧</span>
@@ -68,7 +68,7 @@ toc: false
     <!-- Contact Form -->
     <div style="background: #F7F6F2; border-radius: 12px; padding: 2rem;">
       <h2 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.5rem; font-weight: 600;">Send a Message</h2>
-      <div style="width: 60px; height: 3px; background-color: #1F5E3B; margin-bottom: 1.5rem;"></div>
+      <div style="width: 60px; height: 3px; background-color: #0B1F3B; margin-bottom: 1.5rem;"></div>
 
       <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/contact-success.html" id="contact-form" style="display: flex; flex-direction: column; gap: 1rem;">
         <input type="hidden" name="form-name" value="contact" />
@@ -117,7 +117,7 @@ toc: false
         <!-- Form status messages -->
         <div id="form-status" style="display: none; padding: 0.75rem 1rem; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.9rem;"></div>
 
-        <button type="submit" id="contact-submit-btn" style="align-self: flex-start; background-color: #1F5E3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.75rem 2rem; border-radius: 8px; border: none; cursor: pointer; transition: all 200ms ease; min-height: 48px; display: flex; align-items: center; gap: 0.5rem;">
+        <button type="submit" id="contact-submit-btn" style="align-self: flex-start; background-color: #0B1F3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.75rem 2rem; border-radius: 8px; border: none; cursor: pointer; transition: all 200ms ease; min-height: 48px; display: flex; align-items: center; gap: 0.5rem;">
           <span id="btn-text">Send Message</span>
           <span id="btn-spinner" style="display: none; width: 18px; height: 18px; border: 2px solid rgba(255,255,255,0.3); border-top-color: #FFFFFF; border-radius: 50%; animation: spin 0.6s linear infinite;"></span>
         </button>
@@ -186,8 +186,8 @@ toc: false
     <div style="display: flex; flex-direction: column; gap: 1.25rem;">
 
       <!-- Address Card -->
-      <div style="background: #F7F6F2; border-radius: 12px; padding: 1.5rem; border-left: 4px solid #1F5E3B;">
-        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.95rem; color: #1F5E3B; margin-bottom: 0.5rem;">Mailing Address</h4>
+      <div style="background: #F7F6F2; border-radius: 12px; padding: 1.5rem; border-left: 4px solid #0B1F3B;">
+        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.95rem; color: #0B1F3B; margin-bottom: 0.5rem;">Mailing Address</h4>
         <address style="font-family: 'Inter', sans-serif; font-size: 0.95rem; font-style: normal; color: #5A5955; line-height: 1.6; margin: 0;">
           Y.E.T. Compassion<br>
           P.O. Box 680262<br>
@@ -196,16 +196,16 @@ toc: false
       </div>
 
       <!-- Office Hours Card -->
-      <div style="background: #F7F6F2; border-radius: 12px; padding: 1.5rem; border-left: 4px solid #C9A227;">
-        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.95rem; color: #C9A227; margin-bottom: 0.5rem;">Office Hours</h4>
+      <div style="background: #F7F6F2; border-radius: 12px; padding: 1.5rem; border-left: 4px solid #D4A017;">
+        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.95rem; color: #D4A017; margin-bottom: 0.5rem;">Office Hours</h4>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin: 0;">
           Evenings & Weekends
         </p>
       </div>
 
       <!-- Social Card -->
-      <div style="background: #F7F6F2; border-radius: 12px; padding: 1.5rem; border-left: 4px solid #3A7CA5;">
-        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.95rem; color: #3A7CA5; margin-bottom: 0.75rem;">Connect With Us</h4>
+      <div style="background: #F7F6F2; border-radius: 12px; padding: 1.5rem; border-left: 4px solid #38BDF8;">
+        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.95rem; color: #38BDF8; margin-bottom: 0.75rem;">Connect With Us</h4>
         <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
           <a href="https://www.facebook.com/YetCompassion" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.4rem; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 500; color: #2B2B2B; text-decoration: none; padding: 0.4rem 0.75rem; background: #FFFFFF; border-radius: 6px; border: 1px solid #D9D8D4; transition: all 200ms ease;">
             Facebook
@@ -217,9 +217,9 @@ toc: false
       </div>
 
       <!-- Response Time -->
-      <div style="background: linear-gradient(135deg, rgba(31,94,59,0.06), rgba(201,162,39,0.06)); border-radius: 12px; padding: 1.5rem; text-align: center;">
+      <div style="background: linear-gradient(135deg, rgba(31,94,59,0.06), rgba(212,160,23,0.06)); border-radius: 12px; padding: 1.5rem; text-align: center;">
         <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">
-          We typically respond within <strong style="color: #1F5E3B;">24–48 hours</strong>. For urgent matters, please include "URGENT" in your subject line.
+          We typically respond within <strong style="color: #0B1F3B;">24–48 hours</strong>. For urgent matters, please include "URGENT" in your subject line.
         </p>
       </div>
 
@@ -231,11 +231,11 @@ toc: false
     form select:focus,
     form textarea:focus {
       outline: none;
-      border-color: #1F5E3B !important;
+      border-color: #0B1F3B !important;
       box-shadow: 0 0 0 3px rgba(31,94,59,0.12);
     }
     form button:hover {
-      background-color: #2A7A4E !important;
+      background-color: #122D52 !important;
     }
     @media (max-width: 768px) {
       div[style*="grid-template-columns: 1.2fr 0.8fr"] {
@@ -253,7 +253,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #C9A227; line-height: 1.7; margin: 0;">
+    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0;">
       "Therefore encourage one another and build each other up, just as in fact you are doing."
     </p>
     <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">

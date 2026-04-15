@@ -9,14 +9,14 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <!-- HERO SECTION                                    -->
 <!-- ═══════════════════════════════════════════════ -->
-<section style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 50%, #2B2B2B 100%); min-height: 45vh; display: flex; align-items: center; justify-content: center; padding: 4rem 1.5rem; position: relative; overflow: hidden;">
-  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23C9A227%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
+<section style="background: linear-gradient(135deg, #2B2B2B 0%, #0a1525 50%, #2B2B2B 100%); min-height: 45vh; display: flex; align-items: center; justify-content: center; padding: 4rem 1.5rem; position: relative; overflow: hidden;">
+  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23D4A017%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
 
   <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: center;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #C9A227; margin-bottom: 1rem;">Donate</p>
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">Donate</p>
 
     <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.25rem;">
-      Invest in the <span style="color: #C9A227;">Next Generation</span>
+      Invest in the <span style="color: #D4A017;">Next Generation</span>
     </h1>
 
     <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 580px; margin: 0 auto;">
@@ -42,7 +42,7 @@ toc: false
     <!-- Section Header -->
     <div style="text-align: center; margin-bottom: 3rem;">
       <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #FFFFFF; margin-bottom: 0.75rem; font-weight: 600;">Choose Your Impact</h2>
-      <div style="width: 60px; height: 3px; background-color: #C9A227; margin: 0 auto 1rem;"></div>
+      <div style="width: 60px; height: 3px; background-color: #D4A017; margin: 0 auto 1rem;"></div>
       <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: rgba(255,255,255,0.7); max-width: 600px; margin: 0 auto;">
         Choose an amount that aligns with your heart and ability. Every gift is stewarded with transparency and purpose.
       </p>
@@ -58,7 +58,7 @@ toc: false
 
         <!-- Icon -->
         <div style="font-size: 2rem; margin-bottom: 1.25rem;">
-          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#C9A227" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#D4A017" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
         </div>
 
         <h3 style="font-family: 'Playfair Display', serif; font-size: 1.35rem; font-weight: 600; color: #FFFFFF; margin: 0 0 0.75rem;">One-Time Contribution</h3>
@@ -80,7 +80,7 @@ toc: false
         <div style="flex: 1;"></div>
 
         <!-- CTA Button -->
-        <a href="https://donate.stripe.com/14AdR85cu0Jzami1TcdnW02" target="_blank" rel="noopener noreferrer" class="donate-cta-btn" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 700; color: #2B2B2B; text-decoration: none; padding: 0.85rem 1.5rem; background: #C9A227; border-radius: 10px; border: none; transition: all 200ms ease; min-height: 48px; text-align: center;">
+        <a href="https://donate.stripe.com/14AdR85cu0Jzami1TcdnW02" target="_blank" rel="noopener noreferrer" class="donate-cta-btn" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 700; color: #2B2B2B; text-decoration: none; padding: 0.85rem 1.5rem; background: #D4A017; border-radius: 10px; border: none; transition: all 200ms ease; min-height: 48px; text-align: center;">
           Contribute Now
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
         </a>
@@ -89,16 +89,16 @@ toc: false
       <!-- ══════════════════════════════════ -->
       <!-- CARD 2: Monthly Partnership        -->
       <!-- ══════════════════════════════════ -->
-      <div class="donate-card-panel" style="background: #363636; border: 1px solid #C9A227; border-radius: 16px; padding: 2.25rem 1.75rem; display: flex; flex-direction: column; position: relative;">
+      <div class="donate-card-panel" style="background: #363636; border: 1px solid #D4A017; border-radius: 16px; padding: 2.25rem 1.75rem; display: flex; flex-direction: column; position: relative;">
 
         <!-- Badge -->
         <div style="position: absolute; top: 1rem; right: 1rem;">
-          <span style="font-family: 'Inter', sans-serif; font-size: 0.65rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #2B2B2B; background: #C9A227; padding: 0.3rem 0.75rem; border-radius: 6px;">Sustaining Partner</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.65rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #2B2B2B; background: #D4A017; padding: 0.3rem 0.75rem; border-radius: 6px;">Sustaining Partner</span>
         </div>
 
         <!-- Icon -->
         <div style="font-size: 2rem; margin-bottom: 1.25rem;">
-          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#3A7CA5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4"/><path d="m16.24 7.76-2.12 2.12"/><path d="M20 12h-4"/><path d="m16.24 16.24-2.12-2.12"/><path d="M12 20v-4"/><path d="m7.76 16.24 2.12-2.12"/><path d="M4 12h4"/><path d="m7.76 7.76 2.12 2.12"/></svg>
+          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#38BDF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4"/><path d="m16.24 7.76-2.12 2.12"/><path d="M20 12h-4"/><path d="m16.24 16.24-2.12-2.12"/><path d="M12 20v-4"/><path d="m7.76 16.24 2.12-2.12"/><path d="M4 12h4"/><path d="m7.76 7.76 2.12 2.12"/></svg>
         </div>
 
         <h3 style="font-family: 'Playfair Display', serif; font-size: 1.35rem; font-weight: 600; color: #FFFFFF; margin: 0 0 0.75rem;">Monthly Partnership</h3>
@@ -132,7 +132,7 @@ toc: false
 
         <!-- Icon -->
         <div style="font-size: 2rem; margin-bottom: 1.25rem;">
-          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#1F5E3B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#0B1F3B" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
         </div>
 
         <h3 style="font-family: 'Playfair Display', serif; font-size: 1.35rem; font-weight: 600; color: #FFFFFF; margin: 0 0 0.75rem;">Other Ways to Help</h3>
@@ -144,19 +144,19 @@ toc: false
         <!-- Checklist -->
         <div style="display: flex; flex-direction: column; gap: 0.85rem; margin-bottom: 1.5rem;">
           <div style="display: flex; align-items: center; gap: 0.65rem;">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#1F5E3B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#0B1F3B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
             <span style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.85);">Volunteer your skills</span>
           </div>
           <div style="display: flex; align-items: center; gap: 0.65rem;">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#1F5E3B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#0B1F3B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
             <span style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.85);">Share our mission with others</span>
           </div>
           <div style="display: flex; align-items: center; gap: 0.65rem;">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#1F5E3B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#0B1F3B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
             <span style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.85);">Pray for our communities</span>
           </div>
           <div style="display: flex; align-items: center; gap: 0.65rem;">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#1F5E3B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#0B1F3B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
             <span style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.85);">Partner as an organization</span>
           </div>
         </div>
@@ -165,7 +165,7 @@ toc: false
         <div style="flex: 1;"></div>
 
         <!-- CTA Button -->
-        <a href="/get-involved.html" class="donate-cta-btn donate-cta-outline" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 700; color: #C9A227; text-decoration: none; padding: 0.85rem 1.5rem; background: transparent; border-radius: 10px; border: 2px solid #C9A227; transition: all 200ms ease; min-height: 48px; text-align: center;">
+        <a href="/get-involved.html" class="donate-cta-btn donate-cta-outline" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 700; color: #D4A017; text-decoration: none; padding: 0.85rem 1.5rem; background: transparent; border-radius: 10px; border: 2px solid #D4A017; transition: all 200ms ease; min-height: 48px; text-align: center;">
           Get Involved
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
         </a>
@@ -186,15 +186,15 @@ toc: false
   <style>
     .donate-cta-btn:hover {
       transform: translateY(-2px);
-      box-shadow: 0 4px 16px rgba(201,162,39,0.35);
+      box-shadow: 0 4px 16px rgba(212,160,23,0.35);
       filter: brightness(1.08);
     }
     .donate-cta-btn:active {
       transform: translateY(0);
     }
     .donate-cta-outline:hover {
-      background: rgba(201,162,39,0.1) !important;
-      box-shadow: 0 4px 16px rgba(201,162,39,0.15);
+      background: rgba(212,160,23,0.1) !important;
+      box-shadow: 0 4px 16px rgba(212,160,23,0.15);
     }
     .donate-card-panel:hover {
       transform: translateY(-3px);
@@ -207,8 +207,8 @@ toc: false
       transition: all 200ms ease;
     }
     .amount-chip-link:hover {
-      border-color: #C9A227 !important;
-      background: rgba(201,162,39,0.15) !important;
+      border-color: #D4A017 !important;
+      background: rgba(212,160,23,0.15) !important;
       transform: translateY(-1px);
     }
     .amount-chip-link:active {
@@ -230,7 +230,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #C9A227; line-height: 1.7; margin: 0;">
+    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0;">
       "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver."
     </p>
     <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
@@ -247,7 +247,7 @@ toc: false
     <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
       Where Your Gift Goes
     </h2>
-    <div style="width: 60px; height: 3px; background-color: #1F5E3B; margin-bottom: 2rem;"></div>
+    <div style="width: 60px; height: 3px; background-color: #0B1F3B; margin-bottom: 2rem;"></div>
 
     <!-- Impact Photo Strip -->
     <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem; margin-bottom: 2rem; border-radius: 12px; overflow: hidden;">
@@ -274,7 +274,7 @@ toc: false
     <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.25rem;">
 
       <div style="background: #FFFFFF; border-radius: 12px; padding: 1.5rem; display: flex; gap: 1rem; align-items: flex-start;">
-        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">✝</div>
+        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #0B1F3B, #122D52); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">✝</div>
         <div>
           <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$25 — Bible Study Kit</strong>
           <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Provides study guides, devotionals, and materials for weekly spiritual formation programs.</p>
@@ -282,7 +282,7 @@ toc: false
       </div>
 
       <div style="background: #FFFFFF; border-radius: 12px; padding: 1.5rem; display: flex; gap: 1rem; align-items: flex-start;">
-        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #C9A227, #D4B44A); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">🎓</div>
+        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #D4A017, #E0B030); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">🎓</div>
         <div>
           <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$50 — One Month Mentorship</strong>
           <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Funds curriculum and resources for one-on-one mentoring that develops young leaders.</p>
@@ -290,7 +290,7 @@ toc: false
       </div>
 
       <div style="background: #FFFFFF; border-radius: 12px; padding: 1.5rem; display: flex; gap: 1rem; align-items: flex-start;">
-        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #3A7CA5, #4A92BF); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">🏠</div>
+        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #38BDF8, #60CBFF); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">🏠</div>
         <div>
           <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$100 — Family Workshop</strong>
           <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Hosts a workshop on parenting, education, or financial literacy that equips families for stability.</p>
@@ -298,7 +298,7 @@ toc: false
       </div>
 
       <div style="background: #FFFFFF; border-radius: 12px; padding: 1.5rem; display: flex; gap: 1rem; align-items: flex-start;">
-        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">🤝</div>
+        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #0B1F3B, #122D52); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">🤝</div>
         <div>
           <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$250 — Community Event</strong>
           <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Underwrites a gathering that strengthens connection, belonging, and shared purpose across the community.</p>
@@ -325,12 +325,12 @@ toc: false
     <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
       Why Your Gift Matters
     </h2>
-    <div style="width: 60px; height: 3px; background-color: #C9A227; margin-bottom: 2rem;"></div>
+    <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 2rem;"></div>
 
     <div style="display: flex; flex-direction: column; gap: 1.25rem;">
 
       <div style="display: flex; gap: 1rem; align-items: flex-start;">
-        <div style="width: 8px; height: 8px; background-color: #1F5E3B; border-radius: 50%; flex-shrink: 0; margin-top: 0.6rem;"></div>
+        <div style="width: 8px; height: 8px; background-color: #0B1F3B; border-radius: 50%; flex-shrink: 0; margin-top: 0.6rem;"></div>
         <div>
           <strong style="font-family: 'Inter', sans-serif; color: #2B2B2B;">Transparent Stewardship.</strong>
           <span style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #5A5955; line-height: 1.7;"> Y.E.T. Compassion operates with transparency and accountability. Every dollar is stewarded responsibly to serve our mission.</span>
@@ -338,7 +338,7 @@ toc: false
       </div>
 
       <div style="display: flex; gap: 1rem; align-items: flex-start;">
-        <div style="width: 8px; height: 8px; background-color: #C9A227; border-radius: 50%; flex-shrink: 0; margin-top: 0.6rem;"></div>
+        <div style="width: 8px; height: 8px; background-color: #D4A017; border-radius: 50%; flex-shrink: 0; margin-top: 0.6rem;"></div>
         <div>
           <strong style="font-family: 'Inter', sans-serif; color: #2B2B2B;">Tax-Deductible.</strong>
           <span style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #5A5955; line-height: 1.7;"> Y.E.T. Compassion is a 501(c)(3) nonprofit organization. Your contribution is fully tax-deductible to the extent allowed by law.</span>
@@ -346,7 +346,7 @@ toc: false
       </div>
 
       <div style="display: flex; gap: 1rem; align-items: flex-start;">
-        <div style="width: 8px; height: 8px; background-color: #3A7CA5; border-radius: 50%; flex-shrink: 0; margin-top: 0.6rem;"></div>
+        <div style="width: 8px; height: 8px; background-color: #38BDF8; border-radius: 50%; flex-shrink: 0; margin-top: 0.6rem;"></div>
         <div>
           <strong style="font-family: 'Inter', sans-serif; color: #2B2B2B;">Direct Community Impact.</strong>
           <span style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #5A5955; line-height: 1.7;"> Your gift directly supports youth and families through mentorship, spiritual formation, education, and community building — both in the diaspora and in South Sudan.</span>
@@ -365,13 +365,13 @@ toc: false
     <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
       Give by Mail
     </h2>
-    <div style="width: 60px; height: 3px; background-color: #1F5E3B; margin-bottom: 2rem;"></div>
+    <div style="width: 60px; height: 3px; background-color: #0B1F3B; margin-bottom: 2rem;"></div>
 
-    <div style="background: #FFFFFF; border-radius: 12px; padding: 2rem; border-left: 4px solid #1F5E3B;">
+    <div style="background: #FFFFFF; border-radius: 12px; padding: 2rem; border-left: 4px solid #0B1F3B;">
       <p style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #5A5955; line-height: 1.7; margin: 0 0 1.25rem;">
         Prefer to give by check? Make your check payable to <strong style="color: #2B2B2B;">Y.E.T. Compassion</strong> and mail it to:
       </p>
-      <address style="font-family: 'Inter', sans-serif; font-size: 1.05rem; font-style: normal; color: #2B2B2B; line-height: 1.8; font-weight: 600; margin: 0; padding-left: 1rem; border-left: 3px solid #C9A227;">
+      <address style="font-family: 'Inter', sans-serif; font-size: 1.05rem; font-style: normal; color: #2B2B2B; line-height: 1.8; font-weight: 600; margin: 0; padding-left: 1rem; border-left: 3px solid #D4A017;">
         Y.E.T. Compassion<br>
         P.O. Box 680262<br>
         Franklin, TN 37068-0262
@@ -383,13 +383,13 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <!-- FINAL CTA                                       -->
 <!-- ═══════════════════════════════════════════════ -->
-<section style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 60%, #2B2B2B 100%); padding: 3.5rem 1.5rem; text-align: center;">
+<section style="background: linear-gradient(135deg, #2B2B2B 0%, #0a1525 60%, #2B2B2B 100%); padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
     <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #FFFFFF; margin-bottom: 1rem; font-weight: 600;">
       Questions About Your Gift?
     </h2>
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2rem;">
-      We welcome your questions. Reach out at <a href="mailto:info@yetcompassion.org" style="color: #C9A227; text-decoration: none; font-weight: 600;">info@yetcompassion.org</a> to learn more about how your generosity creates lasting change.
+      We welcome your questions. Reach out at <a href="mailto:info@yetcompassion.org" style="color: #D4A017; text-decoration: none; font-weight: 600;">info@yetcompassion.org</a> to learn more about how your generosity creates lasting change.
     </p>
     <a href="/contact.html" class="btn-gold">Get in Touch</a>
   </div>

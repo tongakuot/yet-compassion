@@ -51,13 +51,13 @@ toc: false
 
     <!-- Year badge — compact, refined -->
     <div style="margin-bottom: 0.6rem;">
-      <span id="hero-year" style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.25rem); font-weight: 700; color: #C9A227; line-height: 1; display: inline-block; letter-spacing: 0.08em; padding: 0.3rem 0.9rem; border: 1px solid rgba(201,162,39,0.35); border-radius: 4px; backdrop-filter: blur(8px); background: rgba(0,0,0,0.25); transition: opacity 300ms ease;">2006</span>
+      <span id="hero-year" style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.25rem); font-weight: 700; color: #D4A017; line-height: 1; display: inline-block; letter-spacing: 0.08em; padding: 0.3rem 0.9rem; border: 1px solid rgba(212,160,23,0.35); border-radius: 4px; backdrop-filter: blur(8px); background: rgba(0,0,0,0.25); transition: opacity 300ms ease;">2006</span>
       <span id="hero-caption" style="font-family: 'Inter', sans-serif; font-size: 0.65rem; font-weight: 500; letter-spacing: 0.15em; text-transform: uppercase; color: rgba(255,255,255,0.5); margin-top: 0.4rem; display: block; transition: opacity 300ms ease;">Mission begins</span>
     </div>
 
     <!-- Tagline — upright, authoritative -->
     <h1 style="font-family: 'Inter', sans-serif; font-style: normal; font-size: clamp(1.4rem, 3.2vw, 2.25rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.25; margin-bottom: 0.5rem; max-width: 680px; text-shadow: 0 1px 8px rgba(0,0,0,0.3);">
-      Excellence is not what we aspire to — <span style="color: #C9A227; font-family: 'Playfair Display', Georgia, serif; font-style: italic;">it's what we deliver.</span>
+      Excellence is not what we aspire to — <span style="color: #D4A017; font-family: 'Playfair Display', Georgia, serif; font-style: italic;">it's what we deliver.</span>
     </h1>
 
     <!-- Photo description — subtle, secondary -->
@@ -67,14 +67,14 @@ toc: false
 
     <!-- CTAs — refined, frosted glass -->
     <div style="display: flex; gap: 0.6rem; justify-content: center; flex-wrap: wrap;">
-      <a href="about/index.html" class="hero-cta-primary" style="display: inline-flex; align-items: center; padding: 0.45rem 1.4rem; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.03em; color: #2B2B2B; background: #C9A227; border: none; border-radius: 4px; text-decoration: none; transition: all 250ms ease; box-shadow: 0 2px 8px rgba(201,162,39,0.3);">Learn More</a>
+      <a href="about/index.html" class="hero-cta-primary" style="display: inline-flex; align-items: center; padding: 0.45rem 1.4rem; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.03em; color: #2B2B2B; background: #D4A017; border: none; border-radius: 4px; text-decoration: none; transition: all 250ms ease; box-shadow: 0 2px 8px rgba(212,160,23,0.3);">Learn More</a>
       <a href="donate.html" class="hero-cta-secondary" style="display: inline-flex; align-items: center; padding: 0.45rem 1.4rem; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.03em; color: #FFFFFF; background: rgba(255,255,255,0.08); border: 1px solid rgba(255,255,255,0.25); border-radius: 4px; text-decoration: none; transition: all 250ms ease; backdrop-filter: blur(6px);">Donate Now</a>
     </div>
   </div>
 
   <!-- Bottom navigation bar — frosted glass strip -->
   <div id="hero-nav-bar" style="position: absolute; bottom: 0; left: 0; right: 0; z-index: 5; display: flex; align-items: center; justify-content: center; gap: 0.75rem; padding: 0.6rem 1rem; background: rgba(0,0,0,0.45); backdrop-filter: blur(12px); border-top: 1px solid rgba(255,255,255,0.08);">
-    <button id="hero-prev" aria-label="Previous" style="width: 32px; height: 32px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.15); background: transparent; color: #C9A227; font-size: 1rem; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 200ms ease;">‹</button>
+    <button id="hero-prev" aria-label="Previous" style="width: 32px; height: 32px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.15); background: transparent; color: #D4A017; font-size: 1rem; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 200ms ease;">‹</button>
 
     <!-- Year pips -->
     <div id="hero-pips" style="display: flex; gap: 0.3rem; align-items: center;"></div>
@@ -83,7 +83,7 @@ toc: false
     <div style="width: 1px; height: 14px; background: rgba(255,255,255,0.12); margin: 0 0.2rem;"></div>
     <div id="hero-dots" style="display: flex; gap: 0.25rem; align-items: center;"></div>
 
-    <button id="hero-next" aria-label="Next" style="width: 32px; height: 32px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.15); background: transparent; color: #C9A227; font-size: 1rem; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 200ms ease;">›</button>
+    <button id="hero-next" aria-label="Next" style="width: 32px; height: 32px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.15); background: transparent; color: #D4A017; font-size: 1rem; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 200ms ease;">›</button>
   </div>
 </section>
 
@@ -108,7 +108,7 @@ toc: false
       { src: 'images/project-images/medical_supplies/medical_photos-01.jpg', desc: 'Distributing medicine and medical supplies to families', pos: 'center 40%' },
       { src: 'images/project-images/best_photos/best_pictures-03.jpg', desc: 'Youth raised in hope — celebrating community and faith', pos: 'center 45%' },
       { src: 'images/project-images/best_photos/best_pictures-05.jpg', desc: 'Building genuine connections with young people', pos: 'center 40%' },
-      { src: 'images/project-images/best_photos/best_pictures-07.jpg', desc: 'Intergenerational respect and cultural authenticity', pos: 'center 45%' }
+      { src: 'images/project-images/best_photos/best_pictures-07.jpg', desc: 'Intergenerational respect and community authenticity', pos: 'center 45%' }
     ]},
     { year: '2009', caption: 'Clean water & relief', photos: [
       { src: 'images/project-images/biong-food-distribution-leader.jpg', desc: 'Food distribution reaching families in need', pos: 'center 35%' },
@@ -193,8 +193,8 @@ toc: false
       g.photos.forEach(function(_, i) {
         var dot = document.createElement('span');
         dot.style.cssText = 'width:6px;height:6px;border-radius:50%;transition:all 200ms ease;cursor:pointer;';
-        dot.style.background = i === photoIdx ? '#C9A227' : 'rgba(255,255,255,0.25)';
-        if (i === photoIdx) dot.style.boxShadow = '0 0 6px rgba(201,162,39,0.4)';
+        dot.style.background = i === photoIdx ? '#D4A017' : 'rgba(255,255,255,0.25)';
+        if (i === photoIdx) dot.style.boxShadow = '0 0 6px rgba(212,160,23,0.4)';
         dot.addEventListener('click', function() { photoIdx = i; render(); resetTimer(); });
         dotsEl.appendChild(dot);
       });
@@ -203,10 +203,10 @@ toc: false
     // Year pips
     Array.from(pipsEl.children).forEach(function(pip, i) {
       if (i === yearIdx) {
-        pip.style.background = '#C9A227';
+        pip.style.background = '#D4A017';
         pip.style.color = '#2B2B2B';
-        pip.style.borderColor = '#C9A227';
-        pip.style.boxShadow = '0 0 8px rgba(201,162,39,0.3)';
+        pip.style.borderColor = '#D4A017';
+        pip.style.boxShadow = '0 0 8px rgba(212,160,23,0.3)';
       } else {
         pip.style.background = 'transparent';
         pip.style.color = 'rgba(255,255,255,0.4)';
@@ -266,7 +266,7 @@ toc: false
 <style>
   .hero-cta-primary:hover {
     background: #d4ad2e !important;
-    box-shadow: 0 4px 16px rgba(201,162,39,0.4) !important;
+    box-shadow: 0 4px 16px rgba(212,160,23,0.4) !important;
     transform: translateY(-1px);
   }
   .hero-cta-secondary:hover {
@@ -275,9 +275,9 @@ toc: false
     transform: translateY(-1px);
   }
   #hero-prev:hover, #hero-next:hover {
-    color: #C9A227 !important;
-    border-color: rgba(201,162,39,0.4) !important;
-    background: rgba(201,162,39,0.1) !important;
+    color: #D4A017 !important;
+    border-color: rgba(212,160,23,0.4) !important;
+    background: rgba(212,160,23,0.1) !important;
   }
   .hero-pip:hover {
     color: rgba(255,255,255,0.7) !important;
@@ -293,7 +293,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <!-- OUR FOCUS — Honest pillars, no inflated stats  -->
 <!-- ═══════════════════════════════════════════════ -->
-<section style="background-color: #1F5E3B; padding: 2.25rem 1.5rem;">
+<section style="background-color: #0B1F3B; padding: 2.25rem 1.5rem;">
   <div class="pillars-strip">
     <div class="pillar-item">
       <span class="pillar-icon">✝</span>
@@ -349,43 +349,43 @@ toc: false
     <div style="display: grid; grid-template-columns: 1fr; gap: 1.5rem;">
 
       <!-- Youth Evangelism -->
-      <div class="program-card" style="background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-top: 4px solid #1F5E3B; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
+      <div class="program-card" style="background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-top: 4px solid #0B1F3B; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
         <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">✝️</div>
         <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.15rem; color: #2B2B2B; margin-bottom: 0.75rem;">Youth Evangelism & Discipleship</h4>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Grounding young people in biblical truth through contextual teaching, Bible studies, and one-on-one discipleship.</p>
-        <a href="programs/index.html#evangelism" style="color: #1F5E3B; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Learn More →</a>
+        <a href="programs/index.html#evangelism" style="color: #0B1F3B; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Learn More →</a>
       </div>
 
       <!-- Leadership Development -->
-      <div class="program-card" style="background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-top: 4px solid #C9A227; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
+      <div class="program-card" style="background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-top: 4px solid #D4A017; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
         <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">🎓</div>
         <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.15rem; color: #2B2B2B; margin-bottom: 0.75rem;">Leadership Development & Mentorship</h4>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Cultivating servant leaders through structured mentorship, professional training, and public speaking workshops.</p>
-        <a href="programs/index.html#leadership" style="color: #1F5E3B; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Learn More →</a>
+        <a href="programs/index.html#leadership" style="color: #0B1F3B; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Learn More →</a>
       </div>
 
       <!-- Family Empowerment -->
-      <div class="program-card" style="background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-top: 4px solid #3A7CA5; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
+      <div class="program-card" style="background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-top: 4px solid #38BDF8; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
         <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">🏠</div>
         <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.15rem; color: #2B2B2B; margin-bottom: 0.75rem;">Family Stability & Counseling</h4>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Strengthening families through counseling, financial literacy, and community retreats.</p>
-        <a href="programs/index.html#family" style="color: #1F5E3B; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Learn More →</a>
+        <a href="programs/index.html#family" style="color: #0B1F3B; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Learn More →</a>
       </div>
 
       <!-- Community Building -->
-      <div class="program-card" style="background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-top: 4px solid #1F5E3B; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
+      <div class="program-card" style="background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-top: 4px solid #0B1F3B; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
         <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">🤝</div>
         <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.15rem; color: #2B2B2B; margin-bottom: 0.75rem;">Community Building & Diaspora Advocacy</h4>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Creating networks of support, preserving cultural heritage, and advocating for diaspora communities.</p>
-        <a href="programs/index.html#community" style="color: #1F5E3B; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Learn More →</a>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Creating networks of support and advocating for diaspora communities with faith and purpose.</p>
+        <a href="programs/index.html#community" style="color: #0B1F3B; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Learn More →</a>
       </div>
 
       <!-- Homeland Engagement -->
-      <div class="program-card" style="background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-top: 4px solid #C9A227; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
+      <div class="program-card" style="background: #FFFFFF; border-radius: 12px; padding: 2rem; box-shadow: 0 1px 3px rgba(0,0,0,0.08); border-top: 4px solid #D4A017; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
         <div style="font-size: 2.5rem; margin-bottom: 0.75rem;">🌍</div>
         <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.15rem; color: #2B2B2B; margin-bottom: 0.75rem;">Service & Mission in South Sudan</h4>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Connecting diaspora to homeland through mission trips, educational sponsorships, and community partnerships.</p>
-        <a href="programs/index.html#homeland" style="color: #1F5E3B; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Learn More →</a>
+        <a href="programs/index.html#homeland" style="color: #0B1F3B; font-weight: 600; text-decoration: none; font-size: 0.95rem;">Learn More →</a>
       </div>
 
     </div>
@@ -414,7 +414,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background-color: #2B2B2B; padding: 4rem 1.5rem; text-align: center;">
   <div style="max-width: 800px; margin: 0 auto;">
-    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.6rem); color: #C9A227; line-height: 1.7; margin: 0;">
+    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.6rem); color: #D4A017; line-height: 1.7; margin: 0;">
       "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future."
     </p>
     <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
@@ -434,7 +434,7 @@ toc: false
     <ul style="list-style: none; padding: 0; margin: 0;">
 
       <li style="padding: 1.25rem 0; border-bottom: 1px solid #D9D8D4; display: flex; gap: 1rem; align-items: flex-start;">
-        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #1F5E3B; min-width: 2rem; line-height: 1.3;">1</span>
+        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #0B1F3B; min-width: 2rem; line-height: 1.3;">1</span>
         <div>
           <strong style="color: #2B2B2B; font-size: 1.05rem;">Scriptural Foundation</strong>
           <span style="color: #5A5955;"> — Truth begins with the Word. All our work is grounded in biblical principles and the transformative power of the Gospel.</span>
@@ -442,7 +442,7 @@ toc: false
       </li>
 
       <li style="padding: 1.25rem 0; border-bottom: 1px solid #D9D8D4; display: flex; gap: 1rem; align-items: flex-start;">
-        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #1F5E3B; min-width: 2rem; line-height: 1.3;">2</span>
+        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #0B1F3B; min-width: 2rem; line-height: 1.3;">2</span>
         <div>
           <strong style="color: #2B2B2B; font-size: 1.05rem;">Empowerment Through Preparation</strong>
           <span style="color: #5A5955;"> — Skills precede impact. We equip youth with practical knowledge and mentorship before sending them into the field.</span>
@@ -450,7 +450,7 @@ toc: false
       </li>
 
       <li style="padding: 1.25rem 0; border-bottom: 1px solid #D9D8D4; display: flex; gap: 1rem; align-items: flex-start;">
-        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #1F5E3B; min-width: 2rem; line-height: 1.3;">3</span>
+        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #0B1F3B; min-width: 2rem; line-height: 1.3;">3</span>
         <div>
           <strong style="color: #2B2B2B; font-size: 1.05rem;">Community Accountability</strong>
           <span style="color: #5A5955;"> — No one advances alone. We operate with transparency and remain accountable to the communities we serve.</span>
@@ -458,7 +458,7 @@ toc: false
       </li>
 
       <li style="padding: 1.25rem 0; border-bottom: 1px solid #D9D8D4; display: flex; gap: 1rem; align-items: flex-start;">
-        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #1F5E3B; min-width: 2rem; line-height: 1.3;">4</span>
+        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #0B1F3B; min-width: 2rem; line-height: 1.3;">4</span>
         <div>
           <strong style="color: #2B2B2B; font-size: 1.05rem;">Operational Excellence</strong>
           <span style="color: #5A5955;"> — Competence honors calling. Excellence is not what we aspire to — it's what we deliver in every program and initiative.</span>
@@ -466,7 +466,7 @@ toc: false
       </li>
 
       <li style="padding: 1.25rem 0; display: flex; gap: 1rem; align-items: flex-start;">
-        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #1F5E3B; min-width: 2rem; line-height: 1.3;">5</span>
+        <span style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; color: #0B1F3B; min-width: 2rem; line-height: 1.3;">5</span>
         <div>
           <strong style="color: #2B2B2B; font-size: 1.05rem;">Intergenerational Responsibility</strong>
           <span style="color: #5A5955;"> — Today's work builds tomorrow's leaders. We honor our heritage while building a transformative legacy for future generations.</span>
@@ -484,7 +484,7 @@ toc: false
   <div style="max-width: 960px; margin: 0 auto;">
 
     <div style="text-align: center; margin-bottom: 2.5rem;">
-      <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #C9A227; margin-bottom: 0.75rem;">Brand Identity</p>
+      <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin-bottom: 0.75rem;">Brand Identity</p>
       <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.5rem); color: #2B2B2B; margin-bottom: 0.5rem; font-weight: 600;">Our Emblem</h2>
       <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: #5A5955; max-width: 600px; margin: 0 auto; line-height: 1.7;">Every element of our logo carries deliberate meaning — unifying faith, compassion, and institutional strength into a single, purposeful mark.</p>
     </div>
@@ -497,7 +497,7 @@ toc: false
         <div style="display: flex; align-items: center; justify-content: center;">
           <img src="images/logo.png" alt="Y.E.T. Compassion emblem — golden cross within a blue heart on a deep navy circle" style="max-width: 200px; width: 100%; height: auto;">
         </div>
-        <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 1rem; color: #C9A227; margin-top: 1.25rem; margin-bottom: 0;">Equip Youth. Proclaim Hope.</p>
+        <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: 1rem; color: #D4A017; margin-top: 1.25rem; margin-bottom: 0;">Equip Youth. Proclaim Hope.</p>
       </div>
 
       <!-- Logo Colors -->
@@ -506,7 +506,7 @@ toc: false
         <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #8A8985; margin: 0;">Logo Colors</p>
 
         <div style="display: flex; gap: 1rem; align-items: flex-start;">
-          <div style="width: 44px; height: 44px; background: #C9A227; border-radius: 10px; flex-shrink: 0;"></div>
+          <div style="width: 44px; height: 44px; background: #D4A017; border-radius: 10px; flex-shrink: 0;"></div>
           <div>
             <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #2B2B2B; display: block; margin-bottom: 0.15rem;">Gold</strong>
             <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">The cross — faith, sacrifice, and divine purpose at the center of everything we do.</p>
@@ -514,7 +514,7 @@ toc: false
         </div>
 
         <div style="display: flex; gap: 1rem; align-items: flex-start;">
-          <div style="width: 44px; height: 44px; background: #3A7CA5; border-radius: 10px; flex-shrink: 0;"></div>
+          <div style="width: 44px; height: 44px; background: #38BDF8; border-radius: 10px; flex-shrink: 0;"></div>
           <div>
             <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #2B2B2B; display: block; margin-bottom: 0.15rem;">Blue</strong>
             <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">The heart — compassion, care, and active love wrapping the cross in service.</p>
@@ -550,9 +550,9 @@ toc: false
 <section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; position: relative; overflow: hidden;">
   <div style="position: absolute; inset: 0; opacity: 0.03; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23C9A227%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
   <div style="position: relative; z-index: 2; max-width: 1000px; margin: 0 auto;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #C9A227; margin-bottom: 0.75rem;">Impact on the Ground</p>
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin-bottom: 0.75rem;">Impact on the Ground</p>
     <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(1.75rem, 3.5vw, 2.25rem); font-weight: 700; color: #FFFFFF; margin-bottom: 0.75rem;">
-      From Nashville to <span style="color: #C9A227;">South Sudan</span>
+      From Nashville to <span style="color: #D4A017;">South Sudan</span>
     </h2>
     <p style="font-family: 'Inter', sans-serif; font-size: 1rem; color: rgba(255,255,255,0.7); line-height: 1.7; max-width: 600px; margin-bottom: 2.5rem;">
       Through homeland engagement missions, Y.E.T. Compassion has built schools, drilled water wells, and distributed food to vulnerable communities in Biong and surrounding regions.
@@ -592,7 +592,7 @@ toc: false
     </div>
 
     <div style="text-align: center; margin-top: 2rem;">
-      <a href="programs/index.html#homeland" style="display: inline-block; padding: 0.75rem 2rem; background: transparent; color: #C9A227; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; text-decoration: none; border: 1px solid rgba(201,162,39,0.4); border-radius: 8px; transition: all 200ms ease;">See Our Homeland Projects →</a>
+      <a href="programs/index.html#homeland" style="display: inline-block; padding: 0.75rem 2rem; background: transparent; color: #D4A017; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; text-decoration: none; border: 1px solid rgba(212,160,23,0.4); border-radius: 8px; transition: all 200ms ease;">See Our Homeland Projects →</a>
     </div>
   </div>
 
@@ -622,7 +622,7 @@ toc: false
       <input type="email" name="EMAIL" placeholder="Your email address" required
         style="flex: 1; padding: 0.75rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-size: 1rem; min-height: 48px; font-family: 'Inter', sans-serif; background: #FFFFFF;">
       <button type="submit"
-        style="background-color: #1F5E3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.75rem 1.5rem; border-radius: 8px; border: none; cursor: pointer; min-height: 48px; transition: background-color 200ms ease;">
+        style="background-color: #0B1F3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.75rem 1.5rem; border-radius: 8px; border: none; cursor: pointer; min-height: 48px; transition: background-color 200ms ease;">
         Subscribe
       </button>
     </form>

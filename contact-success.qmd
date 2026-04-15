@@ -6,14 +6,14 @@ toc: false
 ---
 
 ```{=html}
-<section style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 50%, #2B2B2B 100%); min-height: 60vh; display: flex; align-items: center; justify-content: center; padding: 4rem 1.5rem; text-align: center;">
+<section style="background: linear-gradient(135deg, #2B2B2B 0%, #0a1525 50%, #2B2B2B 100%); min-height: 60vh; display: flex; align-items: center; justify-content: center; padding: 4rem 1.5rem; text-align: center;">
   <div style="max-width: 600px; margin: 0 auto;">
-    <div style="width: 72px; height: 72px; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem; font-size: 2rem; color: #FFFFFF; box-shadow: 0 4px 20px rgba(31,94,59,0.3);">
+    <div style="width: 72px; height: 72px; background: linear-gradient(135deg, #0B1F3B, #122D52); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem; font-size: 2rem; color: #FFFFFF; box-shadow: 0 4px 20px rgba(31,94,59,0.3);">
       &#10003;
     </div>
 
     <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(1.75rem, 4vw, 2.5rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.2; margin-bottom: 1rem;">
-      Thank You for <span style="color: #C9A227;">Reaching Out</span>
+      Thank You for <span style="color: #D4A017;">Reaching Out</span>
     </h1>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.1rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 0.75rem;">
@@ -22,7 +22,7 @@ toc: false
 
     <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: rgba(255,255,255,0.6); line-height: 1.7; margin-bottom: 2.5rem;">
       For urgent matters, email us directly at
-      <a href="mailto:info@yetcompassion.org" style="color: #C9A227; text-decoration: none; font-weight: 600;">info@yetcompassion.org</a>.
+      <a href="mailto:info@yetcompassion.org" style="color: #D4A017; text-decoration: none; font-weight: 600;">info@yetcompassion.org</a>.
     </p>
 
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
@@ -34,7 +34,7 @@ toc: false
 
 <section style="background-color: #2B2B2B; padding: 3rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.1rem, 2.5vw, 1.4rem); color: #C9A227; line-height: 1.7; margin: 0;">
+    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.1rem, 2.5vw, 1.4rem); color: #D4A017; line-height: 1.7; margin: 0;">
       "Therefore encourage one another and build each other up, just as in fact you are doing."
     </p>
     <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 0.75rem; display: block;">

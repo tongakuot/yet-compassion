@@ -9,14 +9,14 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <!-- HERO SECTION                                    -->
 <!-- ═══════════════════════════════════════════════ -->
-<section style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 50%, #2B2B2B 100%); min-height: 50vh; display: flex; align-items: center; justify-content: center; padding: 4rem 1.5rem; position: relative; overflow: hidden;">
-  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23C9A227%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
+<section style="background: linear-gradient(135deg, #2B2B2B 0%, #0a1525 50%, #2B2B2B 100%); min-height: 50vh; display: flex; align-items: center; justify-content: center; padding: 4rem 1.5rem; position: relative; overflow: hidden;">
+  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23D4A017%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
 
   <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #C9A227; margin-bottom: 1rem;">Our Programs</p>
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">Our Programs</p>
 
     <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.5rem;">
-      Five Pillars of <span style="color: #C9A227;">Transformation</span>
+      Five Pillars of <span style="color: #D4A017;">Transformation</span>
     </h1>
 
     <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 620px; margin: 0 0 2rem;">
@@ -42,13 +42,13 @@ toc: false
   <div style="max-width: 900px; margin: 0 auto;">
     <!-- Header -->
     <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
-      <div style="width: 48px; height: 48px; border-radius: 10px; background: #1F5E3B; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; flex-shrink: 0;">✝️</div>
+      <div style="width: 48px; height: 48px; border-radius: 10px; background: #0B1F3B; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; flex-shrink: 0;">✝️</div>
       <div>
         <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.5rem, 3vw, 2rem); color: #2B2B2B; margin: 0; font-weight: 600;">Youth Evangelism &amp; Discipleship</h2>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #C9A227; margin: 0.25rem 0 0; font-weight: 500;">Nashville, TN</p>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #D4A017; margin: 0.25rem 0 0; font-weight: 500;">Nashville, TN</p>
       </div>
     </div>
-    <div style="width: 60px; height: 3px; background-color: #1F5E3B; margin-bottom: 1.5rem;"></div>
+    <div style="width: 60px; height: 3px; background-color: #0B1F3B; margin-bottom: 1.5rem;"></div>
 
     <!-- Description -->
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
@@ -58,19 +58,19 @@ toc: false
     <!-- Activities grid -->
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 2rem 0;">
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Bible Studies &amp; Small Groups</strong>
-        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Weekly sessions exploring Scripture in ways that connect to the lived experience of young people navigating two cultures.</span>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Bible Studies &amp; Small Groups</strong>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Weekly sessions exploring Scripture in ways that connect to the lived experience of young people navigating complex identities and faith.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Youth Conferences &amp; Events</strong>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Youth Conferences &amp; Events</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Annual retreats bringing young people together for worship, teaching, fellowship, and spiritual refreshment.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">One-on-One Discipleship</strong>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">One-on-One Discipleship</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Trained mentors walk alongside youth, providing spiritual guidance and pastoral care tailored to individual needs.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Baptism Preparation</strong>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Baptism Preparation</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Theological instruction and personal testimony development for believers ready to publicly declare their faith.</span>
       </div>
     </div>
@@ -92,8 +92,8 @@ toc: false
     </div>
 
     <!-- Vision callout -->
-    <div style="padding: 1.5rem; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); border-radius: 8px; color: white;">
-      <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: #C9A227; margin-bottom: 0.5rem;">Our Vision</strong>
+    <div style="padding: 1.5rem; background: linear-gradient(135deg, #0B1F3B, #122D52); border-radius: 8px; color: white;">
+      <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: #D4A017; margin-bottom: 0.5rem;">Our Vision</strong>
       <p style="font-size: 0.95rem; line-height: 1.7; color: rgba(255,255,255,0.9); margin: 0;">A generation of young people deeply rooted in Scripture, secure in their faith, and empowered to be witnesses and leaders in their communities.</p>
     </div>
   </div>
@@ -111,7 +111,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════════════ -->
 <section style="background-color: #2B2B2B; padding: 2.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1rem, 2vw, 1.25rem); color: #C9A227; line-height: 1.7; margin: 0;">
+    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1rem, 2vw, 1.25rem); color: #D4A017; line-height: 1.7; margin: 0;">
       "Go therefore and make disciples of all nations."
     </p>
     <span style="font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #8A8985; margin-top: 0.5rem; display: block;">— Matthew 28:19</span>
@@ -126,13 +126,13 @@ toc: false
   <div style="max-width: 900px; margin: 0 auto;">
     <!-- Header -->
     <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
-      <div style="width: 48px; height: 48px; border-radius: 10px; background: #C9A227; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; flex-shrink: 0;">🎓</div>
+      <div style="width: 48px; height: 48px; border-radius: 10px; background: #D4A017; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; flex-shrink: 0;">🎓</div>
       <div>
         <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.5rem, 3vw, 2rem); color: #2B2B2B; margin: 0; font-weight: 600;">Leadership Development &amp; Mentorship</h2>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #C9A227; margin: 0.25rem 0 0; font-weight: 500;">Servant Leadership · Professional Growth</p>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #D4A017; margin: 0.25rem 0 0; font-weight: 500;">Servant Leadership · Professional Growth</p>
       </div>
     </div>
-    <div style="width: 60px; height: 3px; background-color: #C9A227; margin-bottom: 1.5rem;"></div>
+    <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.5rem;"></div>
 
     <!-- Description -->
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
@@ -142,19 +142,19 @@ toc: false
     <!-- Activities grid -->
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 2rem 0;">
       <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Leadership Workshops</strong>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Leadership Workshops</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Emotional intelligence, decision-making, conflict resolution, team dynamics, and visionary thinking.</span>
       </div>
       <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Mentorship Pairing</strong>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Mentorship Pairing</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">One-on-one relationships connecting youth with experienced leaders for guidance and accountability.</span>
       </div>
       <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Character &amp; Ethics Formation</strong>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Character &amp; Ethics Formation</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Biblical ethics, personal integrity, and accountability — shaping leaders who serve with wisdom and honor.</span>
       </div>
       <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Public Speaking &amp; Communication</strong>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Public Speaking &amp; Communication</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Presentation skills, storytelling, and communication that equip youth to represent their communities.</span>
       </div>
     </div>
@@ -176,7 +176,7 @@ toc: false
     </div>
 
     <!-- Vision callout -->
-    <div style="padding: 1.5rem; background: linear-gradient(135deg, #C9A227, #D4B44A); border-radius: 8px; color: #2B2B2B;">
+    <div style="padding: 1.5rem; background: linear-gradient(135deg, #D4A017, #E0B030); border-radius: 8px; color: #2B2B2B;">
       <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: rgba(43,43,43,0.6); margin-bottom: 0.5rem;">Our Vision</strong>
       <p style="font-size: 0.95rem; line-height: 1.7; color: #2B2B2B; margin: 0;">A pipeline of servant leaders equipped with skills, confidence, and character to lead in their workplaces, churches, and communities with integrity and purpose.</p>
     </div>
@@ -197,13 +197,13 @@ toc: false
   <div style="max-width: 900px; margin: 0 auto;">
     <!-- Header -->
     <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
-      <div style="width: 48px; height: 48px; border-radius: 10px; background: #3A7CA5; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; flex-shrink: 0;">🏠</div>
+      <div style="width: 48px; height: 48px; border-radius: 10px; background: #38BDF8; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; flex-shrink: 0;">🏠</div>
       <div>
         <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.5rem, 3vw, 2rem); color: #2B2B2B; margin: 0; font-weight: 600;">Family Stability &amp; Wellness</h2>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #3A7CA5; margin: 0.25rem 0 0; font-weight: 500;">Strengthening Foundations · Nurturing Wholeness</p>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #38BDF8; margin: 0.25rem 0 0; font-weight: 500;">Strengthening Foundations · Nurturing Wholeness</p>
       </div>
     </div>
-    <div style="width: 60px; height: 3px; background-color: #3A7CA5; margin-bottom: 1.5rem;"></div>
+    <div style="width: 60px; height: 3px; background-color: #38BDF8; margin-bottom: 1.5rem;"></div>
 
     <!-- Description -->
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
@@ -213,19 +213,19 @@ toc: false
     <!-- Activities grid -->
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 2rem 0;">
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Marriage &amp; Relationship Counseling</strong>
-        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Culturally-sensitive counseling for healthy communication, conflict resolution, and relational healing.</span>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Marriage &amp; Relationship Counseling</strong>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Counseling for healthy communication, conflict resolution, and relational healing.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Parenting &amp; Youth Development</strong>
-        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Practical training for parents navigating cultural transitions, generational gaps, and raising children with purpose.</span>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Parenting &amp; Youth Development</strong>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Practical training for parents navigating generational gaps, faith integration, and raising children with purpose.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Spiritual &amp; Emotional Wellness</strong>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Spiritual &amp; Emotional Wellness</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Faith-grounded support for families processing grief, displacement, and the stresses of building a new life.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Family Retreats</strong>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Family Retreats</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Quarterly gatherings for spiritual renewal, skill-building, celebration, and mutual support.</span>
       </div>
     </div>
@@ -239,7 +239,7 @@ toc: false
     </div>
 
     <!-- Vision callout -->
-    <div style="padding: 1.5rem; background: linear-gradient(135deg, #3A7CA5, #4A92BF); border-radius: 8px; color: white;">
+    <div style="padding: 1.5rem; background: linear-gradient(135deg, #38BDF8, #60CBFF); border-radius: 8px; color: white;">
       <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: rgba(255,255,255,0.6); margin-bottom: 0.5rem;">Our Vision</strong>
       <p style="font-size: 0.95rem; line-height: 1.7; color: rgba(255,255,255,0.9); margin: 0;">Families equipped with the faith, knowledge, and relational health to navigate life's challenges together — strengthening the foundation for generations to come.</p>
     </div>
@@ -252,7 +252,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════════════ -->
 <section style="background-color: #2B2B2B; padding: 2.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1rem, 2vw, 1.25rem); color: #C9A227; line-height: 1.7; margin: 0;">
+    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1rem, 2vw, 1.25rem); color: #D4A017; line-height: 1.7; margin: 0;">
       "Bear one another's burdens, and so fulfill the law of Christ."
     </p>
     <span style="font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #8A8985; margin-top: 0.5rem; display: block;">— Galatians 6:2</span>
@@ -267,31 +267,31 @@ toc: false
   <div style="max-width: 900px; margin: 0 auto;">
     <!-- Header -->
     <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
-      <div style="width: 48px; height: 48px; border-radius: 10px; background: #1F5E3B; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; flex-shrink: 0;">🤝</div>
+      <div style="width: 48px; height: 48px; border-radius: 10px; background: #0B1F3B; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; flex-shrink: 0;">🤝</div>
       <div>
         <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.5rem, 3vw, 2rem); color: #2B2B2B; margin: 0; font-weight: 600;">Community Building &amp; Diaspora Advocacy</h2>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #1F5E3B; margin: 0.25rem 0 0; font-weight: 500;">Connection · Cultural Identity · Civic Voice</p>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #0B1F3B; margin: 0.25rem 0 0; font-weight: 500;">Connection · Faith · Civic Voice</p>
       </div>
     </div>
-    <div style="width: 60px; height: 3px; background-color: #1F5E3B; margin-bottom: 1.5rem;"></div>
+    <div style="width: 60px; height: 3px; background-color: #0B1F3B; margin-bottom: 1.5rem;"></div>
 
     <!-- Description -->
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
-      Strengthening the social fabric of our communities, preserving cultural identity, and advocating for the rights, needs, and voices of the families we serve. These communities bring tremendous strength, resilience, wisdom, and spiritual vitality — and deserve recognition, resources, and dignity.
+      Strengthening the social fabric of our communities and advocating for the rights, needs, and voices of the families we serve. These communities bring tremendous strength, resilience, wisdom, and spiritual vitality — and deserve recognition, resources, and dignity.
     </p>
 
     <!-- Activities grid -->
     <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin: 2rem 0;">
       <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Community Gatherings</strong>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Community Gatherings</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Regular events, potlucks, sports activities, and celebrations strengthening bonds and reducing isolation.</span>
       </div>
       <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Resource Navigation &amp; Support</strong>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Resource Navigation &amp; Support</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Connecting families with local services, educational opportunities, and practical resources to thrive in their communities.</span>
       </div>
       <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Interfaith Dialogue</strong>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Interfaith Dialogue</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Building bridges with Nashville's faith communities and organizations to foster solidarity and coordinate services.</span>
       </div>
     </div>
@@ -313,9 +313,9 @@ toc: false
     </div>
 
     <!-- Vision callout -->
-    <div style="padding: 1.5rem; background: linear-gradient(135deg, #1F5E3B, #2A7A4E); border-radius: 8px; color: white;">
-      <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: #C9A227; margin-bottom: 0.5rem;">Our Vision</strong>
-      <p style="font-size: 0.95rem; line-height: 1.7; color: rgba(255,255,255,0.9); margin: 0;">A thriving community where families feel connected, valued, and empowered to preserve their cultural identity while actively participating in civic life wherever they call home.</p>
+    <div style="padding: 1.5rem; background: linear-gradient(135deg, #0B1F3B, #122D52); border-radius: 8px; color: white;">
+      <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: #D4A017; margin-bottom: 0.5rem;">Our Vision</strong>
+      <p style="font-size: 0.95rem; line-height: 1.7; color: rgba(255,255,255,0.9); margin: 0;">A thriving community where families feel connected, valued, and empowered to walk in their faith while actively participating in civic life wherever they call home.</p>
     </div>
   </div>
 
@@ -334,13 +334,13 @@ toc: false
   <div style="max-width: 900px; margin: 0 auto;">
     <!-- Header -->
     <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;">
-      <div style="width: 48px; height: 48px; border-radius: 10px; background: #C9A227; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; flex-shrink: 0;">🌍</div>
+      <div style="width: 48px; height: 48px; border-radius: 10px; background: #D4A017; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; flex-shrink: 0;">🌍</div>
       <div>
         <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.5rem, 3vw, 2rem); color: #2B2B2B; margin: 0; font-weight: 600;">Service &amp; Mission in South Sudan</h2>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #C9A227; margin: 0.25rem 0 0; font-weight: 500;">Bor, Boma &amp; Surrounding Regions</p>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #D4A017; margin: 0.25rem 0 0; font-weight: 500;">Bor, Boma &amp; Surrounding Regions</p>
       </div>
     </div>
-    <div style="width: 60px; height: 3px; background-color: #C9A227; margin-bottom: 1.5rem;"></div>
+    <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.5rem;"></div>
 
     <!-- Description -->
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
@@ -372,32 +372,32 @@ toc: false
     <!-- Activities grid -->
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 2rem 0;">
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Mission Trips &amp; Partnerships</strong>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Mission Trips &amp; Partnerships</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Annual trips connecting youth and families with homeland communities for service and relationship building.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Educational Sponsorships</strong>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Educational Sponsorships</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">School fees, books, uniforms, and supplies for vulnerable children — creating pathways out of poverty through education.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Clean Water &amp; Health Projects</strong>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Clean Water &amp; Health Projects</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Water well construction, health clinic support, and hygiene education addressing immediate needs with lasting impact.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #1F5E3B; margin-bottom: 0.35rem;">Church Partnerships</strong>
+        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Church Partnerships</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Resource sharing, pastoral support, and theological training with local churches — the key to sustainable transformation.</span>
       </div>
     </div>
 
     <!-- Vision callout -->
-    <div style="padding: 1.5rem; background: linear-gradient(135deg, #C9A227, #D4B44A); border-radius: 8px; color: #2B2B2B;">
+    <div style="padding: 1.5rem; background: linear-gradient(135deg, #D4A017, #E0B030); border-radius: 8px; color: #2B2B2B;">
       <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: rgba(43,43,43,0.6); margin-bottom: 0.5rem;">Our Vision</strong>
       <p style="font-size: 0.95rem; line-height: 1.7; color: #2B2B2B; margin: 0;">Bridging our communities and the homeland through transformative partnerships — expanding mission trips, growing educational sponsorships, investing in infrastructure, and demonstrating Christ's love through tangible service.</p>
     </div>
 
     <!-- Extended Photo Gallery -->
     <div style="margin-top: 2.5rem;">
-      <h3 style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #C9A227; margin-bottom: 1rem;">From the Field</h3>
+      <h3 style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">From the Field</h3>
       <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 0.75rem;">
         <div style="position: relative; overflow: hidden; border-radius: 8px;">
           <img loading="lazy" src="/images/project-images/mission_trip_photos/biong_mission_trip_photos_06.JPG" alt="Large outdoor community gathering during a mission outreach" style="width: 100%; height: 100%; object-fit: cover; min-height: 240px;">
@@ -439,7 +439,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════════════ -->
 <section style="background-color: #2B2B2B; padding: 3rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.1rem, 2.5vw, 1.4rem); color: #C9A227; line-height: 1.7; margin: 0;">
+    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.1rem, 2.5vw, 1.4rem); color: #D4A017; line-height: 1.7; margin: 0;">
       "And let us not grow weary of doing good, for in due season we will reap, if we do not give up."
     </p>
     <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 0.75rem; display: block;">— Galatians 6:9 (ESV)</span>
@@ -472,8 +472,8 @@ toc: false
   section a[href^="#family"]:hover,
   section a[href^="#community"]:hover,
   section a[href^="#homeland"]:hover {
-    border-color: #C9A227 !important;
-    color: #C9A227 !important;
+    border-color: #D4A017 !important;
+    color: #D4A017 !important;
   }
 </style>
 ```

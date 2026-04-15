@@ -98,14 +98,14 @@ page-layout: custom
 <!-- ═══════════════════════════════════════════════ -->
 <!-- HERO SECTION                                    -->
 <!-- ═══════════════════════════════════════════════ -->
-<section style="background: linear-gradient(135deg, #2B2B2B 0%, #1a2e23 50%, #2B2B2B 100%); padding: 3.5rem 1.5rem; position: relative; overflow: hidden;">
-  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23C9A227%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
+<section style="background: linear-gradient(135deg, #2B2B2B 0%, #0a1525 50%, #2B2B2B 100%); padding: 3.5rem 1.5rem; position: relative; overflow: hidden;">
+  <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23D4A017%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
 
   <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #C9A227; margin-bottom: 1rem;">FAQ</p>
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">FAQ</p>
 
     <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.25rem;">
-      Frequently Asked <span style="color: #C9A227;">Questions</span>
+      Frequently Asked <span style="color: #D4A017;">Questions</span>
     </h1>
 
     <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 620px;">
@@ -114,9 +114,9 @@ page-layout: custom
 
     <!-- Quick-nav pills -->
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.5rem;">
-      <a href="#about-us" class="faq-pill" style="display: inline-block; padding: 0.4rem 1rem; border: 1px solid rgba(201,162,39,0.4); border-radius: 20px; color: #C9A227; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; text-decoration: none; transition: all 200ms ease;">About Us</a>
-      <a href="#programs-giving" class="faq-pill" style="display: inline-block; padding: 0.4rem 1rem; border: 1px solid rgba(201,162,39,0.4); border-radius: 20px; color: #C9A227; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; text-decoration: none; transition: all 200ms ease;">Programs & Giving</a>
-      <a href="#get-involved" class="faq-pill" style="display: inline-block; padding: 0.4rem 1rem; border: 1px solid rgba(201,162,39,0.4); border-radius: 20px; color: #C9A227; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; text-decoration: none; transition: all 200ms ease;">Get Involved</a>
+      <a href="#about-us" class="faq-pill" style="display: inline-block; padding: 0.4rem 1rem; border: 1px solid rgba(212,160,23,0.4); border-radius: 20px; color: #D4A017; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; text-decoration: none; transition: all 200ms ease;">About Us</a>
+      <a href="#programs-giving" class="faq-pill" style="display: inline-block; padding: 0.4rem 1rem; border: 1px solid rgba(212,160,23,0.4); border-radius: 20px; color: #D4A017; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; text-decoration: none; transition: all 200ms ease;">Programs & Giving</a>
+      <a href="#get-involved" class="faq-pill" style="display: inline-block; padding: 0.4rem 1rem; border: 1px solid rgba(212,160,23,0.4); border-radius: 20px; color: #D4A017; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; text-decoration: none; transition: all 200ms ease;">Get Involved</a>
     </div>
   </div>
 </section>
@@ -128,40 +128,40 @@ page-layout: custom
 <section id="about-us" style="background-color: #F7F6F2; padding: 3.5rem 1.5rem;">
   <div style="max-width: 800px; margin: 0 auto;">
     <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 2rem;">
-      <div style="width: 4px; height: 28px; background: #1F5E3B; border-radius: 2px;"></div>
+      <div style="width: 4px; height: 28px; background: #0B1F3B; border-radius: 2px;"></div>
       <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #2B2B2B; margin: 0;">About Us</h2>
     </div>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">What is Y.E.T. Compassion?</summary>
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">What is Y.E.T. Compassion?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         Y.E.T. Compassion is a nonprofit ministry rooted in nearly two decades of grassroots mission work that began in South Sudan in 2006. In 2025, the ministry was formally registered as an IRS-approved 501(c)(3) nonprofit organization in Nashville, Tennessee. We serve South Sudanese communities in the U.S.A. and South Sudan through youth mentorship, spiritual formation, education, family empowerment, and community building.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">Who founded Y.E.T. Compassion?</summary>
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Who founded Y.E.T. Compassion?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         Y.E.T. Compassion was founded by Evangelist Gai Bol Luom. The ministry's work began in 2006 with grassroots missions in South Sudan and was formally established as a 501(c)(3) nonprofit in Nashville, Tennessee in 2025.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">Where is Y.E.T. Compassion based?</summary>
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Where is Y.E.T. Compassion based?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         Y.E.T. Compassion is headquartered in Nashville, Tennessee, where it was registered as a 501(c)(3) nonprofit in 2025. We also have on-the-ground operations in South Sudan, led by Director David Gai Pandak.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">Who does Y.E.T. Compassion serve?</summary>
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Who does Y.E.T. Compassion serve?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         Y.E.T. Compassion primarily serves South Sudanese diaspora youth and families in Nashville, Tennessee. We focus on empowering young people ages 13–25 and their families with mentorship, education, spiritual growth, and community connection.
       </p>
     </details>
 
     <details style="margin-bottom: 0; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">Does Y.E.T. Compassion work in South Sudan?</summary>
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Does Y.E.T. Compassion work in South Sudan?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         Yes. Y.E.T. Compassion's work began in South Sudan in 2006 with missions in the Biong region — building schools, drilling water wells, distributing food, and leading evangelism outreach. Our South Sudan operations are led by Director David Gai Pandak. We also serve the South Sudanese diaspora community in Nashville, Tennessee.
       </p>
@@ -176,26 +176,26 @@ page-layout: custom
 <section id="programs-giving" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
   <div style="max-width: 800px; margin: 0 auto;">
     <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 2rem;">
-      <div style="width: 4px; height: 28px; background: #C9A227; border-radius: 2px;"></div>
+      <div style="width: 4px; height: 28px; background: #D4A017; border-radius: 2px;"></div>
       <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #2B2B2B; margin: 0;">Programs & Giving</h2>
     </div>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #F7F6F2; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">What programs does Y.E.T. Compassion offer?</summary>
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">What programs does Y.E.T. Compassion offer?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Y.E.T. Compassion offers a range of programs including youth Bible studies, one-on-one mentorship, education support and tutoring, family workshops on parenting and financial literacy, community events, and spiritual formation programming. Visit our <a href="programs/index.html" style="color: #1F5E3B; font-weight: 500;">Programs page</a> to learn more.
+        Y.E.T. Compassion offers a range of programs including youth Bible studies, one-on-one mentorship, education support and tutoring, family workshops on parenting and financial literacy, community events, and spiritual formation programming. Visit our <a href="programs/index.html" style="color: #0B1F3B; font-weight: 500;">Programs page</a> to learn more.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #F7F6F2; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">How can I donate?</summary>
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">How can I donate?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        You can make a tax-deductible donation through our website using our secure Stripe payment processor. Visit our <a href="donate.html" style="color: #1F5E3B; font-weight: 500;">Donate page</a> to choose a one-time or recurring gift.
+        You can make a tax-deductible donation through our website using our secure Stripe payment processor. Visit our <a href="donate.html" style="color: #0B1F3B; font-weight: 500;">Donate page</a> to choose a one-time or recurring gift.
       </p>
     </details>
 
     <details style="margin-bottom: 0; padding: 1.25rem 1.5rem; background-color: #F7F6F2; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">Is my donation tax-deductible?</summary>
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Is my donation tax-deductible?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         Yes. Y.E.T. Compassion is a registered 501(c)(3) nonprofit organization, so all donations are fully tax-deductible to the extent allowed by law. We'll provide documentation for your records.
       </p>
@@ -207,12 +207,12 @@ page-layout: custom
 <!-- ═══════════════════════════════════════════════ -->
 <!-- SCRIPTURE DIVIDER                               -->
 <!-- ═══════════════════════════════════════════════ -->
-<section style="background-color: #1F5E3B; padding: 2.5rem 1.5rem;">
+<section style="background-color: #0B1F3B; padding: 2.5rem 1.5rem;">
   <div style="max-width: 700px; margin: 0 auto; text-align: center;">
     <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: clamp(1.15rem, 2.5vw, 1.4rem); font-style: italic; color: rgba(255,255,255,0.92); line-height: 1.7; margin-bottom: 0.75rem;">
       "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you."
     </p>
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #C9A227; margin: 0;">— James 1:5 (NIV)</p>
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #D4A017; margin: 0;">— James 1:5 (NIV)</p>
   </div>
 </section>
 
@@ -223,21 +223,21 @@ page-layout: custom
 <section id="get-involved" style="background-color: #F7F6F2; padding: 3.5rem 1.5rem;">
   <div style="max-width: 800px; margin: 0 auto;">
     <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 2rem;">
-      <div style="width: 4px; height: 28px; background: #3A7CA5; border-radius: 2px;"></div>
+      <div style="width: 4px; height: 28px; background: #38BDF8; border-radius: 2px;"></div>
       <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #2B2B2B; margin: 0;">Getting Involved</h2>
     </div>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">How can I volunteer?</summary>
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">How can I volunteer?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        We welcome volunteers in many capacities: youth mentoring, teaching, event coordination, administration, professional skills training, and spiritual formation leadership. Visit our <a href="get-involved.html" style="color: #1F5E3B; font-weight: 500;">Get Involved page</a> to fill out a volunteer interest form.
+        We welcome volunteers in many capacities: youth mentoring, teaching, event coordination, administration, professional skills training, and spiritual formation leadership. Visit our <a href="get-involved.html" style="color: #0B1F3B; font-weight: 500;">Get Involved page</a> to fill out a volunteer interest form.
       </p>
     </details>
 
     <details style="margin-bottom: 0; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #1F5E3B; line-height: 1.4;">How can my church partner with Y.E.T. Compassion?</summary>
+      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">How can my church partner with Y.E.T. Compassion?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Churches can partner with Y.E.T. Compassion in several ways: co-hosting events, sponsoring programs, providing volunteer leadership, incorporating our updates into missions work, or offering space for gatherings. Contact us at <a href="mailto:info@yetcompassion.org" style="color: #1F5E3B; font-weight: 500;">info@yetcompassion.org</a> to discuss partnership opportunities.
+        Churches can partner with Y.E.T. Compassion in several ways: co-hosting events, sponsoring programs, providing volunteer leadership, incorporating our updates into missions work, or offering space for gatherings. Contact us at <a href="mailto:info@yetcompassion.org" style="color: #0B1F3B; font-weight: 500;">info@yetcompassion.org</a> to discuss partnership opportunities.
       </p>
     </details>
   </div>
@@ -260,8 +260,8 @@ page-layout: custom
 </section>
 
 <style>
-  .faq-pill:hover { background: rgba(201,162,39,0.15); }
-  details[open] { border-color: #1F5E3B !important; }
+  .faq-pill:hover { background: rgba(212,160,23,0.15); }
+  details[open] { border-color: #0B1F3B !important; }
   details summary { list-style: none; }
   details summary::-webkit-details-marker { display: none; }
   details summary::before {
@@ -276,7 +276,7 @@ page-layout: custom
     border-radius: 50%;
     font-weight: 600;
     font-size: 1rem;
-    color: #1F5E3B;
+    color: #0B1F3B;
     flex-shrink: 0;
     transition: all 200ms ease;
     float: left;
@@ -284,7 +284,7 @@ page-layout: custom
   }
   details[open] summary::before {
     content: "−";
-    background: #1F5E3B;
+    background: #0B1F3B;
     color: #FFFFFF;
   }
 </style>

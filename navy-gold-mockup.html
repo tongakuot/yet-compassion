@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Y.E.T. Compassion — Navy + Gold Palette Mockup</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@400;500;600;700&family=Cormorant+Garamond:ital@1&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: 'Inter', sans-serif; background: #F7F6F2; color: #2B2B2B; }
+
+  /* ── Color tokens (NEW palette) ── */
+  :root {
+    --navy:        #0B1F3B;
+    --navy-light:  #122D52;
+    --gold:        #D4A017;
+    --gold-hover:  #E0B030;
+    --cyan:        #38BDF8;
+    --charcoal:    #2B2B2B;
+    --ivory:       #F7F6F2;
+    --muted:       #5A5955;
+    --muted-light: #8A8985;
+  }
+
+  /* ── Palette label bar ── */
+  .palette-bar {
+    background: var(--charcoal);
+    padding: 1rem 1.5rem;
+    text-align: center;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--gold);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .palette-bar span {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin: 0 0.75rem;
+  }
+  .swatch {
+    display: inline-block;
+    width: 14px; height: 14px;
+    border-radius: 3px;
+    border: 1px solid rgba(255,255,255,0.15);
+  }
+
+  /* ── Navigation ── */
+  .nav-mock {
+    background: #FFFFFF;
+    border-bottom: 1px solid #E8E7E3;
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .nav-mock .logo-text {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--navy);
+  }
+  .nav-links { display: flex; gap: 1.75rem; align-items: center; }
+  .nav-links a {
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--charcoal);
+    text-decoration: none;
+  }
+  .nav-links a:hover { color: var(--navy); }
+  .btn-donate-nav {
+    background: var(--gold);
+    color: var(--charcoal);
+    font-weight: 700;
+    font-size: 0.85rem;
+    padding: 0.55rem 1.25rem;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 200ms ease;
+  }
+  .btn-donate-nav:hover {
+    background: var(--gold-hover);
+    transform: translateY(-1px);
+  }
+
+  /* ── Hero ── */
+  .hero {
+    background: linear-gradient(135deg, var(--navy) 0%, #091729 50%, var(--navy) 100%);
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5rem 1.5rem;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    opacity: 0.04;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23D4A017%22 stroke-width=%220.5%22/></svg>');
+    background-size: 60px 60px;
+  }
+  .hero-content { position: relative; z-index: 2; max-width: 780px; }
+  .hero-label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 1rem;
+  }
+  .hero h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(2.25rem, 5vw, 3.25rem);
+    font-weight: 700;
+    color: #FFFFFF;
+    line-height: 1.15;
+    margin-bottom: 1.25rem;
+  }
+  .hero h1 span { color: var(--gold); }
+  .hero p {
+    font-size: clamp(1rem, 2vw, 1.15rem);
+    color: rgba(255,255,255,0.8);
+    line-height: 1.7;
+    max-width: 580px;
+    margin: 0 auto 2rem;
+  }
+  .hero-btns { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+  .btn-primary {
+    background: var(--gold);
+    color: var(--charcoal);
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 0.9rem 2rem;
+    border-radius: 10px;
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: all 200ms ease;
+  }
+  .btn-primary:hover { background: var(--gold-hover); transform: translateY(-2px); }
+  .btn-secondary {
+    background: transparent;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 1rem;
+    padding: 0.9rem 2rem;
+    border-radius: 10px;
+    border: 2px solid rgba(255,255,255,0.3);
+    text-decoration: none;
+    transition: all 200ms ease;
+  }
+  .btn-secondary:hover { border-color: rgba(255,255,255,0.6); background: rgba(255,255,255,0.05); }
+
+  /* ── Scripture Banner ── */
+  .scripture {
+    background: var(--charcoal);
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+  .scripture blockquote {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-style: italic;
+    font-size: clamp(1.15rem, 2.5vw, 1.5rem);
+    color: var(--gold);
+    line-height: 1.7;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  .scripture cite {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-size: 0.875rem;
+    color: var(--muted-light);
+    display: block;
+    margin-top: 1rem;
+  }
+
+  /* ── Programs Section ── */
+  .programs {
+    background: #FFFFFF;
+    padding: 3.5rem 1.5rem;
+  }
+  .programs-inner {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  .section-label {
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 0.75rem;
+  }
+  .section-title {
+    font-family: 'Playfair Display', serif;
+    font-size: clamp(1.75rem, 3vw, 2.25rem);
+    font-weight: 600;
+    color: var(--charcoal);
+    margin-bottom: 0.75rem;
+  }
+  .section-bar {
+    width: 60px;
+    height: 3px;
+    margin-bottom: 1.5rem;
+  }
+  .bar-navy { background: var(--navy); }
+  .bar-gold { background: var(--gold); }
+
+  .program-cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.25rem;
+    margin-top: 2rem;
+  }
+  .program-card {
+    background: var(--ivory);
+    border-radius: 12px;
+    padding: 1.5rem;
+    border-top: 3px solid var(--navy);
+    transition: all 200ms ease;
+  }
+  .program-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+  }
+  .program-card.accent { border-top-color: var(--gold); }
+  .program-card.cyan-accent { border-top-color: var(--cyan); }
+  .program-card h4 {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: var(--navy);
+    margin-bottom: 0.5rem;
+  }
+  .program-card p {
+    font-size: 0.88rem;
+    color: var(--muted);
+    line-height: 1.6;
+  }
+
+  /* ── Donate Cards Section ── */
+  .donate-section {
+    background: var(--navy);
+    padding: 4rem 1.5rem;
+  }
+  .donate-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  .donate-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    margin-top: 2.5rem;
+  }
+  .donate-card {
+    background: var(--navy-light);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 16px;
+    padding: 2.25rem 1.75rem;
+    display: flex;
+    flex-direction: column;
+    transition: all 300ms ease;
+  }
+  .donate-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 30px rgba(0,0,0,0.3);
+  }
+  .donate-card.featured {
+    border-color: var(--gold);
+  }
+  .donate-card h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.35rem;
+    font-weight: 600;
+    color: #FFFFFF;
+    margin: 1rem 0 0.75rem;
+  }
+  .donate-card p {
+    font-size: 0.9rem;
+    color: rgba(255,255,255,0.65);
+    line-height: 1.65;
+    margin-bottom: 1.5rem;
+  }
+  .chip {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #FFFFFF;
+    background: var(--navy);
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 8px;
+    padding: 0.45rem 1rem;
+    display: inline-block;
+    text-decoration: none;
+    transition: all 200ms ease;
+  }
+  .chip:hover {
+    border-color: var(--gold);
+    background: rgba(212,160,23,0.15);
+  }
+  .chip-sub { font-size: 0.7rem; font-weight: 400; color: rgba(255,255,255,0.5); }
+  .btn-gold {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: var(--charcoal);
+    background: var(--gold);
+    border-radius: 10px;
+    padding: 0.85rem 1.5rem;
+    text-decoration: none;
+    transition: all 200ms ease;
+    min-height: 48px;
+  }
+  .btn-gold:hover { background: var(--gold-hover); transform: translateY(-2px); }
+  .btn-outline-gold {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    font-weight: 700;
+    font-size: 0.95rem;
+    color: var(--gold);
+    background: transparent;
+    border: 2px solid var(--gold);
+    border-radius: 10px;
+    padding: 0.85rem 1.5rem;
+    text-decoration: none;
+    transition: all 200ms ease;
+    min-height: 48px;
+  }
+  .btn-outline-gold:hover { background: rgba(212,160,23,0.1); }
+  .badge {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--charcoal);
+    background: var(--gold);
+    padding: 0.3rem 0.75rem;
+    border-radius: 6px;
+  }
+
+  /* ── Impact Stats ── */
+  .stats {
+    background: var(--ivory);
+    padding: 3rem 1.5rem;
+  }
+  .stats-inner {
+    max-width: 800px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+    text-align: center;
+  }
+  .stat-number {
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--navy);
+  }
+  .stat-label {
+    font-size: 0.85rem;
+    color: var(--muted);
+    margin-top: 0.25rem;
+  }
+
+  /* ── Footer ── */
+  .footer {
+    background: var(--charcoal);
+    padding: 2.5rem 1.5rem;
+    text-align: center;
+  }
+  .footer p {
+    font-size: 0.85rem;
+    color: rgba(255,255,255,0.5);
+  }
+  .footer a { color: var(--gold); text-decoration: none; }
+
+  /* ── Responsive ── */
+  @media (max-width: 768px) {
+    .program-cards, .donate-grid, .stats-inner { grid-template-columns: 1fr; }
+    .nav-links { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<!-- Palette Reference Bar -->
+<div class="palette-bar">
+  Proposed Palette &nbsp;—&nbsp;
+  <span><span class="swatch" style="background: #0B1F3B;"></span> Navy #0B1F3B</span>
+  <span><span class="swatch" style="background: #D4A017;"></span> Gold #D4A017</span>
+  <span><span class="swatch" style="background: #38BDF8;"></span> Cyan #38BDF8</span>
+  <span><span class="swatch" style="background: #2B2B2B;"></span> Charcoal #2B2B2B</span>
+</div>
+
+<!-- Navigation -->
+<nav class="nav-mock">
+  <div class="logo-text">Y.E.T. Compassion</div>
+  <div class="nav-links">
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Programs</a>
+    <a href="#">Get Involved</a>
+    <a href="#">Blog</a>
+    <a href="#">Contact</a>
+    <a href="#" class="btn-donate-nav">Donate</a>
+  </div>
+</nav>
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="hero-content">
+    <p class="hero-label">Youth Evangelism Training Compassion</p>
+    <h1>Equipping the Next Generation to Lead with <span>Faith &amp; Purpose</span></h1>
+    <p>Y.E.T. Compassion empowers South Sudanese diaspora youth with the Gospel of Christ and practical skills to lead with integrity, build stable families, and transform communities.</p>
+    <div class="hero-btns">
+      <a href="#" class="btn-primary">Support Our Mission →</a>
+      <a href="#" class="btn-secondary">Learn More</a>
+    </div>
+  </div>
+</section>
+
+<!-- Scripture Banner -->
+<section class="scripture">
+  <blockquote>"Train up a child in the way he should go; even when he is old he will not depart from it."</blockquote>
+  <cite>— Proverbs 22:6</cite>
+</section>
+
+<!-- Programs Section -->
+<section class="programs">
+  <div class="programs-inner">
+    <p class="section-label">Our Programs</p>
+    <h2 class="section-title">Five Strategic Focus Areas</h2>
+    <div class="section-bar bar-navy"></div>
+    <div class="program-cards">
+      <div class="program-card">
+        <h4>✝ Youth Evangelism &amp; Discipleship</h4>
+        <p>Bible studies, small groups, and youth conferences grounded in Scripture and responsive to real life.</p>
+      </div>
+      <div class="program-card accent">
+        <h4>🎓 Leadership Development</h4>
+        <p>Mentorship programs and leadership academies cultivating integrity-driven servant leaders.</p>
+      </div>
+      <div class="program-card cyan-accent">
+        <h4>🏠 Family Stability</h4>
+        <p>Parenting workshops, financial literacy, and education support equipping families to thrive.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Impact Stats -->
+<section class="stats">
+  <div class="stats-inner">
+    <div>
+      <div class="stat-number">5</div>
+      <div class="stat-label">Strategic Programs</div>
+    </div>
+    <div>
+      <div class="stat-number">3</div>
+      <div class="stat-label">Countries Served</div>
+    </div>
+    <div>
+      <div class="stat-number">1</div>
+      <div class="stat-label">School Built</div>
+    </div>
+  </div>
+</section>
+
+<!-- Donate Cards Section -->
+<section class="donate-section">
+  <div class="donate-inner">
+    <div style="text-align: center;">
+      <p class="section-label" style="color: var(--gold);">Choose Your Impact</p>
+      <h2 class="section-title" style="color: #FFFFFF;">Invest in the Next Generation</h2>
+      <div class="section-bar bar-gold" style="margin: 0 auto 1rem;"></div>
+      <p style="color: rgba(255,255,255,0.7); max-width: 600px; margin: 0 auto;">
+        Choose an amount that aligns with your heart and ability. Every gift is stewarded with transparency and purpose.
+      </p>
+    </div>
+    <div class="donate-grid">
+      <!-- Card 1: One-Time -->
+      <div class="donate-card">
+        <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#D4A017" stroke-width="1.5"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>
+        <h3>One-Time Contribution</h3>
+        <p>Make a single contribution of any amount to support youth empowerment, family stability, and community transformation.</p>
+        <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem;">
+          <span class="chip">$25</span>
+          <span class="chip">$50</span>
+          <span class="chip">$100</span>
+          <span class="chip">$250</span>
+        </div>
+        <div style="flex:1;"></div>
+        <a href="#" class="btn-gold">Contribute Now →</a>
+      </div>
+      <!-- Card 2: Monthly -->
+      <div class="donate-card featured" style="position: relative;">
+        <div class="badge">Sustaining Partner</div>
+        <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#38BDF8" stroke-width="1.5"><path d="M12 2v4"/><path d="m16.24 7.76-2.12 2.12"/><path d="M20 12h-4"/><path d="m16.24 16.24-2.12-2.12"/><path d="M12 20v-4"/><path d="m7.76 16.24 2.12-2.12"/><path d="M4 12h4"/><path d="m7.76 7.76 2.12 2.12"/></svg>
+        <h3>Monthly Partnership</h3>
+        <p>Your recurring support provides stable, predictable funding that sustains long-term programs and multiplies impact.</p>
+        <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem;">
+          <a href="#" class="chip">$25<span class="chip-sub">/mo</span></a>
+          <a href="#" class="chip">$50<span class="chip-sub">/mo</span></a>
+          <a href="#" class="chip">$100<span class="chip-sub">/mo</span></a>
+          <a href="#" class="chip">$250<span class="chip-sub">/mo</span></a>
+        </div>
+        <div style="flex:1;"></div>
+        <p style="font-size: 0.8rem; color: rgba(255,255,255,0.5); text-align: center; margin: 0;">Select an amount above to begin</p>
+      </div>
+      <!-- Card 3: Other Ways -->
+      <div class="donate-card">
+        <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#38BDF8" stroke-width="1.5"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
+        <h3>Other Ways to Help</h3>
+        <p>Support doesn't always mean money. Your time, voice, and connections carry immense value.</p>
+        <div style="display: flex; flex-direction: column; gap: 0.65rem; margin-bottom: 1.5rem;">
+          <div style="display: flex; align-items: center; gap: 0.5rem;">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#D4A017" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>
+            <span style="font-size: 0.9rem; color: rgba(255,255,255,0.85);">Volunteer your skills</span>
+          </div>
+          <div style="display: flex; align-items: center; gap: 0.5rem;">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#D4A017" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>
+            <span style="font-size: 0.9rem; color: rgba(255,255,255,0.85);">Share our mission</span>
+          </div>
+          <div style="display: flex; align-items: center; gap: 0.5rem;">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#D4A017" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>
+            <span style="font-size: 0.9rem; color: rgba(255,255,255,0.85);">Pray for our communities</span>
+          </div>
+          <div style="display: flex; align-items: center; gap: 0.5rem;">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#D4A017" stroke-width="2.5"><polyline points="20 6 9 17 4 12"/></svg>
+            <span style="font-size: 0.9rem; color: rgba(255,255,255,0.85);">Partner as an organization</span>
+          </div>
+        </div>
+        <div style="flex:1;"></div>
+        <a href="#" class="btn-outline-gold">Get Involved →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<section class="footer">
+  <p>Y.E.T. Compassion &nbsp;·&nbsp; Nashville, TN &nbsp;·&nbsp; <a href="#">info@yetcompassion.org</a></p>
+  <p style="margin-top: 0.5rem; font-size: 0.75rem;">This is a palette mockup — not the final site.</p>
+</section>
+
+</body>
+</html>

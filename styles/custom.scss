@@ -6,16 +6,16 @@
 // ═══════════════════════════════════════════════════════════
 
 // ── Brand Colors ──
-$primary:       #1F5E3B;  // Deep Forest Green
-$primary-light: #2A7A4E;
-$primary-dark:  #164A2E;
+$primary:       #0B1F3B;  // Navy Blue
+$primary-light: #122D52;
+$primary-dark:  #060F1F;
 
-$secondary:       #C9A227;  // Warm Gold
-$secondary-light: #D4B44A;
+$secondary:       #D4A017;  // Warm Gold
+$secondary-light: #E0B030;
 $secondary-dark:  #A8871F;
 
-$accent:       #3A7CA5;  // Sky Blue
-$accent-light: #4A92BF;
+$accent:       #38BDF8;  // Logo Cyan
+$accent-light: #60CBFF;
 $accent-dark:  #2E6488;
 
 $charcoal: #2B2B2B;
@@ -367,7 +367,7 @@ p {
 
 // Gold italic accent within tagline
 #hero-content h1 span {
-  color: #C9A227 !important;
+  color: #D4A017 !important;
   font-family: 'Playfair Display', Georgia, serif !important;
   font-style: italic !important;
 }
@@ -382,21 +382,21 @@ p {
   font-weight: 600 !important;
   letter-spacing: 0.03em !important;
   color: #2B2B2B !important;
-  background: #C9A227 !important;
-  background-color: #C9A227 !important;
+  background: #D4A017 !important;
+  background-color: #D4A017 !important;
   border: none !important;
   border-radius: 4px !important;
   text-decoration: none !important;
-  box-shadow: 0 2px 8px rgba(201,162,39,0.3) !important;
+  box-shadow: 0 2px 8px rgba(212,160,23,0.3) !important;
   transition: all 250ms ease !important;
   cursor: pointer !important;
 
   &:hover, &:focus {
-    background: #d4ad2e !important;
-    background-color: #d4ad2e !important;
+    background: #e0b030 !important;
+    background-color: #e0b030 !important;
     color: #2B2B2B !important;
     text-decoration: none !important;
-    box-shadow: 0 4px 16px rgba(201,162,39,0.4) !important;
+    box-shadow: 0 4px 16px rgba(212,160,23,0.4) !important;
     transform: translateY(-1px);
   }
 
@@ -464,7 +464,7 @@ p {
   align-items: center !important;
   justify-content: center !important;
   text-align: center !important;
-  background: linear-gradient(135deg, #1F5E3B 0%, #0f3320 100%) !important;
+  background: linear-gradient(135deg, #0B1F3B 0%, #060F1F 100%) !important;
 }
 
 // ═══════════════════════════════════════════════════════════
@@ -632,7 +632,7 @@ body a[style*="border-radius"] {
   border: none;
   cursor: pointer;
   text-decoration: none !important;
-  box-shadow: 0 2px 8px rgba(201, 162, 39, 0.3);
+  box-shadow: 0 2px 8px rgba(212, 160, 23, 0.3);
   transition: all 200ms ease;
   min-height: 44px;
 
@@ -640,7 +640,7 @@ body a[style*="border-radius"] {
     background-color: $secondary-light;
     color: $charcoal;
     text-decoration: none !important;
-    box-shadow: 0 4px 16px rgba(201, 162, 39, 0.4);
+    box-shadow: 0 4px 16px rgba(212, 160, 23, 0.4);
     transform: translateY(-1px);
   }
 
@@ -914,7 +914,7 @@ body a[style*="border-radius"] {
   }
 
   // Inline-styled "Learn More →" links inside program cards
-  a[style*="color: #1F5E3B"][style*="font-weight: 600"] {
+  a[style*="color: #0B1F3B"][style*="font-weight: 600"] {
     text-decoration: none !important;
 
     &:hover {
