@@ -101,7 +101,7 @@ toc: false
       { src: 'images/project-images/mission_trip_photos/biong_mission_trip_photos_06.JPG', desc: 'Community gathering during mission outreach', pos: 'center 50%' },
       { src: 'images/project-images/mission_trip_photos/biong_mission_trip_photos_03.jpg', desc: 'Mission team building relationships with local families', pos: 'center 45%' },
       { src: 'images/project-images/2008_photos/classroom_photos-01.jpg', desc: 'Students engaged in learning under shelter', pos: 'center 45%' },
-      { src: 'images/project-images/2008_photos/classroom_photos-04.jpg', desc: 'Community gathering under a tree for shared learning', pos: 'center 50%' },
+      { src: 'images/project-images/2008_photos/classroom_photos-04.jpg', desc: 'Patients gathered under a tree at the open-air clinic', pos: 'center 50%' },
       { src: 'images/project-images/2008_photos/classroom_photos-05.jpg', desc: 'Intergenerational partnership with local community members', pos: 'center 45%' },
       { src: 'images/project-images/devotion_photos/maker_manyang_devition_01.JPG', desc: 'Community gathered in prayer and worship', pos: 'center 50%' },
       { src: 'images/project-images/biong-women-with-food-aid.jpg', desc: 'Women collecting food supplies for their families', pos: 'center 20%' },
