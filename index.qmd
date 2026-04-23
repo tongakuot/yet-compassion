@@ -94,12 +94,12 @@ toc: false
       { src: 'images/project-images/biong-mission-team-2006.jpg', desc: 'First mission team reaches Biong, South Sudan', pos: 'center 65%' }
     ]},
     { year: '2007', caption: 'Mission Trip', photos: [
-      { src: 'images/project-images/biong-women-carrying-water.png', desc: 'Women carrying water during the flood', pos: 'center 40%' },
-      { src: 'images/project-images/biong-missionary-team-photo.png', desc: 'Mission team gathers in Biong during flood relief efforts', pos: 'center 35%' }
+      { src: 'images/project-images/biong-women-carrying-water.png', desc: 'Women carrying water in Biong', pos: 'center 40%' },
+      { src: 'images/project-images/biong-missionary-team-photo.png', desc: 'Mission team gathers in Biong during outreach', pos: 'center 35%' }
     ]},
     { year: '2008', caption: 'Education & community', photos: [
       { src: 'images/project-images/mission_trip_photos/biong_mission_trip_photos_06.JPG', desc: 'Community gathering during mission outreach', pos: 'center 50%' },
-      { src: 'images/project-images/mission_trip_photos/biong_mission_trip_photos_03.jpg', desc: 'Volunteers building relationships with local families', pos: 'center 45%' },
+      { src: 'images/project-images/mission_trip_photos/biong_mission_trip_photos_03.jpg', desc: 'Mission team building relationships with local families', pos: 'center 45%' },
       { src: 'images/project-images/2008_photos/classroom_photos-01.jpg', desc: 'Students engaged in learning under shelter', pos: 'center 45%' },
       { src: 'images/project-images/2008_photos/classroom_photos-04.jpg', desc: 'Community gathering under a tree for shared learning', pos: 'center 50%' },
       { src: 'images/project-images/2008_photos/classroom_photos-05.jpg', desc: 'Intergenerational partnership with local community members', pos: 'center 45%' },
