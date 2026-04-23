@@ -415,10 +415,10 @@ toc: false
 <section style="background-color: #2B2B2B; padding: 4rem 1.5rem; text-align: center;">
   <div style="max-width: 800px; margin: 0 auto;">
     <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.6rem); color: #D4A017; line-height: 1.7; margin: 0;">
-      "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future."
+      "For I know the plans I have for you, declares the Lord, plans for welfare and not for evil, to give you a future and a hope."
     </p>
     <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
-      — Jeremiah 29:11
+      — Jeremiah 29:11 (ESV)
     </span>
   </div>
 </section>

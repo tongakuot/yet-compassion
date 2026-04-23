@@ -99,10 +99,10 @@ toc: false
 <section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
     <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0;">
-      "Then I heard the voice of the Lord saying, 'Whom shall I send? And who will go for us?' And I said, 'Here am I. Send me!'"
+      "And I heard the voice of the Lord saying, 'Whom shall I send, and who will go for us?' Then I said, 'Here I am! Send me.'"
     </p>
     <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
-      — Isaiah 6:8
+      — Isaiah 6:8 (ESV)
     </span>
   </div>
 </section>
@@ -279,10 +279,10 @@ toc: false
 <section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
     <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0;">
-      "Carry each other's burdens, and in this way you will fulfill the law of Christ."
+      "Bear one another's burdens, and so fulfill the law of Christ."
     </p>
     <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
-      — Galatians 6:2
+      — Galatians 6:2 (ESV)
     </span>
   </div>
 </section>

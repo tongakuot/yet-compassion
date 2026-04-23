@@ -114,7 +114,7 @@ toc: false
     <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1rem, 2vw, 1.25rem); color: #D4A017; line-height: 1.7; margin: 0;">
       "Go therefore and make disciples of all nations."
     </p>
-    <span style="font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #8A8985; margin-top: 0.5rem; display: block;">— Matthew 28:19</span>
+    <span style="font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #8A8985; margin-top: 0.5rem; display: block;">— Matthew 28:19 (ESV)</span>
   </div>
 </section>
 
@@ -255,7 +255,7 @@ toc: false
     <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1rem, 2vw, 1.25rem); color: #D4A017; line-height: 1.7; margin: 0;">
       "Bear one another's burdens, and so fulfill the law of Christ."
     </p>
-    <span style="font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #8A8985; margin-top: 0.5rem; display: block;">— Galatians 6:2</span>
+    <span style="font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #8A8985; margin-top: 0.5rem; display: block;">— Galatians 6:2 (ESV)</span>
   </div>
 </section>
 

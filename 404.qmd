@@ -49,7 +49,7 @@ robots: "noindex, follow"
     <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.05rem; font-style: italic; color: rgba(255,255,255,0.5); margin-top: 2.5rem; line-height: 1.6;">
       "For I know the plans I have for you," declares the Lord.
     </p>
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: rgba(212,160,23,0.5); margin-top: 0.25rem;">— Jeremiah 29:11</p>
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: rgba(212,160,23,0.5); margin-top: 0.25rem;">— Jeremiah 29:11 (ESV)</p>
   </div>
 </section>
 ```
