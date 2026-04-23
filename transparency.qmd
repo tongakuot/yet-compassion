@@ -81,7 +81,7 @@ page-layout: custom
 <section style="background-color: #0B1F3B; padding: 2.5rem 1.5rem;">
   <div style="max-width: 700px; margin: 0 auto; text-align: center;">
     <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: clamp(1.15rem, 2.5vw, 1.4rem); font-style: italic; color: rgba(255,255,255,0.92); line-height: 1.7; margin-bottom: 0.75rem;">
-      "Moreover, it is required of stewards that they be found faithful."
+      "Moreover, it is required of stewards that they be found trustworthy."
     </p>
     <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #D4A017; margin: 0;">— 1 Corinthians 4:2 (ESV)</p>
   </div>
@@ -107,7 +107,7 @@ page-layout: custom
       <div style="background: #FFFFFF; border-radius: 12px; padding: 2rem; border-left: 4px solid #D4A017;">
         <h3 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.25rem; font-weight: 700; color: #2B2B2B; margin-top: 0; margin-bottom: 1rem;">Tax-Exempt Status</h3>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.7; margin: 0;">
-          Y.E.T. Compassion is pursuing 501(c)(3) tax-exempt status. Donations may be tax-deductible to the extent permitted by law. Please consult your tax advisor.
+          Y.E.T. Compassion was registered as a Tennessee nonprofit in 2025 and granted IRS 501(c)(3) tax-exempt status in 2026. Donations are tax-deductible to the extent permitted by law. Please consult your tax advisor.
         </p>
         <a href="donate.html" style="display: inline-block; margin-top: 1rem; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #D4A017; text-decoration: none;">Make a Gift →</a>
       </div>

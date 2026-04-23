@@ -93,8 +93,8 @@ toc: false
     { year: '2006', caption: 'Mission begins', photos: [
       { src: 'images/project-images/biong-mission-team-2006.jpg', desc: 'First mission team reaches Biong, South Sudan', pos: 'center 65%' }
     ]},
-    { year: '2007', caption: 'Flood relief', photos: [
-      { src: 'images/project-images/biong-women-carrying-water.png', desc: 'Women carrying water during the crisis', pos: 'center 40%' },
+    { year: '2007', caption: 'Mission Trip', photos: [
+      { src: 'images/project-images/biong-women-carrying-water.png', desc: 'Women carrying water during the flood', pos: 'center 40%' },
       { src: 'images/project-images/biong-missionary-team-photo.png', desc: 'Mission team gathers in Biong during flood relief efforts', pos: 'center 35%' }
     ]},
     { year: '2008', caption: 'Education & community', photos: [
@@ -329,7 +329,7 @@ toc: false
       We walk alongside young people through discipleship, mentorship, and hands-on training — preparing them not just to survive, but to lead. Every program we build is grounded in Scripture and designed for lasting impact.
     </p>
     <p style="font-family: 'Inter', sans-serif; font-size: 1.1rem; line-height: 1.8; color: #5A5955; margin-bottom: 2rem;">
-      What began in 2006 as grassroots mission work in South Sudan was formalized in 2025 when <strong>Evangelist Gai Bol Luom</strong> registered Y.E.T. Compassion as an IRS-approved 501(c)(3) nonprofit in Nashville, Tennessee — building on nearly two decades of faithful service to South Sudanese communities in the U.S.A., South Sudan, and beyond.
+      What began in 2006 as grassroots mission work in South Sudan was formalized in 2025 when <strong>Evangelist Gai Bol Luom</strong> registered Y.E.T. Compassion as a nonprofit in Nashville, Tennessee, with IRS-approved 501(c)(3) tax-exempt status granted in 2026 — building on nearly two decades of faithful service to South Sudanese communities in the U.S.A., South Sudan, and beyond.
     </p>
     <a href="about/index.html" class="btn-green">Learn More About Our Work</a>
   </div>
@@ -555,7 +555,7 @@ toc: false
       From Nashville to <span style="color: #D4A017;">South Sudan</span>
     </h2>
     <p style="font-family: 'Inter', sans-serif; font-size: 1rem; color: rgba(255,255,255,0.7); line-height: 1.7; max-width: 600px; margin-bottom: 2.5rem;">
-      Through homeland engagement missions, Y.E.T. Compassion has built schools, drilled water wells, and distributed food to vulnerable communities in Biong and surrounding regions.
+      Through homeland engagement missions, Y.E.T. Compassion has built schools, drilled water wells, distributed food, and provided medicines through the open-air clinic to vulnerable communities in Biong and surrounding regions.
     </p>
 
     <!-- Photo Grid: 2-column featured layout -->

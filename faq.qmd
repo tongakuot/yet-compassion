@@ -16,7 +16,7 @@ page-layout: custom
       "name": "What is Y.E.T. Compassion?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Y.E.T. Compassion is a nonprofit ministry rooted in nearly two decades of grassroots mission work that began in South Sudan in 2006. In 2025, the ministry was formally registered as an IRS-approved 501(c)(3) nonprofit organization in Nashville, Tennessee. We serve South Sudanese communities in the U.S.A. and South Sudan through youth mentorship, spiritual formation, education, family empowerment, and community building."
+        "text": "Y.E.T. Compassion is a nonprofit ministry rooted in nearly two decades of grassroots mission work that began in South Sudan in 2006. The ministry was formally registered as a Tennessee nonprofit in Nashville in 2025 and granted IRS 501(c)(3) tax-exempt status in 2026. We serve South Sudanese communities in the U.S.A. and South Sudan through youth mentorship, spiritual formation, education, family empowerment, and community building."
       }
     },
     {
@@ -24,7 +24,7 @@ page-layout: custom
       "name": "Who founded Y.E.T. Compassion?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Y.E.T. Compassion was founded by Evangelist Gai Bol Luom. The ministry's work began in 2006 with grassroots missions in South Sudan and was formally established as a 501(c)(3) nonprofit in Nashville, Tennessee in 2025."
+        "text": "Y.E.T. Compassion was founded by Evangelist Gai Bol Luom. The ministry's work began in 2006 with grassroots missions in South Sudan, was registered as a Tennessee nonprofit in Nashville in 2025, and received IRS 501(c)(3) tax-exempt status in 2026."
       }
     },
     {
@@ -32,7 +32,7 @@ page-layout: custom
       "name": "Where is Y.E.T. Compassion based?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Y.E.T. Compassion is headquartered in Nashville, Tennessee, where it was registered as a 501(c)(3) nonprofit in 2025. We also have on-the-ground operations in South Sudan, led by Director David Gai Pandak."
+        "text": "Y.E.T. Compassion is headquartered in Nashville, Tennessee, where it was registered as a state nonprofit in 2025 and granted IRS 501(c)(3) tax-exempt status in 2026. We also have on-the-ground operations in South Sudan, led by Director David Gai Pandak."
       }
     },
     {
@@ -135,21 +135,21 @@ page-layout: custom
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
       <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">What is Y.E.T. Compassion?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Y.E.T. Compassion is a nonprofit ministry rooted in nearly two decades of grassroots mission work that began in South Sudan in 2006. In 2025, the ministry was formally registered as an IRS-approved 501(c)(3) nonprofit organization in Nashville, Tennessee. We serve South Sudanese communities in the U.S.A. and South Sudan through youth mentorship, spiritual formation, education, family empowerment, and community building.
+        Y.E.T. Compassion is a nonprofit ministry rooted in nearly two decades of grassroots mission work that began in South Sudan in 2006. The ministry was formally registered as a Tennessee nonprofit in Nashville in 2025 and granted IRS 501(c)(3) tax-exempt status in 2026. We serve South Sudanese communities in the U.S.A. and South Sudan through youth mentorship, spiritual formation, education, family empowerment, and community building.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
       <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Who founded Y.E.T. Compassion?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Y.E.T. Compassion was founded by Evangelist Gai Bol Luom. The ministry's work began in 2006 with grassroots missions in South Sudan and was formally established as a 501(c)(3) nonprofit in Nashville, Tennessee in 2025.
+        Y.E.T. Compassion was founded by Evangelist Gai Bol Luom. The ministry's work began in 2006 with grassroots missions in South Sudan, was registered as a Tennessee nonprofit in Nashville in 2025, and received IRS 501(c)(3) tax-exempt status in 2026.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
       <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Where is Y.E.T. Compassion based?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Y.E.T. Compassion is headquartered in Nashville, Tennessee, where it was registered as a 501(c)(3) nonprofit in 2025. We also have on-the-ground operations in South Sudan, led by Director David Gai Pandak.
+        Y.E.T. Compassion is headquartered in Nashville, Tennessee, where it was registered as a state nonprofit in 2025 and granted IRS 501(c)(3) tax-exempt status in 2026. We also have on-the-ground operations in South Sudan, led by Director David Gai Pandak.
       </p>
     </details>
 
@@ -210,9 +210,9 @@ page-layout: custom
 <section style="background-color: #0B1F3B; padding: 2.5rem 1.5rem;">
   <div style="max-width: 700px; margin: 0 auto; text-align: center;">
     <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: clamp(1.15rem, 2.5vw, 1.4rem); font-style: italic; color: rgba(255,255,255,0.92); line-height: 1.7; margin-bottom: 0.75rem;">
-      "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you."
+      "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him."
     </p>
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #D4A017; margin: 0;">— James 1:5 (NIV)</p>
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #D4A017; margin: 0;">— James 1:5 (ESV)</p>
   </div>
 </section>
 

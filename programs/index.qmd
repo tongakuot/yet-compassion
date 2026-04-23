@@ -59,7 +59,7 @@ toc: false
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 2rem 0;">
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
         <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Bible Studies &amp; Small Groups</strong>
-        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Weekly sessions exploring Scripture in ways that connect to the lived experience of young people navigating complex identities and faith.</span>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Sessions exploring Scripture in ways that connect to the lived experience of young people navigating complex identities and faith.</span>
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
         <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Youth Conferences &amp; Events</strong>
@@ -168,9 +168,9 @@ toc: false
         </div>
       </div>
       <div style="position: relative; overflow: hidden; border-radius: 8px; aspect-ratio: 4/3;">
-        <img loading="lazy" src="/images/project-images/first_aid_photos/first_aid_photos_013.jpg" alt="Volunteers mentoring and training community members" style="width: 100%; height: 100%; object-fit: cover;">
+        <img loading="lazy" src="/images/project-images/first_aid_photos/first_aid_photos_013.jpg" alt="Nurse and nurse practitioner providing medical care to a young patient at the open-air clinic" style="width: 100%; height: 100%; object-fit: cover;">
         <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.75rem; padding-top: 1.5rem;">
-          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Leadership Training in Action</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Bedside Care at the Open-Air Clinic</span>
         </div>
       </div>
     </div>
@@ -226,7 +226,7 @@ toc: false
       </div>
       <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
         <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Family Retreats</strong>
-        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Quarterly gatherings for spiritual renewal, skill-building, celebration, and mutual support.</span>
+        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Gatherings for spiritual renewal, skill-building, celebration, and mutual support.</span>
       </div>
     </div>
 
@@ -270,7 +270,7 @@ toc: false
       <div style="width: 48px; height: 48px; border-radius: 10px; background: #0B1F3B; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; flex-shrink: 0;">🤝</div>
       <div>
         <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.5rem, 3vw, 2rem); color: #2B2B2B; margin: 0; font-weight: 600;">Community Building &amp; Diaspora Advocacy</h2>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #0B1F3B; margin: 0.25rem 0 0; font-weight: 500;">Connection · Faith · Civic Voice</p>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #0B1F3B; margin: 0.25rem 0 0; font-weight: 500;">Connection · Faith · Advocacy</p>
       </div>
     </div>
     <div style="width: 60px; height: 3px; background-color: #0B1F3B; margin-bottom: 1.5rem;"></div>
@@ -281,7 +281,7 @@ toc: false
     </p>
 
     <!-- Activities grid -->
-    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin: 2rem 0;">
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin: 2rem 0;">
       <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
         <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Community Gatherings</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Regular events, potlucks, sports activities, and celebrations strengthening bonds and reducing isolation.</span>
@@ -290,24 +290,20 @@ toc: false
         <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Resource Navigation &amp; Support</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Connecting families with local services, educational opportunities, and practical resources to thrive in their communities.</span>
       </div>
-      <div style="padding: 1.25rem; background: #FFFFFF; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.9rem; color: #0B1F3B; margin-bottom: 0.35rem;">Interfaith Dialogue</strong>
-        <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Building bridges with Nashville's faith communities and organizations to foster solidarity and coordinate services.</span>
-      </div>
     </div>
 
     <!-- Photo Gallery -->
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; margin: 2rem 0; border-radius: 12px; overflow: hidden;">
       <div style="position: relative; overflow: hidden; border-radius: 8px; aspect-ratio: 4/3;">
-        <img loading="lazy" src="/images/project-images/2008_photos/classroom_photos-04.jpg" alt="Community gathering under a tree for shared learning and fellowship" style="width: 100%; height: 100%; object-fit: cover;">
+        <img loading="lazy" src="/images/project-images/2008_photos/classroom_photos-04.jpg" alt="Patients waiting under a tree to be seen at the open-air clinic in Biong" style="width: 100%; height: 100%; object-fit: cover;">
         <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.75rem; padding-top: 1.5rem;">
-          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Community Gathering & Fellowship</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Patients Waiting at the Open-Air Clinic</span>
         </div>
       </div>
       <div style="position: relative; overflow: hidden; border-radius: 8px; aspect-ratio: 4/3;">
-        <img loading="lazy" src="/images/project-images/best_photos/best_pictures-06.jpg" alt="Participatory community discussion in the village" style="width: 100%; height: 100%; object-fit: cover;">
+        <img loading="lazy" src="/images/project-images/best_photos/best_pictures-06.jpg" alt="Mission team gathered together to rest and reflect after a day of service" style="width: 100%; height: 100%; object-fit: cover;">
         <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.75rem; padding-top: 1.5rem;">
-          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Community Dialogue & Support</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; color: #FFFFFF;">Mission Team Resting After Service</span>
         </div>
       </div>
     </div>
@@ -400,10 +396,10 @@ toc: false
       <h3 style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">From the Field</h3>
       <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 0.75rem;">
         <div style="position: relative; overflow: hidden; border-radius: 8px;">
-          <img loading="lazy" src="/images/project-images/mission_trip_photos/biong_mission_trip_photos_06.JPG" alt="Large outdoor community gathering during a mission outreach" style="width: 100%; height: 100%; object-fit: cover; min-height: 240px;">
+          <img loading="lazy" src="/images/project-images/mission_trip_photos/biong_mission_trip_photos_06.JPG" alt="Patients gathered for care at the open-air clinic in Biong" style="width: 100%; height: 100%; object-fit: cover; min-height: 240px;">
           <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.75)); padding: 1rem; padding-top: 2rem;">
-            <span style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; color: #FFFFFF; display: block;">Mission Outreach — Community Gathering</span>
-            <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; color: rgba(255,255,255,0.7);">Bringing hope through service and partnership</span>
+            <span style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; color: #FFFFFF; display: block;">Open-Air Clinic in Biong</span>
+            <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; color: rgba(255,255,255,0.7);">Meeting community health needs through service</span>
           </div>
         </div>
         <div style="display: grid; grid-template-rows: 1fr 1fr; gap: 0.75rem;">
@@ -416,7 +412,7 @@ toc: false
           <div style="position: relative; overflow: hidden; border-radius: 8px;">
             <img loading="lazy" src="/images/project-images/medical_supplies/medical_photos-02.jpg" alt="Medical supply transport — international partnership" style="width: 100%; height: 100%; object-fit: cover;">
             <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(0,0,0,0.7)); padding: 0.5rem 0.75rem; padding-top: 1.25rem;">
-              <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; color: #FFFFFF;">Supply Logistics</span>
+              <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; color: #FFFFFF;">Medical Supplies to Biong</span>
             </div>
           </div>
         </div>
