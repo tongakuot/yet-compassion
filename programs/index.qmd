@@ -112,9 +112,9 @@ toc: false
 <section style="background-color: #2B2B2B; padding: 2.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
     <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1rem, 2vw, 1.25rem); color: #D4A017; line-height: 1.7; margin: 0;">
-      "Go therefore and make disciples of all nations."
+      "Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age."
     </p>
-    <span style="font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #8A8985; margin-top: 0.5rem; display: block;">— Matthew 28:19 (ESV)</span>
+    <span style="font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #8A8985; margin-top: 0.5rem; display: block;">— Matthew 28:19–20 (ESV)</span>
   </div>
 </section>
 
