@@ -51,7 +51,11 @@ website:
       - text: "Events"
         href: events/index.qmd
       - text: "Get Involved"
-        href: get-involved.qmd
+        menu:
+          - text: "Volunteer & Partner"
+            href: get-involved.qmd
+          - text: "2026 Campaign"
+            href: campaigns/2026.qmd
       - text: "Blog"
         href: blog/index.qmd
       - text: "Contact"

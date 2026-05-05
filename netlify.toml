@@ -12,7 +12,15 @@
   publish = "_site"
   # remove or empty the command so the plugin runs the render step
   command = ""
-  
+
+# ── Functions ──────────────────────────────────────
+# Serverless functions live in netlify/functions and are bundled with esbuild
+# so we ship lean cold-start payloads (campaign-progress is a single file
+# using only fetch + Stripe REST — no SDK needed).
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
 # ── Headers ────────────────────────────────────────
 # Security headers for all pages
 [[headers]]
@@ -50,6 +58,30 @@
   from = "/contact"
   to = "/contact.html"
   status = 301
+
+# Friendly campaign URLs
+[[redirects]]
+  from = "/campaign"
+  to = "/campaigns/2026.html"
+  status = 301
+
+[[redirects]]
+  from = "/campaigns"
+  to = "/campaigns/2026.html"
+  status = 301
+
+[[redirects]]
+  from = "/campaigns/2026"
+  to = "/campaigns/2026.html"
+  status = 301
+
+# Cache the live progress endpoint at the edge for 10 min so we don't hammer
+# Stripe (the function itself also sets this, but pinning it here makes the
+# behavior obvious to future maintainers).
+[[headers]]
+  for = "/.netlify/functions/campaign-progress"
+  [headers.values]
+    Cache-Control = "public, max-age=60, s-maxage=600, stale-while-revalidate=86400"
 
 # Custom 404
 [[redirects]]
