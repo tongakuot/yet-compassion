@@ -41,7 +41,7 @@ toc: false
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.5rem;"></div>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
-      Y.E.T. Compassion is a nonprofit ministry dedicated to serving South Sudanese communities in the U.S.A., South Sudan, and beyond. Our name — <strong style="color: #2B2B2B;">Y.E.T.</strong> — stands for <strong style="color: #0B1F3B;">Youth Evangelism Training</strong>, reflecting our core commitment to empowering the next generation through preparation grounded in Scripture. What began as grassroots mission work in <strong style="color: #2B2B2B;">2006</strong> was formalized in <strong style="color: #2B2B2B;">2025</strong> with state nonprofit registration in Nashville, Tennessee, followed by IRS-approved <strong style="color: #2B2B2B;">501(c)(3)</strong> tax-exempt status in <strong style="color: #2B2B2B;">2026</strong> — building on nearly two decades of faithful service.
+      Youth Evangelism Training (Y.E.T.) Compassion is a nonprofit ministry dedicated to serving South Sudanese communities in the U.S.A., South Sudan, and beyond. Our name reflects our core commitment to empowering the next generation through preparation grounded in Scripture. What began as grassroots mission work in <strong style="color: #2B2B2B;">2006</strong> was formalized in <strong style="color: #2B2B2B;">2025</strong> with state nonprofit registration in Nashville, Tennessee, followed by IRS-approved <strong style="color: #2B2B2B;">501(c)(3)</strong> tax-exempt status in <strong style="color: #2B2B2B;">2026</strong> — building on nearly two decades of faithful service.
     </p>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
@@ -60,28 +60,9 @@ toc: false
     </h2>
     <div style="width: 60px; height: 3px; background-color: #0B1F3B; margin-bottom: 1.5rem;"></div>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.5rem;">
-      To <strong style="color: #2B2B2B;">empower South Sudanese youth and families through faith-centered education, leadership development, and community support</strong>, equipping them to thrive and lead with integrity in their adopted home while anchored in their spiritual foundation.
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 0;">
+      Youth Evangelism Training (Y.E.T.) Compassion <strong style="color: #2B2B2B;">equips South Sudanese youth and families with faith-centered education, mentorship, and community support</strong> — preparing them to thrive and lead with integrity in the U.S.A., South Sudan, and beyond.
     </p>
-
-    <div style="display: grid; grid-template-columns: 1fr; gap: 1rem; margin-top: 2rem;">
-      <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
-        <span style="color: #0B1F3B; font-size: 1.25rem; line-height: 1;">✦</span>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6;">Holistic education and skills training grounded in Scripture</span>
-      </div>
-      <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
-        <span style="color: #0B1F3B; font-size: 1.25rem; line-height: 1;">✦</span>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6;">Mentorship and leadership development for the next generation</span>
-      </div>
-      <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
-        <span style="color: #0B1F3B; font-size: 1.25rem; line-height: 1;">✦</span>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6;">Family and community support services that strengthen resilience</span>
-      </div>
-      <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
-        <span style="color: #0B1F3B; font-size: 1.25rem; line-height: 1;">✦</span>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6;">Community connection and fellowship across generations</span>
-      </div>
-    </div>
   </div>
 </section>
 
@@ -95,28 +76,9 @@ toc: false
     </h2>
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.5rem;"></div>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.5rem;">
-      A generation of South Sudanese youth <strong style="color: #2B2B2B;">anchored in faith, empowered by knowledge, and committed to transforming their communities</strong> — in the U.S.A., South Sudan, and wherever they are called to serve — through servant leadership, ethical action, and intergenerational investment.
+    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 0;">
+      To raise a generation of South Sudanese youth <strong style="color: #2B2B2B;">grounded in biblical truth, equipped with knowledge and character, and committed to building stronger families, communities, and societies</strong>.
     </p>
-
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 2rem;">
-      <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.95rem; color: #0B1F3B; margin-bottom: 0.35rem;">Youth Potential</strong>
-        <span style="font-size: 0.9rem; color: #5A5955; line-height: 1.6;">Young people understand their God-given potential and walk in purpose.</span>
-      </div>
-      <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.95rem; color: #0B1F3B; margin-bottom: 0.35rem;">Family Healing</strong>
-        <span style="font-size: 0.9rem; color: #5A5955; line-height: 1.6;">Families experience healing, restoration, and intergenerational strength.</span>
-      </div>
-      <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.95rem; color: #0B1F3B; margin-bottom: 0.35rem;">Faith Foundation</strong>
-        <span style="font-size: 0.9rem; color: #5A5955; line-height: 1.6;">Faith becomes the anchor for decision-making and daily living.</span>
-      </div>
-      <div style="padding: 1.25rem; background: #F7F6F2; border-radius: 8px;">
-        <strong style="display: block; font-size: 0.95rem; color: #0B1F3B; margin-bottom: 0.35rem;">Servant Leaders</strong>
-        <span style="font-size: 0.9rem; color: #5A5955; line-height: 1.6;">Leaders emerge who serve their communities with excellence and humility.</span>
-      </div>
-    </div>
   </div>
 </section>
 

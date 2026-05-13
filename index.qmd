@@ -76,12 +76,8 @@ toc: false
   <div id="hero-nav-bar" style="position: absolute; bottom: 0; left: 0; right: 0; z-index: 5; display: flex; align-items: center; justify-content: center; gap: 0.75rem; padding: 0.6rem 1rem; background: rgba(0,0,0,0.45); backdrop-filter: blur(12px); border-top: 1px solid rgba(255,255,255,0.08);">
     <button id="hero-prev" aria-label="Previous" style="width: 32px; height: 32px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.15); background: transparent; color: #D4A017; font-size: 1rem; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 200ms ease;">‹</button>
 
-    <!-- Year pips -->
+    <!-- Year pips — one dot per year -->
     <div id="hero-pips" style="display: flex; gap: 0.3rem; align-items: center;"></div>
-
-    <!-- Progress dots -->
-    <div style="width: 1px; height: 14px; background: rgba(255,255,255,0.12); margin: 0 0.2rem;"></div>
-    <div id="hero-dots" style="display: flex; gap: 0.25rem; align-items: center;"></div>
 
     <button id="hero-next" aria-label="Next" style="width: 32px; height: 32px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.15); background: transparent; color: #D4A017; font-size: 1rem; cursor: pointer; display: flex; align-items: center; justify-content: center; transition: all 200ms ease;">›</button>
   </div>
@@ -89,97 +85,76 @@ toc: false
 
 <script>
 (function() {
+  // One curated photo per year — clean, dignified, no internal cycling.
   var data = [
-    { year: '2006', caption: 'Mission begins', photos: [
-      { src: 'images/project-images/biong-mission-team-2006.jpg', desc: 'First mission team reaches Biong, South Sudan', pos: 'center 65%' }
-    ]},
-    { year: '2007', caption: 'Mission Trip', photos: [
-      { src: 'images/project-images/biong-women-carrying-water.png', desc: 'Women carrying water in Biong', pos: 'center 40%' },
-      { src: 'images/project-images/biong-missionary-team-photo.png', desc: 'Mission team gathers in Biong during outreach', pos: 'center 35%' }
-    ]},
-    { year: '2008', caption: 'Education & community', photos: [
-      { src: 'images/project-images/mission_trip_photos/biong_mission_trip_photos_06.JPG', desc: 'Community gathering during mission outreach', pos: 'center 50%' },
-      { src: 'images/project-images/mission_trip_photos/biong_mission_trip_photos_03.jpg', desc: 'Mission team building relationships with local families', pos: 'center 45%' },
-      { src: 'images/project-images/2008_photos/classroom_photos-01.jpg', desc: 'Students engaged in learning under shelter', pos: 'center 45%' },
-      { src: 'images/project-images/2008_photos/classroom_photos-04.jpg', desc: 'Patients gathered under a tree at the open-air clinic', pos: 'center 50%' },
-      { src: 'images/project-images/2008_photos/classroom_photos-05.jpg', desc: 'Intergenerational partnership with local community members', pos: 'center 45%' },
-      { src: 'images/project-images/devotion_photos/maker_manyang_devition_01.JPG', desc: 'Community gathered in prayer and worship', pos: 'center 50%' },
-      { src: 'images/project-images/biong-women-with-food-aid.jpg', desc: 'Women collecting food supplies for their families', pos: 'center 20%' },
-      { src: 'images/project-images/medical_supplies/medical_photos-01.jpg', desc: 'Distributing medicine and medical supplies to families', pos: 'center 40%' },
-      { src: 'images/project-images/best_photos/best_pictures-03.jpg', desc: 'Youth raised in hope — celebrating community and faith', pos: 'center 45%' },
-      { src: 'images/project-images/best_photos/best_pictures-05.jpg', desc: 'Building genuine connections with young people', pos: 'center 40%' },
-      { src: 'images/project-images/best_photos/best_pictures-07.jpg', desc: 'Intergenerational respect and community authenticity', pos: 'center 45%' }
-    ]},
-    { year: '2009', caption: 'Clean water & relief', photos: [
-      { src: 'images/project-images/biong-food-distribution-leader.jpg', desc: 'Food distribution reaching families in need', pos: 'center 35%' },
-      { src: 'images/project-images/biong-children-at-well-site.jpg', desc: 'Children gather at the new well site', pos: 'center 45%' },
-      { src: 'images/project-images/water_well_photos/water_well_photos_02.JPG', desc: 'Community accessing clean water from the new well', pos: 'center 50%' }
-    ]},
-    { year: '2012', caption: 'Education', photos: [
-      { src: 'images/project-images/biong-school-building.jpg', desc: 'School construction completed in Biong', pos: 'center 50%' },
-      { src: 'images/project-images/biong-teacher-with-students.jpg', desc: 'Teacher with students in the classroom', pos: 'center 35%' },
-      { src: 'images/project-images/biong-students-with-textbooks.jpg', desc: 'Students receive new textbooks', pos: 'center 40%' }
-    ]}
+    { year: '2006', caption: 'Mission begins',
+      src: 'images/project-images/biong-mission-team-2006.jpg',
+      desc: 'First mission team reaches Biong, South Sudan',
+      pos: 'center 65%' },
+    { year: '2007', caption: 'Mission Trip',
+      src: 'images/project-images/biong-missionary-team-photo.png',
+      desc: 'Mission team gathers in Biong during outreach',
+      pos: 'center 35%' },
+    { year: '2008', caption: 'Education & community',
+      src: 'images/project-images/2008_photos/classroom_photos-01.jpg',
+      desc: 'Students engaged in learning under shelter',
+      pos: 'center 45%' },
+    { year: '2009', caption: 'Clean water & relief',
+      src: 'images/project-images/water_well_photos/water_well_photos_02.JPG',
+      desc: 'Community accessing clean water from the new well',
+      pos: 'center 50%' },
+    { year: '2012', caption: 'Education',
+      src: 'images/project-images/biong-teacher-with-students.jpg',
+      desc: 'Teacher with students in the classroom',
+      pos: 'center 35%' }
   ];
 
-  var yearIdx = 0, photoIdx = 0, timer = null;
+  var yearIdx = 0, timer = null;
   var bg = document.getElementById('hero-bg');
   var yearEl = document.getElementById('hero-year');
   var captionEl = document.getElementById('hero-caption');
   var descEl = document.getElementById('hero-desc');
-  var dotsEl = document.getElementById('hero-dots');
   var pipsEl = document.getElementById('hero-pips');
-  var contentEl = document.getElementById('hero-content');
-  var overlayEl = document.getElementById('hero-overlay');
 
   // Preload all images so transitions are instant
-  data.forEach(function(g) {
-    g.photos.forEach(function(p) {
-      if (p.src) {
-        var preload = new Image();
-        preload.src = p.src;
-      }
-    });
+  data.forEach(function(p) {
+    if (p.src) { var preload = new Image(); preload.src = p.src; }
   });
 
-  // Build year pips
+  // Build year pips — one dot per year
   data.forEach(function(g, i) {
     var pip = document.createElement('button');
     pip.textContent = g.year;
     pip.className = 'hero-pip';
-    pip.style.cssText = 'font-family:Inter,sans-serif;font-size:0.6rem;font-weight:600;padding:0.15rem 0.45rem;border-radius:3px;border:1px solid rgba(255,255,255,0.12);background:transparent;color:rgba(255,255,255,0.4);cursor:pointer;transition:all 200ms ease;white-space:nowrap;letter-spacing:0.03em;';
+    pip.style.cssText = 'font-family:Inter,sans-serif;font-size:0.65rem;font-weight:600;padding:0.2rem 0.55rem;border-radius:3px;border:1px solid rgba(255,255,255,0.12);background:transparent;color:rgba(255,255,255,0.4);cursor:pointer;transition:all 200ms ease;white-space:nowrap;letter-spacing:0.03em;';
     pip.addEventListener('click', function() { goToYear(i); });
     pipsEl.appendChild(pip);
   });
 
   function render() {
-    var g = data[yearIdx];
-    var p = g.photos[photoIdx];
+    var p = data[yearIdx];
 
-    // Year label
+    // Year label fade
     yearEl.style.opacity = '0';
     captionEl.style.opacity = '0';
     setTimeout(function() {
-      yearEl.textContent = g.year;
-      captionEl.textContent = g.caption;
+      yearEl.textContent = p.year;
+      captionEl.textContent = p.caption;
       yearEl.style.opacity = '1';
       captionEl.style.opacity = '1';
     }, 150);
 
+    // Image swap with fade
     bg.style.objectFit = 'cover';
-    bg.style.objectPosition = p.pos || 'center 45%';
     bg.style.transform = 'scale(1.02)';
-
     bg.style.transition = 'none';
     bg.style.opacity = '0';
-    bg.style.display = '';
     bg.style.objectPosition = p.pos || 'center 45%';
     bg.src = p.src;
     bg.alt = p.desc;
     setTimeout(function() {
       bg.style.transition = 'opacity 0.8s ease';
       descEl.textContent = p.desc;
-      // Use requestAnimationFrame to ensure src is applied before fading in
       requestAnimationFrame(function() {
         requestAnimationFrame(function() {
           bg.style.opacity = '1';
@@ -187,20 +162,7 @@ toc: false
       });
     }, 300);
 
-    // Dots
-    dotsEl.innerHTML = '';
-    if (g.photos.length > 1) {
-      g.photos.forEach(function(_, i) {
-        var dot = document.createElement('span');
-        dot.style.cssText = 'width:6px;height:6px;border-radius:50%;transition:all 200ms ease;cursor:pointer;';
-        dot.style.background = i === photoIdx ? '#D4A017' : 'rgba(255,255,255,0.25)';
-        if (i === photoIdx) dot.style.boxShadow = '0 0 6px rgba(212,160,23,0.4)';
-        dot.addEventListener('click', function() { photoIdx = i; render(); resetTimer(); });
-        dotsEl.appendChild(dot);
-      });
-    }
-
-    // Year pips
+    // Year pip active state
     Array.from(pipsEl.children).forEach(function(pip, i) {
       if (i === yearIdx) {
         pip.style.background = '#D4A017';
@@ -217,35 +179,17 @@ toc: false
   }
 
   function advance() {
-    var g = data[yearIdx];
-    if (photoIdx < g.photos.length - 1) {
-      photoIdx++;
-    } else if (yearIdx < data.length - 1) {
-      yearIdx++;
-      photoIdx = 0;
-    } else {
-      yearIdx = 0;
-      photoIdx = 0;
-    }
+    yearIdx = (yearIdx + 1) % data.length;
     render();
   }
 
   function goBack() {
-    if (photoIdx > 0) {
-      photoIdx--;
-    } else if (yearIdx > 0) {
-      yearIdx--;
-      photoIdx = data[yearIdx].photos.length - 1;
-    } else {
-      yearIdx = data.length - 1;
-      photoIdx = data[yearIdx].photos.length - 1;
-    }
+    yearIdx = (yearIdx - 1 + data.length) % data.length;
     render();
   }
 
   function goToYear(i) {
     yearIdx = i;
-    photoIdx = 0;
     render();
     resetTimer();
   }
@@ -318,15 +262,15 @@ toc: false
 </section>
 
 <!-- ═══════════════════════════════════════════════ -->
-<!-- MISSION STATEMENT                               -->
+<!-- WHO WE ARE                                      -->
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto; text-align: left;">
     <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.5rem); color: #2B2B2B; margin-bottom: 1.25rem; font-weight: 600;">
-      Our Mission
+      Who We Are
     </h2>
     <p style="font-family: 'Inter', sans-serif; font-size: 1.1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
-      We walk alongside young people through discipleship, mentorship, and hands-on training — preparing them not just to survive, but to lead. Every program we build is grounded in Scripture and designed for lasting impact.
+      Youth Evangelism Training (Y.E.T.) Compassion equips South Sudanese diaspora youth with the <strong>Gospel of Christ</strong> and the practical skills to <strong>lead with integrity</strong>, <strong>build stable families</strong>, and <strong>transform their communities</strong>. Every program is grounded in Scripture, shaped by mentorship, and built for lasting impact.
     </p>
     <p style="font-family: 'Inter', sans-serif; font-size: 1.1rem; line-height: 1.8; color: #5A5955; margin-bottom: 2rem;">
       What began in 2006 as grassroots mission work in South Sudan was formalized in 2025 when <strong>Evangelist Gai Bol Luom</strong> registered Y.E.T. Compassion as a nonprofit in Nashville, Tennessee, with IRS-approved 501(c)(3) tax-exempt status granted in 2026 — building on nearly two decades of faithful service to South Sudanese communities in the U.S.A., South Sudan, and beyond.

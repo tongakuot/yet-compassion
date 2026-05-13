@@ -36,7 +36,7 @@ toc: false
 
     <div style="background: rgba(255,255,255,0.06); border-radius: 12px; padding: 1.5rem; margin: 2rem auto; max-width: 500px;">
       <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.7); line-height: 1.6; margin: 0;">
-        Y.E.T. Compassion is a registered <strong style="color: #FFFFFF;">501(c)(3)</strong> nonprofit organization.<br>
+        Youth Evangelism Training (Y.E.T.) Compassion is a registered <strong style="color: #FFFFFF;">501(c)(3)</strong> nonprofit organization.<br>
         Your contribution is tax-deductible to the extent allowed by law.<br>
         <span style="color: rgba(255,255,255,0.5);">EIN provided upon request.</span>
       </p>

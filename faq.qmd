@@ -16,7 +16,7 @@ page-layout: custom
       "name": "What is Y.E.T. Compassion?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Y.E.T. Compassion is a nonprofit ministry rooted in nearly two decades of grassroots mission work that began in South Sudan in 2006. The ministry was formally registered as a Tennessee nonprofit in Nashville in 2025 and granted IRS 501(c)(3) tax-exempt status in 2026. We serve South Sudanese communities in the U.S.A. and South Sudan through youth mentorship, spiritual formation, education, family empowerment, and community building."
+        "text": "Youth Evangelism Training (Y.E.T.) Compassion is a nonprofit ministry rooted in nearly two decades of grassroots mission work that began in South Sudan in 2006. The ministry was formally registered as a Tennessee nonprofit in Nashville in 2025 and granted IRS 501(c)(3) tax-exempt status in 2026. We serve South Sudanese communities in the U.S.A. and South Sudan through youth mentorship, spiritual formation, education, family empowerment, and community building."
       }
     },
     {
@@ -24,7 +24,7 @@ page-layout: custom
       "name": "Who founded Y.E.T. Compassion?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Y.E.T. Compassion was founded by Evangelist Gai Bol Luom. The ministry's work began in 2006 with grassroots missions in South Sudan, was registered as a Tennessee nonprofit in Nashville in 2025, and received IRS 501(c)(3) tax-exempt status in 2026."
+        "text": "Youth Evangelism Training (Y.E.T.) Compassion was founded by Evangelist Gai Bol Luom. The ministry's work began in 2006 with grassroots missions in South Sudan, was registered as a Tennessee nonprofit in Nashville in 2025, and received IRS 501(c)(3) tax-exempt status in 2026."
       }
     },
     {
@@ -32,7 +32,7 @@ page-layout: custom
       "name": "Where is Y.E.T. Compassion based?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Y.E.T. Compassion is headquartered in Nashville, Tennessee, where it was registered as a state nonprofit in 2025 and granted IRS 501(c)(3) tax-exempt status in 2026. We also have on-the-ground operations in South Sudan, led by Director David Gai Pandak."
+        "text": "Youth Evangelism Training (Y.E.T.) Compassion is headquartered in Nashville, Tennessee, where it was registered as a state nonprofit in 2025 and granted IRS 501(c)(3) tax-exempt status in 2026. We also have on-the-ground operations in South Sudan, led by Director David Gai Pandak."
       }
     },
     {
@@ -40,7 +40,7 @@ page-layout: custom
       "name": "What programs does Y.E.T. Compassion offer?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Y.E.T. Compassion offers a range of programs including youth Bible studies, one-on-one mentorship, education support and tutoring, family workshops on parenting and financial literacy, community events, and spiritual formation programming."
+        "text": "Youth Evangelism Training (Y.E.T.) Compassion offers a range of programs including youth Bible studies, one-on-one mentorship, education support and tutoring, family workshops on parenting and financial literacy, community events, and spiritual formation programming."
       }
     },
     {
@@ -72,7 +72,7 @@ page-layout: custom
       "name": "Who does Y.E.T. Compassion serve?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Y.E.T. Compassion primarily serves South Sudanese diaspora youth and families in Nashville, Tennessee. We focus on empowering young people ages 13-25 and their families with mentorship, education, spiritual growth, and community connection."
+        "text": "Youth Evangelism Training (Y.E.T.) Compassion primarily serves South Sudanese diaspora youth and families in Nashville, Tennessee. We focus on empowering young people ages 13-25 and their families with mentorship, education, spiritual growth, and community connection."
       }
     },
     {
@@ -135,28 +135,28 @@ page-layout: custom
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
       <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">What is Y.E.T. Compassion?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Y.E.T. Compassion is a nonprofit ministry rooted in nearly two decades of grassroots mission work that began in South Sudan in 2006. The ministry was formally registered as a Tennessee nonprofit in Nashville in 2025 and granted IRS 501(c)(3) tax-exempt status in 2026. We serve South Sudanese communities in the U.S.A. and South Sudan through youth mentorship, spiritual formation, education, family empowerment, and community building.
+        Youth Evangelism Training (Y.E.T.) Compassion is a nonprofit ministry rooted in nearly two decades of grassroots mission work that began in South Sudan in 2006. The ministry was formally registered as a Tennessee nonprofit in Nashville in 2025 and granted IRS 501(c)(3) tax-exempt status in 2026. We serve South Sudanese communities in the U.S.A. and South Sudan through youth mentorship, spiritual formation, education, family empowerment, and community building.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
       <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Who founded Y.E.T. Compassion?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Y.E.T. Compassion was founded by Evangelist Gai Bol Luom. The ministry's work began in 2006 with grassroots missions in South Sudan, was registered as a Tennessee nonprofit in Nashville in 2025, and received IRS 501(c)(3) tax-exempt status in 2026.
+        Youth Evangelism Training (Y.E.T.) Compassion was founded by Evangelist Gai Bol Luom. The ministry's work began in 2006 with grassroots missions in South Sudan, was registered as a Tennessee nonprofit in Nashville in 2025, and received IRS 501(c)(3) tax-exempt status in 2026.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
       <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Where is Y.E.T. Compassion based?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Y.E.T. Compassion is headquartered in Nashville, Tennessee, where it was registered as a state nonprofit in 2025 and granted IRS 501(c)(3) tax-exempt status in 2026. We also have on-the-ground operations in South Sudan, led by Director David Gai Pandak.
+        Youth Evangelism Training (Y.E.T.) Compassion is headquartered in Nashville, Tennessee, where it was registered as a state nonprofit in 2025 and granted IRS 501(c)(3) tax-exempt status in 2026. We also have on-the-ground operations in South Sudan, led by Director David Gai Pandak.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
       <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Who does Y.E.T. Compassion serve?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Y.E.T. Compassion primarily serves South Sudanese diaspora youth and families in Nashville, Tennessee. We focus on empowering young people ages 13–25 and their families with mentorship, education, spiritual growth, and community connection.
+        Youth Evangelism Training (Y.E.T.) Compassion primarily serves South Sudanese diaspora youth and families in Nashville, Tennessee. We focus on empowering young people ages 13–25 and their families with mentorship, education, spiritual growth, and community connection.
       </p>
     </details>
 
@@ -183,7 +183,7 @@ page-layout: custom
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #F7F6F2; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
       <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">What programs does Y.E.T. Compassion offer?</summary>
       <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Y.E.T. Compassion offers a range of programs including youth Bible studies, one-on-one mentorship, education support and tutoring, family workshops on parenting and financial literacy, community events, and spiritual formation programming. Visit our <a href="programs/index.html" style="color: #0B1F3B; font-weight: 500;">Programs page</a> to learn more.
+        Youth Evangelism Training (Y.E.T.) Compassion offers a range of programs including youth Bible studies, one-on-one mentorship, education support and tutoring, family workshops on parenting and financial literacy, community events, and spiritual formation programming. Visit our <a href="programs/index.html" style="color: #0B1F3B; font-weight: 500;">Programs page</a> to learn more.
       </p>
     </details>
 

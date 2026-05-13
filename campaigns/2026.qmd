@@ -107,7 +107,7 @@ toc: false
       South Sudanese youth in Juba and Bor are coming of age in the longest stretch of conflict and displacement in their country's modern history. They are not lacking ambition. They are lacking the things that make ambition durable: anchored teaching, trusted mentors, and tangible support.
     </p>
     <p style="font-family: 'Inter', sans-serif; font-size: 1.075rem; color: #2B2B2B; line-height: 1.75; margin: 0 0 1.1rem;">
-      Y.E.T. Compassion has spent two decades building the trust, the local relationships, and the operational discipline required to serve these communities well. 2026 is the year we put a focused plan against that opportunity — two camp sites, two weeks of intensive formation, and four months of follow-through that turns the camp from an event into a discipleship pipeline.
+      Youth Evangelism Training (Y.E.T.) Compassion has spent two decades building the trust, the local relationships, and the operational discipline required to serve these communities well. 2026 is the year we put a focused plan against that opportunity — two camp sites, two weeks of intensive formation, and four months of follow-through that turns the camp from an event into a discipleship pipeline.
     </p>
 
     <blockquote style="margin: 2rem 0 0; padding: 1.25rem 1.5rem; border-left: 4px solid #D4A017; background: #F7F6F2;">

@@ -20,7 +20,7 @@ toc: false
     </h1>
 
     <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 620px; margin: 0 0 2rem;">
-      Y.E.T. Compassion is built on partnership. Whether you volunteer your time, bring organizational resources, or lift us in prayer — you are part of our mission to empower the next generation.
+      Youth Evangelism Training (Y.E.T.) Compassion is built on partnership. Whether you volunteer your time, bring organizational resources, or lift us in prayer — you are part of our mission to empower the next generation.
     </p>
 
     <!-- Quick-nav anchors -->

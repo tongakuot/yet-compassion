@@ -91,11 +91,6 @@ toc: false
       </div>
     </div>
 
-    <!-- Vision callout -->
-    <div style="padding: 1.5rem; background: linear-gradient(135deg, #0B1F3B, #122D52); border-radius: 8px; color: white;">
-      <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: #D4A017; margin-bottom: 0.5rem;">Our Vision</strong>
-      <p style="font-size: 0.95rem; line-height: 1.7; color: rgba(255,255,255,0.9); margin: 0;">A generation of young people deeply rooted in Scripture, secure in their faith, and empowered to be witnesses and leaders in their communities.</p>
-    </div>
   </div>
 
   <style>
@@ -175,11 +170,6 @@ toc: false
       </div>
     </div>
 
-    <!-- Vision callout -->
-    <div style="padding: 1.5rem; background: linear-gradient(135deg, #D4A017, #E0B030); border-radius: 8px; color: #2B2B2B;">
-      <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: rgba(43,43,43,0.6); margin-bottom: 0.5rem;">Our Vision</strong>
-      <p style="font-size: 0.95rem; line-height: 1.7; color: #2B2B2B; margin: 0;">A pipeline of servant leaders equipped with skills, confidence, and character to lead in their workplaces, churches, and communities with integrity and purpose.</p>
-    </div>
   </div>
 
   <style>
@@ -238,11 +228,6 @@ toc: false
       </div>
     </div>
 
-    <!-- Vision callout -->
-    <div style="padding: 1.5rem; background: linear-gradient(135deg, #38BDF8, #60CBFF); border-radius: 8px; color: white;">
-      <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: rgba(255,255,255,0.6); margin-bottom: 0.5rem;">Our Vision</strong>
-      <p style="font-size: 0.95rem; line-height: 1.7; color: rgba(255,255,255,0.9); margin: 0;">Families equipped with the faith, knowledge, and relational health to navigate life's challenges together — strengthening the foundation for generations to come.</p>
-    </div>
   </div>
 </section>
 
@@ -308,11 +293,6 @@ toc: false
       </div>
     </div>
 
-    <!-- Vision callout -->
-    <div style="padding: 1.5rem; background: linear-gradient(135deg, #0B1F3B, #122D52); border-radius: 8px; color: white;">
-      <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: #D4A017; margin-bottom: 0.5rem;">Our Vision</strong>
-      <p style="font-size: 0.95rem; line-height: 1.7; color: rgba(255,255,255,0.9); margin: 0;">A thriving community where families feel connected, valued, and empowered to walk in their faith while actively participating in civic life wherever they call home.</p>
-    </div>
   </div>
 
   <style>
@@ -385,11 +365,6 @@ toc: false
       </div>
     </div>
 
-    <!-- Vision callout -->
-    <div style="padding: 1.5rem; background: linear-gradient(135deg, #D4A017, #E0B030); border-radius: 8px; color: #2B2B2B;">
-      <strong style="display: block; font-size: 0.85rem; letter-spacing: 0.06em; text-transform: uppercase; color: rgba(43,43,43,0.6); margin-bottom: 0.5rem;">Our Vision</strong>
-      <p style="font-size: 0.95rem; line-height: 1.7; color: #2B2B2B; margin: 0;">Bridging our communities and the homeland through transformative partnerships — expanding mission trips, growing educational sponsorships, investing in infrastructure, and demonstrating Christ's love through tangible service.</p>
-    </div>
 
     <!-- Extended Photo Gallery -->
     <div style="margin-top: 2.5rem;">

@@ -36,7 +36,7 @@ toc: false
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.5rem;"></div>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
-      Y.E.T. Compassion operates under the guidance and accountability of a dedicated Board of Directors. Our board is responsible for strategic oversight, financial stewardship, and ensuring that Y.E.T. Compassion remains true to our mission and values.
+      Youth Evangelism Training (Y.E.T.) Compassion operates under the guidance and accountability of a dedicated Board of Directors. Our board is responsible for strategic oversight, financial stewardship, and ensuring that Y.E.T. Compassion remains true to our mission and values.
     </p>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955;">
@@ -123,7 +123,7 @@ toc: false
         <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #38BDF8; font-weight: 600; margin-bottom: 1rem;">Board Chair</p>
 
         <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955;">
-          Y.E.T. Compassion is actively seeking a Board Chair who shares our commitment to faith-centered leadership, community empowerment, and organizational excellence. The Board Chair provides oversight of organizational direction, facilitates board deliberations, and works closely with the Executive Director to align operations with the ministry's mission and values.
+          Youth Evangelism Training (Y.E.T.) Compassion is actively seeking a Board Chair who shares our commitment to faith-centered leadership, community empowerment, and organizational excellence. The Board Chair provides oversight of organizational direction, facilitates board deliberations, and works closely with the Executive Director to align operations with the ministry's mission and values.
         </p>
       </div>
     </div>
@@ -146,7 +146,7 @@ toc: false
         <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #D4A017; font-weight: 600; margin-bottom: 1rem;">Board Member &amp; Spiritual Advisor</p>
 
         <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955;">
-          Y.E.T. Compassion is actively seeking a Spiritual Advisor who brings pastoral wisdom, spiritual oversight, and deep community understanding to board discussions and organizational direction. This role ensures that every program, partnership, and decision remains grounded in biblical principles and theological integrity — the foundational values upon which Y.E.T. Compassion was built.
+          Youth Evangelism Training (Y.E.T.) Compassion is actively seeking a Spiritual Advisor who brings pastoral wisdom, spiritual oversight, and deep community understanding to board discussions and organizational direction. This role ensures that every program, partnership, and decision remains grounded in biblical principles and theological integrity — the foundational values upon which Y.E.T. Compassion was built.
         </p>
       </div>
     </div>
