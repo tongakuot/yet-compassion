@@ -9,7 +9,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <!-- HERO SECTION                                    -->
 <!-- ═══════════════════════════════════════════════ -->
-<section style="background: linear-gradient(135deg, #2B2B2B 0%, #0a1525 50%, #2B2B2B 100%); min-height: 45vh; display: flex; align-items: center; justify-content: center; padding: 4rem 1.5rem; position: relative; overflow: hidden;">
+<section style="background: linear-gradient(135deg, #0B1F3B 0%, #060F1F 50%, #0B1F3B 100%); min-height: 45vh; display: flex; align-items: center; justify-content: center; padding: 4rem 1.5rem; position: relative; overflow: hidden;">
   <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23D4A017%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
 
   <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: center;">
@@ -58,7 +58,7 @@ toc: false
 <!--   3. Replace the placeholder URLs in Card 1      -->
 <!--      and Card 2 below                            -->
 <!-- ═══════════════════════════════════════════════ -->
-<section class="reveal-on-scroll" style="background-color: #2B2B2B; padding: 4rem 1.5rem;">
+<section class="reveal-on-scroll" style="background-color: #0B1F3B; padding: 4rem 1.5rem;">
   <div style="max-width: 1100px; margin: 0 auto;">
 
     <!-- Section Header -->
@@ -76,7 +76,7 @@ toc: false
       <!-- ══════════════════════════════════ -->
       <!-- CARD 1: One-Time Contribution      -->
       <!-- ══════════════════════════════════ -->
-      <div class="donate-card-panel" style="background: #363636; border: 1px solid #444; border-radius: 16px; padding: 2.25rem 1.75rem; display: flex; flex-direction: column;">
+      <div class="donate-card-panel" style="background: #122D52; border: 1px solid rgba(255,255,255,0.12); border-radius: 16px; padding: 2.25rem 1.75rem; display: flex; flex-direction: column;">
 
         <!-- Icon -->
         <div style="font-size: 2rem; margin-bottom: 1.25rem;">
@@ -91,10 +91,10 @@ toc: false
 
         <!-- Amount Chips -->
         <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 0.5rem;">
-          <span class="amount-chip" style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; background: #2B2B2B; border: 1px solid #555; border-radius: 8px; padding: 0.45rem 1rem; display: inline-block;">$25</span>
-          <span class="amount-chip" style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; background: #2B2B2B; border: 1px solid #555; border-radius: 8px; padding: 0.45rem 1rem; display: inline-block;">$50</span>
-          <span class="amount-chip" style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; background: #2B2B2B; border: 1px solid #555; border-radius: 8px; padding: 0.45rem 1rem; display: inline-block;">$100</span>
-          <span class="amount-chip" style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; background: #2B2B2B; border: 1px solid #555; border-radius: 8px; padding: 0.45rem 1rem; display: inline-block;">$250</span>
+          <span class="amount-chip" style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; background: #0B1F3B; border: 1px solid rgba(255,255,255,0.25); border-radius: 8px; padding: 0.45rem 1rem; display: inline-block;">$25</span>
+          <span class="amount-chip" style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; background: #0B1F3B; border: 1px solid rgba(255,255,255,0.25); border-radius: 8px; padding: 0.45rem 1rem; display: inline-block;">$50</span>
+          <span class="amount-chip" style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; background: #0B1F3B; border: 1px solid rgba(255,255,255,0.25); border-radius: 8px; padding: 0.45rem 1rem; display: inline-block;">$100</span>
+          <span class="amount-chip" style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; background: #0B1F3B; border: 1px solid rgba(255,255,255,0.25); border-radius: 8px; padding: 0.45rem 1rem; display: inline-block;">$250</span>
         </div>
         <span style="font-family: Inter, sans-serif; font-size: 0.75rem; color: rgba(255,255,255,0.45); margin-bottom: 1.5rem; display: block;">Custom amounts also accepted</span>
 
@@ -111,7 +111,7 @@ toc: false
       <!-- ══════════════════════════════════ -->
       <!-- CARD 2: Monthly Partnership        -->
       <!-- ══════════════════════════════════ -->
-      <div class="donate-card-panel" style="background: #363636; border: 1px solid #D4A017; border-radius: 16px; padding: 2.25rem 1.75rem; display: flex; flex-direction: column; position: relative;">
+      <div class="donate-card-panel" style="background: #122D52; border: 1px solid #D4A017; border-radius: 16px; padding: 2.25rem 1.75rem; display: flex; flex-direction: column; position: relative;">
 
         <!-- Badge -->
         <div style="position: absolute; top: 1rem; right: 1rem;">
@@ -120,7 +120,7 @@ toc: false
 
         <!-- Icon -->
         <div style="font-size: 2rem; margin-bottom: 1.25rem;">
-          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#38BDF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4"/><path d="m16.24 7.76-2.12 2.12"/><path d="M20 12h-4"/><path d="m16.24 16.24-2.12-2.12"/><path d="M12 20v-4"/><path d="m7.76 16.24 2.12-2.12"/><path d="M4 12h4"/><path d="m7.76 7.76 2.12 2.12"/></svg>
+          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#D4A017" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4"/><path d="m16.24 7.76-2.12 2.12"/><path d="M20 12h-4"/><path d="m16.24 16.24-2.12-2.12"/><path d="M12 20v-4"/><path d="m7.76 16.24 2.12-2.12"/><path d="M4 12h4"/><path d="m7.76 7.76 2.12 2.12"/></svg>
         </div>
 
         <h3 style="font-family: Playfair Display, serif; font-size: 1.35rem; font-weight: 600; color: #FFFFFF; margin: 0 0 0.75rem;">Monthly Partnership</h3>
@@ -131,10 +131,10 @@ toc: false
 
         <!-- Monthly Amount Chips (each links to its own Stripe payment link) -->
         <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 0.5rem;">
-          <a href="https://donate.stripe.com/5kQ7sK9sKak96621TcdnW03" target="_blank" rel="noopener noreferrer" class="amount-chip-link" style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; background: #2B2B2B; border: 1px solid #555; border-radius: 8px; padding: 0.45rem 1rem; display: inline-block; text-decoration: none; transition: all 200ms ease;">$25<span style="font-size: 0.7rem; font-weight: 400; color: rgba(255,255,255,0.5);">/mo</span></a>
-          <a href="https://donate.stripe.com/5kQ8wO5cuak9dyu7dwdnW04" target="_blank" rel="noopener noreferrer" class="amount-chip-link" style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; background: #2B2B2B; border: 1px solid #555; border-radius: 8px; padding: 0.45rem 1rem; display: inline-block; text-decoration: none; transition: all 200ms ease;">$50<span style="font-size: 0.7rem; font-weight: 400; color: rgba(255,255,255,0.5);">/mo</span></a>
-          <a href="https://donate.stripe.com/8x23cu7kCfEtgKG41kdnW05" target="_blank" rel="noopener noreferrer" class="amount-chip-link" style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; background: #2B2B2B; border: 1px solid #555; border-radius: 8px; padding: 0.45rem 1rem; display: inline-block; text-decoration: none; transition: all 200ms ease;">$100<span style="font-size: 0.7rem; font-weight: 400; color: rgba(255,255,255,0.5);">/mo</span></a>
-          <a href="https://donate.stripe.com/28E14m5cu2RH0LIcxQdnW06" target="_blank" rel="noopener noreferrer" class="amount-chip-link" style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; background: #2B2B2B; border: 1px solid #555; border-radius: 8px; padding: 0.45rem 1rem; display: inline-block; text-decoration: none; transition: all 200ms ease;">$250<span style="font-size: 0.7rem; font-weight: 400; color: rgba(255,255,255,0.5);">/mo</span></a>
+          <a href="https://donate.stripe.com/5kQ7sK9sKak96621TcdnW03" target="_blank" rel="noopener noreferrer" class="amount-chip-link" style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; background: #0B1F3B; border: 1px solid rgba(255,255,255,0.25); border-radius: 8px; padding: 0.45rem 1rem; display: inline-block; text-decoration: none; transition: all 200ms ease;">$25<span style="font-size: 0.7rem; font-weight: 400; color: rgba(255,255,255,0.5);">/mo</span></a>
+          <a href="https://donate.stripe.com/5kQ8wO5cuak9dyu7dwdnW04" target="_blank" rel="noopener noreferrer" class="amount-chip-link" style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; background: #0B1F3B; border: 1px solid rgba(255,255,255,0.25); border-radius: 8px; padding: 0.45rem 1rem; display: inline-block; text-decoration: none; transition: all 200ms ease;">$50<span style="font-size: 0.7rem; font-weight: 400; color: rgba(255,255,255,0.5);">/mo</span></a>
+          <a href="https://donate.stripe.com/8x23cu7kCfEtgKG41kdnW05" target="_blank" rel="noopener noreferrer" class="amount-chip-link" style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; background: #0B1F3B; border: 1px solid rgba(255,255,255,0.25); border-radius: 8px; padding: 0.45rem 1rem; display: inline-block; text-decoration: none; transition: all 200ms ease;">$100<span style="font-size: 0.7rem; font-weight: 400; color: rgba(255,255,255,0.5);">/mo</span></a>
+          <a href="https://donate.stripe.com/28E14m5cu2RH0LIcxQdnW06" target="_blank" rel="noopener noreferrer" class="amount-chip-link" style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; background: #0B1F3B; border: 1px solid rgba(255,255,255,0.25); border-radius: 8px; padding: 0.45rem 1rem; display: inline-block; text-decoration: none; transition: all 200ms ease;">$250<span style="font-size: 0.7rem; font-weight: 400; color: rgba(255,255,255,0.5);">/mo</span></a>
         </div>
         <span style="font-family: Inter, sans-serif; font-size: 0.75rem; color: rgba(255,255,255,0.45); margin-bottom: 1.5rem; display: block;">Cancel anytime — no commitment required</span>
 
@@ -150,7 +150,7 @@ toc: false
       <!-- ══════════════════════════════════ -->
       <!-- CARD 3: Other Ways to Help         -->
       <!-- ══════════════════════════════════ -->
-      <div class="donate-card-panel" style="background: #363636; border: 1px solid #444; border-radius: 16px; padding: 2.25rem 1.75rem; display: flex; flex-direction: column;">
+      <div class="donate-card-panel" style="background: #122D52; border: 1px solid rgba(255,255,255,0.12); border-radius: 16px; padding: 2.25rem 1.75rem; display: flex; flex-direction: column;">
 
         <!-- Icon -->
         <div style="font-size: 2rem; margin-bottom: 1.25rem;">
@@ -250,7 +250,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <!-- SCRIPTURE BANNER                                -->
 <!-- ═══════════════════════════════════════════════ -->
-<section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; text-align: center;">
+<section style="background-color: #0B1F3B; padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
     <p style="font-family: Cormorant Garamond, Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0;">
       "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver."
@@ -312,7 +312,7 @@ toc: false
       </div>
 
       <div style="background: #FFFFFF; border-radius: 12px; padding: 1.5rem; display: flex; gap: 1rem; align-items: flex-start;">
-        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #38BDF8, #60CBFF); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">🏠</div>
+        <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #0B1F3B, #122D52); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">🏠</div>
         <div>
           <strong style="font-family: Inter, sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$100 — Building Materials</strong>
           <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Helps purchase cement, timber, and roofing for Phase&nbsp;1 of the school — land, foundation, and first classrooms.</p>
@@ -368,7 +368,7 @@ toc: false
       </div>
 
       <div style="display: flex; gap: 1rem; align-items: flex-start;">
-        <div style="width: 8px; height: 8px; background-color: #38BDF8; border-radius: 50%; flex-shrink: 0; margin-top: 0.6rem;"></div>
+        <div style="width: 8px; height: 8px; background-color: #D4A017; border-radius: 50%; flex-shrink: 0; margin-top: 0.6rem;"></div>
         <div>
           <strong style="font-family: Inter, sans-serif; color: #2B2B2B;">Direct Community Impact.</strong>
           <span style="font-family: Inter, sans-serif; font-size: 1rem; color: #5A5955; line-height: 1.7;"> Your gift directly supports the two callings of this ministry: building the Christian school in Juba and grounding young people in biblical truth through evangelism and discipleship.</span>
@@ -405,7 +405,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <!-- FINAL CTA                                       -->
 <!-- ═══════════════════════════════════════════════ -->
-<section style="background: linear-gradient(135deg, #2B2B2B 0%, #0a1525 60%, #2B2B2B 100%); padding: 3.5rem 1.5rem; text-align: center;">
+<section style="background: linear-gradient(135deg, #0B1F3B 0%, #060F1F 60%, #0B1F3B 100%); padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
     <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #FFFFFF; margin-bottom: 1rem; font-weight: 600;">
       Questions About Your Gift?
