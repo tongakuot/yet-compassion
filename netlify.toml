@@ -5,11 +5,12 @@
 [[plugins]]
   package = "@quarto/netlify-plugin-quarto"
   [plugins.inputs]
-    # Pinned to the version the site is QA'd against. Quarto 1.10.x
-    # mangles single-quoted font names inside inline style attributes
-    # (breaks button/gold styling site-wide). Bump deliberately, then
-    # verify inline styles survive before keeping the new version.
-    version = "1.6.42"
+    # Pinned to match local dev (Quarto 1.9.38, verified clean).
+    # Quarto 1.10.x mangles single-quoted font names inside inline
+    # style attributes (breaks button/gold styling site-wide). Bump
+    # deliberately and verify inline styles survive before keeping
+    # a newer version.
+    version = "1.9.38"
     cmd = "render"
 
 [build]
