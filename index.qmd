@@ -166,10 +166,8 @@ toc: false
         <a href="/watch-live.qmd" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 0.95rem; color: #A8871F; background: transparent; border: 2px solid #A8871F; border-radius: 10px; padding: 0.85rem 1.5rem; text-decoration: none; transition: all 200ms ease; min-height: 48px;">Watch Past Messages</a>
       </div>
     </div>
-    <div style="background: #060F1F; border-radius: 16px; overflow: hidden; border: 1px solid #E8E7E3; box-shadow: 0 14px 40px rgba(11,31,59,0.18);">
-      <div style="position: relative; padding-top: 62.5%;">
-        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FYetCompassion&tabs=timeline&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false" style="position: absolute; inset: 0; width: 100%; height: 100%; border: none;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" title="Y.E.T. Compassion on Facebook" loading="lazy"></iframe>
-      </div>
+    <div style="width: 100%; max-width: 500px; margin: 0 auto; background: #FFFFFF; border-radius: 16px; overflow: hidden; border: 1px solid #E8E7E3; box-shadow: 0 14px 40px rgba(11,31,59,0.18);">
+      <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FYetCompassion&tabs=timeline&width=500&height=560&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false" style="display: block; width: 100%; height: 560px; border: none;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" title="Y.E.T. Compassion on Facebook" loading="lazy"></iframe>
     </div>
   </div>
 </section>
