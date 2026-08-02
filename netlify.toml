@@ -5,7 +5,11 @@
 [[plugins]]
   package = "@quarto/netlify-plugin-quarto"
   [plugins.inputs]
-    version = "latest"
+    # Pinned to the version the site is QA'd against. Quarto 1.10.x
+    # mangles single-quoted font names inside inline style attributes
+    # (breaks button/gold styling site-wide). Bump deliberately, then
+    # verify inline styles survive before keeping the new version.
+    version = "1.6.42"
     cmd = "render"
 
 [build]
