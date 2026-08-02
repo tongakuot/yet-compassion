@@ -29,7 +29,7 @@ toc: false
 <section id="why" class="reveal-on-scroll" style="background: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div class="school-why-grid" style="max-width: 1140px; margin: 0 auto; display: grid; grid-template-columns: 1.15fr 1fr; gap: 3.5rem; align-items: center;">
     <div>
-      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">Why a School</p>
+      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">Why a School</p>
       <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">Education Makes the Difference</h2>
       <div style="width: 60px; height: 3px; background: #D4A017; margin-bottom: 1.6rem;"></div>
       <p style="font-family: Inter, sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.8; margin: 0 0 1.1rem;">We believe education makes a difference in a person's life — especially Christian education. In a nation as young as South Sudan, a school is more than a building: it is a promise to the next generation that their future will be larger than their past.</p>
@@ -48,7 +48,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background: #F7F6F2; padding: 4.5rem 1.5rem;">
   <div style="max-width: 1140px; margin: 0 auto;">
-    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">What the School Stands On</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">What the School Stands On</p>
     <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">Three Pillars</h2>
     <div style="width: 60px; height: 3px; background: #D4A017; margin-bottom: 1.6rem;"></div>
     <div class="school-pillar-grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; margin-top: 2.2rem;">
@@ -112,7 +112,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div style="max-width: 1140px; margin: 0 auto;">
-    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">A Track Record, Not a Promise</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">A Track Record, Not a Promise</p>
     <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">We Have Built Before</h2>
     <div style="width: 60px; height: 3px; background: #D4A017; margin-bottom: 1.6rem;"></div>
     <p style="font-family: Inter, sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.75; max-width: 760px; margin: 0 0 2.2rem;">Between 2006 and 2013, Y.E.T. Compassion drilled water wells, delivered food aid and medical supplies, and supported schooling in the Biong community — work documented in the photos below. The school in Juba continues what war interrupted.</p>

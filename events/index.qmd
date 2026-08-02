@@ -45,7 +45,7 @@ toc: false
         </div>
         <div style="padding: 1.5rem;">
           <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
-            <span style="font-family: Inter, sans-serif; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #D4A017; background: rgba(212,160,23,0.1); padding: 0.2rem 0.5rem; border-radius: 4px;">Official Launch</span>
+            <span style="font-family: Inter, sans-serif; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #8A6D14; background: rgba(212,160,23,0.1); padding: 0.2rem 0.5rem; border-radius: 4px;">Official Launch</span>
           </div>
           <h3 style="font-family: Playfair Display, serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.5rem;">Y.E.T. Compassion Website Launch</h3>
           <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 0.75rem;">After nearly two decades of faithful service, Y.E.T. Compassion goes digital. Our new website will share our mission with the world — introducing the campaign to build a Christian school in Juba, our youth evangelism ministry, and inviting new partners to join the work.</p>

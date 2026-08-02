@@ -34,7 +34,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">His Story</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">His Story</p>
     <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
       From Displacement to Purpose
     </h2>
@@ -68,7 +68,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 4.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">His Faith</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">His Faith</p>
     <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
       Faith as Foundation
     </h2>
@@ -119,7 +119,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">The Calling Today</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">The Calling Today</p>
     <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
       A School and a Pulpit
     </h2>
@@ -153,7 +153,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 4.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">How He Leads</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">How He Leads</p>
     <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
       Leadership Philosophy
     </h2>
@@ -170,7 +170,7 @@ toc: false
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Leaders exist to serve, not to be served. Actively involved in the lives of those Y.E.T. serves.</span>
       </div>
       <div style="text-align: center; padding: 1.5rem;">
-        <div style="font-size: 1.5rem; margin-bottom: 0.75rem; color: #A8871F;">✦</div>
+        <div style="font-size: 1.5rem; margin-bottom: 0.75rem; color: #8A6D14;">✦</div>
         <strong style="display: block; font-size: 0.95rem; color: #2B2B2B; margin-bottom: 0.35rem;">Collaborative Vision</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Developing other leaders, shared decision-making, and space for community voices.</span>
       </div>
@@ -180,7 +180,7 @@ toc: false
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Complete transparency and financial integrity. Every resource honors donors and youth alike.</span>
       </div>
       <div style="text-align: center; padding: 1.5rem;">
-        <div style="font-size: 1.5rem; margin-bottom: 0.75rem; color: #A8871F;">✦</div>
+        <div style="font-size: 1.5rem; margin-bottom: 0.75rem; color: #8A6D14;">✦</div>
         <strong style="display: block; font-size: 0.95rem; color: #2B2B2B; margin-bottom: 0.35rem;">Long-Term Thinking</strong>
         <span style="font-size: 0.88rem; color: #5A5955; line-height: 1.6;">Generational investment over quick wins. Trusting that faithfulness bears lasting fruit.</span>
       </div>

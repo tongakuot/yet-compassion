@@ -29,7 +29,7 @@ toc: false
 <section id="what" class="reveal-on-scroll" style="background: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div class="ye-what-grid" style="max-width: 1140px; margin: 0 auto; display: grid; grid-template-columns: 1.15fr 1fr; gap: 3.5rem; align-items: center;">
     <div>
-      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">What This Ministry Is</p>
+      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">What This Ministry Is</p>
       <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">The Word, Brought Near</h2>
       <div style="width: 60px; height: 3px; background: #D4A017; margin-bottom: 1.6rem;"></div>
       <p style="font-family: Inter, sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.8; margin: 0 0 1.1rem;">Youth Evangelism &amp; Discipleship is the ministry Y.E.T. Compassion was founded on: reaching young people with the transformative power of God's Word, grounded in Scripture and responsive to the realities they face. Many of the young people we serve navigate complex identities — bridging their heritage with life in America, processing trauma, and seeking purpose.</p>
@@ -48,7 +48,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background: #F7F6F2; padding: 4.5rem 1.5rem;">
   <div style="max-width: 1140px; margin: 0 auto;">
-    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">How It Happens</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">How It Happens</p>
     <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">Three Ways the Word Takes Root</h2>
     <div style="width: 60px; height: 3px; background: #D4A017; margin-bottom: 1.6rem;"></div>
     <div class="ye-how-grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; margin-top: 2.2rem;">
@@ -84,7 +84,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div style="max-width: 1140px; margin: 0 auto;">
-    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">One Ministry, Many Doors</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">One Ministry, Many Doors</p>
     <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">Where This Work Reaches</h2>
     <div style="width: 60px; height: 3px; background: #D4A017; margin-bottom: 1.6rem;"></div>
     <p style="font-family: Inter, sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.75; max-width: 760px; margin: 0 0 2.2rem;">The same calling — grounding young people in biblical truth — flows through everything Y.E.T. Compassion does, from the weekly live broadcast to the school we are building in Juba.</p>
@@ -97,7 +97,7 @@ toc: false
         <a href="/watch-live.qmd" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: Inter, sans-serif; font-weight: 700; font-size: 0.95rem; color: #D4A017; background: transparent; border: 2px solid #D4A017; border-radius: 10px; padding: 0.85rem 1.5rem; text-decoration: none; min-height: 48px; align-self: flex-start;">Watch Live →</a>
       </div>
       <div style="background: #F7F6F2; border: 1px solid #EEEDE9; border-radius: 16px; padding: 2.25rem 2rem; display: flex; flex-direction: column;">
-        <p style="font-family: Inter, sans-serif; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.8rem;">On the Ground</p>
+        <p style="font-family: Inter, sans-serif; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.8rem;">On the Ground</p>
         <h3 style="font-family: Playfair Display, serif; font-size: 1.4rem; font-weight: 600; color: #0B1F3B; margin: 0 0 0.7rem;">The School in Juba</h3>
         <p style="font-family: Inter, sans-serif; font-size: 0.93rem; color: #5A5955; line-height: 1.7; margin: 0 0 1.6rem;">Discipleship shaped our conviction that education makes the difference — especially Christian education. The school we are building in Juba will weave biblical truth through school life, so students are discipled as well as taught.</p>
         <div style="flex: 1;"></div>

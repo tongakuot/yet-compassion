@@ -65,7 +65,7 @@ toc: false
 <section class="reveal-on-scroll" style="background: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div class="home-campaign-grid" style="max-width: 1140px; margin: 0 auto; display: grid; grid-template-columns: 1.1fr 1fr; gap: 3.5rem; align-items: center;">
     <div>
-      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">The School Campaign</p>
+      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">The School Campaign</p>
       <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">One School. A Generation Changed.</h2>
       <div style="width: 60px; height: 3px; background: #D4A017; margin-bottom: 1.6rem;"></div>
       <p style="font-family: Inter, sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.75; margin: 0 0 0.5rem;">Every gift goes toward Phase&nbsp;1 of construction — securing land and raising the first classrooms in Juba. The work is carried out in partnership with local churches, community leaders, and organizations on the ground.</p>
@@ -98,7 +98,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background: #F7F6F2; padding: 4.5rem 1.5rem;">
   <div style="max-width: 1140px; margin: 0 auto;">
-    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">What We Do</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">What We Do</p>
     <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">Two Callings, One Mission</h2>
     <div style="width: 60px; height: 3px; background: #D4A017; margin-bottom: 1.6rem;"></div>
     <div class="home-pillar-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.75rem; margin-top: 2.4rem;">
@@ -157,13 +157,13 @@ toc: false
 <section class="reveal-on-scroll" style="background: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div class="home-live-grid" style="max-width: 1140px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1.15fr; gap: 3.5rem; align-items: center;">
     <div>
-      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">Watch Live</p>
+      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">Watch Live</p>
       <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">Join Evangelist Gai's Facebook Live Show</h2>
       <div style="width: 60px; height: 3px; background: #D4A017; margin-bottom: 1.6rem;"></div>
       <p style="font-family: Inter, sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.75; margin: 0;">Evangelist Gai Bol Luom preaches live on Facebook — bringing the Gospel to the South Sudanese community at home and across the diaspora. Follow the page to be notified whenever the show goes live, and watch past messages anytime.</p>
       <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 1.8rem;">
         <a href="https://www.facebook.com/YetCompassion" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: Inter, sans-serif; font-weight: 700; font-size: 0.95rem; color: #2B2B2B; background: #D4A017; border-radius: 10px; padding: 0.85rem 1.5rem; text-decoration: none; transition: all 200ms ease; min-height: 48px;">Follow on Facebook →</a>
-        <a href="/watch-live.qmd" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: Inter, sans-serif; font-weight: 700; font-size: 0.95rem; color: #A8871F; background: transparent; border: 2px solid #A8871F; border-radius: 10px; padding: 0.85rem 1.5rem; text-decoration: none; transition: all 200ms ease; min-height: 48px;">Watch Past Messages</a>
+        <a href="/watch-live.qmd" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: Inter, sans-serif; font-weight: 700; font-size: 0.95rem; color: #8A6D14; background: transparent; border: 2px solid #8A6D14; border-radius: 10px; padding: 0.85rem 1.5rem; text-decoration: none; transition: all 200ms ease; min-height: 48px;">Watch Past Messages</a>
       </div>
     </div>
     <div style="width: 100%; max-width: 500px; margin: 0 auto; background: #FFFFFF; border-radius: 16px; overflow: hidden; border: 1px solid #E8E7E3; box-shadow: 0 14px 40px rgba(11,31,59,0.18);">
@@ -178,9 +178,9 @@ toc: false
 <section class="reveal-on-scroll" style="background: #F7F6F2; padding: 3.4rem 1.5rem; border-top: 1px solid #EEEDE9;">
   <div class="home-stats-grid" style="max-width: 1000px; margin: 0 auto; display: grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; text-align: center;">
     <div><div style="font-family: Playfair Display, serif; font-size: 2.4rem; font-weight: 700; color: #0B1F3B;">2006</div><div style="font-family: Inter, sans-serif; font-size: 0.82rem; color: #5A5955; margin-top: 0.3rem; line-height: 1.45;">Founded — two decades of ministry</div></div>
-    <div><div style="font-family: Playfair Display, serif; font-size: 2.4rem; font-weight: 700; color: #0B1F3B;"><span style="color: #D4A017;">501</span>(c)(3)</div><div style="font-family: Inter, sans-serif; font-size: 0.82rem; color: #5A5955; margin-top: 0.3rem; line-height: 1.45;">Registered U.S. nonprofit</div></div>
+    <div><div style="font-family: Playfair Display, serif; font-size: 2.4rem; font-weight: 700; color: #0B1F3B;"><span style="color: #8A6D14;">501</span>(c)(3)</div><div style="font-family: Inter, sans-serif; font-size: 0.82rem; color: #5A5955; margin-top: 0.3rem; line-height: 1.45;">Registered U.S. nonprofit</div></div>
     <div><div style="font-family: Playfair Display, serif; font-size: 2.4rem; font-weight: 700; color: #0B1F3B;">2</div><div style="font-family: Inter, sans-serif; font-size: 0.82rem; color: #5A5955; margin-top: 0.3rem; line-height: 1.45;">Callings: the School &amp; Youth Evangelism</div></div>
-    <div><div style="font-family: Playfair Display, serif; font-size: 2.4rem; font-weight: 700; color: #D4A017;">1</div><div style="font-family: Inter, sans-serif; font-size: 0.82rem; color: #5A5955; margin-top: 0.3rem; line-height: 1.45;">School to build in Juba — Phase 1 underway</div></div>
+    <div><div style="font-family: Playfair Display, serif; font-size: 2.4rem; font-weight: 700; color: #8A6D14;">1</div><div style="font-family: Inter, sans-serif; font-size: 0.82rem; color: #5A5955; margin-top: 0.3rem; line-height: 1.45;">School to build in Juba — Phase 1 underway</div></div>
   </div>
 </section>
 

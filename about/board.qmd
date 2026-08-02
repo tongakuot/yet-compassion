@@ -30,7 +30,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">Governance</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">Governance</p>
     <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
       Strong Governance, Faithful Stewardship
     </h2>
@@ -59,7 +59,7 @@ toc: false
       <!-- Details -->
       <div style="flex: 1; min-width: 280px;">
         <h3 style="font-family: Playfair Display, serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Evangelist Gai Bol Luom</h3>
-        <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #A8871F; font-weight: 600; margin-bottom: 1rem;">Founder &amp; Executive Director</p>
+        <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #8A6D14; font-weight: 600; margin-bottom: 1rem;">Founder &amp; Executive Director</p>
 
         <p style="font-family: Inter, sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
           Gai is the visionary founder of Y.E.T. Compassion and serves as Executive Director. With deep roots in the South Sudanese community and a life shaped by displacement, faith, and resilience, Gai provides spiritual and strategic leadership for the school project in Juba and the youth evangelism ministry.
@@ -80,7 +80,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section id="operational-director" class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto;">
-    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin-bottom: 1.5rem;">Leadership</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin-bottom: 1.5rem;">Leadership</p>
 
     <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
       <!-- Avatar -->
@@ -139,12 +139,12 @@ toc: false
     <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
       <!-- Avatar -->
       <div style="flex-shrink: 0;">
-        <div style="width: 100px; height: 100px; border-radius: 50%; background: linear-gradient(135deg, #D4A017, #E0B030); display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #FFFFFF; box-shadow: 0 4px 12px rgba(11,31,59,0.15);">—</div>
+        <div style="width: 100px; height: 100px; border-radius: 50%; background: linear-gradient(135deg, #D4A017, #E0B030); display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: #2B2B2B; box-shadow: 0 4px 12px rgba(11,31,59,0.15);">—</div>
       </div>
       <!-- Details -->
       <div style="flex: 1; min-width: 280px;">
         <h3 style="font-family: Playfair Display, serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Vacant</h3>
-        <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #A8871F; font-weight: 600; margin-bottom: 1rem;">Board Member &amp; Spiritual Advisor</p>
+        <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #8A6D14; font-weight: 600; margin-bottom: 1rem;">Board Member &amp; Spiritual Advisor</p>
 
         <p style="font-family: Inter, sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955;">
           Youth Evangelism Training (Y.E.T.) Compassion is actively seeking a Spiritual Advisor who brings pastoral wisdom, spiritual oversight, and deep community understanding to board discussions and organizational direction. This role ensures that every initiative, partnership, and decision remains grounded in biblical principles and theological integrity — the foundational values upon which Y.E.T. Compassion was built.
@@ -167,7 +167,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">Stewardship</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">Stewardship</p>
     <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
       Our Commitment to Transparency
     </h2>

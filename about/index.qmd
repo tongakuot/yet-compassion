@@ -28,7 +28,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">Who We Are</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">Who We Are</p>
     <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">Two Decades of Faithful Service</h2>
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.6rem;"></div>
 
@@ -47,7 +47,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 4.5rem 1.5rem;">
   <div style="max-width: 1140px; margin: 0 auto;">
-    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">The Work in Biong · 2006–2013</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">The Work in Biong · 2006–2013</p>
     <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">We Have Served Before</h2>
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.6rem;"></div>
 
@@ -126,7 +126,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section id="mission" class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">Our Mission</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">Our Mission</p>
     <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">Education That Transforms</h2>
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.6rem;"></div>
 
@@ -141,7 +141,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 4.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">Our Vision</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">Our Vision</p>
     <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">A Generation Grounded in Truth</h2>
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.6rem;"></div>
 
@@ -164,7 +164,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div style="max-width: 1140px; margin: 0 auto;">
-    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">The Mission Today</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">The Mission Today</p>
     <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">Two Callings, One Mission</h2>
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.6rem;"></div>
 
@@ -195,7 +195,7 @@ toc: false
 <section class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 4.5rem 1.5rem;">
   <div style="max-width: 900px; margin: 0 auto;">
     <div style="text-align: center; margin-bottom: 2.5rem;">
-      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">Core Values</p>
+      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">Core Values</p>
       <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.5rem; font-weight: 600;">What Guides Us</h2>
       <div style="width: 60px; height: 3px; background-color: #D4A017; margin: 0 auto 1rem;"></div>
       <p style="font-family: Inter, sans-serif; font-size: 1rem; color: #5A5955;">Five principles that shape every decision, partnership, and dollar spent.</p>
@@ -253,7 +253,7 @@ toc: false
 <section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div style="max-width: 900px; margin: 0 auto;">
     <div style="text-align: center; margin-bottom: 2.5rem;">
-      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">Leadership</p>
+      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">Leadership</p>
       <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.5rem; font-weight: 600;">Our Leadership</h2>
       <div style="width: 60px; height: 3px; background-color: #D4A017; margin: 0 auto 1rem;"></div>
       <p style="font-family: Inter, sans-serif; font-size: 1rem; color: #5A5955;">Guided by faith, accountability, and a shared commitment to the next generation.</p>
@@ -264,7 +264,7 @@ toc: false
       <a href="/about/founder.qmd" style="text-decoration: none; background: #F7F6F2; border: 1px solid #EEEDE9; border-radius: 12px; padding: 2rem; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease; display: block;">
         <img src="/images/project-images/gai-bol-luom.jpg" alt="Evangelist Gai Bol Luom" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; object-position: center top; margin: 0 auto 1rem; display: block; box-shadow: 0 2px 8px rgba(11,31,59,0.15);">
         <h4 style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1.05rem; color: #2B2B2B; margin-bottom: 0.25rem;">Evangelist Gai Bol Luom</h4>
-        <p style="font-family: Inter, sans-serif; font-size: 0.85rem; color: #A8871F; font-weight: 600; margin-bottom: 0.5rem;">Founder &amp; Executive Director</p>
+        <p style="font-family: Inter, sans-serif; font-size: 0.85rem; color: #8A6D14; font-weight: 600; margin-bottom: 0.5rem;">Founder &amp; Executive Director</p>
         <span style="font-family: Inter, sans-serif; font-size: 0.85rem; color: #0B1F3B; font-weight: 600;">View Profile →</span>
       </a>
 

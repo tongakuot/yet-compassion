@@ -1442,24 +1442,23 @@ main.content > section {
   background: $primary-dark;
 
   .yet-footer-verse {
-    max-width: 760px;
-    margin: 0 auto;
+    background: $ivory;
     padding: 2.6rem 1.5rem 2.2rem;
     text-align: center;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 
     .verse-text {
       font-family: 'Cormorant Garamond', Georgia, serif;
       font-style: italic;
-      color: $secondary;
+      color: #8A6D14; // accessible gold on light (WCAG AA)
       font-size: 1.05rem;
       line-height: 1.65;
       display: block;
-      margin-bottom: 0.6rem;
+      max-width: 760px;
+      margin: 0 auto 0.6rem;
     }
     .verse-ref {
       font-family: 'Inter', sans-serif;
-      color: rgba(212, 160, 23, 0.8);
+      color: #8A6D14;
       font-size: 0.68rem;
       font-weight: 700;
       letter-spacing: 0.14em;
