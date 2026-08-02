@@ -98,10 +98,12 @@ toc: false
           <select id="contact-subject" name="subject" required style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
             <option value="">Select a topic</option>
             <option value="general">General Inquiry</option>
+            <option value="school-campaign">The School Campaign</option>
+            <option value="youth-evangelism">Youth Evangelism & Discipleship</option>
+            <option value="facebook-live">Facebook Live Show</option>
             <option value="volunteer">Volunteering</option>
             <option value="partnership">Partnership Opportunity</option>
             <option value="donation">Donation Question</option>
-            <option value="programs">Programs Information</option>
             <option value="media">Media & Press</option>
             <option value="other">Other</option>
           </select>
@@ -204,8 +206,8 @@ toc: false
       </div>
 
       <!-- Social Card -->
-      <div style="background: #F7F6F2; border-radius: 12px; padding: 1.5rem; border-left: 4px solid #38BDF8;">
-        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.95rem; color: #38BDF8; margin-bottom: 0.75rem;">Connect With Us</h4>
+      <div style="background: #F7F6F2; border-radius: 12px; padding: 1.5rem; border-left: 4px solid #A8871F;">
+        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.95rem; color: #A8871F; margin-bottom: 0.75rem;">Connect With Us</h4>
         <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
           <a href="https://www.facebook.com/YetCompassion" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.4rem; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 500; color: #2B2B2B; text-decoration: none; padding: 0.4rem 0.75rem; background: #FFFFFF; border-radius: 6px; border: 1px solid #D9D8D4; transition: all 200ms ease;">
             Facebook
@@ -217,7 +219,7 @@ toc: false
       </div>
 
       <!-- Response Time -->
-      <div style="background: linear-gradient(135deg, rgba(31,94,59,0.06), rgba(212,160,23,0.06)); border-radius: 12px; padding: 1.5rem; text-align: center;">
+      <div style="background: linear-gradient(135deg, rgba(11,31,59,0.05), rgba(212,160,23,0.06)); border-radius: 12px; padding: 1.5rem; text-align: center;">
         <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">
           We typically respond within <strong style="color: #0B1F3B;">24–48 hours</strong>. For urgent matters, please include "URGENT" in your subject line.
         </p>
@@ -232,7 +234,7 @@ toc: false
     form textarea:focus {
       outline: none;
       border-color: #0B1F3B !important;
-      box-shadow: 0 0 0 3px rgba(31,94,59,0.12);
+      box-shadow: 0 0 0 3px rgba(11,31,59,0.12);
     }
     form button:hover {
       background-color: #122D52 !important;
@@ -271,11 +273,11 @@ toc: false
       Other Ways to Connect
     </h2>
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: #5A5955; line-height: 1.7; margin-bottom: 2rem;">
-      Beyond sending a message, you can support our mission through volunteering, partnership, or financial giving.
+      Beyond sending a message, you can support the school campaign through giving, volunteering, or partnership — and join Evangelist Gai's Facebook Live show.
     </p>
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-      <a href="/donate.html" class="btn-gold">Support Our Mission</a>
-      <a href="/get-involved.html" class="btn-green">Get Involved</a>
+      <a href="/donate.qmd" class="btn-gold">Support Our Mission</a>
+      <a href="/get-involved.qmd" class="btn-green">Get Involved</a>
     </div>
   </div>
 </section>

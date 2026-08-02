@@ -1,23 +1,23 @@
 ---
-title: "2026 Fundraising Campaign — Juba & Bor Outreach"
-description: "Help us raise $41,000 in 2026 to deliver a two-week camp outreach in Juba and Bor, South Sudan, followed by four months of discipleship in partner churches and schools."
+title: "The School Campaign — Phase 1: Building in Juba"
+description: "Help us raise $100,000 for Phase 1 of the Christian school in Juba, South Sudan — securing land, laying the foundation, and raising the first classrooms in partnership with local churches and community leaders."
 page-layout: custom
 toc: false
 ---
 
 ```{=html}
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- 2026 FUNDRAISING CAMPAIGN — Juba & Bor                      -->
-<!-- Brand: Navy #0B1F3B · Gold #D4A017 · Cyan #38BDF8           -->
+<!-- THE SCHOOL CAMPAIGN — Phase 1, Juba                         -->
+<!-- Brand: Navy #0B1F3B · Gold #D4A017                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- JSON-LD: DonateAction + FundraisingEvent for SEO -->
+<!-- JSON-LD: DonateAction for SEO -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "DonateAction",
-  "name": "Y.E.T. Compassion 2026 Fundraising Campaign",
-  "description": "Two-week camp outreach in Juba and Bor, South Sudan, with a four-month discipleship follow-up in partner churches and schools.",
+  "name": "Y.E.T. Compassion School Campaign — Phase 1",
+  "description": "Phase 1 of building a Christian school in Juba, South Sudan: securing land, laying the foundation, and raising the first classrooms in partnership with local churches, community leaders, and organizations.",
   "recipient": {
     "@type": "NGO",
     "name": "Y.E.T. Compassion",
@@ -25,7 +25,7 @@ toc: false
   },
   "url": "https://www.yetcompassion.org/campaigns/2026.html",
   "target": "https://www.yetcompassion.org/donate.html",
-  "price": "41000",
+  "price": "100000",
   "priceCurrency": "USD"
 }
 </script>
@@ -37,19 +37,19 @@ toc: false
   <div style="position: absolute; inset: 0; opacity: 0.06; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23D4A017%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
 
   <div style="position: relative; z-index: 2; max-width: 880px; margin: 0 auto; text-align: center;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.16em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">2026 Fundraising Campaign</p>
+    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.16em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">The School Campaign · Phase 1</p>
 
     <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2.1rem, 5vw, 3.4rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.12; margin-bottom: 1.25rem;">
-      Juba &amp; Bor Outreach <span style="color: #D4A017; font-style: italic;">+ Discipleship Follow-Up</span>
+      Building the School in <span style="color: #D4A017; font-style: italic;">Juba, South Sudan</span>
     </h1>
 
     <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.18rem); color: rgba(255,255,255,0.82); line-height: 1.65; max-width: 680px; margin: 0 auto 2rem;">
-      A targeted, accountable plan to reach South Sudanese youth in Juba and Bor — and walk with them long after the camp ends.
+      $100,000 secures the land, lays the foundation, and raises the first classrooms of a Christian school — built in partnership with local churches, community leaders, and organizations on the ground.
     </p>
 
     <div style="display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap;">
-      <a href="../donate.html" class="campaign-cta-primary" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.85rem 1.6rem; font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 700; color: #2B2B2B; background: #D4A017; border-radius: 8px; text-decoration: none; transition: all 200ms ease; box-shadow: 0 4px 14px rgba(212,160,23,0.35);">
-        Give to the Campaign
+      <a href="/donate.qmd" class="campaign-cta-primary" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.85rem 1.6rem; font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 700; color: #2B2B2B; background: #D4A017; border-radius: 8px; text-decoration: none; transition: all 200ms ease; box-shadow: 0 4px 14px rgba(212,160,23,0.35);">
+        Give to Build the School
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
       </a>
       <a href="#budget" class="campaign-cta-secondary" style="display: inline-flex; align-items: center; padding: 0.85rem 1.6rem; font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 600; color: #FFFFFF; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.22); border-radius: 8px; text-decoration: none; transition: all 200ms ease; backdrop-filter: blur(6px);">See the Budget</a>
@@ -65,11 +65,11 @@ toc: false
 
     <div style="display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 1rem; margin-bottom: 1rem;">
       <div>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #D4A017; margin: 0 0 0.25rem;">Campaign Progress</p>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #D4A017; margin: 0 0 0.25rem;">Phase 1 Progress</p>
         <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.4rem, 2.6vw, 1.85rem); color: #0B1F3B; margin: 0; font-weight: 600;">
           <span id="campaign-raised" data-raised="0">$0</span>
           <span style="color: #5A5955; font-weight: 400;">raised of</span>
-          <span style="color: #0B1F3B;">$41,000</span>
+          <span style="color: #0B1F3B;">$100,000</span>
         </h2>
       </div>
       <div style="text-align: right;">
@@ -83,7 +83,7 @@ toc: false
     </div>
 
     <!-- Progress bar -->
-    <div role="progressbar" aria-label="Campaign progress" aria-valuemin="0" aria-valuemax="41000" aria-valuenow="0" style="position: relative; width: 100%; height: 18px; background: #E5E3DD; border-radius: 999px; overflow: hidden;">
+    <div role="progressbar" aria-label="School campaign Phase 1 progress" aria-valuemin="0" aria-valuemax="100000" aria-valuenow="0" style="position: relative; width: 100%; height: 18px; background: #E5E3DD; border-radius: 999px; overflow: hidden;">
       <div id="campaign-bar" style="position: absolute; inset: 0 auto 0 0; width: 0%; background: linear-gradient(90deg, #0B1F3B 0%, #D4A017 100%); border-radius: 999px; transition: width 1.1s cubic-bezier(0.16,1,0.3,1);"></div>
     </div>
 
@@ -94,20 +94,20 @@ toc: false
 </section>
 
 <!-- ═══════════════════════════════════════════════ -->
-<!-- WHY NOW (narrative)                              -->
+<!-- WHY NOW (narrative — the war-interrupted story) -->
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background: #FFFFFF; padding: 4rem 1.5rem;">
   <div style="max-width: 760px; margin: 0 auto;">
     <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #D4A017; margin: 0 0 0.6rem;">Why this campaign, why now</p>
     <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.65rem, 3vw, 2.2rem); color: #0B1F3B; margin: 0 0 1.25rem; font-weight: 600; line-height: 1.2;">
-      A generation ready to lead — if we equip them.
+      We are finishing what war interrupted.
     </h2>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 1.075rem; color: #2B2B2B; line-height: 1.75; margin: 0 0 1.1rem;">
-      South Sudanese youth in Juba and Bor are coming of age in the longest stretch of conflict and displacement in their country's modern history. They are not lacking ambition. They are lacking the things that make ambition durable: anchored teaching, trusted mentors, and tangible support.
+      Since 2006, Y.E.T. Compassion has served the people of South Sudan — drilling wells, delivering food aid and medical supplies, and supporting schools in the Biong community. When war broke out in 2013, families were displaced and the work on the ground had to stop.
     </p>
     <p style="font-family: 'Inter', sans-serif; font-size: 1.075rem; color: #2B2B2B; line-height: 1.75; margin: 0 0 1.1rem;">
-      Youth Evangelism Training (Y.E.T.) Compassion has spent two decades building the trust, the local relationships, and the operational discipline required to serve these communities well. 2026 is the year we put a focused plan against that opportunity — two camp sites, two weeks of intensive formation, and four months of follow-through that turns the camp from an event into a discipleship pipeline.
+      Today the door has opened to return, and we are resuming the mission where it matters most: educating the next generation. A Christian school in Juba — built with local churches, community leaders, and organizations — gives children academic excellence and biblical truth in the same classroom. Phase 1 puts land, foundation, and the first classrooms in place, so teaching can begin as early as possible.
     </p>
 
     <blockquote style="margin: 2rem 0 0; padding: 1.25rem 1.5rem; border-left: 4px solid #D4A017; background: #F7F6F2;">
@@ -120,47 +120,48 @@ toc: false
 </section>
 
 <!-- ═══════════════════════════════════════════════ -->
-<!-- THE PLAN — three pillars                         -->
+<!-- THE PLAN — three building phases                 -->
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background: #0B1F3B; padding: 4rem 1.5rem;">
   <div style="max-width: 1100px; margin: 0 auto;">
     <div style="text-align: center; margin-bottom: 2.5rem;">
       <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #D4A017; margin: 0 0 0.6rem;">The Plan</p>
-      <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.65rem, 3vw, 2.2rem); color: #FFFFFF; margin: 0; font-weight: 600;">Three integrated phases. One outcome.</h2>
+      <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.65rem, 3vw, 2.2rem); color: #FFFFFF; margin: 0; font-weight: 600;">Three phases. One school.</h2>
+      <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: rgba(255,255,255,0.7); max-width: 640px; margin: 1rem auto 0; line-height: 1.65;">Building a school in South Sudan costs between $100,000 and $300,000, depending on size and scope. Rather than waiting until every dollar is in hand, we build in phases — each one a complete, usable step forward. This campaign funds Phase 1.</p>
     </div>
 
     <div class="campaign-pillars" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem;">
 
-      <!-- Pillar 1 -->
-      <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.1); border-radius: 14px; padding: 1.75rem 1.5rem;">
+      <!-- Phase 1 -->
+      <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(212,160,23,0.4); border-radius: 14px; padding: 1.75rem 1.5rem;">
         <div style="display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; border-radius: 10px; background: rgba(212,160,23,0.15); margin-bottom: 1rem;">
           <span style="font-family: 'Playfair Display', serif; font-size: 1.4rem; font-weight: 700; color: #D4A017;">01</span>
         </div>
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.2rem; color: #FFFFFF; margin: 0 0 0.5rem; font-weight: 600;">Two-Week Camp</h3>
+        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.2rem; color: #FFFFFF; margin: 0 0 0.5rem; font-weight: 600;">Land, Foundation &amp; First Classrooms</h3>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.92rem; color: rgba(255,255,255,0.72); line-height: 1.65; margin: 0;">
-          Concurrent camp sites in Juba and Bor. Daily teaching, leadership formation, worship, and community service.
+          Secure the site in Juba, lay the foundation, and raise the first classrooms — <span style="color: #D4A017; font-weight: 600;">the $100,000 goal of this campaign, now underway</span>.
         </p>
       </div>
 
-      <!-- Pillar 2 -->
-      <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(212,160,23,0.4); border-radius: 14px; padding: 1.75rem 1.5rem;">
+      <!-- Phase 2 -->
+      <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.1); border-radius: 14px; padding: 1.75rem 1.5rem;">
         <div style="display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; border-radius: 10px; background: rgba(212,160,23,0.15); margin-bottom: 1rem;">
           <span style="font-family: 'Playfair Display', serif; font-size: 1.4rem; font-weight: 700; color: #D4A017;">02</span>
         </div>
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.2rem; color: #FFFFFF; margin: 0 0 0.5rem; font-weight: 600;">Materials Distribution</h3>
+        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.2rem; color: #FFFFFF; margin: 0 0 0.5rem; font-weight: 600;">Additional Classrooms &amp; Teacher Housing</h3>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.92rem; color: rgba(255,255,255,0.72); line-height: 1.65; margin: 0;">
-          Bibles, study guides, leadership workbooks, and educational resources placed in every participant's hands to take home.
+          Expand capacity for more students, and make it possible for good teachers to live where they serve.
         </p>
       </div>
 
-      <!-- Pillar 3 -->
+      <!-- Phase 3 -->
       <div style="background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.1); border-radius: 14px; padding: 1.75rem 1.5rem;">
         <div style="display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; border-radius: 10px; background: rgba(212,160,23,0.15); margin-bottom: 1rem;">
           <span style="font-family: 'Playfair Display', serif; font-size: 1.4rem; font-weight: 700; color: #D4A017;">03</span>
         </div>
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.2rem; color: #FFFFFF; margin: 0 0 0.5rem; font-weight: 600;">4-Month Follow-Up</h3>
+        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.2rem; color: #FFFFFF; margin: 0 0 0.5rem; font-weight: 600;">Furnishing, Books &amp; Opening Enrollment</h3>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.92rem; color: rgba(255,255,255,0.72); line-height: 1.65; margin: 0;">
-          Sustained discipleship with the local churches and schools that hosted the camp — so the work compounds, not evaporates.
+          Desks, books, and supplies — then the doors open and the first students walk in.
         </p>
       </div>
     </div>
@@ -168,96 +169,79 @@ toc: false
 </section>
 
 <!-- ═══════════════════════════════════════════════ -->
-<!-- BUDGET BREAKDOWN                                -->
+<!-- BUDGET — Phase 1 categories (estimates)         -->
 <!-- ═══════════════════════════════════════════════ -->
 <section id="budget" class="reveal-on-scroll" style="background: #FFFFFF; padding: 4rem 1.5rem;">
   <div style="max-width: 980px; margin: 0 auto;">
 
     <div style="text-align: center; margin-bottom: 2.5rem;">
       <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #D4A017; margin: 0 0 0.6rem;">The Budget</p>
-      <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.65rem, 3vw, 2.2rem); color: #0B1F3B; margin: 0 0 0.6rem; font-weight: 600;">Where every dollar goes</h2>
-      <p style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #5A5955; max-width: 600px; margin: 0 auto;">
-        Every line maps to a specific operational need. There are no administrative overhead allocations — 100% of funds raised are deployed to the field.
+      <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.65rem, 3vw, 2.2rem); color: #0B1F3B; margin: 0 0 0.6rem; font-weight: 600;">Where Phase 1 funds go</h2>
+      <p style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #5A5955; max-width: 640px; margin: 0 auto;">
+        Phase 1 spending falls into the categories below. These are planning estimates — final line-item amounts are being confirmed with our partner churches, community leaders, and builders on the ground in Juba, and the finalized budget will be published on this page.
       </p>
     </div>
 
     <div class="campaign-budget" style="border: 1px solid #E5E3DD; border-radius: 12px; overflow: hidden;">
 
       <!-- Header row -->
-      <div class="budget-row budget-header" style="display: grid; grid-template-columns: 1fr 140px; gap: 1rem; padding: 1rem 1.5rem; background: #0B1F3B; color: #FFFFFF;">
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;">Description</span>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; text-align: right;">Amount (USD)</span>
+      <div class="budget-row budget-header" style="display: grid; grid-template-columns: 1fr 190px; gap: 1rem; padding: 1rem 1.5rem; background: #0B1F3B; color: #FFFFFF;">
+        <span style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;">Budget Category</span>
+        <span style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; text-align: right;">Estimate (USD)</span>
       </div>
 
-      <!-- Section banner -->
-      <div style="padding: 0.7rem 1.5rem; background: #122D52; color: #FFFFFF; font-family: 'Inter', sans-serif; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;">Operations &amp; Logistics</div>
+      <!-- Estimates banner -->
+      <div style="padding: 0.7rem 1.5rem; background: #122D52; color: #FFFFFF; font-family: 'Inter', sans-serif; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;">Estimates — to be finalized with partners on the ground</div>
 
-      <div class="budget-row" style="display: grid; grid-template-columns: 1fr 140px; gap: 1rem; padding: 1.1rem 1.5rem; border-bottom: 1px solid #E5E3DD;">
+      <div class="budget-row" style="display: grid; grid-template-columns: 1fr 190px; gap: 1rem; padding: 1.1rem 1.5rem; border-bottom: 1px solid #E5E3DD;">
         <div>
-          <div style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.2rem;">Mission Coordinator Travel</div>
-          <div style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #5A5955; line-height: 1.5;">Flights, ground transport, and visa processing for the field coordinator across the full mission cycle.</div>
+          <div style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.2rem;">Land Acquisition &amp; Site Preparation</div>
+          <div style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #5A5955; line-height: 1.5;">Securing the school site in Juba, surveying, and preparing the ground for construction.</div>
         </div>
-        <div style="font-family: 'Inter', sans-serif; font-size: 1.1rem; font-weight: 700; color: #0B1F3B; text-align: right; align-self: center;">$5,000</div>
+        <div style="font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 700; color: #0B1F3B; text-align: right; align-self: center; font-style: italic;">To be finalized</div>
       </div>
 
-      <div class="budget-row" style="display: grid; grid-template-columns: 1fr 140px; gap: 1rem; padding: 1.1rem 1.5rem; background: #FAFAF7; border-bottom: 1px solid #E5E3DD;">
+      <div class="budget-row" style="display: grid; grid-template-columns: 1fr 190px; gap: 1rem; padding: 1.1rem 1.5rem; background: #FAFAF7; border-bottom: 1px solid #E5E3DD;">
         <div>
-          <div style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.2rem;">Local Partner Coordination &amp; Outreach</div>
-          <div style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #5A5955; line-height: 1.5;">Stipends and travel for local pastors, printed invitations, and on-the-ground announcements that bring participants in.</div>
+          <div style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.2rem;">Foundation &amp; Structural Work</div>
+          <div style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #5A5955; line-height: 1.5;">Groundwork, foundation, and the structural core the whole school will stand on — for this phase and every phase after it.</div>
         </div>
-        <div style="font-family: 'Inter', sans-serif; font-size: 1.1rem; font-weight: 700; color: #0B1F3B; text-align: right; align-self: center;">$1,000</div>
+        <div style="font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 700; color: #0B1F3B; text-align: right; align-self: center; font-style: italic;">To be finalized</div>
       </div>
 
-      <!-- Section banner -->
-      <div style="padding: 0.7rem 1.5rem; background: #122D52; color: #FFFFFF; font-family: 'Inter', sans-serif; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;">Two-Week Camp — Juba &amp; Bor</div>
-
-      <div class="budget-row" style="display: grid; grid-template-columns: 1fr 140px; gap: 1rem; padding: 1.1rem 1.5rem; border-bottom: 1px solid #E5E3DD;">
+      <div class="budget-row" style="display: grid; grid-template-columns: 1fr 190px; gap: 1rem; padding: 1.1rem 1.5rem; border-bottom: 1px solid #E5E3DD;">
         <div>
-          <div style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.2rem;">Camp Operations: Meals, Equipment &amp; Facility Rental</div>
-          <div style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #5A5955; line-height: 1.5;">Daily meals, equipment rental, and venue costs across both Juba and Bor camp sites.</div>
+          <div style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.2rem;">First Classrooms — Construction &amp; Roofing</div>
+          <div style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #5A5955; line-height: 1.5;">Walls, roofing, doors, and windows for the first classroom block, so teaching can begin as early as possible.</div>
         </div>
-        <div style="font-family: 'Inter', sans-serif; font-size: 1.1rem; font-weight: 700; color: #0B1F3B; text-align: right; align-self: center;">$15,000</div>
+        <div style="font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 700; color: #0B1F3B; text-align: right; align-self: center; font-style: italic;">To be finalized</div>
       </div>
 
-      <div class="budget-row" style="display: grid; grid-template-columns: 1fr 140px; gap: 1rem; padding: 1.1rem 1.5rem; background: #FAFAF7; border-bottom: 1px solid #E5E3DD;">
+      <div class="budget-row" style="display: grid; grid-template-columns: 1fr 190px; gap: 1rem; padding: 1.1rem 1.5rem; background: #FAFAF7; border-bottom: 1px solid #E5E3DD;">
         <div>
-          <div style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.2rem;">Materials Distribution</div>
-          <div style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #5A5955; line-height: 1.5;">Bibles, leadership workbooks, study guides, and educational resources placed in participants' hands to take home.</div>
+          <div style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.2rem;">Permits, Fees &amp; Local Coordination</div>
+          <div style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #5A5955; line-height: 1.5;">Legal registration, building permits, and coordination with the local churches, community leaders, and organizations who partner in the build.</div>
         </div>
-        <div style="font-family: 'Inter', sans-serif; font-size: 1.1rem; font-weight: 700; color: #0B1F3B; text-align: right; align-self: center;">$15,000</div>
+        <div style="font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 700; color: #0B1F3B; text-align: right; align-self: center; font-style: italic;">To be finalized</div>
       </div>
 
-      <!-- Section banner -->
-      <div style="padding: 0.7rem 1.5rem; background: #122D52; color: #FFFFFF; font-family: 'Inter', sans-serif; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;">Four-Month Discipleship Follow-Up</div>
-
-      <div class="budget-row" style="display: grid; grid-template-columns: 1fr 140px; gap: 1rem; padding: 1.1rem 1.5rem; border-bottom: 1px solid #E5E3DD;">
+      <div class="budget-row" style="display: grid; grid-template-columns: 1fr 190px; gap: 1rem; padding: 1.1rem 1.5rem; border-bottom: 1px solid #E5E3DD;">
         <div>
-          <div style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.2rem;">Ongoing Follow-Up Support</div>
-          <div style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #5A5955; line-height: 1.5;">Four months of continued engagement with local churches and schools — mentorship, small groups, and check-ins.</div>
+          <div style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.2rem;">Contingency Reserve</div>
+          <div style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #5A5955; line-height: 1.5;">Held back for currency volatility, material price changes, and unforeseen construction costs. Unspent reserve rolls into Phase 2.</div>
         </div>
-        <div style="font-family: 'Inter', sans-serif; font-size: 1.1rem; font-weight: 700; color: #0B1F3B; text-align: right; align-self: center;">$4,000</div>
-      </div>
-
-      <!-- Section banner -->
-      <div style="padding: 0.7rem 1.5rem; background: #122D52; color: #FFFFFF; font-family: 'Inter', sans-serif; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase;">Reserve</div>
-
-      <div class="budget-row" style="display: grid; grid-template-columns: 1fr 140px; gap: 1rem; padding: 1.1rem 1.5rem; background: #FAFAF7; border-bottom: 1px solid #E5E3DD;">
-        <div>
-          <div style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.2rem;">Reserve / Contingency Fund</div>
-          <div style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #5A5955; line-height: 1.5;">Held back for currency volatility, weather disruption, or unforeseen field expenses. Unspent reserves carry into 2027 programming.</div>
-        </div>
-        <div style="font-family: 'Inter', sans-serif; font-size: 1.1rem; font-weight: 700; color: #0B1F3B; text-align: right; align-self: center;">$1,000</div>
+        <div style="font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 700; color: #0B1F3B; text-align: right; align-self: center; font-style: italic;">To be finalized</div>
       </div>
 
       <!-- Total row -->
-      <div class="budget-row" style="display: grid; grid-template-columns: 1fr 140px; gap: 1rem; padding: 1.25rem 1.5rem; background: #D4A017; color: #2B2B2B;">
-        <div style="font-family: 'Inter', sans-serif; font-size: 1.05rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase;">Total Campaign Goal</div>
-        <div style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; text-align: right; align-self: center;">$41,000</div>
+      <div class="budget-row" style="display: grid; grid-template-columns: 1fr 190px; gap: 1rem; padding: 1.25rem 1.5rem; background: #D4A017; color: #2B2B2B;">
+        <div style="font-family: 'Inter', sans-serif; font-size: 1.05rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase;">Phase 1 Campaign Goal</div>
+        <div style="font-family: 'Playfair Display', serif; font-size: 1.5rem; font-weight: 700; text-align: right; align-self: center;">$100,000</div>
       </div>
     </div>
 
     <p style="font-family: 'Inter', sans-serif; font-size: 0.82rem; color: #5A5955; font-style: italic; margin: 1rem 0 0; text-align: center;">
-      Itemized expenses sum to $40,000; the $1,000 contingency closes the gap to the $41,000 campaign goal.
+      These categories are estimates. The finalized line-item budget will be published here and on our <a href="/transparency.qmd" style="color: #0B1F3B; text-decoration: underline;">financial transparency page</a> once confirmed with our partners on the ground.
     </p>
   </div>
 </section>
@@ -279,14 +263,14 @@ toc: false
       <div class="tier-card" style="background: #FFFFFF; border: 1px solid #E5E3DD; border-radius: 12px; padding: 1.5rem 1.25rem; display: flex; flex-direction: column;">
         <p style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #5A5955; margin: 0 0 0.5rem;">Friend</p>
         <div style="font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 700; color: #0B1F3B; line-height: 1; margin-bottom: 0.85rem;">$25</div>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #2B2B2B; line-height: 1.55; margin: 0; flex: 1;">Provides a Bible and study guide for one camp participant.</p>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #2B2B2B; line-height: 1.55; margin: 0; flex: 1;">A first brick. Every gift, whatever its size, moves the school in Juba closer to breaking ground.</p>
       </div>
 
       <!-- $100 Supporter -->
       <div class="tier-card" style="background: #FFFFFF; border: 1px solid #E5E3DD; border-radius: 12px; padding: 1.5rem 1.25rem; display: flex; flex-direction: column;">
         <p style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #5A5955; margin: 0 0 0.5rem;">Supporter</p>
         <div style="font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 700; color: #0B1F3B; line-height: 1; margin-bottom: 0.85rem;">$100</div>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #2B2B2B; line-height: 1.55; margin: 0; flex: 1;">Feeds one young leader for the full two weeks of camp.</p>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #2B2B2B; line-height: 1.55; margin: 0; flex: 1;">Puts building materials on the ground — cement, timber, and roofing for the first classrooms.</p>
       </div>
 
       <!-- $500 Sponsor (highlighted) -->
@@ -294,27 +278,27 @@ toc: false
         <span style="position: absolute; top: -10px; left: 50%; transform: translateX(-50%); background: #D4A017; color: #2B2B2B; font-family: 'Inter', sans-serif; font-size: 0.65rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.25rem 0.7rem; border-radius: 4px;">Most Popular</span>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #D4A017; margin: 0 0 0.5rem;">Sponsor</p>
         <div style="font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 700; color: #FFFFFF; line-height: 1; margin-bottom: 0.85rem;">$500</div>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: rgba(255,255,255,0.85); line-height: 1.55; margin: 0; flex: 1;">Underwrites the materials packet for an entire small group of ten youth.</p>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: rgba(255,255,255,0.85); line-height: 1.55; margin: 0; flex: 1;">A serious stake in the foundation — the groundwork every classroom will stand on for decades.</p>
       </div>
 
       <!-- $1,000 Partner -->
       <div class="tier-card" style="background: #FFFFFF; border: 1px solid #E5E3DD; border-radius: 12px; padding: 1.5rem 1.25rem; display: flex; flex-direction: column;">
         <p style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #5A5955; margin: 0 0 0.5rem;">Partner</p>
         <div style="font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 700; color: #0B1F3B; line-height: 1; margin-bottom: 0.85rem;">$1,000</div>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #2B2B2B; line-height: 1.55; margin: 0; flex: 1;">Funds one full month of post-camp follow-up across both Juba and Bor.</p>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #2B2B2B; line-height: 1.55; margin: 0; flex: 1;">Partner-level giving that carries construction forward — 1% of the entire Phase 1 goal in one gift.</p>
       </div>
 
       <!-- $5,000 Champion -->
       <div class="tier-card" style="background: #FFFFFF; border: 1px solid #E5E3DD; border-radius: 12px; padding: 1.5rem 1.25rem; display: flex; flex-direction: column;">
         <p style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; color: #5A5955; margin: 0 0 0.5rem;">Champion</p>
         <div style="font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 700; color: #0B1F3B; line-height: 1; margin-bottom: 0.85rem;">$5,000</div>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #2B2B2B; line-height: 1.55; margin: 0; flex: 1;">Covers the entire materials distribution for one camp site.</p>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.88rem; color: #2B2B2B; line-height: 1.55; margin: 0; flex: 1;">Champion-level generosity — the kind of gift that visibly moves the progress bar and inspires others to give.</p>
       </div>
     </div>
 
     <div style="text-align: center; margin-top: 2.5rem;">
-      <a href="../donate.html" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.85rem 1.75rem; font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 700; color: #2B2B2B; background: #D4A017; border-radius: 8px; text-decoration: none; transition: all 200ms ease;">
-        Give to the 2026 Campaign
+      <a href="/donate.qmd" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.85rem 1.75rem; font-family: 'Inter', sans-serif; font-size: 0.95rem; font-weight: 700; color: #2B2B2B; background: #D4A017; border-radius: 8px; text-decoration: none; transition: all 200ms ease;">
+        Give to the School Campaign
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
       </a>
     </div>
@@ -333,8 +317,8 @@ toc: false
 
     <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.25rem;">
       <div style="border-left: 3px solid #D4A017; padding: 0.5rem 0 0.5rem 1.25rem;">
-        <h3 style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #0B1F3B; margin: 0 0 0.4rem; font-weight: 700;">100% restricted to the field</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #2B2B2B; line-height: 1.6; margin: 0;">Campaign gifts cannot be redirected to administrative overhead — they fund the Juba and Bor mission, full stop.</p>
+        <h3 style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #0B1F3B; margin: 0 0 0.4rem; font-weight: 700;">Dedicated to the school</h3>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #2B2B2B; line-height: 1.6; margin: 0;">Campaign gifts fund the school build in Juba — they are not redirected to administrative overhead or other programs.</p>
       </div>
       <div style="border-left: 3px solid #D4A017; padding: 0.5rem 0 0.5rem 1.25rem;">
         <h3 style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #0B1F3B; margin: 0 0 0.4rem; font-weight: 700;">Secure processing &amp; tax receipts</h3>
@@ -345,8 +329,8 @@ toc: false
         <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #2B2B2B; line-height: 1.6; margin: 0;">The progress tracker on this page is pulled directly from Stripe — no manual edits, no rounding up.</p>
       </div>
       <div style="border-left: 3px solid #D4A017; padding: 0.5rem 0 0.5rem 1.25rem;">
-        <h3 style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #0B1F3B; margin: 0 0 0.4rem; font-weight: 700;">Field report within 60 days</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #2B2B2B; line-height: 1.6; margin: 0;">Photos, financial reconciliation, and ministry outcomes published within 60 days of mission completion.</p>
+        <h3 style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #0B1F3B; margin: 0 0 0.4rem; font-weight: 700;">Milestone reports from the ground</h3>
+        <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #2B2B2B; line-height: 1.6; margin: 0;">Photos, financial reconciliation, and construction updates published as each Phase 1 milestone is reached — land, foundation, classrooms.</p>
       </div>
     </div>
   </div>
@@ -368,18 +352,18 @@ toc: false
     </details>
 
     <details style="background: #FFFFFF; border: 1px solid #E5E3DD; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 0.75rem;">
-      <summary style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #0B1F3B; cursor: pointer; list-style: none;">What happens if you exceed the $41,000 goal?</summary>
-      <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #2B2B2B; line-height: 1.65; margin: 0.75rem 0 0;">Excess funds extend the four-month follow-up phase, expand materials distribution to additional partner churches, or carry into the 2027 mission cycle. We will document any overage and its application in the field report.</p>
+      <summary style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #0B1F3B; cursor: pointer; list-style: none;">What happens if you exceed the $100,000 goal?</summary>
+      <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #2B2B2B; line-height: 1.65; margin: 0.75rem 0 0;">Every dollar beyond the Phase 1 goal rolls directly into Phase 2 — additional classrooms and teacher housing — accelerating the day the school opens at full capacity. Any overage and its application will be documented in our milestone reports.</p>
     </details>
 
     <details style="background: #FFFFFF; border: 1px solid #E5E3DD; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 0.75rem;">
       <summary style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #0B1F3B; cursor: pointer; list-style: none;">What if you fall short of the goal?</summary>
-      <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #2B2B2B; line-height: 1.65; margin: 0.75rem 0 0;">The campaign is designed to scale. We deploy funds in the order shown in the budget; if revenue falls short, the follow-up duration shortens before camp scope is reduced. Donors are notified of any material change in scope.</p>
+      <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #2B2B2B; line-height: 1.65; margin: 0.75rem 0 0;">The build is phased for exactly this reason. If giving falls short, the Phase 1 timeline extends — we complete the steps we can fully fund, in order, rather than starting work we cannot finish. Every dollar given stays dedicated to the school; nothing is redirected. Donors are notified of any material change in timeline.</p>
     </details>
 
     <details style="background: #FFFFFF; border: 1px solid #E5E3DD; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 0.75rem;">
-      <summary style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #0B1F3B; cursor: pointer; list-style: none;">Can I designate my gift to a specific line item?</summary>
-      <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #2B2B2B; line-height: 1.65; margin: 0.75rem 0 0;">Yes. Choose your tier on the Donate page or email <a href="mailto:gai@yetcompassion.org" style="color: #0B1F3B; text-decoration: underline;">gai@yetcompassion.org</a> to designate a gift toward materials, follow-up, or another specific line item.</p>
+      <summary style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #0B1F3B; cursor: pointer; list-style: none;">Can I designate my gift to a specific part of the build?</summary>
+      <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #2B2B2B; line-height: 1.65; margin: 0.75rem 0 0;">Yes. Give through the Donate page, or email <a href="mailto:gai@yetcompassion.org" style="color: #0B1F3B; text-decoration: underline;">gai@yetcompassion.org</a> to designate a gift toward land, construction, or a later phase such as furnishing and books.</p>
     </details>
 
     <details style="background: #FFFFFF; border: 1px solid #E5E3DD; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 0.75rem;">
@@ -388,8 +372,8 @@ toc: false
     </details>
 
     <details style="background: #FFFFFF; border: 1px solid #E5E3DD; border-radius: 10px; padding: 1rem 1.25rem;">
-      <summary style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #0B1F3B; cursor: pointer; list-style: none;">How do you measure impact?</summary>
-      <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #2B2B2B; line-height: 1.65; margin: 0.75rem 0 0;">Camp attendance, materials distributed, partner churches engaged, and follow-up sessions held — all reported transparently in the post-mission field report, with photos and a full financial reconciliation.</p>
+      <summary style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #0B1F3B; cursor: pointer; list-style: none;">Who is doing the work on the ground?</summary>
+      <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #2B2B2B; line-height: 1.65; margin: 0.75rem 0 0;">The school is being built in partnership with local churches, community leaders, and organizations in Juba — the people who know their community best and will carry the school forward for decades. Progress is documented with photos and financial reconciliation at every milestone.</p>
     </details>
   </div>
 </section>
@@ -407,18 +391,18 @@ toc: false
     <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #D4A017; margin: 0 0 2.25rem;">— 2 Corinthians 9:7</p>
 
     <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3.5vw, 2.5rem); color: #FFFFFF; margin: 0 0 1.25rem; font-weight: 600; line-height: 1.2;">
-      Stand with us in 2026.
+      Help us break ground.
     </h2>
     <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: rgba(255,255,255,0.78); line-height: 1.65; margin: 0 0 2rem;">
-      Excellence is not what we aspire to — it's what we deliver. Help us deliver it again, this time in Juba and Bor.
+      War interrupted this work once. With your help, a school in Juba will carry it forward for generations. Phase 1 starts with land, a foundation, and the first classrooms — and it starts with you.
     </p>
 
     <div style="display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap;">
-      <a href="../donate.html" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.95rem 1.85rem; font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 700; color: #2B2B2B; background: #D4A017; border-radius: 8px; text-decoration: none; box-shadow: 0 4px 14px rgba(212,160,23,0.4);">
+      <a href="/donate.qmd" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.95rem 1.85rem; font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 700; color: #2B2B2B; background: #D4A017; border-radius: 8px; text-decoration: none; box-shadow: 0 4px 14px rgba(212,160,23,0.4);">
         Give Now
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
       </a>
-      <a href="../get-involved.html" style="display: inline-flex; align-items: center; padding: 0.95rem 1.85rem; font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #FFFFFF; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.22); border-radius: 8px; text-decoration: none;">Other Ways to Help</a>
+      <a href="/get-involved.qmd" style="display: inline-flex; align-items: center; padding: 0.95rem 1.85rem; font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #FFFFFF; background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.22); border-radius: 8px; text-decoration: none;">Other Ways to Help</a>
     </div>
   </div>
 </section>
@@ -435,7 +419,7 @@ toc: false
   @media (max-width: 560px) {
     .tier-grid       { grid-template-columns: 1fr !important; }
     .tier-card:nth-child(3) { grid-column: auto; }
-    .budget-row      { grid-template-columns: 1fr 100px !important; padding: 1rem 1rem !important; }
+    .budget-row      { grid-template-columns: 1fr 120px !important; padding: 1rem 1rem !important; }
   }
   .campaign-cta-primary:hover   { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(212,160,23,0.5); }
   .campaign-cta-secondary:hover { background: rgba(255,255,255,0.12); }
@@ -449,7 +433,7 @@ toc: false
 (function() {
   // ── Live Stripe-powered progress tracker ──────────────────
   const fmt = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 });
-  const GOAL = 41000;
+  const GOAL = 100000;
 
   const raisedEl  = document.getElementById('campaign-raised');
   const percentEl = document.getElementById('campaign-percent');

@@ -282,26 +282,26 @@ p {
 }
 
 // ── Donate Button in Navbar ──
-// Outlined pill style on light navbar (IL Coalition inspired)
+// Solid gold "Give Now" pill on light navbar (Amazima-inspired)
 .navbar .navbar-nav .nav-item:last-child > .nav-link[href*="donate"],
 .navbar .navbar-nav .nav-item:last-child > a[href*="donate"] {
-  background-color: transparent !important;
-  color: $primary !important;
-  font-weight: 600 !important;
+  background-color: $secondary !important;
+  color: $charcoal !important;
+  font-weight: 700 !important;
   font-size: 0.9rem !important;
-  padding: 0.4rem 1.5rem !important;
-  border-radius: 20px !important;
-  border: 2px solid $primary !important;
+  padding: 0.5rem 1.5rem !important;
+  border-radius: 10px !important;
+  border: none !important;
   box-shadow: none;
   transition: all 200ms ease !important;
   text-decoration: none !important;
-  margin-left: 0.5rem;
+  margin-left: 0.75rem;
   letter-spacing: 0.02em;
 
   &:hover {
-    background-color: $primary !important;
-    color: #FFFFFF !important;
-    box-shadow: 0 4px 12px rgba(31, 94, 59, 0.25) !important;
+    background-color: $secondary-light !important;
+    color: $charcoal !important;
+    box-shadow: 0 4px 14px rgba(212, 160, 23, 0.35) !important;
     transform: translateY(-1px);
   }
 }
@@ -1406,7 +1406,7 @@ main.content > section {
 // ═══════════════════════════════════════════════════════════
 
 .nav-footer {
-  padding: 2.5rem 1rem 1.5rem !important;
+  padding: 0 !important;
   font-size: 0.9rem;
 
   a {
@@ -1425,6 +1425,159 @@ main.content > section {
   small {
     color: $gray-400;
   }
+
+  // Let the custom multi-column footer own the full width
+  .nav-footer-center {
+    flex: 1 1 100%;
+    max-width: 100%;
+    margin: 0;
+    text-align: left;
+  }
+  .nav-footer-left:empty,
+  .nav-footer-right:empty { display: none; }
+}
+
+// ── Amazima-style multi-column footer ──
+.yet-footer {
+  background: $primary-dark;
+
+  .yet-footer-verse {
+    max-width: 760px;
+    margin: 0 auto;
+    padding: 2.6rem 1.5rem 2.2rem;
+    text-align: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+
+    .verse-text {
+      font-family: 'Cormorant Garamond', Georgia, serif;
+      font-style: italic;
+      color: $secondary;
+      font-size: 1.05rem;
+      line-height: 1.65;
+      display: block;
+      margin-bottom: 0.6rem;
+    }
+    .verse-ref {
+      font-family: 'Inter', sans-serif;
+      color: rgba(212, 160, 23, 0.8);
+      font-size: 0.68rem;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+  }
+
+  .yet-footer-grid {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem 2.5rem;
+    display: grid;
+    grid-template-columns: 1.4fr 1fr 1fr 1fr;
+    gap: 2.5rem;
+    text-align: left;
+  }
+
+  .yet-footer-brand {
+    .brand-name {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: #FFFFFF;
+      margin: 0 0 0.35rem;
+    }
+    .brand-sub {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.68rem;
+      font-weight: 600;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: $secondary;
+      margin: 0 0 1rem;
+    }
+    .brand-mission {
+      font-size: 0.86rem;
+      color: rgba(255, 255, 255, 0.6);
+      line-height: 1.7;
+      margin: 0 0 1.2rem;
+    }
+    .brand-social a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      margin-right: 0.5rem;
+      color: rgba(255, 255, 255, 0.8) !important;
+      transition: all 200ms ease;
+
+      &:hover {
+        border-color: $secondary;
+        color: $secondary !important;
+        transform: translateY(-2px);
+      }
+      svg { width: 16px; height: 16px; }
+    }
+  }
+
+  .yet-footer-col {
+    h4 {
+      font-family: 'Inter', sans-serif;
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: #FFFFFF;
+      margin: 0 0 1rem;
+    }
+    ul {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+    li { margin-bottom: 0.55rem; }
+    a {
+      font-size: 0.88rem;
+      color: rgba(255, 255, 255, 0.62) !important;
+      transition: color 150ms ease;
+
+      &:hover { color: $secondary !important; }
+    }
+  }
+
+  .yet-footer-legal {
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    padding: 1.4rem 1.5rem;
+
+    .legal-inner {
+      max-width: 1140px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      font-size: 0.76rem;
+      color: rgba(255, 255, 255, 0.45);
+
+      a {
+        color: rgba(255, 255, 255, 0.55) !important;
+        &:hover { color: $secondary !important; }
+      }
+    }
+  }
+}
+
+@media (max-width: 900px) {
+  .yet-footer .yet-footer-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+  }
+}
+@media (max-width: 560px) {
+  .yet-footer .yet-footer-grid { grid-template-columns: 1fr; }
+  .yet-footer .yet-footer-legal .legal-inner { justify-content: center; text-align: center; }
 }
 
 // ═══════════════════════════════════════════════════════════

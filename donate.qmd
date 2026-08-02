@@ -1,6 +1,6 @@
 ---
 title: "Support Our Mission"
-description: "Make a tax-deductible donation to Y.E.T. Compassion. Your gift directly supports youth empowerment, family stability, and community transformation."
+description: "Make a tax-deductible donation to Y.E.T. Compassion. Your gift helps build a Christian school in Juba, South Sudan, and sustains our youth evangelism and discipleship ministry."
 page-layout: custom
 toc: false
 ---
@@ -20,7 +20,7 @@ toc: false
     </h1>
 
     <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 580px; margin: 0 auto;">
-      Every gift makes an immediate impact. Your donation directly funds programs that empower youth, strengthen families, and build thriving communities.
+      Every gift moves the Christian school in Juba closer to opening its doors — and sustains the youth evangelism and discipleship ministry behind it.
     </p>
   </div>
 </section>
@@ -33,10 +33,10 @@ toc: false
 <section style="background: #F7F6F2; padding: 1.25rem 1.5rem; border-bottom: 1px solid #E5E3DD;">
   <div style="max-width: 1100px; margin: 0 auto; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem;">
     <div style="display: flex; align-items: center; gap: 1rem; flex: 1; min-width: 260px;">
-      <span style="display: inline-flex; align-items: center; justify-content: center; padding: 0.3rem 0.7rem; background: #D4A017; color: #2B2B2B; font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; border-radius: 4px; flex-shrink: 0;">2026 Campaign</span>
+      <span style="display: inline-flex; align-items: center; justify-content: center; padding: 0.3rem 0.7rem; background: #D4A017; color: #2B2B2B; font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; border-radius: 4px; flex-shrink: 0;">The School Campaign</span>
       <div>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #2B2B2B; margin: 0; line-height: 1.4;">
-          <strong style="color: #0B1F3B;">Juba &amp; Bor Outreach</strong> — help us raise <strong style="color: #0B1F3B;">$41,000</strong> for the 2026 mission and four-month follow-up.
+          <strong style="color: #0B1F3B;">A Christian school in Juba</strong> — help us raise <strong style="color: #0B1F3B;">$100,000</strong> for Phase&nbsp;1: land, foundation, and the first classrooms.
         </p>
       </div>
     </div>
@@ -86,7 +86,7 @@ toc: false
         <h3 style="font-family: 'Playfair Display', serif; font-size: 1.35rem; font-weight: 600; color: #FFFFFF; margin: 0 0 0.75rem;">One-Time Contribution</h3>
 
         <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.65); line-height: 1.65; margin: 0 0 1.5rem;">
-          Make a single contribution of any amount to support youth empowerment, family stability, and community transformation.
+          Make a single contribution of any amount toward building the school in Juba and sustaining the ministry.
         </p>
 
         <!-- Amount Chips -->
@@ -126,7 +126,7 @@ toc: false
         <h3 style="font-family: 'Playfair Display', serif; font-size: 1.35rem; font-weight: 600; color: #FFFFFF; margin: 0 0 0.75rem;">Monthly Partnership</h3>
 
         <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.65); line-height: 1.65; margin: 0 0 1.5rem;">
-          Your recurring support provides stable, predictable funding that sustains long-term programs and multiplies impact.
+          Steady monthly support is what carries a construction project through — predictable funding that builds the school brick by brick.
         </p>
 
         <!-- Monthly Amount Chips (each links to its own Stripe payment link) -->
@@ -298,32 +298,32 @@ toc: false
       <div style="background: #FFFFFF; border-radius: 12px; padding: 1.5rem; display: flex; gap: 1rem; align-items: flex-start;">
         <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #0B1F3B, #122D52); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">✝</div>
         <div>
-          <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$25 — Bible Study Kit</strong>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Provides study guides, devotionals, and materials for weekly spiritual formation programs.</p>
+          <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$25 — Bibles &amp; Study Materials</strong>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Helps provide Bibles, study guides, and discipleship materials for the youth evangelism ministry.</p>
         </div>
       </div>
 
       <div style="background: #FFFFFF; border-radius: 12px; padding: 1.5rem; display: flex; gap: 1rem; align-items: flex-start;">
         <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #D4A017, #E0B030); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">🎓</div>
         <div>
-          <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$50 — One Month Mentorship</strong>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Funds curriculum and resources for one-on-one mentoring that develops young leaders.</p>
+          <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$50 — School Books &amp; Supplies</strong>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Helps stock the future classrooms in Juba with textbooks, learning materials, and supplies.</p>
         </div>
       </div>
 
       <div style="background: #FFFFFF; border-radius: 12px; padding: 1.5rem; display: flex; gap: 1rem; align-items: flex-start;">
         <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #38BDF8, #60CBFF); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">🏠</div>
         <div>
-          <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$100 — Family Workshop</strong>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Hosts a workshop on parenting, education, or financial literacy that equips families for stability.</p>
+          <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$100 — Building Materials</strong>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Helps purchase cement, timber, and roofing for Phase&nbsp;1 of the school — land, foundation, and first classrooms.</p>
         </div>
       </div>
 
       <div style="background: #FFFFFF; border-radius: 12px; padding: 1.5rem; display: flex; gap: 1rem; align-items: flex-start;">
         <div style="width: 48px; height: 48px; background: linear-gradient(135deg, #0B1F3B, #122D52); border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; font-size: 1.25rem;">🤝</div>
         <div>
-          <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$250 — Community Event</strong>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Underwrites a gathering that strengthens connection, belonging, and shared purpose across the community.</p>
+          <strong style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #2B2B2B; display: block; margin-bottom: 0.25rem;">$250 — A Classroom Milestone</strong>
+          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">Underwrites a meaningful step of construction, carried out with our church and community partners in Juba.</p>
         </div>
       </div>
 
@@ -371,7 +371,7 @@ toc: false
         <div style="width: 8px; height: 8px; background-color: #38BDF8; border-radius: 50%; flex-shrink: 0; margin-top: 0.6rem;"></div>
         <div>
           <strong style="font-family: 'Inter', sans-serif; color: #2B2B2B;">Direct Community Impact.</strong>
-          <span style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #5A5955; line-height: 1.7;"> Your gift directly supports youth and families through mentorship, spiritual formation, education, and community building — both in the diaspora and in South Sudan.</span>
+          <span style="font-family: 'Inter', sans-serif; font-size: 1rem; color: #5A5955; line-height: 1.7;"> Your gift directly supports the two callings of this ministry: building the Christian school in Juba and grounding young people in biblical truth through evangelism and discipleship.</span>
         </div>
       </div>
 

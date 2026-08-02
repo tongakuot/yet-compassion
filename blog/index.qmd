@@ -1,6 +1,6 @@
 ---
 title: "Stories & Updates"
-description: "Read stories of transformation, program updates, and community news from Y.E.T. Compassion."
+description: "Stories from the school build in Juba, youth evangelism ministry updates, and letters from our founder."
 toc: false
 listing:
   contents: posts
@@ -26,7 +26,7 @@ listing:
     </h1>
 
     <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 620px;">
-      Stories of transformation, program updates, community highlights, and spiritual reflections. These narratives celebrate the resilience of our community and the impact of our shared mission.
+      Stories from the school build in Juba, updates from our youth evangelism &amp; discipleship ministry, and letters from our founder. These narratives trace what God is doing through this work — one classroom, one young life at a time.
     </p>
   </div>
 </section>

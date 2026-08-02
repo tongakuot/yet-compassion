@@ -36,7 +36,7 @@ page-layout: custom
       <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #2B2B2B; margin: 0;">How Your Donations Are Used</h2>
     </div>
     <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.7; margin-bottom: 2rem;">
-      We strive to ensure that the maximum possible portion of every donation goes directly to our programs and the communities we serve.
+      We strive to ensure that the maximum possible portion of every donation goes directly to our two callings — building the Christian school in Juba, South Sudan, and youth evangelism &amp; discipleship — and the communities they serve.
     </p>
 
     <!-- Three Category Cards -->
@@ -47,7 +47,7 @@ page-layout: custom
         </div>
         <h3 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.2rem; font-weight: 700; color: #0B1F3B; margin-bottom: 0.75rem;">Program Services</h3>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #5A5955; line-height: 1.6; margin: 0;">
-          Direct funding for youth evangelism, leadership development, family empowerment, community building, and homeland engagement.
+          Direct funding for the Christian school build in Juba, South Sudan, and for our youth evangelism &amp; discipleship ministry.
         </p>
       </div>
 
@@ -98,7 +98,7 @@ page-layout: custom
       <div style="background: #FFFFFF; border-radius: 12px; padding: 2rem; border-left: 4px solid #0B1F3B;">
         <h3 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.25rem; font-weight: 700; color: #2B2B2B; margin-top: 0; margin-bottom: 1rem;">Governance</h3>
         <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.7; margin: 0;">
-          Youth Evangelism Training (Y.E.T.) Compassion is governed by a Board of Directors that provides oversight and strategic guidance. Our board meets regularly to review financial reports, program outcomes, and organizational strategy.
+          Youth Evangelism Training (Y.E.T.) Compassion is governed by a Board of Directors that provides oversight and strategic guidance. Our board meets regularly to review financial reports, ministry outcomes, and organizational strategy.
         </p>
         <a href="about/board.html" style="display: inline-block; margin-top: 1rem; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #0B1F3B; text-decoration: none;">Meet Our Board →</a>
       </div>
@@ -134,7 +134,7 @@ page-layout: custom
         <div>
           <h3 style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 600; color: #2B2B2B; margin: 0 0 0.5rem 0;">Coming Soon</h3>
           <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.7; margin: 0;">
-            As Y.E.T. Compassion launches and begins operations, annual reports will be published on this page. Each report will include financial statements, program impact data, and a message from our founder.
+            As Y.E.T. Compassion launches and begins operations, annual reports will be published on this page. Each report will include financial statements, ministry impact data, and a message from our founder. In the meantime, giving toward the school is tracked openly — campaign progress is shown live from Stripe on the <a href="/campaigns/2026.qmd" style="color: #0B1F3B; font-weight: 600;">2026 School Campaign page</a>.
           </p>
         </div>
       </div>
