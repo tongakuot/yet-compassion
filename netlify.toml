@@ -5,12 +5,12 @@
 [[plugins]]
   package = "@quarto/netlify-plugin-quarto"
   [plugins.inputs]
-    # Pinned to match local dev (Quarto 1.9.38, verified clean).
-    # Quarto 1.10.x mangles single-quoted font names inside inline
-    # style attributes (breaks button/gold styling site-wide). Bump
-    # deliberately and verify inline styles survive before keeping
-    # a newer version.
-    version = "1.9.38"
+    # "latest" — safe because inline styles use unquoted font names
+    # (Quarto 1.10.x corrupts single-quoted font names in inline
+    # style attributes; keep font names unquoted in all qmd files).
+    # Note: pinning an explicit version here broke the build; the
+    # plugin only reliably accepts "latest".
+    version = "latest"
     cmd = "render"
 
 [build]
