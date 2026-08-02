@@ -15,13 +15,13 @@ robots: "noindex, follow"
 
   <div style="position: relative; z-index: 2; max-width: 620px; text-align: center;">
     <!-- 404 Number -->
-    <p style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(4.5rem, 12vw, 7rem); font-weight: 700; color: #D4A017; line-height: 1; margin-bottom: 0.5rem; opacity: 0.85;">404</p>
+    <p style="font-family: Playfair Display, Georgia, serif; font-size: clamp(4.5rem, 12vw, 7rem); font-weight: 700; color: #D4A017; line-height: 1; margin-bottom: 0.5rem; opacity: 0.85;">404</p>
 
-    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(1.5rem, 4vw, 2.25rem); font-weight: 700; color: #FFFFFF; margin-bottom: 1rem;">
+    <h1 style="font-family: Playfair Display, Georgia, serif; font-size: clamp(1.5rem, 4vw, 2.25rem); font-weight: 700; color: #FFFFFF; margin-bottom: 1rem;">
       Page Not Found
     </h1>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: clamp(0.95rem, 2vw, 1.05rem); color: rgba(255,255,255,0.7); line-height: 1.7; margin-bottom: 2.5rem;">
+    <p style="font-family: Inter, sans-serif; font-size: clamp(0.95rem, 2vw, 1.05rem); color: rgba(255,255,255,0.7); line-height: 1.7; margin-bottom: 2.5rem;">
       We couldn't find the page you're looking for. It may have been moved, renamed, or doesn't exist yet. Let's get you back on track.
     </p>
 
@@ -34,24 +34,24 @@ robots: "noindex, follow"
 
     <!-- Helpful Links Card -->
     <div style="background: rgba(255,255,255,0.06); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; padding: 2rem; text-align: left; backdrop-filter: blur(8px);">
-      <h3 style="font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #D4A017; margin-top: 0; margin-bottom: 1.25rem;">Helpful Links</h3>
+      <h3 style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #D4A017; margin-top: 0; margin-bottom: 1.25rem;">Helpful Links</h3>
       <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.6rem;">
-        <a href="/about/index.qmd" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">Our Story</a>
-        <a href="/school.qmd" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">The School</a>
-        <a href="/youth-evangelism.qmd" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">Youth Evangelism</a>
-        <a href="/watch-live.qmd" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">Watch Live</a>
-        <a href="/campaigns/2026.qmd" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">The School Campaign</a>
-        <a href="/donate.qmd" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">Support Our Mission</a>
-        <a href="/blog/index.qmd" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">Stories & Updates</a>
-        <a href="/faq.qmd" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">FAQ</a>
+        <a href="/about/index.qmd" style="font-family: Inter, sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">Our Story</a>
+        <a href="/school.qmd" style="font-family: Inter, sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">The School</a>
+        <a href="/youth-evangelism.qmd" style="font-family: Inter, sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">Youth Evangelism</a>
+        <a href="/watch-live.qmd" style="font-family: Inter, sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">Watch Live</a>
+        <a href="/campaigns/2026.qmd" style="font-family: Inter, sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">The School Campaign</a>
+        <a href="/donate.qmd" style="font-family: Inter, sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">Support Our Mission</a>
+        <a href="/blog/index.qmd" style="font-family: Inter, sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">Stories & Updates</a>
+        <a href="/faq.qmd" style="font-family: Inter, sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.8); text-decoration: none; padding: 0.5rem 0; border-bottom: 1px solid rgba(255,255,255,0.06); transition: color 200ms ease;">FAQ</a>
       </div>
     </div>
 
     <!-- Scripture -->
-    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: 1.05rem; font-style: italic; color: rgba(255,255,255,0.5); margin-top: 2.5rem; line-height: 1.6;">
+    <p style="font-family: Cormorant Garamond, Georgia, serif; font-size: 1.05rem; font-style: italic; color: rgba(255,255,255,0.5); margin-top: 2.5rem; line-height: 1.6;">
       "For I know the plans I have for you," declares the Lord.
     </p>
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: rgba(212,160,23,0.5); margin-top: 0.25rem;">— Jeremiah 29:11 (ESV)</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: rgba(212,160,23,0.5); margin-top: 0.25rem;">— Jeremiah 29:11 (ESV)</p>
   </div>
 </section>
 ```

@@ -134,21 +134,21 @@ page-layout: custom
   <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23D4A017%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
 
   <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">FAQ</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">FAQ</p>
 
-    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.25rem;">
+    <h1 style="font-family: Playfair Display, Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.25rem;">
       Frequently Asked <span style="color: #D4A017;">Questions</span>
     </h1>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 620px;">
+    <p style="font-family: Inter, sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 620px;">
       Find answers to common questions about Y.E.T. Compassion, the school campaign, giving, and how you can be part of the work God is doing.
     </p>
 
     <!-- Quick-nav pills -->
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1.5rem;">
-      <a href="#about-us" class="faq-pill" style="display: inline-block; padding: 0.4rem 1rem; border: 1px solid rgba(212,160,23,0.4); border-radius: 20px; color: #D4A017; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; text-decoration: none; transition: all 200ms ease;">About Us</a>
-      <a href="#campaign-giving" class="faq-pill" style="display: inline-block; padding: 0.4rem 1rem; border: 1px solid rgba(212,160,23,0.4); border-radius: 20px; color: #D4A017; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; text-decoration: none; transition: all 200ms ease;">The School Campaign & Giving</a>
-      <a href="#get-involved" class="faq-pill" style="display: inline-block; padding: 0.4rem 1rem; border: 1px solid rgba(212,160,23,0.4); border-radius: 20px; color: #D4A017; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; text-decoration: none; transition: all 200ms ease;">Get Involved</a>
+      <a href="#about-us" class="faq-pill" style="display: inline-block; padding: 0.4rem 1rem; border: 1px solid rgba(212,160,23,0.4); border-radius: 20px; color: #D4A017; font-family: Inter, sans-serif; font-size: 0.8rem; font-weight: 500; text-decoration: none; transition: all 200ms ease;">About Us</a>
+      <a href="#campaign-giving" class="faq-pill" style="display: inline-block; padding: 0.4rem 1rem; border: 1px solid rgba(212,160,23,0.4); border-radius: 20px; color: #D4A017; font-family: Inter, sans-serif; font-size: 0.8rem; font-weight: 500; text-decoration: none; transition: all 200ms ease;">The School Campaign & Giving</a>
+      <a href="#get-involved" class="faq-pill" style="display: inline-block; padding: 0.4rem 1rem; border: 1px solid rgba(212,160,23,0.4); border-radius: 20px; color: #D4A017; font-family: Inter, sans-serif; font-size: 0.8rem; font-weight: 500; text-decoration: none; transition: all 200ms ease;">Get Involved</a>
     </div>
   </div>
 </section>
@@ -161,40 +161,40 @@ page-layout: custom
   <div style="max-width: 800px; margin: 0 auto;">
     <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 2rem;">
       <div style="width: 4px; height: 28px; background: #0B1F3B; border-radius: 2px;"></div>
-      <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #2B2B2B; margin: 0;">About Us</h2>
+      <h2 style="font-family: Playfair Display, Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #2B2B2B; margin: 0;">About Us</h2>
     </div>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">What is Y.E.T. Compassion?</summary>
-      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+      <summary style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">What is Y.E.T. Compassion?</summary>
+      <p style="font-family: Inter, sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         Youth Evangelism Training (Y.E.T.) Compassion is a nonprofit ministry rooted in nearly two decades of grassroots mission work that began in South Sudan in 2006. The ministry was formally registered as a Tennessee nonprofit in Nashville in 2025 and granted IRS 501(c)(3) tax-exempt status in 2026. Today our work centers on two callings: <a href="/school.qmd" style="color: #0B1F3B; font-weight: 500;">building a Christian school in Juba, South Sudan</a>, and <a href="/youth-evangelism.qmd" style="color: #0B1F3B; font-weight: 500;">youth evangelism &amp; discipleship</a>.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Who founded Y.E.T. Compassion?</summary>
-      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+      <summary style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Who founded Y.E.T. Compassion?</summary>
+      <p style="font-family: Inter, sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         Youth Evangelism Training (Y.E.T.) Compassion was founded by Evangelist Gai Bol Luom. The ministry's work began in 2006 with grassroots missions in South Sudan, was registered as a Tennessee nonprofit in Nashville in 2025, and received IRS 501(c)(3) tax-exempt status in 2026.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Where is Y.E.T. Compassion based?</summary>
-      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+      <summary style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Where is Y.E.T. Compassion based?</summary>
+      <p style="font-family: Inter, sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         Youth Evangelism Training (Y.E.T.) Compassion is headquartered in Nashville, Tennessee, where it was registered as a state nonprofit in 2025 and granted IRS 501(c)(3) tax-exempt status in 2026. We also have on-the-ground operations in South Sudan, led by Director David Gai Pandak.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Does Y.E.T. Compassion work in South Sudan?</summary>
-      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+      <summary style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Does Y.E.T. Compassion work in South Sudan?</summary>
+      <p style="font-family: Inter, sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         Yes. Y.E.T. Compassion's work began in South Sudan in 2006 with missions in the Biong community — drilling water wells, delivering food aid and medical supplies, and supporting schools. Our South Sudan operations are led by Director David Gai Pandak. Today we are focused on <a href="/school.qmd" style="color: #0B1F3B; font-weight: 500;">building a Christian school in Juba</a>.
       </p>
     </details>
 
     <details style="margin-bottom: 0; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">What happened between 2013 and today?</summary>
-      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+      <summary style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">What happened between 2013 and today?</summary>
+      <p style="font-family: Inter, sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         When war broke out in South Sudan in 2013, families were displaced and the ministry's work on the ground had to stop. Today, conditions have opened the door to return, and Y.E.T. Compassion has resumed the mission — focused on building a Christian school in Juba to educate the next generation. Read the full story on our <a href="/about/index.qmd" style="color: #0B1F3B; font-weight: 500;">About page</a>.
       </p>
     </details>
@@ -209,47 +209,47 @@ page-layout: custom
   <div style="max-width: 800px; margin: 0 auto;">
     <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 2rem;">
       <div style="width: 4px; height: 28px; background: #D4A017; border-radius: 2px;"></div>
-      <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #2B2B2B; margin: 0;">The School Campaign & Giving</h2>
+      <h2 style="font-family: Playfair Display, Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #2B2B2B; margin: 0;">The School Campaign & Giving</h2>
     </div>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #F7F6F2; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">What is Y.E.T. Compassion building?</summary>
-      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+      <summary style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">What is Y.E.T. Compassion building?</summary>
+      <p style="font-family: Inter, sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         We are raising funds to build a Christian school in Juba, South Sudan. The school will serve families seeking a Christ-centered education for their children and support vulnerable communities — because education, grounded in Christ, changes the direction of a life, a family, and a community. Learn more on <a href="/school.qmd" style="color: #0B1F3B; font-weight: 500;">The School page</a>.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #F7F6F2; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">What does Phase 1 of the school campaign cover?</summary>
-      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+      <summary style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">What does Phase 1 of the school campaign cover?</summary>
+      <p style="font-family: Inter, sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         Phase 1 has a goal of $100,000 and covers securing land, laying the foundation, and raising the first classrooms in Juba. Later phases will add more classrooms, teacher housing, furnishing, books, and opening enrollment.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #F7F6F2; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Who is building the school?</summary>
-      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+      <summary style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Who is building the school?</summary>
+      <p style="font-family: Inter, sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         The school is being built in partnership with local churches, community leaders, and organizations on the ground in South Sudan, with our South Sudan operations led by Director David Gai Pandak.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #F7F6F2; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">How can I follow the campaign's progress?</summary>
-      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+      <summary style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">How can I follow the campaign's progress?</summary>
+      <p style="font-family: Inter, sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         Our campaign page features a live progress tracker powered by Stripe — totals are pulled directly from our secure giving records, with no manual edits. Visit <a href="/campaigns/2026.qmd" style="color: #0B1F3B; font-weight: 500;">The School Campaign page</a> to see how far we've come toward the $100,000 Phase&nbsp;1 goal.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #F7F6F2; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">How can I donate?</summary>
-      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+      <summary style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">How can I donate?</summary>
+      <p style="font-family: Inter, sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         You can make a tax-deductible donation through our website using our secure Stripe payment processor. Visit our <a href="/donate.qmd" style="color: #0B1F3B; font-weight: 500;">Donate page</a> to choose a one-time or recurring gift.
       </p>
     </details>
 
     <details style="margin-bottom: 0; padding: 1.25rem 1.5rem; background-color: #F7F6F2; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Is my donation tax-deductible?</summary>
-      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+      <summary style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Is my donation tax-deductible?</summary>
+      <p style="font-family: Inter, sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         Yes. Y.E.T. Compassion is a registered 501(c)(3) nonprofit organization, so all donations are fully tax-deductible to the extent allowed by law. We'll provide documentation for your records.
       </p>
     </details>
@@ -262,10 +262,10 @@ page-layout: custom
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background-color: #0B1F3B; padding: 2.5rem 1.5rem;">
   <div style="max-width: 700px; margin: 0 auto; text-align: center;">
-    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-size: clamp(1.15rem, 2.5vw, 1.4rem); font-style: italic; color: rgba(255,255,255,0.92); line-height: 1.7; margin-bottom: 0.75rem;">
+    <p style="font-family: Cormorant Garamond, Georgia, serif; font-size: clamp(1.15rem, 2.5vw, 1.4rem); font-style: italic; color: rgba(255,255,255,0.92); line-height: 1.7; margin-bottom: 0.75rem;">
       "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him."
     </p>
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #D4A017; margin: 0;">— James 1:5 (ESV)</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #D4A017; margin: 0;">— James 1:5 (ESV)</p>
   </div>
 </section>
 
@@ -277,26 +277,26 @@ page-layout: custom
   <div style="max-width: 800px; margin: 0 auto;">
     <div style="display: flex; align-items: center; gap: 0.75rem; margin-bottom: 2rem;">
       <div style="width: 4px; height: 28px; background: #A8871F; border-radius: 2px;"></div>
-      <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #2B2B2B; margin: 0;">Getting Involved</h2>
+      <h2 style="font-family: Playfair Display, Georgia, serif; font-size: 1.5rem; font-weight: 700; color: #2B2B2B; margin: 0;">Getting Involved</h2>
     </div>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">How can I volunteer?</summary>
-      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+      <summary style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">How can I volunteer?</summary>
+      <p style="font-family: Inter, sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         We welcome volunteers in many capacities: sharing the school campaign, lending construction or education expertise, connecting your church as a partner, supporting the Facebook Live ministry, prayer, and administration. Visit our <a href="/get-involved.qmd" style="color: #0B1F3B; font-weight: 500;">Get Involved page</a> to fill out a volunteer interest form.
       </p>
     </details>
 
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">How can my church partner with Y.E.T. Compassion?</summary>
-      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+      <summary style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">How can my church partner with Y.E.T. Compassion?</summary>
+      <p style="font-family: Inter, sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         Churches can partner with Y.E.T. Compassion by adopting the school campaign into their missions program, sharing the campaign with their congregation, hosting Evangelist Gai to speak about the work, or offering space for gatherings. Contact us at <a href="mailto:info@yetcompassion.org" style="color: #0B1F3B; font-weight: 500;">info@yetcompassion.org</a> to discuss partnership opportunities.
       </p>
     </details>
 
     <details style="margin-bottom: 0; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
-      <summary style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">How is the Facebook Live show related to Y.E.T. Compassion?</summary>
-      <p style="font-family: 'Inter', sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
+      <summary style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">How is the Facebook Live show related to Y.E.T. Compassion?</summary>
+      <p style="font-family: Inter, sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
         Founder Evangelist Gai Bol Luom preaches live on the <a href="https://www.facebook.com/YetCompassion" target="_blank" rel="noopener noreferrer" style="color: #0B1F3B; font-weight: 500;">Y.E.T. Compassion Facebook page</a>, bringing the Gospel to the South Sudanese community at home and across the diaspora. The show is part of our youth evangelism &amp; discipleship calling — follow the page to be notified when it goes live, and <a href="/watch-live.qmd" style="color: #0B1F3B; font-weight: 500;">watch past messages anytime</a>.
       </p>
     </details>
@@ -309,10 +309,10 @@ page-layout: custom
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem;">
   <div style="max-width: 700px; margin: 0 auto; text-align: center;">
-    <h2 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(1.5rem, 3.5vw, 2rem); font-weight: 700; color: #FFFFFF; margin-bottom: 1rem;">
+    <h2 style="font-family: Playfair Display, Georgia, serif; font-size: clamp(1.5rem, 3.5vw, 2rem); font-weight: 700; color: #FFFFFF; margin-bottom: 1rem;">
       Didn't Find Your Answer?
     </h2>
-    <p style="font-family: 'Inter', sans-serif; font-size: 1rem; color: rgba(255,255,255,0.75); line-height: 1.7; margin-bottom: 2rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1rem; color: rgba(255,255,255,0.75); line-height: 1.7; margin-bottom: 2rem;">
       Reach out to us directly — we'd love to hear from you.
     </p>
     <a href="/contact.qmd" class="btn-gold">Contact Us</a>

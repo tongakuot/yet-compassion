@@ -13,13 +13,13 @@ toc: false
   <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23D4A017%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
 
   <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">Governance &amp; Accountability</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">Governance &amp; Accountability</p>
 
-    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.5rem;">
+    <h1 style="font-family: Playfair Display, Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.5rem;">
       Board of <span style="color: #D4A017;">Directors</span>
     </h1>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 600px; margin: 0;">
+    <p style="font-family: Inter, sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 600px; margin: 0;">
       Dedicated leaders guiding Y.E.T. Compassion with diverse expertise, lived experience, and a shared commitment to the school in Juba and the youth evangelism ministry.
     </p>
   </div>
@@ -30,17 +30,17 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">Governance</p>
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">Governance</p>
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
       Strong Governance, Faithful Stewardship
     </h2>
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.6rem;"></div>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
       Youth Evangelism Training (Y.E.T.) Compassion operates under the guidance and accountability of a dedicated Board of Directors. Our board is responsible for strategic oversight, financial stewardship, and ensuring that Y.E.T. Compassion remains true to our mission and values.
     </p>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955;">
       That stewardship matters most now, as the ministry pursues its two callings: <a href="/school.qmd" style="color: #0B1F3B; font-weight: 600;">building a Christian school in Juba, South Sudan</a> — with every campaign dollar accounted for — and <a href="/youth-evangelism.qmd" style="color: #0B1F3B; font-weight: 600;">grounding young people in biblical truth</a> through evangelism and discipleship. Board members bring diverse expertise, lived experience, and a shared commitment to seeing both callings through with integrity.
     </p>
   </div>
@@ -58,18 +58,18 @@ toc: false
       </div>
       <!-- Details -->
       <div style="flex: 1; min-width: 280px;">
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Evangelist Gai Bol Luom</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #A8871F; font-weight: 600; margin-bottom: 1rem;">Founder &amp; Executive Director</p>
+        <h3 style="font-family: Playfair Display, serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Evangelist Gai Bol Luom</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #A8871F; font-weight: 600; margin-bottom: 1rem;">Founder &amp; Executive Director</p>
 
-        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
+        <p style="font-family: Inter, sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
           Gai is the visionary founder of Y.E.T. Compassion and serves as Executive Director. With deep roots in the South Sudanese community and a life shaped by displacement, faith, and resilience, Gai provides spiritual and strategic leadership for the school project in Juba and the youth evangelism ministry.
         </p>
 
-        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
+        <p style="font-family: Inter, sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
           His experience connecting South Sudanese communities with faith-centered empowerment gives Y.E.T. Compassion its distinctive voice and purpose. Gai leads with conviction that every young person carries God-given potential that, when properly cultivated, transforms families and communities.
         </p>
 
-        <a href="/about/founder.qmd" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #0B1F3B; font-weight: 600; text-decoration: none;">Read Full Profile →</a>
+        <a href="/about/founder.qmd" style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #0B1F3B; font-weight: 600; text-decoration: none;">Read Full Profile →</a>
       </div>
     </div>
   </div>
@@ -80,7 +80,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section id="operational-director" class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin-bottom: 1.5rem;">Leadership</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin-bottom: 1.5rem;">Leadership</p>
 
     <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
       <!-- Avatar -->
@@ -89,18 +89,18 @@ toc: false
       </div>
       <!-- Details -->
       <div style="flex: 1; min-width: 280px;">
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">David Gai Pandak</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #0B1F3B; font-weight: 600; margin-bottom: 1rem;">Director, South Sudan</p>
+        <h3 style="font-family: Playfair Display, serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">David Gai Pandak</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #0B1F3B; font-weight: 600; margin-bottom: 1rem;">Director, South Sudan</p>
 
-        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
+        <p style="font-family: Inter, sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
           David Gai Pandak is a Registered Nurse and organizational strategist with over five years of experience in healthcare systems and executive management. A graduate of Makerere University and Mastercard Foundation Scholars Program alumnus, he brings visionary leadership, operational excellence, and spiritual integrity to Y.E.T. Compassion's work on the ground in South Sudan.
         </p>
 
-        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
+        <p style="font-family: Inter, sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
           David currently serves as Co-founder of Kugama Nursing and Homecare Services and Panmal Foundation, where he provides strategic oversight and drives sustainable community transformation. As a Lifetime Fellow of the Resolution Project, YouLead Fellow, and YALI alumnus, he is passionate about building strong institutions, mentoring emerging leaders, and advancing Christ-centered initiatives rooted in accountability and excellence.
         </p>
 
-        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955;">
+        <p style="font-family: Inter, sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955;">
           David believes that effective leadership is rooted in humility, vision, and unwavering commitment to God's purpose — and he is deeply invested in youth mentorship and the next generation of South Sudanese leaders.
         </p>
       </div>
@@ -120,10 +120,10 @@ toc: false
       </div>
       <!-- Details -->
       <div style="flex: 1; min-width: 280px;">
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Vacant</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #0B1F3B; font-weight: 600; margin-bottom: 1rem;">Board Chair</p>
+        <h3 style="font-family: Playfair Display, serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Vacant</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #0B1F3B; font-weight: 600; margin-bottom: 1rem;">Board Chair</p>
 
-        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955;">
+        <p style="font-family: Inter, sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955;">
           Youth Evangelism Training (Y.E.T.) Compassion is actively seeking a Board Chair who shares our commitment to faith-centered leadership, community empowerment, and organizational excellence. The Board Chair provides oversight of organizational direction, facilitates board deliberations, and works closely with the Executive Director to align operations with the ministry's mission and values.
         </p>
       </div>
@@ -143,10 +143,10 @@ toc: false
       </div>
       <!-- Details -->
       <div style="flex: 1; min-width: 280px;">
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Vacant</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #A8871F; font-weight: 600; margin-bottom: 1rem;">Board Member &amp; Spiritual Advisor</p>
+        <h3 style="font-family: Playfair Display, serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Vacant</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #A8871F; font-weight: 600; margin-bottom: 1rem;">Board Member &amp; Spiritual Advisor</p>
 
-        <p style="font-family: 'Inter', sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955;">
+        <p style="font-family: Inter, sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955;">
           Youth Evangelism Training (Y.E.T.) Compassion is actively seeking a Spiritual Advisor who brings pastoral wisdom, spiritual oversight, and deep community understanding to board discussions and organizational direction. This role ensures that every initiative, partnership, and decision remains grounded in biblical principles and theological integrity — the foundational values upon which Y.E.T. Compassion was built.
         </p>
       </div>
@@ -158,8 +158,8 @@ toc: false
 <!-- SCRIPTURE BANNER                                -->
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background-color: #060F1F; padding: 3.2rem 1.5rem; text-align: center;">
-  <blockquote style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.1rem, 2.5vw, 1.4rem); color: #D4A017; line-height: 1.7; max-width: 700px; margin: 0 auto; border: none; padding: 0;">"Where there is no guidance, a people falls, but in an abundance of counselors there is safety."</blockquote>
-  <cite style="font-family: 'Inter', sans-serif; font-style: normal; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(212,160,23,0.8); display: block; margin-top: 1.1rem;">Proverbs 11:14 · ESV</cite>
+  <blockquote style="font-family: Cormorant Garamond, Georgia, serif; font-style: italic; font-size: clamp(1.1rem, 2.5vw, 1.4rem); color: #D4A017; line-height: 1.7; max-width: 700px; margin: 0 auto; border: none; padding: 0;">"Where there is no guidance, a people falls, but in an abundance of counselors there is safety."</blockquote>
+  <cite style="font-family: Inter, sans-serif; font-style: normal; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(212,160,23,0.8); display: block; margin-top: 1.1rem;">Proverbs 11:14 · ESV</cite>
 </section>
 
 <!-- ═══════════════════════════════════════════════ -->
@@ -167,8 +167,8 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">Stewardship</p>
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">Stewardship</p>
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
       Our Commitment to Transparency
     </h2>
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.6rem;"></div>
@@ -198,17 +198,17 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background-color: #060F1F; padding: 4rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.7rem, 3vw, 2.2rem); color: #FFFFFF; margin: 0 0 1rem; font-weight: 600; line-height: 1.25;">
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.7rem, 3vw, 2.2rem); color: #FFFFFF; margin: 0 0 1rem; font-weight: 600; line-height: 1.25;">
       Stand With Our <span style="color: #D4A017;">Leadership</span>
     </h2>
-    <p style="font-family: 'Inter', sans-serif; font-size: 1rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2rem;">
       Support the work our board oversees — the school rising in Juba and the ministry reaching young people with the Gospel.
     </p>
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
       <a href="/donate.qmd" class="btn-gold">Give Today</a>
       <a href="/contact.qmd" class="btn-ghost">Contact Us</a>
     </div>
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.85rem; color: rgba(255,255,255,0.55); margin: 1.75rem 0 0;">
+    <p style="font-family: Inter, sans-serif; font-size: 0.85rem; color: rgba(255,255,255,0.55); margin: 1.75rem 0 0;">
       <a href="/about/index.qmd" style="color: #D4A017; text-decoration: none;">← Back to Our Story</a>
     </p>
   </div>

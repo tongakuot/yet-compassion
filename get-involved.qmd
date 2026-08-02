@@ -13,23 +13,23 @@ toc: false
   <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23D4A017%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
 
   <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">Get Involved</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">Get Involved</p>
 
-    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.5rem;">
+    <h1 style="font-family: Playfair Display, Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.5rem;">
       Help Us Build the School — <span style="color: #D4A017;">and Share the Gospel</span>
     </h1>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 620px; margin: 0 0 2rem;">
+    <p style="font-family: Inter, sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 620px; margin: 0 0 2rem;">
       Youth Evangelism Training (Y.E.T.) Compassion is built on partnership. Whether you share the school campaign, bring your skills or your church alongside the work, watch and share Evangelist Gai's Facebook Live show, or lift the mission in prayer — you are part of building a Christian school in Juba, South Sudan.
     </p>
 
     <!-- Quick-nav anchors -->
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-      <a href="#volunteer" class="gi-pill" style="display: inline-block; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; color: rgba(255,255,255,0.7); padding: 0.4rem 1rem; border: 1px solid rgba(255,255,255,0.2); border-radius: 20px; text-decoration: none; transition: all 200ms ease;">🙋 Volunteer</a>
-      <a href="#partner" class="gi-pill" style="display: inline-block; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; color: rgba(255,255,255,0.7); padding: 0.4rem 1rem; border: 1px solid rgba(255,255,255,0.2); border-radius: 20px; text-decoration: none; transition: all 200ms ease;">🤝 Partner</a>
-      <a href="#pray" class="gi-pill" style="display: inline-block; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; color: rgba(255,255,255,0.7); padding: 0.4rem 1rem; border: 1px solid rgba(255,255,255,0.2); border-radius: 20px; text-decoration: none; transition: all 200ms ease;">🕊 Pray</a>
-      <a href="/campaigns/2026.qmd" class="gi-pill" style="display: inline-block; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; color: rgba(255,255,255,0.7); padding: 0.4rem 1rem; border: 1px solid rgba(255,255,255,0.2); border-radius: 20px; text-decoration: none; transition: all 200ms ease;">🎓 The School Campaign</a>
-      <a href="/donate.qmd" class="gi-pill" style="display: inline-block; font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 500; color: rgba(255,255,255,0.7); padding: 0.4rem 1rem; border: 1px solid rgba(255,255,255,0.2); border-radius: 20px; text-decoration: none; transition: all 200ms ease;">💛 Donate</a>
+      <a href="#volunteer" class="gi-pill" style="display: inline-block; font-family: Inter, sans-serif; font-size: 0.8rem; font-weight: 500; color: rgba(255,255,255,0.7); padding: 0.4rem 1rem; border: 1px solid rgba(255,255,255,0.2); border-radius: 20px; text-decoration: none; transition: all 200ms ease;">🙋 Volunteer</a>
+      <a href="#partner" class="gi-pill" style="display: inline-block; font-family: Inter, sans-serif; font-size: 0.8rem; font-weight: 500; color: rgba(255,255,255,0.7); padding: 0.4rem 1rem; border: 1px solid rgba(255,255,255,0.2); border-radius: 20px; text-decoration: none; transition: all 200ms ease;">🤝 Partner</a>
+      <a href="#pray" class="gi-pill" style="display: inline-block; font-family: Inter, sans-serif; font-size: 0.8rem; font-weight: 500; color: rgba(255,255,255,0.7); padding: 0.4rem 1rem; border: 1px solid rgba(255,255,255,0.2); border-radius: 20px; text-decoration: none; transition: all 200ms ease;">🕊 Pray</a>
+      <a href="/campaigns/2026.qmd" class="gi-pill" style="display: inline-block; font-family: Inter, sans-serif; font-size: 0.8rem; font-weight: 500; color: rgba(255,255,255,0.7); padding: 0.4rem 1rem; border: 1px solid rgba(255,255,255,0.2); border-radius: 20px; text-decoration: none; transition: all 200ms ease;">🎓 The School Campaign</a>
+      <a href="/donate.qmd" class="gi-pill" style="display: inline-block; font-family: Inter, sans-serif; font-size: 0.8rem; font-weight: 500; color: rgba(255,255,255,0.7); padding: 0.4rem 1rem; border: 1px solid rgba(255,255,255,0.2); border-radius: 20px; text-decoration: none; transition: all 200ms ease;">💛 Donate</a>
     </div>
   </div>
 </section>
@@ -41,9 +41,9 @@ toc: false
   <div style="max-width: 1000px; margin: 0 auto;">
 
     <div style="text-align: center; margin-bottom: 2.5rem;">
-      <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">Three Ways to Serve</h2>
+      <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">Three Ways to Serve</h2>
       <div style="width: 60px; height: 3px; background-color: #D4A017; margin: 0 auto 1rem;"></div>
-      <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: #5A5955; max-width: 560px; margin: 0 auto;">Every contribution — time, talent, or treasure — moves the school in Juba closer to opening its doors and carries the Gospel further.</p>
+      <p style="font-family: Inter, sans-serif; font-size: 1.05rem; color: #5A5955; max-width: 560px; margin: 0 auto;">Every contribution — time, talent, or treasure — moves the school in Juba closer to opening its doors and carries the Gospel further.</p>
     </div>
 
     <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;">
@@ -51,25 +51,25 @@ toc: false
       <!-- Volunteer Card -->
       <a href="#volunteer" class="gi-card" style="display: block; text-decoration: none; background: #FFFFFF; border-radius: 12px; padding: 2rem 1.5rem; border: 1px solid #D9D8D4; border-top: 4px solid #0B1F3B; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
         <div style="width: 56px; height: 56px; background: linear-gradient(135deg, #0B1F3B, #122D52); border-radius: 12px; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.25rem; font-size: 1.5rem;">🙋</div>
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.75rem;">Volunteer</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Share the school campaign, lend construction or education expertise, or help spread the Facebook Live ministry.</p>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; color: #0B1F3B;">Sign Up →</span>
+        <h3 style="font-family: Playfair Display, serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.75rem;">Volunteer</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Share the school campaign, lend construction or education expertise, or help spread the Facebook Live ministry.</p>
+        <span style="font-family: Inter, sans-serif; font-size: 0.9rem; font-weight: 600; color: #0B1F3B;">Sign Up →</span>
       </a>
 
       <!-- Partner Card -->
       <a href="#partner" class="gi-card" style="display: block; text-decoration: none; background: #FFFFFF; border-radius: 12px; padding: 2rem 1.5rem; border: 1px solid #D9D8D4; border-top: 4px solid #D4A017; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
         <div style="width: 56px; height: 56px; background: linear-gradient(135deg, #D4A017, #E0B030); border-radius: 12px; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.25rem; font-size: 1.5rem;">🤝</div>
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.75rem;">Partner</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Bring your church or organization alongside the school campaign — the work in Juba is built on partnership.</p>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; color: #0B1F3B;">Explore →</span>
+        <h3 style="font-family: Playfair Display, serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.75rem;">Partner</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Bring your church or organization alongside the school campaign — the work in Juba is built on partnership.</p>
+        <span style="font-family: Inter, sans-serif; font-size: 0.9rem; font-weight: 600; color: #0B1F3B;">Explore →</span>
       </a>
 
       <!-- Pray Card -->
       <a href="#pray" class="gi-card" style="display: block; text-decoration: none; background: #FFFFFF; border-radius: 12px; padding: 2rem 1.5rem; border: 1px solid #D9D8D4; border-top: 4px solid #A8871F; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease;">
         <div style="width: 56px; height: 56px; background: linear-gradient(135deg, #0B1F3B, #122D52); border-radius: 12px; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.25rem; font-size: 1.5rem;">🕊</div>
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.75rem;">Pray</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Intercede for the school campaign, the ministry, and the people of South Sudan. Prayer is our foundation.</p>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; color: #0B1F3B;">Join Us →</span>
+        <h3 style="font-family: Playfair Display, serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.75rem;">Pray</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 1rem;">Intercede for the school campaign, the ministry, and the people of South Sudan. Prayer is our foundation.</p>
+        <span style="font-family: Inter, sans-serif; font-size: 0.9rem; font-weight: 600; color: #0B1F3B;">Join Us →</span>
       </a>
 
     </div>
@@ -99,10 +99,10 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0;">
+    <p style="font-family: Cormorant Garamond, Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0;">
       "And I heard the voice of the Lord saying, 'Whom shall I send, and who will go for us?' Then I said, 'Here I am! Send me.'"
     </p>
-    <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
+    <span style="font-family: Inter, sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
       — Isaiah 6:8 (ESV)
     </span>
   </div>
@@ -113,62 +113,62 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section id="volunteer" class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto;">
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
       Volunteer With Us
     </h2>
     <div style="width: 60px; height: 3px; background-color: #0B1F3B; margin-bottom: 1.5rem;"></div>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">
       Our volunteers are the hands and feet of this ministry. Whether you have an hour a week or a season to give, there is a place for you in building the school and spreading the Word.
     </p>
 
     <!-- Volunteer areas grid -->
     <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; margin: 2rem 0;">
       <div style="background: #F7F6F2; border-radius: 10px; padding: 1.25rem 1.5rem;">
-        <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #0B1F3B;">✦ Share the School Campaign</strong>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0.5rem 0 0;">Tell your church, friends, and network about the campaign to build a Christian school in Juba.</p>
+        <strong style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #0B1F3B;">✦ Share the School Campaign</strong>
+        <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0.5rem 0 0;">Tell your church, friends, and network about the campaign to build a Christian school in Juba.</p>
       </div>
       <div style="background: #F7F6F2; border-radius: 10px; padding: 1.25rem 1.5rem;">
-        <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #0B1F3B;">✦ Construction & Trades Expertise</strong>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0.5rem 0 0;">Advise on building, planning, or project management as Phase 1 — land, foundation, and first classrooms — takes shape.</p>
+        <strong style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #0B1F3B;">✦ Construction & Trades Expertise</strong>
+        <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0.5rem 0 0;">Advise on building, planning, or project management as Phase 1 — land, foundation, and first classrooms — takes shape.</p>
       </div>
       <div style="background: #F7F6F2; border-radius: 10px; padding: 1.25rem 1.5rem;">
-        <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #0B1F3B;">✦ Education Expertise</strong>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0.5rem 0 0;">Share curriculum, teaching, or school-administration experience to help shape a Christ-centered school.</p>
+        <strong style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #0B1F3B;">✦ Education Expertise</strong>
+        <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0.5rem 0 0;">Share curriculum, teaching, or school-administration experience to help shape a Christ-centered school.</p>
       </div>
       <div style="background: #F7F6F2; border-radius: 10px; padding: 1.25rem 1.5rem;">
-        <strong style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #0B1F3B;">✦ Facebook Live Ministry</strong>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0.5rem 0 0;">Watch Evangelist Gai's live preaching, share the broadcasts, and invite others to tune in.</p>
+        <strong style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #0B1F3B;">✦ Facebook Live Ministry</strong>
+        <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0.5rem 0 0;">Watch Evangelist Gai's live preaching, share the broadcasts, and invite others to tune in.</p>
       </div>
     </div>
 
     <!-- Volunteer Form -->
     <div style="background: #F7F6F2; border-radius: 12px; padding: 2rem; margin-top: 2.5rem;">
-      <h3 style="font-family: 'Playfair Display', serif; font-size: 1.35rem; color: #2B2B2B; margin-bottom: 0.5rem; font-weight: 600;">Express Your Interest</h3>
-      <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; margin-bottom: 1.5rem;">Tell us about yourself and how you'd like to serve. We'll be in touch soon.</p>
+      <h3 style="font-family: Playfair Display, serif; font-size: 1.35rem; color: #2B2B2B; margin-bottom: 0.5rem; font-weight: 600;">Express Your Interest</h3>
+      <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; margin-bottom: 1.5rem;">Tell us about yourself and how you'd like to serve. We'll be in touch soon.</p>
 
       <form name="volunteer" method="POST" data-netlify="true" style="display: flex; flex-direction: column; gap: 1rem;">
         <input type="hidden" name="form-name" value="volunteer" />
 
         <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
           <div>
-            <label for="vol-name" style="display: block; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Full Name *</label>
-            <input type="text" id="vol-name" name="name" required style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
+            <label for="vol-name" style="display: block; font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Full Name *</label>
+            <input type="text" id="vol-name" name="name" required style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: Inter, sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
           </div>
           <div>
-            <label for="vol-email" style="display: block; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Email *</label>
-            <input type="email" id="vol-email" name="email" required style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
+            <label for="vol-email" style="display: block; font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Email *</label>
+            <input type="email" id="vol-email" name="email" required style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: Inter, sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
           </div>
         </div>
 
         <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
           <div>
-            <label for="vol-phone" style="display: block; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Phone</label>
-            <input type="tel" id="vol-phone" name="phone" style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
+            <label for="vol-phone" style="display: block; font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Phone</label>
+            <input type="tel" id="vol-phone" name="phone" style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: Inter, sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
           </div>
           <div>
-            <label for="vol-interest" style="display: block; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Area of Interest *</label>
-            <select id="vol-interest" name="interest" required style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
+            <label for="vol-interest" style="display: block; font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Area of Interest *</label>
+            <select id="vol-interest" name="interest" required style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: Inter, sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
               <option value="">Select an area</option>
               <option value="share-campaign">Sharing the School Campaign</option>
               <option value="construction-expertise">Construction & Trades Expertise</option>
@@ -183,11 +183,11 @@ toc: false
         </div>
 
         <div>
-          <label for="vol-message" style="display: block; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Tell Us About Yourself</label>
-          <textarea id="vol-message" name="message" rows="4" placeholder="What draws you to this work? How would you like to contribute?" style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; resize: vertical; transition: border-color 200ms ease;"></textarea>
+          <label for="vol-message" style="display: block; font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Tell Us About Yourself</label>
+          <textarea id="vol-message" name="message" rows="4" placeholder="What draws you to this work? How would you like to contribute?" style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: Inter, sans-serif; font-size: 0.95rem; background: #FFFFFF; resize: vertical; transition: border-color 200ms ease;"></textarea>
         </div>
 
-        <button type="submit" style="align-self: flex-start; background-color: #0B1F3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.75rem 2rem; border-radius: 8px; border: none; cursor: pointer; transition: background-color 200ms ease; min-height: 48px;">
+        <button type="submit" style="align-self: flex-start; background-color: #0B1F3B; color: #FFFFFF; font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; padding: 0.75rem 2rem; border-radius: 8px; border: none; cursor: pointer; transition: background-color 200ms ease; min-height: 48px;">
           Submit Volunteer Interest
         </button>
       </form>
@@ -221,12 +221,12 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section id="partner" class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 3.5rem 1.5rem;">
   <div style="max-width: 900px; margin: 0 auto;">
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
       Partner With Us
     </h2>
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.5rem;"></div>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; max-width: 700px; margin-bottom: 2.5rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; max-width: 700px; margin-bottom: 2.5rem;">
       The school in Juba is being built in partnership with local churches, community leaders, and organizations on the ground. Here in the U.S., we welcome churches, organizations, and businesses who want to stand behind the campaign and the youth evangelism ministry.
     </p>
 
@@ -235,8 +235,8 @@ toc: false
       <!-- Churches -->
       <div style="background: #FFFFFF; border-radius: 12px; padding: 2rem 1.5rem; border-left: 4px solid #0B1F3B;">
         <div style="font-size: 1.75rem; margin-bottom: 1rem;">⛪</div>
-        <h3 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.1rem; color: #2B2B2B; margin-bottom: 0.75rem;">Churches</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.7;">
+        <h3 style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1.1rem; color: #2B2B2B; margin-bottom: 0.75rem;">Churches</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.7;">
           Adopt the school campaign into your missions program, share it with your congregation, or host Evangelist Gai to speak about the work. Together, we can raise a school and reach a generation with the Gospel.
         </p>
       </div>
@@ -244,8 +244,8 @@ toc: false
       <!-- Nonprofits -->
       <div style="background: #FFFFFF; border-radius: 12px; padding: 2rem 1.5rem; border-left: 4px solid #D4A017;">
         <div style="font-size: 1.75rem; margin-bottom: 1rem;">🏛</div>
-        <h3 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.1rem; color: #2B2B2B; margin-bottom: 0.75rem;">Nonprofits & Organizations</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.7;">
+        <h3 style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1.1rem; color: #2B2B2B; margin-bottom: 0.75rem;">Nonprofits & Organizations</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.7;">
           Join the organizations, churches, and community leaders partnering on the school. Share expertise, coordinate resources, and amplify the campaign's reach.
         </p>
       </div>
@@ -253,8 +253,8 @@ toc: false
       <!-- Businesses -->
       <div style="background: #FFFFFF; border-radius: 12px; padding: 2rem 1.5rem; border-left: 4px solid #122D52;">
         <div style="font-size: 1.75rem; margin-bottom: 1rem;">💼</div>
-        <h3 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1.1rem; color: #2B2B2B; margin-bottom: 0.75rem;">Businesses</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.7;">
+        <h3 style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1.1rem; color: #2B2B2B; margin-bottom: 0.75rem;">Businesses</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.7;">
           Sponsor a campaign fundraiser, make a corporate gift toward Phase 1, or donate supplies and services that help the school open its doors.
         </p>
       </div>
@@ -281,10 +281,10 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0;">
+    <p style="font-family: Cormorant Garamond, Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0;">
       "Bear one another's burdens, and so fulfill the law of Christ."
     </p>
-    <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
+    <span style="font-family: Inter, sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
       — Galatians 6:2 (ESV)
     </span>
   </div>
@@ -295,58 +295,58 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section id="pray" class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto;">
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
       Prayer & Intercession
     </h2>
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.5rem;"></div>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 2rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 2rem;">
       Prayer is the foundation of everything we do. We invite you to join our prayer community — interceding for the school campaign, the ministry, and the people of South Sudan.
     </p>
 
     <!-- Current Prayer Focuses -->
     <div style="background: linear-gradient(135deg, rgba(11,31,59,0.05), rgba(212,160,23,0.06)); border-radius: 12px; padding: 2rem; border-left: 4px solid #D4A017; margin-bottom: 2.5rem;">
-      <h3 style="font-family: 'Playfair Display', serif; font-size: 1.2rem; color: #2B2B2B; margin-bottom: 1.25rem; font-weight: 600;">Current Prayer Focuses</h3>
+      <h3 style="font-family: Playfair Display, serif; font-size: 1.2rem; color: #2B2B2B; margin-bottom: 1.25rem; font-weight: 600;">Current Prayer Focuses</h3>
 
       <div style="display: flex; flex-direction: column; gap: 0.75rem;">
         <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
           <span style="color: #A8871F; font-size: 1.1rem; flex-shrink: 0; margin-top: 2px;">✦</span>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin: 0;">Provision for Phase 1 of the school campaign — land, foundation, and first classrooms</p>
+          <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin: 0;">Provision for Phase 1 of the school campaign — land, foundation, and first classrooms</p>
         </div>
         <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
           <span style="color: #A8871F; font-size: 1.1rem; flex-shrink: 0; margin-top: 2px;">✦</span>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin: 0;">Wisdom for the local churches, community leaders, and organizations partnering on the build in Juba</p>
+          <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin: 0;">Wisdom for the local churches, community leaders, and organizations partnering on the build in Juba</p>
         </div>
         <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
           <span style="color: #A8871F; font-size: 1.1rem; flex-shrink: 0; margin-top: 2px;">✦</span>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin: 0;">Peace and healing for families in South Sudan still recovering from war and displacement</p>
+          <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin: 0;">Peace and healing for families in South Sudan still recovering from war and displacement</p>
         </div>
         <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
           <span style="color: #A8871F; font-size: 1.1rem; flex-shrink: 0; margin-top: 2px;">✦</span>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin: 0;">Evangelist Gai's Facebook Live preaching — that the Gospel would reach hearts at home and across the diaspora</p>
+          <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin: 0;">Evangelist Gai's Facebook Live preaching — that the Gospel would reach hearts at home and across the diaspora</p>
         </div>
         <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
           <span style="color: #A8871F; font-size: 1.1rem; flex-shrink: 0; margin-top: 2px;">✦</span>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin: 0;">The children and families the school will one day serve</p>
+          <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin: 0;">The children and families the school will one day serve</p>
         </div>
       </div>
     </div>
 
     <!-- Prayer Signup -->
     <div style="background: #F7F6F2; border-radius: 12px; padding: 2rem; text-align: center;">
-      <h3 style="font-family: 'Playfair Display', serif; font-size: 1.2rem; color: #2B2B2B; margin-bottom: 0.5rem; font-weight: 600;">Join Our Prayer Community</h3>
-      <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; margin-bottom: 1.25rem;">Receive monthly prayer requests and updates on the school campaign and the work God is doing through Y.E.T. Compassion.</p>
+      <h3 style="font-family: Playfair Display, serif; font-size: 1.2rem; color: #2B2B2B; margin-bottom: 0.5rem; font-weight: 600;">Join Our Prayer Community</h3>
+      <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; margin-bottom: 1.25rem;">Receive monthly prayer requests and updates on the school campaign and the work God is doing through Y.E.T. Compassion.</p>
 
       <form name="prayer-signup" method="POST" data-netlify="true" style="display: flex; gap: 0.5rem; max-width: 480px; margin: 0 auto;">
         <input type="hidden" name="form-name" value="prayer-signup" />
         <input type="email" name="email" placeholder="Your email address" required
-          style="flex: 1; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px 0 0 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; min-height: 48px;">
+          style="flex: 1; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px 0 0 8px; font-family: Inter, sans-serif; font-size: 0.95rem; background: #FFFFFF; min-height: 48px;">
         <button type="submit"
-          style="background-color: #0B1F3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.95rem; padding: 0.7rem 1.5rem; border-radius: 0 8px 8px 0; border: none; cursor: pointer; white-space: nowrap; transition: background-color 200ms ease; min-height: 48px;">
+          style="background-color: #0B1F3B; color: #FFFFFF; font-family: Inter, sans-serif; font-weight: 600; font-size: 0.95rem; padding: 0.7rem 1.5rem; border-radius: 0 8px 8px 0; border: none; cursor: pointer; white-space: nowrap; transition: background-color 200ms ease; min-height: 48px;">
           Subscribe
         </button>
       </form>
-      <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #8A8985; margin-top: 0.75rem;">We respect your privacy. Unsubscribe at any time.</p>
+      <p style="font-family: Inter, sans-serif; font-size: 0.8rem; color: #8A8985; margin-top: 0.75rem;">We respect your privacy. Unsubscribe at any time.</p>
     </div>
   </div>
 
@@ -373,10 +373,10 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background: linear-gradient(135deg, #2B2B2B 0%, #0a1525 60%, #2B2B2B 100%); padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #FFFFFF; margin-bottom: 1rem; font-weight: 600;">
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #FFFFFF; margin-bottom: 1rem; font-weight: 600;">
       Ready to Make an Impact?
     </h2>
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2rem;">
       Every act of service — every prayer, every partnership, every dollar — brings the school in Juba closer to opening its doors and carries the Gospel to the next generation.
     </p>
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">

@@ -12,12 +12,12 @@ toc: false
 <section style="position: relative; min-height: 55vh; display: flex; align-items: center; background-image: linear-gradient(100deg, rgba(6,15,31,0.93) 0%, rgba(11,31,59,0.85) 50%, rgba(11,31,59,0.55) 100%), url('/images/web/pillar-school.jpg'); background-size: cover; background-position: center; padding: 4.5rem 1.5rem;">
   <div style="max-width: 1140px; margin: 0 auto; width: 100%;">
     <div style="max-width: 680px;">
-      <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #D4A017; margin: 0 0 1.1rem;">Flagship Project · Juba, South Sudan</p>
-      <h1 style="font-family: 'Playfair Display', serif; font-size: clamp(2.1rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; line-height: 1.15; margin: 0 0 1.25rem;">Bringing Education to a <span style="color: #D4A017;">Young Nation</span></h1>
-      <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.1rem); color: rgba(255,255,255,0.85); line-height: 1.75; margin: 0 0 2rem;">Youth Evangelism Training Compassion is raising funds to build a Christian school in Juba — a school for families who want a good Christian education for their children, serving vulnerable communities and advancing hope, healing, and transformation in South Sudan.</p>
+      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #D4A017; margin: 0 0 1.1rem;">Flagship Project · Juba, South Sudan</p>
+      <h1 style="font-family: Playfair Display, serif; font-size: clamp(2.1rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; line-height: 1.15; margin: 0 0 1.25rem;">Bringing Education to a <span style="color: #D4A017;">Young Nation</span></h1>
+      <p style="font-family: Inter, sans-serif; font-size: clamp(1rem, 2vw, 1.1rem); color: rgba(255,255,255,0.85); line-height: 1.75; margin: 0 0 2rem;">Youth Evangelism Training Compassion is raising funds to build a Christian school in Juba — a school for families who want a good Christian education for their children, serving vulnerable communities and advancing hope, healing, and transformation in South Sudan.</p>
       <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-        <a href="/campaigns/2026.qmd" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 0.98rem; color: #2B2B2B; background: #D4A017; border-radius: 10px; padding: 0.9rem 1.9rem; text-decoration: none; min-height: 48px;">Give to the School Campaign →</a>
-        <a href="#why" style="display: inline-flex; align-items: center; justify-content: center; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.98rem; color: #FFFFFF; background: transparent; border: 2px solid rgba(255,255,255,0.35); border-radius: 10px; padding: 0.9rem 1.9rem; text-decoration: none; min-height: 48px;">Why a School?</a>
+        <a href="/campaigns/2026.qmd" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: Inter, sans-serif; font-weight: 700; font-size: 0.98rem; color: #2B2B2B; background: #D4A017; border-radius: 10px; padding: 0.9rem 1.9rem; text-decoration: none; min-height: 48px;">Give to the School Campaign →</a>
+        <a href="#why" style="display: inline-flex; align-items: center; justify-content: center; font-family: Inter, sans-serif; font-weight: 600; font-size: 0.98rem; color: #FFFFFF; background: transparent; border: 2px solid rgba(255,255,255,0.35); border-radius: 10px; padding: 0.9rem 1.9rem; text-decoration: none; min-height: 48px;">Why a School?</a>
       </div>
     </div>
   </div>
@@ -29,16 +29,16 @@ toc: false
 <section id="why" class="reveal-on-scroll" style="background: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div class="school-why-grid" style="max-width: 1140px; margin: 0 auto; display: grid; grid-template-columns: 1.15fr 1fr; gap: 3.5rem; align-items: center;">
     <div>
-      <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">Why a School</p>
-      <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">Education Makes the Difference</h2>
+      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">Why a School</p>
+      <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">Education Makes the Difference</h2>
       <div style="width: 60px; height: 3px; background: #D4A017; margin-bottom: 1.6rem;"></div>
-      <p style="font-family: 'Inter', sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.8; margin: 0 0 1.1rem;">We believe education makes a difference in a person's life — especially Christian education. In a nation as young as South Sudan, a school is more than a building: it is a promise to the next generation that their future will be larger than their past.</p>
-      <p style="font-family: 'Inter', sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.8; margin: 0 0 1.1rem;">Our school will serve families who need a good Christian education for their children — grounding students in academic excellence and biblical truth at the same time, so that what is learned in the classroom takes root in character.</p>
-      <p style="font-family: 'Inter', sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.8; margin: 0;">All work is conducted in partnership with local churches, community leaders, and organizations — the people who know their communities best and will carry this school forward for decades.</p>
+      <p style="font-family: Inter, sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.8; margin: 0 0 1.1rem;">We believe education makes a difference in a person's life — especially Christian education. In a nation as young as South Sudan, a school is more than a building: it is a promise to the next generation that their future will be larger than their past.</p>
+      <p style="font-family: Inter, sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.8; margin: 0 0 1.1rem;">Our school will serve families who need a good Christian education for their children — grounding students in academic excellence and biblical truth at the same time, so that what is learned in the classroom takes root in character.</p>
+      <p style="font-family: Inter, sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.8; margin: 0;">All work is conducted in partnership with local churches, community leaders, and organizations — the people who know their communities best and will carry this school forward for decades.</p>
     </div>
     <div>
       <img src="/images/web/teacher.jpg" alt="A teacher with students in the Biong community school supported by Y.E.T. Compassion" style="border-radius: 16px; box-shadow: 0 18px 50px rgba(11,31,59,0.2); width: 100%; display: block;">
-      <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; color: #8A8985; margin: 0.8rem 0 0; text-align: center;">From our earlier work: a classroom in the Biong community, where Y.E.T. Compassion supported schooling before the war.</p>
+      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; color: #8A8985; margin: 0.8rem 0 0; text-align: center;">From our earlier work: a classroom in the Biong community, where Y.E.T. Compassion supported schooling before the war.</p>
     </div>
   </div>
 </section>
@@ -48,24 +48,24 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background: #F7F6F2; padding: 4.5rem 1.5rem;">
   <div style="max-width: 1140px; margin: 0 auto;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">What the School Stands On</p>
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">Three Pillars</h2>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">What the School Stands On</p>
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">Three Pillars</h2>
     <div style="width: 60px; height: 3px; background: #D4A017; margin-bottom: 1.6rem;"></div>
     <div class="school-pillar-grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; margin-top: 2.2rem;">
       <div style="background: #FFFFFF; border-radius: 14px; padding: 2rem 1.75rem; border-top: 3px solid #0B1F3B;">
         <div style="font-size: 1.8rem; margin-bottom: 0.9rem;">📖</div>
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #0B1F3B; margin: 0 0 0.6rem;">Academic Excellence</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #5A5955; line-height: 1.7; margin: 0;">A rigorous education that equips children to read, reason, and build — preparing them for meaningful work and leadership in a growing nation.</p>
+        <h3 style="font-family: Playfair Display, serif; font-size: 1.25rem; font-weight: 600; color: #0B1F3B; margin: 0 0 0.6rem;">Academic Excellence</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.93rem; color: #5A5955; line-height: 1.7; margin: 0;">A rigorous education that equips children to read, reason, and build — preparing them for meaningful work and leadership in a growing nation.</p>
       </div>
       <div style="background: #FFFFFF; border-radius: 14px; padding: 2rem 1.75rem; border-top: 3px solid #D4A017;">
         <div style="font-size: 1.8rem; margin-bottom: 0.9rem;">✝️</div>
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #0B1F3B; margin: 0 0 0.6rem;">Christ at the Center</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #5A5955; line-height: 1.7; margin: 0;">Biblical truth woven through school life — so students grow in knowledge and in character, discipled as well as taught.</p>
+        <h3 style="font-family: Playfair Display, serif; font-size: 1.25rem; font-weight: 600; color: #0B1F3B; margin: 0 0 0.6rem;">Christ at the Center</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.93rem; color: #5A5955; line-height: 1.7; margin: 0;">Biblical truth woven through school life — so students grow in knowledge and in character, discipled as well as taught.</p>
       </div>
       <div style="background: #FFFFFF; border-radius: 14px; padding: 2rem 1.75rem; border-top: 3px solid #0B1F3B;">
         <div style="font-size: 1.8rem; margin-bottom: 0.9rem;">🤝</div>
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #0B1F3B; margin: 0 0 0.6rem;">Community Partnership</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #5A5955; line-height: 1.7; margin: 0;">Built with local churches, community leaders, and organizations — serving vulnerable families and strengthening the community around every student.</p>
+        <h3 style="font-family: Playfair Display, serif; font-size: 1.25rem; font-weight: 600; color: #0B1F3B; margin: 0 0 0.6rem;">Community Partnership</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.93rem; color: #5A5955; line-height: 1.7; margin: 0;">Built with local churches, community leaders, and organizations — serving vulnerable families and strengthening the community around every student.</p>
       </div>
     </div>
   </div>
@@ -76,34 +76,34 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background: #0B1F3B; padding: 4.5rem 1.5rem; color: #FFFFFF;">
   <div style="max-width: 900px; margin: 0 auto;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #D4A017; margin: 0 0 0.7rem;">The Plan</p>
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #FFFFFF; margin: 0 0 0.9rem; line-height: 1.2;">From Ground to Grand Opening</h2>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #D4A017; margin: 0 0 0.7rem;">The Plan</p>
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #FFFFFF; margin: 0 0 0.9rem; line-height: 1.2;">From Ground to Grand Opening</h2>
     <div style="width: 60px; height: 3px; background: #D4A017; margin-bottom: 1.6rem;"></div>
-    <p style="font-family: 'Inter', sans-serif; color: rgba(255,255,255,0.78); line-height: 1.8; font-size: 0.98rem; margin: 0 0 2rem;">Building a school in South Sudan costs between $100,000 and $300,000, depending on size and scope. Rather than waiting until every dollar is in hand, we are building in phases — each phase a complete, usable step forward.</p>
+    <p style="font-family: Inter, sans-serif; color: rgba(255,255,255,0.78); line-height: 1.8; font-size: 0.98rem; margin: 0 0 2rem;">Building a school in South Sudan costs between $100,000 and $300,000, depending on size and scope. Rather than waiting until every dollar is in hand, we are building in phases — each phase a complete, usable step forward.</p>
     <div style="display: flex; flex-direction: column; gap: 1rem;">
       <div style="background: #122D52; border: 1px solid #D4A017; border-radius: 14px; padding: 1.6rem 1.75rem; display: flex; gap: 1.25rem; align-items: baseline;">
-        <span style="font-family: 'Playfair Display', serif; font-size: 1.6rem; font-weight: 700; color: #D4A017;">1</span>
+        <span style="font-family: Playfair Display, serif; font-size: 1.6rem; font-weight: 700; color: #D4A017;">1</span>
         <div>
-          <h3 style="font-family: 'Inter', sans-serif; font-size: 1.02rem; font-weight: 700; color: #FFFFFF; margin: 0 0 0.35rem;">Land, foundation &amp; first classrooms — <span style="color: #D4A017;">$100,000 goal · now underway</span></h3>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.65); line-height: 1.65; margin: 0;">Secure the site in Juba, lay the foundation, and raise the first classrooms so teaching can begin as early as possible.</p>
+          <h3 style="font-family: Inter, sans-serif; font-size: 1.02rem; font-weight: 700; color: #FFFFFF; margin: 0 0 0.35rem;">Land, foundation &amp; first classrooms — <span style="color: #D4A017;">$100,000 goal · now underway</span></h3>
+          <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.65); line-height: 1.65; margin: 0;">Secure the site in Juba, lay the foundation, and raise the first classrooms so teaching can begin as early as possible.</p>
         </div>
       </div>
       <div style="background: #122D52; border: 1px solid rgba(255,255,255,0.12); border-radius: 14px; padding: 1.6rem 1.75rem; display: flex; gap: 1.25rem; align-items: baseline;">
-        <span style="font-family: 'Playfair Display', serif; font-size: 1.6rem; font-weight: 700; color: rgba(255,255,255,0.45);">2</span>
+        <span style="font-family: Playfair Display, serif; font-size: 1.6rem; font-weight: 700; color: rgba(255,255,255,0.45);">2</span>
         <div>
-          <h3 style="font-family: 'Inter', sans-serif; font-size: 1.02rem; font-weight: 700; color: #FFFFFF; margin: 0 0 0.35rem;">Additional classrooms &amp; teacher housing</h3>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.65); line-height: 1.65; margin: 0;">Expand capacity and make it possible for good teachers to live where they serve.</p>
+          <h3 style="font-family: Inter, sans-serif; font-size: 1.02rem; font-weight: 700; color: #FFFFFF; margin: 0 0 0.35rem;">Additional classrooms &amp; teacher housing</h3>
+          <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.65); line-height: 1.65; margin: 0;">Expand capacity and make it possible for good teachers to live where they serve.</p>
         </div>
       </div>
       <div style="background: #122D52; border: 1px solid rgba(255,255,255,0.12); border-radius: 14px; padding: 1.6rem 1.75rem; display: flex; gap: 1.25rem; align-items: baseline;">
-        <span style="font-family: 'Playfair Display', serif; font-size: 1.6rem; font-weight: 700; color: rgba(255,255,255,0.45);">3</span>
+        <span style="font-family: Playfair Display, serif; font-size: 1.6rem; font-weight: 700; color: rgba(255,255,255,0.45);">3</span>
         <div>
-          <h3 style="font-family: 'Inter', sans-serif; font-size: 1.02rem; font-weight: 700; color: #FFFFFF; margin: 0 0 0.35rem;">Furnishing, books &amp; opening enrollment</h3>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.65); line-height: 1.65; margin: 0;">Desks, books, and supplies — then doors open and the first students walk in.</p>
+          <h3 style="font-family: Inter, sans-serif; font-size: 1.02rem; font-weight: 700; color: #FFFFFF; margin: 0 0 0.35rem;">Furnishing, books &amp; opening enrollment</h3>
+          <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.65); line-height: 1.65; margin: 0;">Desks, books, and supplies — then doors open and the first students walk in.</p>
         </div>
       </div>
     </div>
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; color: rgba(255,255,255,0.45); margin: 1.6rem 0 0;">Phase details and final budget are confirmed with our partners on the ground and published on the <a href="/campaigns/2026.qmd" style="color: #D4A017; text-decoration: none;">campaign page</a> and our <a href="/transparency.qmd" style="color: #D4A017; text-decoration: none;">financial transparency page</a> as the project progresses.</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.8rem; color: rgba(255,255,255,0.45); margin: 1.6rem 0 0;">Phase details and final budget are confirmed with our partners on the ground and published on the <a href="/campaigns/2026.qmd" style="color: #D4A017; text-decoration: none;">campaign page</a> and our <a href="/transparency.qmd" style="color: #D4A017; text-decoration: none;">financial transparency page</a> as the project progresses.</p>
   </div>
 </section>
 
@@ -112,17 +112,17 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div style="max-width: 1140px; margin: 0 auto;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">A Track Record, Not a Promise</p>
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">We Have Built Before</h2>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">A Track Record, Not a Promise</p>
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">We Have Built Before</h2>
     <div style="width: 60px; height: 3px; background: #D4A017; margin-bottom: 1.6rem;"></div>
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.75; max-width: 760px; margin: 0 0 2.2rem;">Between 2006 and 2013, Y.E.T. Compassion drilled water wells, delivered food aid and medical supplies, and supported schooling in the Biong community — work documented in the photos below. The school in Juba continues what war interrupted.</p>
+    <p style="font-family: Inter, sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.75; max-width: 760px; margin: 0 0 2.2rem;">Between 2006 and 2013, Y.E.T. Compassion drilled water wells, delivered food aid and medical supplies, and supported schooling in the Biong community — work documented in the photos below. The school in Juba continues what war interrupted.</p>
     <div class="school-photo-grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem;">
       <img src="/images/web/well.jpg" alt="Children at a water well site drilled by Y.E.T. Compassion in Biong" style="border-radius: 12px; width: 100%; height: 240px; object-fit: cover;">
       <img src="/images/web/story-students.jpg" alt="Students holding textbooks provided by Y.E.T. Compassion" style="border-radius: 12px; width: 100%; height: 240px; object-fit: cover;">
       <img src="/images/web/mission.jpg" alt="Y.E.T. Compassion mission team serving in the Biong community" style="border-radius: 12px; width: 100%; height: 240px; object-fit: cover;">
     </div>
     <div style="margin-top: 1.6rem;">
-      <a href="/about/index.qmd" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 700; color: #0B1F3B; text-decoration: none;">See the full story of our work →</a>
+      <a href="/about/index.qmd" style="font-family: Inter, sans-serif; font-size: 0.9rem; font-weight: 700; color: #0B1F3B; text-decoration: none;">See the full story of our work →</a>
     </div>
   </div>
 </section>
@@ -132,11 +132,11 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background: #060F1F; padding: 4rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.7rem, 3vw, 2.2rem); font-weight: 600; color: #FFFFFF; margin: 0 0 1rem; line-height: 1.25;">Every Classroom Starts with a <span style="color: #D4A017;">First Gift</span></h2>
-    <p style="font-family: 'Inter', sans-serif; color: rgba(255,255,255,0.7); line-height: 1.75; margin: 0 0 2rem;">Join the families, churches, and partners bringing Christian education to Juba. Give once, or become a monthly partner and build with us brick by brick.</p>
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.7rem, 3vw, 2.2rem); font-weight: 600; color: #FFFFFF; margin: 0 0 1rem; line-height: 1.25;">Every Classroom Starts with a <span style="color: #D4A017;">First Gift</span></h2>
+    <p style="font-family: Inter, sans-serif; color: rgba(255,255,255,0.7); line-height: 1.75; margin: 0 0 2rem;">Join the families, churches, and partners bringing Christian education to Juba. Give once, or become a monthly partner and build with us brick by brick.</p>
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-      <a href="/donate.qmd" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 0.98rem; color: #2B2B2B; background: #D4A017; border-radius: 10px; padding: 0.9rem 1.9rem; text-decoration: none; min-height: 48px;">Give to Build the School →</a>
-      <a href="/campaigns/2026.qmd" style="display: inline-flex; align-items: center; justify-content: center; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.98rem; color: #D4A017; background: transparent; border: 2px solid #D4A017; border-radius: 10px; padding: 0.9rem 1.9rem; text-decoration: none; min-height: 48px;">See Campaign Progress</a>
+      <a href="/donate.qmd" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: Inter, sans-serif; font-weight: 700; font-size: 0.98rem; color: #2B2B2B; background: #D4A017; border-radius: 10px; padding: 0.9rem 1.9rem; text-decoration: none; min-height: 48px;">Give to Build the School →</a>
+      <a href="/campaigns/2026.qmd" style="display: inline-flex; align-items: center; justify-content: center; font-family: Inter, sans-serif; font-weight: 600; font-size: 0.98rem; color: #D4A017; background: transparent; border: 2px solid #D4A017; border-radius: 10px; padding: 0.9rem 1.9rem; text-decoration: none; min-height: 48px;">See Campaign Progress</a>
     </div>
   </div>
 </section>

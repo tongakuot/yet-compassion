@@ -32,3 +32,4 @@ Thumbs.db
 # Claude/Cowork skills and session files
 .claude/
 .skills/
+_to_delete/

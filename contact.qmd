@@ -13,13 +13,13 @@ toc: false
   <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23D4A017%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
 
   <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">Contact</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">Contact</p>
 
-    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.25rem;">
+    <h1 style="font-family: Playfair Display, Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.25rem;">
       Let's <span style="color: #D4A017;">Connect</span>
     </h1>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 580px;">
+    <p style="font-family: Inter, sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 580px;">
       We'd love to hear from you. Whether you have a question, partnership inquiry, or simply want to say hello — reach out and we'll respond promptly.
     </p>
   </div>
@@ -33,22 +33,22 @@ toc: false
     <div style="display: flex; align-items: center; gap: 0.75rem;">
       <span style="font-size: 1.25rem;">📧</span>
       <div>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(255,255,255,0.6);">Email</span>
-        <a href="mailto:info@yetcompassion.org" style="display: block; font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #FFFFFF; text-decoration: none;">info@yetcompassion.org</a>
+        <span style="font-family: Inter, sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(255,255,255,0.6);">Email</span>
+        <a href="mailto:info@yetcompassion.org" style="display: block; font-family: Inter, sans-serif; font-size: 0.95rem; color: #FFFFFF; text-decoration: none;">info@yetcompassion.org</a>
       </div>
     </div>
     <div style="display: flex; align-items: center; gap: 0.75rem;">
       <span style="font-size: 1.25rem;">📍</span>
       <div>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(255,255,255,0.6);">Location</span>
-        <span style="display: block; font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #FFFFFF;">Nashville, Tennessee</span>
+        <span style="font-family: Inter, sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(255,255,255,0.6);">Location</span>
+        <span style="display: block; font-family: Inter, sans-serif; font-size: 0.95rem; color: #FFFFFF;">Nashville, Tennessee</span>
       </div>
     </div>
     <div style="display: flex; align-items: center; gap: 0.75rem;">
       <span style="font-size: 1.25rem;">🕐</span>
       <div>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(255,255,255,0.6);">Hours</span>
-        <span style="display: block; font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #FFFFFF;">Evenings & Weekends</span>
+        <span style="font-family: Inter, sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(255,255,255,0.6);">Hours</span>
+        <span style="display: block; font-family: Inter, sans-serif; font-size: 0.95rem; color: #FFFFFF;">Evenings & Weekends</span>
       </div>
     </div>
   </div>
@@ -67,7 +67,7 @@ toc: false
 
     <!-- Contact Form -->
     <div style="background: #F7F6F2; border-radius: 12px; padding: 2rem;">
-      <h2 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.5rem; font-weight: 600;">Send a Message</h2>
+      <h2 style="font-family: Playfair Display, serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.5rem; font-weight: 600;">Send a Message</h2>
       <div style="width: 60px; height: 3px; background-color: #0B1F3B; margin-bottom: 1.5rem;"></div>
 
       <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/contact-success.html" id="contact-form" style="display: flex; flex-direction: column; gap: 1rem;">
@@ -77,25 +77,25 @@ toc: false
 
         <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
           <div>
-            <label for="contact-name" style="display: block; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Full Name *</label>
-            <input type="text" id="contact-name" name="name" required autocomplete="name" minlength="2" style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
-            <span class="field-error" id="name-error" style="display: none; font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #c0392b; margin-top: 0.25rem;">Please enter your name.</span>
+            <label for="contact-name" style="display: block; font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Full Name *</label>
+            <input type="text" id="contact-name" name="name" required autocomplete="name" minlength="2" style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: Inter, sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
+            <span class="field-error" id="name-error" style="display: none; font-family: Inter, sans-serif; font-size: 0.8rem; color: #c0392b; margin-top: 0.25rem;">Please enter your name.</span>
           </div>
           <div>
-            <label for="contact-email" style="display: block; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Email *</label>
-            <input type="email" id="contact-email" name="email" required autocomplete="email" style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
-            <span class="field-error" id="email-error" style="display: none; font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #c0392b; margin-top: 0.25rem;">Please enter a valid email address.</span>
+            <label for="contact-email" style="display: block; font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Email *</label>
+            <input type="email" id="contact-email" name="email" required autocomplete="email" style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: Inter, sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
+            <span class="field-error" id="email-error" style="display: none; font-family: Inter, sans-serif; font-size: 0.8rem; color: #c0392b; margin-top: 0.25rem;">Please enter a valid email address.</span>
           </div>
         </div>
 
         <div>
-          <label for="contact-phone" style="display: block; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Phone <span style="font-weight: 400; color: #8A8985;">(optional)</span></label>
-          <input type="tel" id="contact-phone" name="phone" autocomplete="tel" style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
+          <label for="contact-phone" style="display: block; font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Phone <span style="font-weight: 400; color: #8A8985;">(optional)</span></label>
+          <input type="tel" id="contact-phone" name="phone" autocomplete="tel" style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: Inter, sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
         </div>
 
         <div>
-          <label for="contact-subject" style="display: block; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Subject *</label>
-          <select id="contact-subject" name="subject" required style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
+          <label for="contact-subject" style="display: block; font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Subject *</label>
+          <select id="contact-subject" name="subject" required style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: Inter, sans-serif; font-size: 0.95rem; background: #FFFFFF; transition: border-color 200ms ease;">
             <option value="">Select a topic</option>
             <option value="general">General Inquiry</option>
             <option value="school-campaign">The School Campaign</option>
@@ -107,19 +107,19 @@ toc: false
             <option value="media">Media & Press</option>
             <option value="other">Other</option>
           </select>
-          <span class="field-error" id="subject-error" style="display: none; font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #c0392b; margin-top: 0.25rem;">Please select a subject.</span>
+          <span class="field-error" id="subject-error" style="display: none; font-family: Inter, sans-serif; font-size: 0.8rem; color: #c0392b; margin-top: 0.25rem;">Please select a subject.</span>
         </div>
 
         <div>
-          <label for="contact-message" style="display: block; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Message *</label>
-          <textarea id="contact-message" name="message" rows="5" required minlength="10" placeholder="How can we help?" style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.95rem; background: #FFFFFF; resize: vertical; transition: border-color 200ms ease;"></textarea>
-          <span class="field-error" id="message-error" style="display: none; font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #c0392b; margin-top: 0.25rem;">Please enter a message (at least 10 characters).</span>
+          <label for="contact-message" style="display: block; font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.4rem;">Message *</label>
+          <textarea id="contact-message" name="message" rows="5" required minlength="10" placeholder="How can we help?" style="width: 100%; padding: 0.7rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px; font-family: Inter, sans-serif; font-size: 0.95rem; background: #FFFFFF; resize: vertical; transition: border-color 200ms ease;"></textarea>
+          <span class="field-error" id="message-error" style="display: none; font-family: Inter, sans-serif; font-size: 0.8rem; color: #c0392b; margin-top: 0.25rem;">Please enter a message (at least 10 characters).</span>
         </div>
 
         <!-- Form status messages -->
-        <div id="form-status" style="display: none; padding: 0.75rem 1rem; border-radius: 8px; font-family: 'Inter', sans-serif; font-size: 0.9rem;"></div>
+        <div id="form-status" style="display: none; padding: 0.75rem 1rem; border-radius: 8px; font-family: Inter, sans-serif; font-size: 0.9rem;"></div>
 
-        <button type="submit" id="contact-submit-btn" style="align-self: flex-start; background-color: #0B1F3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 1rem; padding: 0.75rem 2rem; border-radius: 8px; border: none; cursor: pointer; transition: all 200ms ease; min-height: 48px; display: flex; align-items: center; gap: 0.5rem;">
+        <button type="submit" id="contact-submit-btn" style="align-self: flex-start; background-color: #0B1F3B; color: #FFFFFF; font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; padding: 0.75rem 2rem; border-radius: 8px; border: none; cursor: pointer; transition: all 200ms ease; min-height: 48px; display: flex; align-items: center; gap: 0.5rem;">
           <span id="btn-text">Send Message</span>
           <span id="btn-spinner" style="display: none; width: 18px; height: 18px; border: 2px solid rgba(255,255,255,0.3); border-top-color: #FFFFFF; border-radius: 50%; animation: spin 0.6s linear infinite;"></span>
         </button>
@@ -189,8 +189,8 @@ toc: false
 
       <!-- Address Card -->
       <div style="background: #F7F6F2; border-radius: 12px; padding: 1.5rem; border-left: 4px solid #0B1F3B;">
-        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.95rem; color: #0B1F3B; margin-bottom: 0.5rem;">Mailing Address</h4>
-        <address style="font-family: 'Inter', sans-serif; font-size: 0.95rem; font-style: normal; color: #5A5955; line-height: 1.6; margin: 0;">
+        <h4 style="font-family: Inter, sans-serif; font-weight: 600; font-size: 0.95rem; color: #0B1F3B; margin-bottom: 0.5rem;">Mailing Address</h4>
+        <address style="font-family: Inter, sans-serif; font-size: 0.95rem; font-style: normal; color: #5A5955; line-height: 1.6; margin: 0;">
           Y.E.T. Compassion<br>
           P.O. Box 680262<br>
           Franklin, TN 37068-0262
@@ -199,20 +199,20 @@ toc: false
 
       <!-- Office Hours Card -->
       <div style="background: #F7F6F2; border-radius: 12px; padding: 1.5rem; border-left: 4px solid #D4A017;">
-        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.95rem; color: #D4A017; margin-bottom: 0.5rem;">Office Hours</h4>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin: 0;">
+        <h4 style="font-family: Inter, sans-serif; font-weight: 600; font-size: 0.95rem; color: #D4A017; margin-bottom: 0.5rem;">Office Hours</h4>
+        <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin: 0;">
           Evenings & Weekends
         </p>
       </div>
 
       <!-- Social Card -->
       <div style="background: #F7F6F2; border-radius: 12px; padding: 1.5rem; border-left: 4px solid #A8871F;">
-        <h4 style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.95rem; color: #A8871F; margin-bottom: 0.75rem;">Connect With Us</h4>
+        <h4 style="font-family: Inter, sans-serif; font-weight: 600; font-size: 0.95rem; color: #A8871F; margin-bottom: 0.75rem;">Connect With Us</h4>
         <div style="display: flex; gap: 0.75rem; flex-wrap: wrap;">
-          <a href="https://www.facebook.com/YetCompassion" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.4rem; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 500; color: #2B2B2B; text-decoration: none; padding: 0.4rem 0.75rem; background: #FFFFFF; border-radius: 6px; border: 1px solid #D9D8D4; transition: all 200ms ease;">
+          <a href="https://www.facebook.com/YetCompassion" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.4rem; font-family: Inter, sans-serif; font-size: 0.9rem; font-weight: 500; color: #2B2B2B; text-decoration: none; padding: 0.4rem 0.75rem; background: #FFFFFF; border-radius: 6px; border: 1px solid #D9D8D4; transition: all 200ms ease;">
             Facebook
           </a>
-          <a href="https://www.linkedin.com/in/gai-luom-155b83b3/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.4rem; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 500; color: #2B2B2B; text-decoration: none; padding: 0.4rem 0.75rem; background: #FFFFFF; border-radius: 6px; border: 1px solid #D9D8D4; transition: all 200ms ease;">
+          <a href="https://www.linkedin.com/in/gai-luom-155b83b3/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.4rem; font-family: Inter, sans-serif; font-size: 0.9rem; font-weight: 500; color: #2B2B2B; text-decoration: none; padding: 0.4rem 0.75rem; background: #FFFFFF; border-radius: 6px; border: 1px solid #D9D8D4; transition: all 200ms ease;">
             LinkedIn
           </a>
         </div>
@@ -220,7 +220,7 @@ toc: false
 
       <!-- Response Time -->
       <div style="background: linear-gradient(135deg, rgba(11,31,59,0.05), rgba(212,160,23,0.06)); border-radius: 12px; padding: 1.5rem; text-align: center;">
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">
+        <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0;">
           We typically respond within <strong style="color: #0B1F3B;">24–48 hours</strong>. For urgent matters, please include "URGENT" in your subject line.
         </p>
       </div>
@@ -255,10 +255,10 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0;">
+    <p style="font-family: Cormorant Garamond, Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0;">
       "Therefore encourage one another and build one another up, just as you are doing."
     </p>
-    <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
+    <span style="font-family: Inter, sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
       — 1 Thessalonians 5:11 (ESV)
     </span>
   </div>
@@ -269,10 +269,10 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background-color: #F7F6F2; padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 1rem; font-weight: 600;">
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 1rem; font-weight: 600;">
       Other Ways to Connect
     </h2>
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: #5A5955; line-height: 1.7; margin-bottom: 2rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; color: #5A5955; line-height: 1.7; margin-bottom: 2rem;">
       Beyond sending a message, you can support the school campaign through giving, volunteering, or partnership — and join Evangelist Gai's Facebook Live show.
     </p>
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">

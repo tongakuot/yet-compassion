@@ -15,15 +15,15 @@ toc: false
   <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: center;">
     <img src="/images/project-images/gai-bol-luom.jpg" alt="Evangelist Gai Bol Luom, Founder of Y.E.T. Compassion" style="width: 160px; height: 160px; border-radius: 50%; object-fit: cover; object-position: center top; margin: 0 auto 1.5rem; display: block; box-shadow: 0 4px 20px rgba(0,0,0,0.3); border: 3px solid rgba(212,160,23,0.3);">
 
-    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 0.5rem;">
+    <h1 style="font-family: Playfair Display, Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 0.5rem;">
       Evangelist Gai Bol Luom
     </h1>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 1rem; font-weight: 500; color: #D4A017; margin-bottom: 0.5rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1rem; font-weight: 500; color: #D4A017; margin-bottom: 0.5rem;">
       Founder &amp; Executive Director
     </p>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.6); margin-bottom: 0;">
+    <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.6); margin-bottom: 0;">
       Nashville, TN
     </p>
   </div>
@@ -34,21 +34,21 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">His Story</p>
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">His Story</p>
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
       From Displacement to Purpose
     </h2>
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.6rem;"></div>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
       Evangelist Gai Bol Luom's story is one of resilience, faith, and divine calling. Born and raised in South Sudan, Gai's early life was marked by the profound challenges facing his nation — conflict, displacement, and the struggle for stability that continues to shape the lives of millions across the diaspora.
     </p>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
       Like many South Sudanese families, Gai and his loved ones experienced the upheaval of displacement. This journey — marked by uncertainty, loss, and the search for safety and opportunity — became the crucible in which his faith deepened and his calling crystallized. Through it all, Gai clung to Scripture and community, discovering that faith is not a luxury in times of plenty, but a lifeline in seasons of trial.
     </p>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 0;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 0;">
       Gai pursued education with determination, recognizing it as both a personal pathway and a tool for serving others. His academic journey reinforced what he had learned through lived experience: that preparation and education unlock potential, and that young people — especially those carrying the weight of displacement and life transition — need intentional investment to thrive.
     </p>
 
@@ -56,8 +56,8 @@ toc: false
     <div style="margin-top: 2.5rem; border-radius: 12px; overflow: hidden; position: relative;">
       <img loading="lazy" src="/images/project-images/biong-food-distribution-leader.jpg" alt="Leading food distribution efforts in Biong, South Sudan" style="width: 100%; height: auto; display: block;">
       <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(6,15,31,0.8)); padding: 1.25rem; padding-top: 2.5rem;">
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; display: block;">Food Distribution — Biong, South Sudan</span>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; color: rgba(255,255,255,0.7);">Leading community aid efforts on the ground</span>
+        <span style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; display: block;">Food Distribution — Biong, South Sudan</span>
+        <span style="font-family: Inter, sans-serif; font-size: 0.75rem; color: rgba(255,255,255,0.7);">Leading community aid efforts on the ground</span>
       </div>
     </div>
   </div>
@@ -68,21 +68,21 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 4.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">His Faith</p>
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">His Faith</p>
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
       Faith as Foundation
     </h2>
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.6rem;"></div>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
       Throughout his journey, Gai's deepening relationship with Christ became central to his identity and purpose. He came to understand that faith was the foundation for his identity and his responsibility to his community — the lens through which he could see both with clarity and love.
     </p>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
       Gai's faith journey taught him that God sees the marginalized, honors the displaced, and raises up leaders from unexpected places. He witnessed firsthand how Scripture speaks powerfully to those facing adversity, and how a faith community rooted in God's Word becomes a place of healing, hope, and transformation.
     </p>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 0;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 0;">
       This spiritual foundation became the bedrock upon which Y.E.T. Compassion was built. In 2006, Gai began the work of serving his people — and the ministry that followed drilled wells, delivered food aid and medical supplies, and supported schooling in the Biong community until war forced a halt in 2013. The conviction never changed: young people need not just education and skills — they need to know they are seen, valued, and called by God to something greater than their circumstances.
     </p>
 
@@ -90,8 +90,8 @@ toc: false
     <div style="margin-top: 2.5rem; border-radius: 12px; overflow: hidden; position: relative;">
       <img loading="lazy" src="/images/project-images/mission_trip_photos/biong_mission_trip_photos_01.jpg" alt="Mission team building relationships and partnerships" style="width: 100%; height: auto; display: block;">
       <div style="position: absolute; bottom: 0; left: 0; right: 0; background: linear-gradient(transparent, rgba(6,15,31,0.8)); padding: 1.25rem; padding-top: 2.5rem;">
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; display: block;">Mission Team — Building Partnerships</span>
-        <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; color: rgba(255,255,255,0.7);">Collaborative ministry through service across communities</span>
+        <span style="font-family: Inter, sans-serif; font-size: 0.85rem; font-weight: 600; color: #FFFFFF; display: block;">Mission Team — Building Partnerships</span>
+        <span style="font-family: Inter, sans-serif; font-size: 0.75rem; color: rgba(255,255,255,0.7);">Collaborative ministry through service across communities</span>
       </div>
     </div>
   </div>
@@ -102,13 +102,13 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background-color: #060F1F; padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <blockquote style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0 0 0.75rem; border: none; padding: 0;">
+    <blockquote style="font-family: Cormorant Garamond, Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0 0 0.75rem; border: none; padding: 0;">
       "I have no greater joy than to hear that my children are walking in the truth."
     </blockquote>
-    <cite style="font-family: 'Inter', sans-serif; font-style: normal; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(212,160,23,0.8); display: block; margin-bottom: 1.25rem;">
+    <cite style="font-family: Inter, sans-serif; font-style: normal; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(212,160,23,0.8); display: block; margin-bottom: 1.25rem;">
       3 John 1:4 · ESV
     </cite>
-    <p style="font-family: 'Inter', sans-serif; font-style: italic; font-size: 0.95rem; color: rgba(255,255,255,0.65); line-height: 1.6; max-width: 550px; margin: 0 auto;">
+    <p style="font-family: Inter, sans-serif; font-style: italic; font-size: 0.95rem; color: rgba(255,255,255,0.65); line-height: 1.6; max-width: 550px; margin: 0 auto;">
       "This Scripture guides my work every day. When our young people walk in truth — understanding their identity in Christ, their potential, their calling — everything changes."
     </p>
   </div>
@@ -119,13 +119,13 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">The Calling Today</p>
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">The Calling Today</p>
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
       A School and a Pulpit
     </h2>
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.6rem;"></div>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 2rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 2rem;">
       Headquartered in Nashville, Tennessee, Gai leads Y.E.T. Compassion's return to South Sudan. His calling now centers on two works: raising a Christian school in Juba for families who want a Christ-centered education for their children, and preaching the Gospel to young people — at home and across the diaspora — through his live show on Facebook.
     </p>
 
@@ -133,12 +133,12 @@ toc: false
       <div style="padding: 1.5rem; background: #F7F6F2; border-radius: 8px; border-left: 4px solid #0B1F3B;">
         <strong style="display: block; font-size: 1rem; color: #2B2B2B; margin-bottom: 0.5rem;">The School in Juba</strong>
         <span style="font-size: 0.95rem; color: #5A5955; line-height: 1.7; display: block; margin-bottom: 0.75rem;">Gai believes education makes a difference in individuals — especially Christian education. The school will serve families who need good Christian education for their children, support vulnerable communities, and advance hope, healing, and transformation in South Sudan.</span>
-        <a href="/school.qmd" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 700; color: #0B1F3B; text-decoration: none;">About the School →</a>
+        <a href="/school.qmd" style="font-family: Inter, sans-serif; font-size: 0.9rem; font-weight: 700; color: #0B1F3B; text-decoration: none;">About the School →</a>
       </div>
       <div style="padding: 1.5rem; background: #F7F6F2; border-radius: 8px; border-left: 4px solid #D4A017;">
         <strong style="display: block; font-size: 1rem; color: #2B2B2B; margin-bottom: 0.5rem;">Preaching Live on Facebook</strong>
         <span style="font-size: 0.95rem; color: #5A5955; line-height: 1.7; display: block; margin-bottom: 0.75rem;">Through his Facebook Live show, Gai brings biblical teaching directly to the South Sudanese community — continuing the youth evangelism and discipleship ministry Y.E.T. Compassion was founded on.</span>
-        <a href="/watch-live.qmd" style="font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 700; color: #0B1F3B; text-decoration: none;">Watch the Show →</a>
+        <a href="/watch-live.qmd" style="font-family: Inter, sans-serif; font-size: 0.9rem; font-weight: 700; color: #0B1F3B; text-decoration: none;">Watch the Show →</a>
       </div>
       <div style="padding: 1.5rem; background: #F7F6F2; border-radius: 8px; border-left: 4px solid #0B1F3B;">
         <strong style="display: block; font-size: 1rem; color: #2B2B2B; margin-bottom: 0.5rem;">Education and Faith Inseparable</strong>
@@ -153,13 +153,13 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 4.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">How He Leads</p>
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">How He Leads</p>
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); color: #0B1F3B; margin: 0 0 0.9rem; font-weight: 600; line-height: 1.2;">
       Leadership Philosophy
     </h2>
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.6rem;"></div>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 2rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 2rem;">
       Gai leads with humility, conviction, and deep love for the communities he serves.
     </p>
 
@@ -193,10 +193,10 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background-color: #060F1F; padding: 4rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.7rem, 3vw, 2.2rem); color: #FFFFFF; margin: 0 0 1rem; font-weight: 600; line-height: 1.25;">
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.7rem, 3vw, 2.2rem); color: #FFFFFF; margin: 0 0 1rem; font-weight: 600; line-height: 1.25;">
       See the Calling in <span style="color: #D4A017;">Action</span>
     </h2>
-    <p style="font-family: 'Inter', sans-serif; font-size: 1rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2rem;">
       Follow the school rising in Juba, or join Evangelist Gai live as he preaches the Gospel on Facebook.
     </p>
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">

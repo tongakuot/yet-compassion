@@ -14,28 +14,28 @@ toc: false
       <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="#2B2B2B" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6L9 17l-5-5"/></svg>
     </div>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin-bottom: 0.75rem;">Donation Received</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin-bottom: 0.75rem;">Donation Received</p>
 
-    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.25rem;">
+    <h1 style="font-family: Playfair Display, Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.25rem;">
       Thank You for Your <span style="color: #D4A017;">Generosity</span>
     </h1>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.85); line-height: 1.7; margin-bottom: 0.75rem;">
+    <p style="font-family: Inter, sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.85); line-height: 1.7; margin-bottom: 0.75rem;">
       Your gift is already at work — supporting youth empowerment, family stability, and community transformation among South Sudanese diaspora communities.
     </p>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: rgba(255,255,255,0.6); line-height: 1.7; margin-bottom: 0.5rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: rgba(255,255,255,0.6); line-height: 1.7; margin-bottom: 0.5rem;">
       A confirmation receipt has been sent to your email by Stripe.
     </p>
 
     <div id="recurring-note" style="display: none; background: rgba(212,160,23,0.1); border: 1px solid rgba(212,160,23,0.25); border-radius: 8px; padding: 0.75rem 1rem; margin: 1.25rem auto; max-width: 480px;">
-      <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #D4A017; margin: 0;">
+      <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #D4A017; margin: 0;">
         Your monthly recurring donation is now active. You can manage it anytime through the link in your confirmation email.
       </p>
     </div>
 
     <div style="background: rgba(255,255,255,0.06); border-radius: 12px; padding: 1.5rem; margin: 2rem auto; max-width: 500px;">
-      <p style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.7); line-height: 1.6; margin: 0;">
+      <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: rgba(255,255,255,0.7); line-height: 1.6; margin: 0;">
         Youth Evangelism Training (Y.E.T.) Compassion is a registered <strong style="color: #FFFFFF;">501(c)(3)</strong> nonprofit organization.<br>
         Your contribution is tax-deductible to the extent allowed by law.<br>
         <span style="color: rgba(255,255,255,0.5);">EIN provided upon request.</span>
@@ -52,10 +52,10 @@ toc: false
 <!-- Scripture -->
 <section style="background-color: #2B2B2B; padding: 3rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0;">
+    <p style="font-family: Cormorant Garamond, Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0;">
       "Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver."
     </p>
-    <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
+    <span style="font-family: Inter, sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
       — 2 Corinthians 9:7 (ESV)
     </span>
   </div>
@@ -64,20 +64,20 @@ toc: false
 <!-- Share the mission -->
 <section style="background-color: #F7F6F2; padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.5rem, 3vw, 2rem); color: #2B2B2B; margin-bottom: 1rem; font-weight: 600;">
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.5rem, 3vw, 2rem); color: #2B2B2B; margin-bottom: 1rem; font-weight: 600;">
       Multiply Your Impact
     </h2>
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: #5A5955; line-height: 1.7; margin-bottom: 2rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; color: #5A5955; line-height: 1.7; margin-bottom: 2rem;">
       Share our mission with friends and family. Every voice amplifies the work.
     </p>
     <div style="display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap;">
-      <a href="https://www.facebook.com/YetCompassion" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.4rem; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; color: #2B2B2B; text-decoration: none; padding: 0.6rem 1.25rem; background: #FFFFFF; border-radius: 8px; border: 1px solid #D9D8D4; transition: all 200ms ease;">
+      <a href="https://www.facebook.com/YetCompassion" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.4rem; font-family: Inter, sans-serif; font-size: 0.9rem; font-weight: 600; color: #2B2B2B; text-decoration: none; padding: 0.6rem 1.25rem; background: #FFFFFF; border-radius: 8px; border: 1px solid #D9D8D4; transition: all 200ms ease;">
         Share on Facebook
       </a>
-      <a href="https://www.linkedin.com/in/gai-luom-155b83b3/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.4rem; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; color: #2B2B2B; text-decoration: none; padding: 0.6rem 1.25rem; background: #FFFFFF; border-radius: 8px; border: 1px solid #D9D8D4; transition: all 200ms ease;">
+      <a href="https://www.linkedin.com/in/gai-luom-155b83b3/" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 0.4rem; font-family: Inter, sans-serif; font-size: 0.9rem; font-weight: 600; color: #2B2B2B; text-decoration: none; padding: 0.6rem 1.25rem; background: #FFFFFF; border-radius: 8px; border: 1px solid #D9D8D4; transition: all 200ms ease;">
         Share on LinkedIn
       </a>
-      <a href="mailto:?subject=Support%20Y.E.T.%20Compassion&body=I%20just%20donated%20to%20Y.E.T.%20Compassion%20%E2%80%94%20a%20nonprofit%20empowering%20South%20Sudanese%20diaspora%20youth.%20Learn%20more%3A%20https%3A%2F%2Fwww.yetcompassion.org%2Fdonate.html" style="display: inline-flex; align-items: center; gap: 0.4rem; font-family: 'Inter', sans-serif; font-size: 0.9rem; font-weight: 600; color: #2B2B2B; text-decoration: none; padding: 0.6rem 1.25rem; background: #FFFFFF; border-radius: 8px; border: 1px solid #D9D8D4; transition: all 200ms ease;">
+      <a href="mailto:?subject=Support%20Y.E.T.%20Compassion&body=I%20just%20donated%20to%20Y.E.T.%20Compassion%20%E2%80%94%20a%20nonprofit%20empowering%20South%20Sudanese%20diaspora%20youth.%20Learn%20more%3A%20https%3A%2F%2Fwww.yetcompassion.org%2Fdonate.html" style="display: inline-flex; align-items: center; gap: 0.4rem; font-family: Inter, sans-serif; font-size: 0.9rem; font-weight: 600; color: #2B2B2B; text-decoration: none; padding: 0.6rem 1.25rem; background: #FFFFFF; border-radius: 8px; border: 1px solid #D9D8D4; transition: all 200ms ease;">
         Share via Email
       </a>
     </div>

@@ -12,12 +12,12 @@ toc: false
 <section style="position: relative; min-height: 55vh; display: flex; align-items: center; background-image: linear-gradient(100deg, rgba(6,15,31,0.93) 0%, rgba(11,31,59,0.85) 50%, rgba(11,31,59,0.55) 100%), url('/images/web/pillar-youth.jpg'); background-size: cover; background-position: center; padding: 4.5rem 1.5rem;">
   <div style="max-width: 1140px; margin: 0 auto; width: 100%;">
     <div style="max-width: 680px;">
-      <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #D4A017; margin: 0 0 1.1rem;">Ongoing Ministry · Founded on This Work</p>
-      <h1 style="font-family: 'Playfair Display', serif; font-size: clamp(2.1rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; line-height: 1.15; margin: 0 0 1.25rem;">Youth Evangelism &amp; <span style="color: #D4A017;">Discipleship</span></h1>
-      <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.1rem); color: rgba(255,255,255,0.85); line-height: 1.75; margin: 0 0 2rem;">Grounding young people in biblical truth through contextual teaching, Bible studies, and one-on-one discipleship.</p>
+      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #D4A017; margin: 0 0 1.1rem;">Ongoing Ministry · Founded on This Work</p>
+      <h1 style="font-family: Playfair Display, serif; font-size: clamp(2.1rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; line-height: 1.15; margin: 0 0 1.25rem;">Youth Evangelism &amp; <span style="color: #D4A017;">Discipleship</span></h1>
+      <p style="font-family: Inter, sans-serif; font-size: clamp(1rem, 2vw, 1.1rem); color: rgba(255,255,255,0.85); line-height: 1.75; margin: 0 0 2rem;">Grounding young people in biblical truth through contextual teaching, Bible studies, and one-on-one discipleship.</p>
       <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-        <a href="/get-involved.qmd" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 0.98rem; color: #2B2B2B; background: #D4A017; border-radius: 10px; padding: 0.9rem 1.9rem; text-decoration: none; min-height: 48px;">Join the Ministry →</a>
-        <a href="#what" style="display: inline-flex; align-items: center; justify-content: center; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.98rem; color: #FFFFFF; background: transparent; border: 2px solid rgba(255,255,255,0.35); border-radius: 10px; padding: 0.9rem 1.9rem; text-decoration: none; min-height: 48px;">What This Ministry Is</a>
+        <a href="/get-involved.qmd" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: Inter, sans-serif; font-weight: 700; font-size: 0.98rem; color: #2B2B2B; background: #D4A017; border-radius: 10px; padding: 0.9rem 1.9rem; text-decoration: none; min-height: 48px;">Join the Ministry →</a>
+        <a href="#what" style="display: inline-flex; align-items: center; justify-content: center; font-family: Inter, sans-serif; font-weight: 600; font-size: 0.98rem; color: #FFFFFF; background: transparent; border: 2px solid rgba(255,255,255,0.35); border-radius: 10px; padding: 0.9rem 1.9rem; text-decoration: none; min-height: 48px;">What This Ministry Is</a>
       </div>
     </div>
   </div>
@@ -29,16 +29,16 @@ toc: false
 <section id="what" class="reveal-on-scroll" style="background: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div class="ye-what-grid" style="max-width: 1140px; margin: 0 auto; display: grid; grid-template-columns: 1.15fr 1fr; gap: 3.5rem; align-items: center;">
     <div>
-      <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">What This Ministry Is</p>
-      <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">The Word, Brought Near</h2>
+      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">What This Ministry Is</p>
+      <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">The Word, Brought Near</h2>
       <div style="width: 60px; height: 3px; background: #D4A017; margin-bottom: 1.6rem;"></div>
-      <p style="font-family: 'Inter', sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.8; margin: 0 0 1.1rem;">Youth Evangelism &amp; Discipleship is the ministry Y.E.T. Compassion was founded on: reaching young people with the transformative power of God's Word, grounded in Scripture and responsive to the realities they face. Many of the young people we serve navigate complex identities — bridging their heritage with life in America, processing trauma, and seeking purpose.</p>
-      <p style="font-family: 'Inter', sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.8; margin: 0 0 1.1rem;">This is a ministry of teaching and discipleship, led by our founder, Evangelist Gai Bol Luom. It is not a program with a building or a budget line — it is patient, personal work: opening the Bible with young people, walking alongside them, and preparing believers who are ready to publicly declare their faith through baptism.</p>
-      <p style="font-family: 'Inter', sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.8; margin: 0;">Gatherings for worship, teaching, and fellowship bring young people together for spiritual refreshment — and the one-on-one work continues between them.</p>
+      <p style="font-family: Inter, sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.8; margin: 0 0 1.1rem;">Youth Evangelism &amp; Discipleship is the ministry Y.E.T. Compassion was founded on: reaching young people with the transformative power of God's Word, grounded in Scripture and responsive to the realities they face. Many of the young people we serve navigate complex identities — bridging their heritage with life in America, processing trauma, and seeking purpose.</p>
+      <p style="font-family: Inter, sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.8; margin: 0 0 1.1rem;">This is a ministry of teaching and discipleship, led by our founder, Evangelist Gai Bol Luom. It is not a program with a building or a budget line — it is patient, personal work: opening the Bible with young people, walking alongside them, and preparing believers who are ready to publicly declare their faith through baptism.</p>
+      <p style="font-family: Inter, sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.8; margin: 0;">Gatherings for worship, teaching, and fellowship bring young people together for spiritual refreshment — and the one-on-one work continues between them.</p>
     </div>
     <div>
       <img src="/images/project-images/devotion_photos/maker_manyang_devition_01.JPG" alt="Community gathered for prayer and worship" style="border-radius: 16px; box-shadow: 0 18px 50px rgba(11,31,59,0.2); width: 100%; display: block;">
-      <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; color: #8A8985; margin: 0.8rem 0 0; text-align: center;">Gathered for prayer and worship — the heart of the ministry.</p>
+      <p style="font-family: Inter, sans-serif; font-size: 0.78rem; color: #8A8985; margin: 0.8rem 0 0; text-align: center;">Gathered for prayer and worship — the heart of the ministry.</p>
     </div>
   </div>
 </section>
@@ -48,24 +48,24 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background: #F7F6F2; padding: 4.5rem 1.5rem;">
   <div style="max-width: 1140px; margin: 0 auto;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">How It Happens</p>
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">Three Ways the Word Takes Root</h2>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">How It Happens</p>
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">Three Ways the Word Takes Root</h2>
     <div style="width: 60px; height: 3px; background: #D4A017; margin-bottom: 1.6rem;"></div>
     <div class="ye-how-grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; margin-top: 2.2rem;">
       <div style="background: #FFFFFF; border-radius: 14px; padding: 2rem 1.75rem; border-top: 3px solid #0B1F3B;">
         <div style="font-size: 1.8rem; margin-bottom: 0.9rem;">📖</div>
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #0B1F3B; margin: 0 0 0.6rem;">Contextual Teaching</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #5A5955; line-height: 1.7; margin: 0;">Preaching and teaching that opens Scripture in ways that connect to the lived experience of young people — grounded in the Bible, spoken into the realities they actually face.</p>
+        <h3 style="font-family: Playfair Display, serif; font-size: 1.25rem; font-weight: 600; color: #0B1F3B; margin: 0 0 0.6rem;">Contextual Teaching</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.93rem; color: #5A5955; line-height: 1.7; margin: 0;">Preaching and teaching that opens Scripture in ways that connect to the lived experience of young people — grounded in the Bible, spoken into the realities they actually face.</p>
       </div>
       <div style="background: #FFFFFF; border-radius: 14px; padding: 2rem 1.75rem; border-top: 3px solid #D4A017;">
         <div style="font-size: 1.8rem; margin-bottom: 0.9rem;">✝️</div>
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #0B1F3B; margin: 0 0 0.6rem;">Bible Studies &amp; Small Groups</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #5A5955; line-height: 1.7; margin: 0;">Sessions exploring Scripture together in small groups, where young people navigating complex identities and faith can ask honest questions and grow side by side.</p>
+        <h3 style="font-family: Playfair Display, serif; font-size: 1.25rem; font-weight: 600; color: #0B1F3B; margin: 0 0 0.6rem;">Bible Studies &amp; Small Groups</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.93rem; color: #5A5955; line-height: 1.7; margin: 0;">Sessions exploring Scripture together in small groups, where young people navigating complex identities and faith can ask honest questions and grow side by side.</p>
       </div>
       <div style="background: #FFFFFF; border-radius: 14px; padding: 2rem 1.75rem; border-top: 3px solid #0B1F3B;">
         <div style="font-size: 1.8rem; margin-bottom: 0.9rem;">🤝</div>
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #0B1F3B; margin: 0 0 0.6rem;">One-on-One Discipleship</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #5A5955; line-height: 1.7; margin: 0;">Walking alongside youth individually — spiritual guidance and pastoral care tailored to each person, including preparation for those ready to declare their faith through baptism.</p>
+        <h3 style="font-family: Playfair Display, serif; font-size: 1.25rem; font-weight: 600; color: #0B1F3B; margin: 0 0 0.6rem;">One-on-One Discipleship</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.93rem; color: #5A5955; line-height: 1.7; margin: 0;">Walking alongside youth individually — spiritual guidance and pastoral care tailored to each person, including preparation for those ready to declare their faith through baptism.</p>
       </div>
     </div>
   </div>
@@ -75,8 +75,8 @@ toc: false
 <!-- SCRIPTURE BANNER — Matthew 28:19–20             -->
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background: #060F1F; padding: 3.2rem 1.5rem; text-align: center;">
-  <blockquote style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.1rem, 2.4vw, 1.42rem); color: #D4A017; line-height: 1.75; max-width: 760px; margin: 0 auto; border: none; padding: 0;">"Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age."</blockquote>
-  <cite style="font-family: 'Inter', sans-serif; font-style: normal; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(212,160,23,0.8); display: block; margin-top: 1.1rem;">Matthew 28:19–20 · ESV</cite>
+  <blockquote style="font-family: Cormorant Garamond, Georgia, serif; font-style: italic; font-size: clamp(1.1rem, 2.4vw, 1.42rem); color: #D4A017; line-height: 1.75; max-width: 760px; margin: 0 auto; border: none; padding: 0;">"Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age."</blockquote>
+  <cite style="font-family: Inter, sans-serif; font-style: normal; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: rgba(212,160,23,0.8); display: block; margin-top: 1.1rem;">Matthew 28:19–20 · ESV</cite>
 </section>
 
 <!-- ═══════════════════════════════════════════════ -->
@@ -84,24 +84,24 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background: #FFFFFF; padding: 4.5rem 1.5rem;">
   <div style="max-width: 1140px; margin: 0 auto;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">One Ministry, Many Doors</p>
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">Where This Work Reaches</h2>
+    <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.7rem;">One Ministry, Many Doors</p>
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">Where This Work Reaches</h2>
     <div style="width: 60px; height: 3px; background: #D4A017; margin-bottom: 1.6rem;"></div>
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.75; max-width: 760px; margin: 0 0 2.2rem;">The same calling — grounding young people in biblical truth — flows through everything Y.E.T. Compassion does, from the weekly live broadcast to the school we are building in Juba.</p>
+    <p style="font-family: Inter, sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.75; max-width: 760px; margin: 0 0 2.2rem;">The same calling — grounding young people in biblical truth — flows through everything Y.E.T. Compassion does, from the weekly live broadcast to the school we are building in Juba.</p>
     <div class="ye-connect-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.75rem;">
       <div style="background: #0B1F3B; border-radius: 16px; padding: 2.25rem 2rem; display: flex; flex-direction: column;">
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin: 0 0 0.8rem;">On the Air</p>
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.4rem; font-weight: 600; color: #FFFFFF; margin: 0 0 0.7rem;">The Facebook Live Show</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: rgba(255,255,255,0.7); line-height: 1.7; margin: 0 0 1.6rem;">Evangelist Gai preaches live on Facebook, carrying the same contextual teaching to the South Sudanese community at home and across the diaspora. It is youth evangelism with a longer reach — the pulpit extended to wherever young people are.</p>
+        <p style="font-family: Inter, sans-serif; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin: 0 0 0.8rem;">On the Air</p>
+        <h3 style="font-family: Playfair Display, serif; font-size: 1.4rem; font-weight: 600; color: #FFFFFF; margin: 0 0 0.7rem;">The Facebook Live Show</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.93rem; color: rgba(255,255,255,0.7); line-height: 1.7; margin: 0 0 1.6rem;">Evangelist Gai preaches live on Facebook, carrying the same contextual teaching to the South Sudanese community at home and across the diaspora. It is youth evangelism with a longer reach — the pulpit extended to wherever young people are.</p>
         <div style="flex: 1;"></div>
-        <a href="/watch-live.qmd" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 0.95rem; color: #D4A017; background: transparent; border: 2px solid #D4A017; border-radius: 10px; padding: 0.85rem 1.5rem; text-decoration: none; min-height: 48px; align-self: flex-start;">Watch Live →</a>
+        <a href="/watch-live.qmd" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: Inter, sans-serif; font-weight: 700; font-size: 0.95rem; color: #D4A017; background: transparent; border: 2px solid #D4A017; border-radius: 10px; padding: 0.85rem 1.5rem; text-decoration: none; min-height: 48px; align-self: flex-start;">Watch Live →</a>
       </div>
       <div style="background: #F7F6F2; border: 1px solid #EEEDE9; border-radius: 16px; padding: 2.25rem 2rem; display: flex; flex-direction: column;">
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.8rem;">On the Ground</p>
-        <h3 style="font-family: 'Playfair Display', serif; font-size: 1.4rem; font-weight: 600; color: #0B1F3B; margin: 0 0 0.7rem;">The School in Juba</h3>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.93rem; color: #5A5955; line-height: 1.7; margin: 0 0 1.6rem;">Discipleship shaped our conviction that education makes the difference — especially Christian education. The school we are building in Juba will weave biblical truth through school life, so students are discipled as well as taught.</p>
+        <p style="font-family: Inter, sans-serif; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: #A8871F; margin: 0 0 0.8rem;">On the Ground</p>
+        <h3 style="font-family: Playfair Display, serif; font-size: 1.4rem; font-weight: 600; color: #0B1F3B; margin: 0 0 0.7rem;">The School in Juba</h3>
+        <p style="font-family: Inter, sans-serif; font-size: 0.93rem; color: #5A5955; line-height: 1.7; margin: 0 0 1.6rem;">Discipleship shaped our conviction that education makes the difference — especially Christian education. The school we are building in Juba will weave biblical truth through school life, so students are discipled as well as taught.</p>
         <div style="flex: 1;"></div>
-        <a href="/school.qmd" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 0.95rem; color: #FFFFFF; background: #0B1F3B; border-radius: 10px; padding: 0.85rem 1.5rem; text-decoration: none; min-height: 48px; align-self: flex-start;">About the School →</a>
+        <a href="/school.qmd" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: Inter, sans-serif; font-weight: 700; font-size: 0.95rem; color: #FFFFFF; background: #0B1F3B; border-radius: 10px; padding: 0.85rem 1.5rem; text-decoration: none; min-height: 48px; align-self: flex-start;">About the School →</a>
       </div>
     </div>
   </div>
@@ -112,11 +112,11 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background: #060F1F; padding: 4rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.7rem, 3vw, 2.2rem); font-weight: 600; color: #FFFFFF; margin: 0 0 1rem; line-height: 1.25;">Help Ground the Next Generation in <span style="color: #D4A017;">Truth</span></h2>
-    <p style="font-family: 'Inter', sans-serif; color: rgba(255,255,255,0.7); line-height: 1.75; margin: 0 0 2rem;">Your giving and your prayers carry this ministry — the teaching, the discipleship, and the school rising in Juba. Stand with the young people it serves.</p>
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.7rem, 3vw, 2.2rem); font-weight: 600; color: #FFFFFF; margin: 0 0 1rem; line-height: 1.25;">Help Ground the Next Generation in <span style="color: #D4A017;">Truth</span></h2>
+    <p style="font-family: Inter, sans-serif; color: rgba(255,255,255,0.7); line-height: 1.75; margin: 0 0 2rem;">Your giving and your prayers carry this ministry — the teaching, the discipleship, and the school rising in Juba. Stand with the young people it serves.</p>
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
-      <a href="/donate.qmd" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: 'Inter', sans-serif; font-weight: 700; font-size: 0.98rem; color: #2B2B2B; background: #D4A017; border-radius: 10px; padding: 0.9rem 1.9rem; text-decoration: none; min-height: 48px;">Give to the Ministry →</a>
-      <a href="/get-involved.qmd" style="display: inline-flex; align-items: center; justify-content: center; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.98rem; color: #D4A017; background: transparent; border: 2px solid #D4A017; border-radius: 10px; padding: 0.9rem 1.9rem; text-decoration: none; min-height: 48px;">Get Involved</a>
+      <a href="/donate.qmd" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: Inter, sans-serif; font-weight: 700; font-size: 0.98rem; color: #2B2B2B; background: #D4A017; border-radius: 10px; padding: 0.9rem 1.9rem; text-decoration: none; min-height: 48px;">Give to the Ministry →</a>
+      <a href="/get-involved.qmd" style="display: inline-flex; align-items: center; justify-content: center; font-family: Inter, sans-serif; font-weight: 600; font-size: 0.98rem; color: #D4A017; background: transparent; border: 2px solid #D4A017; border-radius: 10px; padding: 0.9rem 1.9rem; text-decoration: none; min-height: 48px;">Get Involved</a>
     </div>
   </div>
 </section>

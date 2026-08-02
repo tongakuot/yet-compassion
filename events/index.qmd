@@ -13,13 +13,13 @@ toc: false
   <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23D4A017%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
 
   <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: left;">
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">Events & Gatherings</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: #D4A017; margin-bottom: 1rem;">Events & Gatherings</p>
 
-    <h1 style="font-family: 'Playfair Display', Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.5rem;">
+    <h1 style="font-family: Playfair Display, Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 1.5rem;">
       Where Community <span style="color: #D4A017;">Comes Together</span>
     </h1>
 
-    <p style="font-family: 'Inter', sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 620px; margin: 0 0 2rem;">
+    <p style="font-family: Inter, sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 620px; margin: 0 0 2rem;">
       Every Y.E.T. Compassion event is an opportunity to rally around the school campaign, gather as a community, and strengthen our mission. We're preparing to share our story with the world.
     </p>
   </div>
@@ -30,7 +30,7 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section id="upcoming" class="reveal-on-scroll" style="background-color: #FFFFFF; padding: 3.5rem 1.5rem;">
   <div style="max-width: 900px; margin: 0 auto;">
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
       Upcoming Event
     </h2>
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 2rem;"></div>
@@ -40,16 +40,16 @@ toc: false
       <!-- Website Launch Event -->
       <div style="background: #F7F6F2; border-radius: 12px; overflow: hidden; display: grid; grid-template-columns: 100px 1fr; border-left: 4px solid #D4A017;">
         <div style="background: #2B2B2B; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 1rem 0.5rem;">
-          <span style="font-family: 'Inter', sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(255,255,255,0.7);">APR</span>
-          <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; color: rgba(255,255,255,0.5);">2026</span>
+          <span style="font-family: Inter, sans-serif; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: rgba(255,255,255,0.7);">APR</span>
+          <span style="font-family: Inter, sans-serif; font-size: 0.7rem; color: rgba(255,255,255,0.5);">2026</span>
         </div>
         <div style="padding: 1.5rem;">
           <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.5rem;">
-            <span style="font-family: 'Inter', sans-serif; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #D4A017; background: rgba(212,160,23,0.1); padding: 0.2rem 0.5rem; border-radius: 4px;">Official Launch</span>
+            <span style="font-family: Inter, sans-serif; font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: #D4A017; background: rgba(212,160,23,0.1); padding: 0.2rem 0.5rem; border-radius: 4px;">Official Launch</span>
           </div>
-          <h3 style="font-family: 'Playfair Display', serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.5rem;">Y.E.T. Compassion Website Launch</h3>
-          <p style="font-family: 'Inter', sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 0.75rem;">After nearly two decades of faithful service, Y.E.T. Compassion goes digital. Our new website will share our mission with the world — introducing the campaign to build a Christian school in Juba, our youth evangelism ministry, and inviting new partners to join the work.</p>
-          <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; font-family: 'Inter', sans-serif; font-size: 0.85rem; color: #8A8985;">
+          <h3 style="font-family: Playfair Display, serif; font-size: 1.25rem; font-weight: 600; color: #2B2B2B; margin-bottom: 0.5rem;">Y.E.T. Compassion Website Launch</h3>
+          <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin-bottom: 0.75rem;">After nearly two decades of faithful service, Y.E.T. Compassion goes digital. Our new website will share our mission with the world — introducing the campaign to build a Christian school in Juba, our youth evangelism ministry, and inviting new partners to join the work.</p>
+          <div style="display: flex; gap: 1.5rem; flex-wrap: wrap; font-family: Inter, sans-serif; font-size: 0.85rem; color: #8A8985;">
             <span>🌐 yetcompassion.org</span>
             <span>📍 Nashville, TN</span>
           </div>
@@ -79,10 +79,10 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background-color: #2B2B2B; padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <p style="font-family: 'Cormorant Garamond', Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0;">
+    <p style="font-family: Cormorant Garamond, Georgia, serif; font-style: italic; font-size: clamp(1.15rem, 2.5vw, 1.5rem); color: #D4A017; line-height: 1.7; margin: 0;">
       "And let us consider how to stir up one another to love and good works, not neglecting to meet together."
     </p>
-    <span style="font-family: 'Inter', sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
+    <span style="font-family: Inter, sans-serif; font-size: 0.875rem; color: #8A8985; margin-top: 1rem; display: block;">
       — Hebrews 10:24–25 (ESV)
     </span>
   </div>
@@ -93,29 +93,29 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section class="reveal-on-scroll" style="background-color: #F7F6F2; padding: 3.5rem 1.5rem;">
   <div style="max-width: 780px; margin: 0 auto; text-align: center;">
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #2B2B2B; margin-bottom: 0.75rem; font-weight: 600;">
       More Events Coming Soon
     </h2>
     <div style="width: 60px; height: 3px; background-color: #0B1F3B; margin: 0 auto 1.5rem;"></div>
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: #5A5955; line-height: 1.7; max-width: 600px; margin: 0 auto 2rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; color: #5A5955; line-height: 1.7; max-width: 600px; margin: 0 auto 2rem;">
       Once our website is live, we'll be announcing school-campaign fundraisers, youth retreats, community gatherings, and more. Subscribe below to be the first to know.
     </p>
 
     <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem; max-width: 700px; margin: 0 auto 2.5rem;">
       <div style="background: #FFFFFF; border-radius: 10px; padding: 1.5rem 1rem; border-top: 3px solid #D4A017;">
         <div style="font-size: 1.5rem; margin-bottom: 0.5rem;">🎓</div>
-        <strong style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #2B2B2B;">Campaign Fundraisers</strong>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #8A8985; margin: 0.35rem 0 0;">Supporting the school in Juba</p>
+        <strong style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #2B2B2B;">Campaign Fundraisers</strong>
+        <p style="font-family: Inter, sans-serif; font-size: 0.8rem; color: #8A8985; margin: 0.35rem 0 0;">Supporting the school in Juba</p>
       </div>
       <div style="background: #FFFFFF; border-radius: 10px; padding: 1.5rem 1rem; border-top: 3px solid #0B1F3B;">
         <div style="font-size: 1.5rem; margin-bottom: 0.5rem;">✝</div>
-        <strong style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #2B2B2B;">Youth Retreats</strong>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #8A8985; margin: 0.35rem 0 0;">As resources allow</p>
+        <strong style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #2B2B2B;">Youth Retreats</strong>
+        <p style="font-family: Inter, sans-serif; font-size: 0.8rem; color: #8A8985; margin: 0.35rem 0 0;">As resources allow</p>
       </div>
       <div style="background: #FFFFFF; border-radius: 10px; padding: 1.5rem 1rem; border-top: 3px solid #122D52;">
         <div style="font-size: 1.5rem; margin-bottom: 0.5rem;">🌍</div>
-        <strong style="font-family: 'Inter', sans-serif; font-size: 0.9rem; color: #2B2B2B;">Community Gatherings</strong>
-        <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #8A8985; margin: 0.35rem 0 0;">Annual Family Retreat</p>
+        <strong style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #2B2B2B;">Community Gatherings</strong>
+        <p style="font-family: Inter, sans-serif; font-size: 0.8rem; color: #8A8985; margin: 0.35rem 0 0;">Annual Family Retreat</p>
       </div>
     </div>
   </div>
@@ -134,19 +134,19 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background-color: #F0EFEB; padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 500px; margin: 0 auto;">
-    <h3 style="font-family: 'Playfair Display', serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.5rem;">Stay Updated</h3>
-    <p style="font-family: 'Inter', sans-serif; color: #5A5955; margin-bottom: 1.25rem; font-size: 0.95rem;">Subscribe to receive event announcements, updates, and prayer requests.</p>
+    <h3 style="font-family: Playfair Display, serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.5rem;">Stay Updated</h3>
+    <p style="font-family: Inter, sans-serif; color: #5A5955; margin-bottom: 1.25rem; font-size: 0.95rem;">Subscribe to receive event announcements, updates, and prayer requests.</p>
 
     <form name="event-newsletter" method="POST" data-netlify="true" style="display: flex; gap: 0.5rem;">
       <input type="hidden" name="form-name" value="event-newsletter" />
       <input type="email" name="email" placeholder="Your email address" required
-        style="flex: 1; padding: 0.75rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px 0 0 8px; font-size: 0.95rem; font-family: 'Inter', sans-serif; background: #FFFFFF; min-height: 48px;">
+        style="flex: 1; padding: 0.75rem 1rem; border: 1px solid #D9D8D4; border-radius: 8px 0 0 8px; font-size: 0.95rem; font-family: Inter, sans-serif; background: #FFFFFF; min-height: 48px;">
       <button type="submit"
-        style="background-color: #0B1F3B; color: #FFFFFF; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 0.95rem; padding: 0.75rem 1.5rem; border-radius: 0 8px 8px 0; border: none; cursor: pointer; min-height: 48px; transition: background-color 200ms ease; white-space: nowrap;">
+        style="background-color: #0B1F3B; color: #FFFFFF; font-family: Inter, sans-serif; font-weight: 600; font-size: 0.95rem; padding: 0.75rem 1.5rem; border-radius: 0 8px 8px 0; border: none; cursor: pointer; min-height: 48px; transition: background-color 200ms ease; white-space: nowrap;">
         Subscribe
       </button>
     </form>
-    <p style="font-family: 'Inter', sans-serif; font-size: 0.8rem; color: #8A8985; margin-top: 0.75rem;">We respect your privacy. Unsubscribe at any time.</p>
+    <p style="font-family: Inter, sans-serif; font-size: 0.8rem; color: #8A8985; margin-top: 0.75rem;">We respect your privacy. Unsubscribe at any time.</p>
   </div>
 
   <style>
@@ -169,10 +169,10 @@ toc: false
 <!-- ═══════════════════════════════════════════════ -->
 <section style="background: linear-gradient(135deg, #2B2B2B 0%, #0a1525 60%, #2B2B2B 100%); padding: 3.5rem 1.5rem; text-align: center;">
   <div style="max-width: 700px; margin: 0 auto;">
-    <h2 style="font-family: 'Playfair Display', serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #FFFFFF; margin-bottom: 1rem; font-weight: 600;">
+    <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.75rem, 3vw, 2.25rem); color: #FFFFFF; margin-bottom: 1rem; font-weight: 600;">
       Ready to Get Involved?
     </h2>
-    <p style="font-family: 'Inter', sans-serif; font-size: 1.05rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2rem;">
+    <p style="font-family: Inter, sans-serif; font-size: 1.05rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2rem;">
       While we prepare for launch, there are many ways to support the school campaign and the ministry right now.
     </p>
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
