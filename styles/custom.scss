@@ -325,6 +325,45 @@ p {
   }
 }
 
+// ── Mobile navbar layout — logo pinned LEFT ──
+// Quarto emits `.navbar-brand-container.mx-auto`; its auto margins
+// center the logo once the nav links collapse. Override those margins
+// and set explicit flex order: logo → [spacer] → search → toggler.
+@media (max-width: 767.98px) {
+  .navbar .navbar-container {
+    flex-wrap: wrap;
+    justify-content: flex-start !important;
+    padding: 0.5rem 1rem !important;
+  }
+
+  .navbar .navbar-brand-container {
+    order: 1;
+    margin-left: 0 !important;
+    margin-right: auto !important;
+    justify-content: flex-start;
+  }
+
+  .navbar .navbar-brand {
+    margin-right: 0;
+  }
+
+  .navbar #quarto-search {
+    order: 2;
+    margin-left: 0;
+    margin-right: 0.5rem;
+  }
+
+  .navbar .navbar-toggler {
+    order: 3;
+    margin-left: 0;
+  }
+
+  .navbar .navbar-collapse {
+    order: 4;
+    flex-basis: 100%;
+  }
+}
+
 // ═══════════════════════════════════════════════════════════
 // HERO SLIDER (Photo Timeline)
 // These rules override Quarto/Bootstrap defaults that strip
