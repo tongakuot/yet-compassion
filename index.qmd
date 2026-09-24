@@ -238,6 +238,19 @@ toc: false
   const pctEl    = document.getElementById('home-campaign-pct');
   const donorsEl = document.getElementById('home-campaign-donors');
   if (!raisedEl) return;
+  // ── TEMPORARY manual total ────────────────────────────────
+  // Shown until the Stripe progress link is updated. To restore the live
+  // Stripe total, set TEMP_RAISED to null (or delete this block).
+  const TEMP_RAISED = 242.45;
+  if (TEMP_RAISED !== null) {
+    const exactPct = (TEMP_RAISED / GOAL) * 100;
+    raisedEl.textContent = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', minimumFractionDigits: 2, maximumFractionDigits: 2 }).format(TEMP_RAISED);
+    barEl.style.width = Math.max(exactPct, 1) + '%'; // 1% floor keeps a small sliver visible
+    pctEl.textContent = exactPct.toFixed(2) + '% funded';
+    donorsEl.textContent = '';
+    if (barEl.parentElement) barEl.parentElement.setAttribute('aria-valuenow', String(TEMP_RAISED));
+    return;
+  }
   fetch('/.netlify/functions/campaign-progress?campaign=2026', { headers: { 'Accept': 'application/json' } })
     .then(function (r) { if (!r.ok) throw new Error('unavailable'); return r.json(); })
     .then(function (data) {

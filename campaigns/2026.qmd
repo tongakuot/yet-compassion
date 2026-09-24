@@ -459,6 +459,22 @@ toc: false
     if (updatedEl) updatedEl.textContent = 'Live total temporarily unavailable';
   }
 
+  // ── TEMPORARY manual total ────────────────────────────────
+  // Shown until the Stripe progress link is updated. To restore the live
+  // Stripe total, set TEMP_RAISED to null (or delete this block).
+  const TEMP_RAISED = 242.45;
+  if (TEMP_RAISED !== null) {
+    const exactPct = (TEMP_RAISED / GOAL) * 100;
+    if (raisedEl)  raisedEl.textContent  = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', minimumFractionDigits: 2, maximumFractionDigits: 2 }).format(TEMP_RAISED);
+    if (percentEl) percentEl.textContent = exactPct.toFixed(2) + '%';
+    if (donorsEl)  donorsEl.textContent  = '';
+    if (donorsEl && donorsEl.previousElementSibling) donorsEl.previousElementSibling.textContent = ''; // hide " · " separator
+    if (updatedEl) updatedEl.textContent = '';
+    if (barEl)     barEl.style.width     = Math.max(exactPct, 1) + '%'; // 1% floor keeps a small sliver visible
+    if (progressBar) progressBar.setAttribute('aria-valuenow', String(TEMP_RAISED));
+    return;
+  }
+
   fetch('/.netlify/functions/campaign-progress?campaign=2026', { headers: { 'Accept': 'application/json' } })
     .then(function(r) { return r.ok ? r.json() : Promise.reject(r.status); })
     .then(function(data) {
