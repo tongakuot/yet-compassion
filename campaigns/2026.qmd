@@ -78,7 +78,7 @@ toc: false
           <span> · </span>
           <span id="campaign-donors">0 donors</span>
         </p>
-        <p id="campaign-updated" style="font-family: Inter, sans-serif; font-size: 0.7rem; color: #8A8985; margin: 0.15rem 0 0;">Updating…</p>
+        <p id="campaign-updated" style="font-family: Inter, sans-serif; font-size: 0.7rem; color: #8A8985; margin: 0.15rem 0 0;"></p>
       </div>
     </div>
 
@@ -88,7 +88,7 @@ toc: false
     </div>
 
     <p style="font-family: Inter, sans-serif; font-size: 0.78rem; color: #8A8985; margin: 0.85rem 0 0; font-style: italic;">
-      Live total pulled from Stripe payments tagged <code style="background:#EFEDE6; padding:1px 6px; border-radius: 4px; font-size: 0.72rem;">campaign=2026</code>. Updated every 10 minutes.
+      Live total pulled from Stripe. Updated every 10 minutes.
     </p>
   </div>
 </section>
@@ -442,47 +442,47 @@ toc: false
   const barEl     = document.getElementById('campaign-bar');
   const progressBar = barEl && barEl.parentElement;
 
+  const fmtCents = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  const sep = donorsEl && donorsEl.previousElementSibling; // the " · " between percent and donors
+
   function applyProgress(raised, donors, asOf) {
-    const pct = Math.min(100, Math.round((raised / GOAL) * 100));
-    if (raisedEl)  raisedEl.textContent  = fmt.format(raised);
-    if (percentEl) percentEl.textContent = pct + '%';
-    if (donorsEl)  donorsEl.textContent  = donors + (donors === 1 ? ' donor' : ' donors');
-    if (barEl)     barEl.style.width     = pct + '%';
+    const exactPct = Math.min(100, (raised / GOAL) * 100);
+    // Show cents and two-decimal percents while the total is small, so early
+    // gifts visibly register; switch to whole numbers once it grows.
+    if (raisedEl)  raisedEl.textContent  = raised < 10000 ? fmtCents.format(raised) : fmt.format(raised);
+    if (percentEl) percentEl.textContent = (exactPct < 10 ? exactPct.toFixed(2) : Math.round(exactPct)) + '%';
+    const showDonors = donors > 0;
+    if (donorsEl)  donorsEl.textContent  = showDonors ? donors + (donors === 1 ? ' donor' : ' donors') : '';
+    if (sep)       sep.textContent       = showDonors ? ' · ' : '';
+    if (barEl)     barEl.style.width     = (raised > 0 ? Math.max(exactPct, 1) : 0) + '%'; // 1% floor keeps a small sliver visible
     if (progressBar) progressBar.setAttribute('aria-valuenow', String(raised));
-    if (updatedEl && asOf) {
-      const d = new Date(asOf);
-      updatedEl.textContent = 'Updated ' + d.toLocaleString(undefined, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' });
+    if (updatedEl) {
+      updatedEl.textContent = asOf
+        ? 'Updated ' + new Date(asOf).toLocaleString(undefined, { month: 'short', day: 'numeric', hour: 'numeric', minute: '2-digit' })
+        : '';
     }
   }
 
-  function showFallback() {
-    if (updatedEl) updatedEl.textContent = 'Live total temporarily unavailable';
-  }
-
-  // ── TEMPORARY manual total ────────────────────────────────
-  // Shown until the Stripe progress link is updated. To restore the live
-  // Stripe total, set TEMP_RAISED to null (or delete this block).
-  const TEMP_RAISED = 242.45;
-  if (TEMP_RAISED !== null) {
-    const exactPct = (TEMP_RAISED / GOAL) * 100;
-    if (raisedEl)  raisedEl.textContent  = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', minimumFractionDigits: 2, maximumFractionDigits: 2 }).format(TEMP_RAISED);
-    if (percentEl) percentEl.textContent = exactPct.toFixed(2) + '%';
-    if (donorsEl)  donorsEl.textContent  = '';
-    if (donorsEl && donorsEl.previousElementSibling) donorsEl.previousElementSibling.textContent = ''; // hide " · " separator
-    if (updatedEl) updatedEl.textContent = '';
-    if (barEl)     barEl.style.width     = Math.max(exactPct, 1) + '%'; // 1% floor keeps a small sliver visible
-    if (progressBar) progressBar.setAttribute('aria-valuenow', String(TEMP_RAISED));
-    return;
-  }
+  // ── Fallback total ────────────────────────────────────────
+  // Shown instantly, and kept if the live Stripe total can't be loaded
+  // (key missing, Stripe down). Update it now and then as a safety net;
+  // the live total replaces it whenever it loads.
+  const FALLBACK_RAISED = 242.45;
+  const FALLBACK_DONORS = 0;   // 0 hides the donor count
+  applyProgress(FALLBACK_RAISED, FALLBACK_DONORS, null);
 
   fetch('/.netlify/functions/campaign-progress?campaign=2026', { headers: { 'Accept': 'application/json' } })
     .then(function(r) { return r.ok ? r.json() : Promise.reject(r.status); })
     .then(function(data) {
+      if (data.error) return Promise.reject(data.error);
       const raised = Number(data.raised) || 0;
       const donors = Number(data.donors) || 0;
+      // Never show a lower number than the fallback (e.g. a key pointing at
+      // test mode); a real total only goes up.
+      if (raised < FALLBACK_RAISED) return;
       applyProgress(raised, donors, data.asOf || Date.now());
     })
-    .catch(showFallback);
+    .catch(function() { /* keep the fallback total */ });
 })();
 </script>
 ```

@@ -2,45 +2,45 @@
 
 ## `campaign-progress.js`
 
-Powers the live progress tracker on `/campaigns/2026.html` by totalling Stripe
-payments that have been tagged with `metadata.campaign = "2026"`.
+Powers the live progress tracker on `/campaigns/2026.html`. It totals Stripe
+gifts made through the campaign's Payment Links: completed one-time Checkout
+Sessions plus paid subscription invoices (first month and every renewal).
+
+> Stripe copies metadata typed on a Payment Link to the **Checkout Session**,
+> not to the PaymentIntent, and monthly renewals carry it on the **Invoice**.
+> That is why this function reads Checkout Sessions and Invoices.
 
 ### One-time setup
 
-1. **Create a restricted Stripe API key.**
-   In Stripe Dashboard → Developers → API keys → "Create restricted key".
-   Required permissions (read-only):
-   - `PaymentIntents` → `Read`
-   - `Charges` → `Read` (optional, useful for debugging)
+1. **Create a restricted Stripe API key** (live mode).
+   Stripe Dashboard → Developers → API keys → "Create restricted key".
+   Set these to `Read`, leave everything else `None`:
+   - `Checkout Sessions`
+   - `Invoices`
 
 2. **Add the key to Netlify.**
-   Netlify Dashboard → Site settings → Environment variables → "Add a variable":
-   - Key: `STRIPE_SECRET_KEY`
-   - Value: the restricted key from step 1
-   - Scopes: Functions
+   Netlify → Site configuration → Environment variables → "Add a variable":
+   - Key: `STRIPE_SECRET_KEY`, value: the restricted key (`rk_live_...`),
+     scope: Functions.
 
-3. **(Optional) Override the campaign window.**
-   By default the function counts payments created in calendar year `2026`. To
-   override, set:
-   - `CAMPAIGN_START_ISO` (e.g. `2026-02-01T00:00:00Z`)
-   - `CAMPAIGN_END_ISO`   (e.g. `2026-12-15T23:59:59Z`)
+3. **Choose which gifts count** (set one of these the same way):
+   - `CAMPAIGN_COUNT_ALL` = `true` — every Stripe gift in the campaign window
+     counts. Simplest, since every campaign button goes to the Donate page.
+   - `CAMPAIGN_PAYMENT_LINKS` = `plink_...,plink_...` — only gifts through
+     these Payment Links count.
+   - Or tag a Payment Link with metadata `campaign` = `2026` (Payment Links →
+     the link → Edit → Metadata). Works for one-time and monthly links.
 
-### Tagging your Stripe Payment Links
+4. **Optional:**
+   - `CAMPAIGN_OFFLINE_TOTAL` (dollars) and `CAMPAIGN_OFFLINE_DONORS` — gifts
+     received outside Stripe (checks, cash, Zelle), added to the total.
+   - `CAMPAIGN_START_ISO` / `CAMPAIGN_END_ISO` — campaign window; default is
+     calendar year 2026.
 
-For each Payment Link that should count toward the 2026 campaign:
-
-1. Stripe Dashboard → Payment Links → click the link → "Edit".
-2. Scroll to **Metadata** → "Add metadata".
-3. Add `campaign` = `2026`.
-4. Save.
-
-For **subscriptions** (monthly partners), Stripe copies the subscription's
-metadata onto each invoice's PaymentIntent at creation time, so the same field
-on the recurring Payment Link is enough.
+5. **Redeploy** (Deploys → Trigger deploy → Deploy site). Netlify only hands
+   new environment variable values to functions on the next deploy.
 
 ### Verifying it works
-
-After deploy:
 
 ```bash
 curl https://www.yetcompassion.org/.netlify/functions/campaign-progress?campaign=2026
@@ -49,15 +49,10 @@ curl https://www.yetcompassion.org/.netlify/functions/campaign-progress?campaign
 Expected JSON:
 
 ```json
-{
-  "raised": 12345,
-  "donors": 87,
-  "asOf": "2026-05-04T12:00:00.000Z",
-  "campaign": "2026",
-  "currency": "USD"
-}
+{ "raised": 242.45, "donors": 3, "asOf": "2026-10-16T12:00:00.000Z",
+  "campaign": "2026", "currency": "USD" }
 ```
 
-If `raised` is `0` after a successful test donation, double-check that the
-Payment Link's metadata actually contains `campaign=2026` (Stripe → Payments →
-click the payment → "Metadata" panel).
+If it returns `{"error": ...}` with status 503, the page keeps showing its
+fallback total (`FALLBACK_RAISED` in `campaigns/2026.qmd`). Netlify →
+Logs → Functions → `campaign-progress` shows the Stripe error.
