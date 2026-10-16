@@ -90,7 +90,7 @@ toc: false
       <div style="position: relative;">
         <span style="position: absolute; left: calc(-1.75rem - 3px - 6px); top: 0.3rem; width: 15px; height: 15px; border-radius: 50%; background: #D4A017;"></span>
         <span style="font-family: Playfair Display, serif; font-size: 1.35rem; font-weight: 700; color: #D4A017; display: block; margin-bottom: 0.25rem;">2006</span>
-        <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: rgba(255,255,255,0.78); line-height: 1.7; margin: 0;">Evangelist Gai Bol Luom founds Y.E.T. Compassion, and the ministry begins serving the people of South Sudan.</p>
+        <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: rgba(255,255,255,0.78); line-height: 1.7; margin: 0;">Pastor Gai Bol Luom founds Y.E.T. Compassion, and the ministry begins serving the people of South Sudan.</p>
       </div>
       <div style="position: relative;">
         <span style="position: absolute; left: calc(-1.75rem - 3px - 6px); top: 0.3rem; width: 15px; height: 15px; border-radius: 50%; background: #122D52; border: 2px solid #D4A017; box-sizing: border-box;"></span>
@@ -181,7 +181,7 @@ toc: false
         <div style="height: 230px; background-image: url('/images/web/pillar-youth.jpg'); background-size: cover; background-position: center;"></div>
         <div style="padding: 1.9rem 1.75rem 2rem; display: flex; flex-direction: column; flex: 1;">
           <h3 style="font-family: Playfair Display, serif; font-size: 1.45rem; font-weight: 600; color: #0B1F3B; margin: 0 0 0.7rem;">Youth Evangelism &amp; Discipleship</h3>
-          <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.72; margin: 0 0 1.4rem;">The ministry Y.E.T. Compassion was founded on — grounding young people in biblical truth through teaching and discipleship, including Evangelist Gai's live preaching on Facebook.</p>
+          <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.72; margin: 0 0 1.4rem;">The ministry Y.E.T. Compassion was founded on — grounding young people in biblical truth through teaching and discipleship, including Pastor Gai's live preaching on Facebook.</p>
           <a href="/youth-evangelism.qmd" style="font-family: Inter, sans-serif; font-size: 0.9rem; font-weight: 700; color: #0B1F3B; text-decoration: none; margin-top: auto;">About the Ministry →</a>
         </div>
       </div>
@@ -262,8 +262,8 @@ toc: false
     <div class="about-team-grid" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem;">
 
       <a href="/about/founder.qmd" style="text-decoration: none; background: #F7F6F2; border: 1px solid #EEEDE9; border-radius: 12px; padding: 2rem; text-align: center; transition: box-shadow 200ms ease, transform 200ms ease; display: block;">
-        <img src="/images/project-images/gai-bol-luom.jpg" alt="Evangelist Gai Bol Luom" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; object-position: center top; margin: 0 auto 1rem; display: block; box-shadow: 0 2px 8px rgba(11,31,59,0.15);">
-        <h4 style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1.05rem; color: #2B2B2B; margin-bottom: 0.25rem;">Evangelist Gai Bol Luom</h4>
+        <img src="/images/project-images/gai-bol-luom.jpg" alt="Pastor Gai Bol Luom" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; object-position: center top; margin: 0 auto 1rem; display: block; box-shadow: 0 2px 8px rgba(11,31,59,0.15);">
+        <h4 style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1.05rem; color: #2B2B2B; margin-bottom: 0.25rem;">Pastor Gai Bol Luom</h4>
         <p style="font-family: Inter, sans-serif; font-size: 0.85rem; color: #8A6D14; font-weight: 600; margin-bottom: 0.5rem;">Founder &amp; Executive Director</p>
         <span style="font-family: Inter, sans-serif; font-size: 0.85rem; color: #0B1F3B; font-weight: 600;">View Profile →</span>
       </a>

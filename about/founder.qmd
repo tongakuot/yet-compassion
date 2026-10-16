@@ -1,6 +1,6 @@
 ---
-title: "Our Founder — Evangelist Gai Bol Luom"
-description: "Meet Evangelist Gai Bol Luom, founder of Y.E.T. Compassion. His journey from South Sudan shaped a calling that now centers on building a Christian school in Juba and preaching the Gospel live on Facebook."
+title: "Our Founder — Pastor Gai Bol Luom"
+description: "Meet Pastor Gai Bol Luom, founder of Y.E.T. Compassion. His journey from South Sudan shaped a calling that now centers on building a Christian school in Juba and preaching the Gospel live on Facebook."
 page-layout: custom
 toc: false
 ---
@@ -13,10 +13,10 @@ toc: false
   <div style="position: absolute; inset: 0; opacity: 0.05; background-image: url('data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%2260%22 height=%2260%22><path d=%22M60 0L0 0 0 60%22 fill=%22none%22 stroke=%22%23D4A017%22 stroke-width=%220.5%22/></svg>'); background-size: 60px 60px;"></div>
 
   <div style="position: relative; z-index: 2; max-width: 780px; margin: 0 auto; text-align: center;">
-    <img src="/images/project-images/gai-bol-luom.jpg" alt="Evangelist Gai Bol Luom, Founder of Y.E.T. Compassion" style="width: 160px; height: 160px; border-radius: 50%; object-fit: cover; object-position: center top; margin: 0 auto 1.5rem; display: block; box-shadow: 0 4px 20px rgba(0,0,0,0.3); border: 3px solid rgba(212,160,23,0.3);">
+    <img src="/images/project-images/gai-bol-luom.jpg" alt="Pastor Gai Bol Luom, Founder of Y.E.T. Compassion" style="width: 160px; height: 160px; border-radius: 50%; object-fit: cover; object-position: center top; margin: 0 auto 1.5rem; display: block; box-shadow: 0 4px 20px rgba(0,0,0,0.3); border: 3px solid rgba(212,160,23,0.3);">
 
     <h1 style="font-family: Playfair Display, Georgia, serif; font-size: clamp(2rem, 4.5vw, 3rem); font-weight: 700; color: #FFFFFF; letter-spacing: -0.02em; line-height: 1.15; margin-bottom: 0.5rem;">
-      Evangelist Gai Bol Luom
+      Pastor Gai Bol Luom
     </h1>
 
     <p style="font-family: Inter, sans-serif; font-size: 1rem; font-weight: 500; color: #D4A017; margin-bottom: 0.5rem;">
@@ -41,7 +41,7 @@ toc: false
     <div style="width: 60px; height: 3px; background-color: #D4A017; margin-bottom: 1.6rem;"></div>
 
     <p style="font-family: Inter, sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
-      Evangelist Gai Bol Luom's story is one of resilience, faith, and divine calling. Born and raised in South Sudan, Gai's early life was marked by the profound challenges facing his nation — conflict, displacement, and the struggle for stability that continues to shape the lives of millions across the diaspora.
+      Pastor Gai Bol Luom's story is one of resilience, faith, and divine calling. Born and raised in South Sudan, Gai's early life was marked by the profound challenges facing his nation — conflict, displacement, and the struggle for stability that continues to shape the lives of millions across the diaspora.
     </p>
 
     <p style="font-family: Inter, sans-serif; font-size: 1.05rem; line-height: 1.8; color: #5A5955; margin-bottom: 1.25rem;">
@@ -197,7 +197,7 @@ toc: false
       See the Calling in <span style="color: #D4A017;">Action</span>
     </h2>
     <p style="font-family: Inter, sans-serif; font-size: 1rem; color: rgba(255,255,255,0.8); line-height: 1.7; margin-bottom: 2rem;">
-      Follow the school rising in Juba, or join Evangelist Gai live as he preaches the Gospel on Facebook.
+      Follow the school rising in Juba, or join Pastor Gai live as he preaches the Gospel on Facebook.
     </p>
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
       <a href="/school.qmd" class="btn-gold">The School in Juba</a>

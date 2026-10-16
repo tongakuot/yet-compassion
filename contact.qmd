@@ -273,7 +273,7 @@ toc: false
       Other Ways to Connect
     </h2>
     <p style="font-family: Inter, sans-serif; font-size: 1.05rem; color: #5A5955; line-height: 1.7; margin-bottom: 2rem;">
-      Beyond sending a message, you can support the school campaign through giving, volunteering, or partnership — and join Evangelist Gai's Facebook Live show.
+      Beyond sending a message, you can support the school campaign through giving, volunteering, or partnership — and join Pastor Gai's Facebook Live show.
     </p>
     <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
       <a href="/donate.qmd" class="btn-gold">Support Our Mission</a>

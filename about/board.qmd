@@ -54,11 +54,11 @@ toc: false
     <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
       <!-- Avatar -->
       <div style="flex-shrink: 0;">
-        <img src="/images/project-images/gai-bol-luom.jpg" alt="Evangelist Gai Bol Luom" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; object-position: center top; box-shadow: 0 4px 12px rgba(11,31,59,0.15);">
+        <img src="/images/project-images/gai-bol-luom.jpg" alt="Pastor Gai Bol Luom" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover; object-position: center top; box-shadow: 0 4px 12px rgba(11,31,59,0.15);">
       </div>
       <!-- Details -->
       <div style="flex: 1; min-width: 280px;">
-        <h3 style="font-family: Playfair Display, serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Evangelist Gai Bol Luom</h3>
+        <h3 style="font-family: Playfair Display, serif; font-size: 1.5rem; color: #2B2B2B; margin-bottom: 0.25rem; font-weight: 600;">Pastor Gai Bol Luom</h3>
         <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #8A6D14; font-weight: 600; margin-bottom: 1rem;">Founder &amp; Executive Director</p>
 
         <p style="font-family: Inter, sans-serif; font-size: 1rem; line-height: 1.8; color: #5A5955; margin-bottom: 1rem;">

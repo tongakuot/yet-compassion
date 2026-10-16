@@ -20,7 +20,7 @@ toc: false
     </h1>
 
     <p style="font-family: Inter, sans-serif; font-size: clamp(1rem, 2vw, 1.15rem); color: rgba(255,255,255,0.8); line-height: 1.7; max-width: 620px; margin: 0 0 2rem;">
-      Youth Evangelism Training (Y.E.T.) Compassion is built on partnership. Whether you share the school campaign, bring your skills or your church alongside the work, watch and share Evangelist Gai's Facebook Live show, or lift the mission in prayer — you are part of building a Christian school in Juba, South Sudan.
+      Youth Evangelism Training (Y.E.T.) Compassion is built on partnership. Whether you share the school campaign, bring your skills or your church alongside the work, watch and share Pastor Gai's Facebook Live show, or lift the mission in prayer — you are part of building a Christian school in Juba, South Sudan.
     </p>
 
     <!-- Quick-nav anchors -->
@@ -138,7 +138,7 @@ toc: false
       </div>
       <div style="background: #F7F6F2; border-radius: 10px; padding: 1.25rem 1.5rem;">
         <strong style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #0B1F3B;">✦ Facebook Live Ministry</strong>
-        <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0.5rem 0 0;">Watch Evangelist Gai's live preaching, share the broadcasts, and invite others to tune in.</p>
+        <p style="font-family: Inter, sans-serif; font-size: 0.9rem; color: #5A5955; line-height: 1.6; margin: 0.5rem 0 0;">Watch Pastor Gai's live preaching, share the broadcasts, and invite others to tune in.</p>
       </div>
     </div>
 
@@ -237,7 +237,7 @@ toc: false
         <div style="font-size: 1.75rem; margin-bottom: 1rem;">⛪</div>
         <h3 style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1.1rem; color: #2B2B2B; margin-bottom: 0.75rem;">Churches</h3>
         <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.7;">
-          Adopt the school campaign into your missions program, share it with your congregation, or host Evangelist Gai to speak about the work. Together, we can raise a school and reach a generation with the Gospel.
+          Adopt the school campaign into your missions program, share it with your congregation, or host Pastor Gai to speak about the work. Together, we can raise a school and reach a generation with the Gospel.
         </p>
       </div>
 
@@ -323,7 +323,7 @@ toc: false
         </div>
         <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
           <span style="color: #D4A017; font-size: 1.1rem; flex-shrink: 0; margin-top: 2px;">✦</span>
-          <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin: 0;">Evangelist Gai's Facebook Live preaching — that the Gospel would reach hearts at home and across the diaspora</p>
+          <p style="font-family: Inter, sans-serif; font-size: 0.95rem; color: #5A5955; line-height: 1.6; margin: 0;">Pastor Gai's Facebook Live preaching — that the Gospel would reach hearts at home and across the diaspora</p>
         </div>
         <div style="display: flex; gap: 0.75rem; align-items: flex-start;">
           <span style="color: #D4A017; font-size: 1.1rem; flex-shrink: 0; margin-top: 2px;">✦</span>

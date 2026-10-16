@@ -18,7 +18,7 @@ toc: false
   "description": "Y.E.T. Compassion is building a Christian school in Juba, South Sudan, and grounding young people in biblical truth through youth evangelism and discipleship.",
   "founder": {
     "@type": "Person",
-    "name": "Evangelist Gai Bol Luom"
+    "name": "Pastor Gai Bol Luom"
   },
   "foundingDate": "2006",
   "address": {
@@ -158,9 +158,9 @@ toc: false
   <div class="home-live-grid" style="max-width: 1140px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1.15fr; gap: 3.5rem; align-items: center;">
     <div>
       <p style="font-family: Inter, sans-serif; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: #8A6D14; margin: 0 0 0.7rem;">Watch Live</p>
-      <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">Join Evangelist Gai's Facebook Live Show</h2>
+      <h2 style="font-family: Playfair Display, serif; font-size: clamp(1.8rem, 3.2vw, 2.35rem); font-weight: 600; color: #0B1F3B; margin: 0 0 0.9rem; line-height: 1.2;">Join Pastor Gai's Facebook Live Show</h2>
       <div style="width: 60px; height: 3px; background: #D4A017; margin-bottom: 1.6rem;"></div>
-      <p style="font-family: Inter, sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.75; margin: 0;">Evangelist Gai Bol Luom preaches live on Facebook — bringing the Gospel to the South Sudanese community at home and across the diaspora. Follow the page to be notified whenever the show goes live, and watch past messages anytime.</p>
+      <p style="font-family: Inter, sans-serif; font-size: 1.02rem; color: #5A5955; line-height: 1.75; margin: 0;">Pastor Gai Bol Luom preaches live on Facebook — bringing the Gospel to the South Sudanese community at home and across the diaspora. Follow the page to be notified whenever the show goes live, and watch past messages anytime.</p>
       <div style="display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 1.8rem;">
         <a href="https://www.facebook.com/YetCompassion" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: Inter, sans-serif; font-weight: 700; font-size: 0.95rem; color: #2B2B2B; background: #D4A017; border-radius: 10px; padding: 0.85rem 1.5rem; text-decoration: none; transition: all 200ms ease; min-height: 48px;">Follow on Facebook →</a>
         <a href="/watch-live.qmd" style="display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem; font-family: Inter, sans-serif; font-weight: 700; font-size: 0.95rem; color: #8A6D14; background: transparent; border: 2px solid #8A6D14; border-radius: 10px; padding: 0.85rem 1.5rem; text-decoration: none; transition: all 200ms ease; min-height: 48px;">Watch Past Messages</a>

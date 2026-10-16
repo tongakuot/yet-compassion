@@ -24,7 +24,7 @@ page-layout: custom
       "name": "Who founded Y.E.T. Compassion?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Youth Evangelism Training (Y.E.T.) Compassion was founded by Evangelist Gai Bol Luom. The ministry's work began in 2006 with grassroots missions in South Sudan, was registered as a Tennessee nonprofit in Nashville in 2025, and received IRS 501(c)(3) tax-exempt status in 2026."
+        "text": "Youth Evangelism Training (Y.E.T.) Compassion was founded by Pastor Gai Bol Luom. The ministry's work began in 2006 with grassroots missions in South Sudan, was registered as a Tennessee nonprofit in Nashville in 2025, and received IRS 501(c)(3) tax-exempt status in 2026."
       }
     },
     {
@@ -112,7 +112,7 @@ page-layout: custom
       "name": "How can my church partner with Y.E.T. Compassion?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Churches can partner with Y.E.T. Compassion by adopting the school campaign into their missions program, sharing the campaign with their congregation, hosting Evangelist Gai to speak about the work, or offering space for gatherings. Contact us at info@yetcompassion.org to discuss partnership opportunities."
+        "text": "Churches can partner with Y.E.T. Compassion by adopting the school campaign into their missions program, sharing the campaign with their congregation, hosting Pastor Gai to speak about the work, or offering space for gatherings. Contact us at info@yetcompassion.org to discuss partnership opportunities."
       }
     },
     {
@@ -120,7 +120,7 @@ page-layout: custom
       "name": "How is the Facebook Live show related to Y.E.T. Compassion?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Founder Evangelist Gai Bol Luom preaches live on the Y.E.T. Compassion Facebook page, bringing the Gospel to the South Sudanese community at home and across the diaspora. The show is part of our youth evangelism and discipleship calling — follow the page to be notified when it goes live, and watch past messages anytime."
+        "text": "Founder Pastor Gai Bol Luom preaches live on the Y.E.T. Compassion Facebook page, bringing the Gospel to the South Sudanese community at home and across the diaspora. The show is part of our youth evangelism and discipleship calling — follow the page to be notified when it goes live, and watch past messages anytime."
       }
     }
   ]
@@ -174,7 +174,7 @@ page-layout: custom
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
       <summary style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">Who founded Y.E.T. Compassion?</summary>
       <p style="font-family: Inter, sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Youth Evangelism Training (Y.E.T.) Compassion was founded by Evangelist Gai Bol Luom. The ministry's work began in 2006 with grassroots missions in South Sudan, was registered as a Tennessee nonprofit in Nashville in 2025, and received IRS 501(c)(3) tax-exempt status in 2026.
+        Youth Evangelism Training (Y.E.T.) Compassion was founded by Pastor Gai Bol Luom. The ministry's work began in 2006 with grassroots missions in South Sudan, was registered as a Tennessee nonprofit in Nashville in 2025, and received IRS 501(c)(3) tax-exempt status in 2026.
       </p>
     </details>
 
@@ -290,14 +290,14 @@ page-layout: custom
     <details style="margin-bottom: 1rem; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
       <summary style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">How can my church partner with Y.E.T. Compassion?</summary>
       <p style="font-family: Inter, sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Churches can partner with Y.E.T. Compassion by adopting the school campaign into their missions program, sharing the campaign with their congregation, hosting Evangelist Gai to speak about the work, or offering space for gatherings. Contact us at <a href="mailto:info@yetcompassion.org" style="color: #0B1F3B; font-weight: 500;">info@yetcompassion.org</a> to discuss partnership opportunities.
+        Churches can partner with Y.E.T. Compassion by adopting the school campaign into their missions program, sharing the campaign with their congregation, hosting Pastor Gai to speak about the work, or offering space for gatherings. Contact us at <a href="mailto:info@yetcompassion.org" style="color: #0B1F3B; font-weight: 500;">info@yetcompassion.org</a> to discuss partnership opportunities.
       </p>
     </details>
 
     <details style="margin-bottom: 0; padding: 1.25rem 1.5rem; background-color: #FFFFFF; border: 1px solid #D9D8D4; border-radius: 8px; cursor: pointer; transition: border-color 200ms ease;">
       <summary style="font-family: Inter, sans-serif; font-weight: 600; font-size: 1rem; color: #0B1F3B; line-height: 1.4;">How is the Facebook Live show related to Y.E.T. Compassion?</summary>
       <p style="font-family: Inter, sans-serif; margin-top: 1rem; line-height: 1.7; color: #5A5955; font-size: 0.95rem;">
-        Founder Evangelist Gai Bol Luom preaches live on the <a href="https://www.facebook.com/YetCompassion" target="_blank" rel="noopener noreferrer" style="color: #0B1F3B; font-weight: 500;">Y.E.T. Compassion Facebook page</a>, bringing the Gospel to the South Sudanese community at home and across the diaspora. The show is part of our youth evangelism &amp; discipleship calling — follow the page to be notified when it goes live, and <a href="/watch-live.qmd" style="color: #0B1F3B; font-weight: 500;">watch past messages anytime</a>.
+        Founder Pastor Gai Bol Luom preaches live on the <a href="https://www.facebook.com/YetCompassion" target="_blank" rel="noopener noreferrer" style="color: #0B1F3B; font-weight: 500;">Y.E.T. Compassion Facebook page</a>, bringing the Gospel to the South Sudanese community at home and across the diaspora. The show is part of our youth evangelism &amp; discipleship calling — follow the page to be notified when it goes live, and <a href="/watch-live.qmd" style="color: #0B1F3B; font-weight: 500;">watch past messages anytime</a>.
       </p>
     </details>
   </div>
