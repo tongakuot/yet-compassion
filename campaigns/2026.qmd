@@ -363,12 +363,12 @@ toc: false
 
     <details style="background: #FFFFFF; border: 1px solid #E5E3DD; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 0.75rem;">
       <summary style="font-family: Inter, sans-serif; font-size: 1rem; font-weight: 600; color: #0B1F3B; cursor: pointer; list-style: none;">Can I designate my gift to a specific part of the build?</summary>
-      <p style="font-family: Inter, sans-serif; font-size: 0.93rem; color: #2B2B2B; line-height: 1.65; margin: 0.75rem 0 0;">Yes. Give through the Donate page, or email <a href="mailto:gai@yetcompassion.org" style="color: #0B1F3B; text-decoration: underline;">gai@yetcompassion.org</a> to designate a gift toward land, construction, or a later phase such as furnishing and books.</p>
+      <p style="font-family: Inter, sans-serif; font-size: 0.93rem; color: #2B2B2B; line-height: 1.65; margin: 0.75rem 0 0;">Yes. Give through the Donate page, or email <a href="mailto:info@yetcompassion.org" style="color: #0B1F3B; text-decoration: underline;">info@yetcompassion.org</a> to designate a gift toward land, construction, or a later phase such as furnishing and books.</p>
     </details>
 
     <details style="background: #FFFFFF; border: 1px solid #E5E3DD; border-radius: 10px; padding: 1rem 1.25rem; margin-bottom: 0.75rem;">
       <summary style="font-family: Inter, sans-serif; font-size: 1rem; font-weight: 600; color: #0B1F3B; cursor: pointer; list-style: none;">Do you accept stock, crypto, or employer matches?</summary>
-      <p style="font-family: Inter, sans-serif; font-size: 0.93rem; color: #2B2B2B; line-height: 1.65; margin: 0.75rem 0 0;">Yes — for stock transfers, employer-match coordination, or major gifts, please email <a href="mailto:gai@yetcompassion.org" style="color: #0B1F3B; text-decoration: underline;">gai@yetcompassion.org</a> and we'll walk you through it personally.</p>
+      <p style="font-family: Inter, sans-serif; font-size: 0.93rem; color: #2B2B2B; line-height: 1.65; margin: 0.75rem 0 0;">Yes — for stock transfers, employer-match coordination, or major gifts, please email <a href="mailto:info@yetcompassion.org" style="color: #0B1F3B; text-decoration: underline;">info@yetcompassion.org</a> and we'll walk you through it personally.</p>
     </details>
 
     <details style="background: #FFFFFF; border: 1px solid #E5E3DD; border-radius: 10px; padding: 1rem 1.25rem;">

@@ -1,4 +1,4 @@
-# Y.E.T. Compassion website — task runner
+ # Y.E.T. Compassion website — task runner
 # Usage: `just` lists recipes; `just <recipe>` runs one.
 
 # Default: list available recipes
