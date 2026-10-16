@@ -238,36 +238,32 @@ toc: false
   const pctEl    = document.getElementById('home-campaign-pct');
   const donorsEl = document.getElementById('home-campaign-donors');
   if (!raisedEl) return;
-  // ── TEMPORARY manual total ────────────────────────────────
-  // Shown until the Stripe progress link is updated. To restore the live
-  // Stripe total, set TEMP_RAISED to null (or delete this block).
-  const TEMP_RAISED = 242.45;
-  if (TEMP_RAISED !== null) {
-    const exactPct = (TEMP_RAISED / GOAL) * 100;
-    raisedEl.textContent = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', minimumFractionDigits: 2, maximumFractionDigits: 2 }).format(TEMP_RAISED);
-    barEl.style.width = Math.max(exactPct, 1) + '%'; // 1% floor keeps a small sliver visible
-    pctEl.textContent = exactPct.toFixed(2) + '% funded';
-    donorsEl.textContent = '';
-    if (barEl.parentElement) barEl.parentElement.setAttribute('aria-valuenow', String(TEMP_RAISED));
-    return;
+  const fmtCents = new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', minimumFractionDigits: 2, maximumFractionDigits: 2 });
+
+  function applyProgress(raised, donors) {
+    const exactPct = Math.min(100, (raised / GOAL) * 100);
+    raisedEl.textContent = raised < 10000 ? fmtCents.format(raised) : fmt.format(raised);
+    barEl.style.width = (raised > 0 ? Math.max(exactPct, 1) : 0) + '%'; // 1% floor keeps a small sliver visible
+    pctEl.textContent = (exactPct < 10 ? exactPct.toFixed(2) : Math.round(exactPct)) + '% funded';
+    donorsEl.textContent = donors > 0 ? donors + (donors === 1 ? ' donor' : ' donors') : '';
+    if (barEl.parentElement) barEl.parentElement.setAttribute('aria-valuenow', String(raised));
   }
+
+  // ── Fallback total ────────────────────────────────────────
+  // Shown instantly, and kept if the live Stripe total can't be loaded.
+  // Keep in step with FALLBACK_RAISED in campaigns/2026.qmd.
+  const FALLBACK_RAISED = 242.45;
+  applyProgress(FALLBACK_RAISED, 0);
+
   fetch('/.netlify/functions/campaign-progress?campaign=2026', { headers: { 'Accept': 'application/json' } })
-    .then(function (r) { if (!r.ok) throw new Error('unavailable'); return r.json(); })
+    .then(function (r) { return r.ok ? r.json() : Promise.reject(r.status); })
     .then(function (data) {
+      if (data.error) return Promise.reject(data.error);
       const raised = Number(data.raised) || 0;
-      const donors = Number(data.donors) || 0;
-      const pct = Math.min(100, Math.round((raised / GOAL) * 100));
-      raisedEl.textContent = fmt.format(raised);
-      barEl.style.width = pct + '%';
-      pctEl.textContent = pct + '% funded';
-      donorsEl.textContent = donors ? donors + ' donors' : '';
-      const track = barEl.parentElement;
-      if (track) track.setAttribute('aria-valuenow', String(raised));
+      if (raised < FALLBACK_RAISED) return; // a real total only goes up
+      applyProgress(raised, Number(data.donors) || 0);
     })
-    .catch(function () {
-      pctEl.textContent = 'Live total loading…';
-      donorsEl.textContent = '';
-    });
+    .catch(function () { /* keep the fallback total */ });
 })();
 </script>
 ```
